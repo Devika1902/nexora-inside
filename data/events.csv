@@ -1,651 +1,651 @@
-﻿id,name,type,date,time,location,organizer,department,registered,capacity,status,budget_eur
-EVT-0001,Product Demo Hour,Webinar,2026-01-07,09:30,Frankfurt · Studio 2,Sofia Neumann,Engineering,107,120,Open,800
-EVT-0002,People & Culture Coffee,Workshop,2026-01-09,09:30,Amsterdam · Online,Noah Fischer,Product,34,180,Planning,10800
-EVT-0003,Engineering Open House,Social,2026-01-11,13:30,Frankfurt · Studio 2,Mila Wolf,Finance,144,250,Open,9000
-EVT-0004,New Starter Welcome,Webinar,2026-01-13,11:00,Remote — Germany · Studio 2,Elias Hoffmann,Operations,27,30,Open,9200
-EVT-0005,Sustainability Forum,Career fair,2026-01-15,15:00,Frankfurt · Online,Zara Koch,Sales,128,180,Completed,5300
-EVT-0006,Customer Stories Live,Social,2026-01-17,11:00,Cologne · Online,Luca Weber,Marketing,35,80,Open,9400
-EVT-0007,Learning Lab,Town hall,2026-01-19,15:00,Munich · Online,Freya Richter,Customer Success,14,30,Planning,10400
-EVT-0008,Summer Social,All hands,2026-01-21,15:00,Berlin · Meeting room A,Theo Schmidt,IT & Security,21,30,Full,8000
-EVT-0009,Leadership Q&A,Career fair,2026-01-23,11:00,Amsterdam · Studio 2,Nina Schulz,Sustainability,15,60,Open,8100
-EVT-0010,Community Day,Social,2026-01-25,13:30,Frankfurt · Auditorium,Ava Bauer,People & Culture,41,60,Completed,10300
-EVT-0011,Wellbeing Workshop,All hands,2026-01-27,13:30,Hamburg · Studio 2,Emil Meyer,Engineering,43,120,Open,5100
-EVT-0012,Nexora Connect,Career fair,2026-01-29,15:00,Remote — Germany · Studio 2,Maya Keller,Product,65,180,Full,5100
-EVT-0013,Product Demo Hour,All hands,2026-01-31,13:30,Berlin · Meeting room A,Felix Becker,Finance,72,120,Open,4900
-EVT-0014,People & Culture Coffee,Career fair,2026-02-02,15:00,Munich · Online,Ines Braun,Operations,28,45,Full,9500
-EVT-0015,Engineering Open House,All hands,2026-02-04,17:30,Hamburg · Meeting room A,David Wagner,Sales,162,180,Full,500
-EVT-0016,New Starter Welcome,Social,2026-02-06,11:00,Stockholm · Studio 2,Clara Neumann,Marketing,34,60,Open,5500
-EVT-0017,Sustainability Forum,All hands,2026-02-08,09:30,Stockholm · Online,Amira Fischer,Customer Success,72,180,Completed,2700
-EVT-0018,Customer Stories Live,Career fair,2026-02-10,13:30,Berlin · Auditorium,Jonas Wolf,IT & Security,104,120,Full,11200
-EVT-0019,Learning Lab,Career fair,2026-02-12,13:30,Cologne · Auditorium,Lea Hoffmann,Sustainability,50,80,Completed,11800
-EVT-0020,Summer Social,Social,2026-02-14,09:30,Frankfurt · Online,Mateo Koch,People & Culture,45,45,Full,2600
-EVT-0021,Leadership Q&A,All hands,2026-02-16,15:00,Cologne · Studio 2,Sofia Weber,Engineering,49,60,Planning,6300
-EVT-0022,Community Day,Career fair,2026-02-18,11:00,Berlin · Meeting room A,Noah Richter,Product,14,120,Completed,3900
-EVT-0023,Wellbeing Workshop,All hands,2026-02-20,17:30,Hamburg · Online,Mila Schmidt,Finance,29,60,Completed,1500
-EVT-0024,Nexora Connect,Career fair,2026-02-22,13:30,Munich · Studio 2,Elias Schulz,Operations,119,180,Open,10400
-EVT-0025,Product Demo Hour,Career fair,2026-02-24,17:30,Amsterdam · Auditorium,Zara Bauer,Sales,43,45,Planning,8100
-EVT-0026,People & Culture Coffee,Workshop,2026-02-26,09:30,Hamburg · Studio 2,Luca Meyer,Marketing,98,180,Planning,5100
-EVT-0027,Engineering Open House,Social,2026-02-28,15:00,Frankfurt · Auditorium,Freya Keller,Customer Success,59,60,Full,7500
-EVT-0028,New Starter Welcome,Workshop,2026-03-02,09:30,Berlin · Auditorium,Theo Becker,IT & Security,25,45,Full,10300
-EVT-0029,Sustainability Forum,Town hall,2026-03-04,17:30,Hamburg · Online,Nina Braun,Sustainability,15,80,Planning,3800
-EVT-0030,Customer Stories Live,Career fair,2026-03-06,13:30,Stockholm · Studio 2,Ava Wagner,People & Culture,72,80,Completed,2100
-EVT-0031,Learning Lab,Workshop,2026-03-08,17:30,Berlin · Auditorium,Emil Neumann,Engineering,11,30,Open,7600
-EVT-0032,Summer Social,Workshop,2026-03-10,13:30,Frankfurt · Studio 2,Maya Fischer,Product,245,250,Completed,7600
-EVT-0033,Leadership Q&A,Town hall,2026-03-12,17:30,Cologne · Studio 2,Felix Wolf,Finance,43,80,Planning,12100
-EVT-0034,Community Day,Career fair,2026-03-14,13:30,Berlin · Auditorium,Ines Hoffmann,Operations,37,120,Completed,6700
-EVT-0035,Wellbeing Workshop,Webinar,2026-03-16,15:00,Stockholm · Online,David Koch,Sales,200,250,Open,2900
-EVT-0036,Nexora Connect,Career fair,2026-03-18,15:00,Cologne · Studio 2,Clara Weber,Marketing,110,120,Open,6100
-EVT-0037,Product Demo Hour,Webinar,2026-03-20,13:30,Amsterdam · Online,Amira Richter,Customer Success,66,120,Completed,8500
-EVT-0038,People & Culture Coffee,Career fair,2026-03-22,13:30,Remote — Germany · Meeting room A,Jonas Schmidt,IT & Security,75,80,Full,10300
-EVT-0039,Engineering Open House,Webinar,2026-03-24,11:00,Cologne · Meeting room A,Lea Schulz,Sustainability,17,45,Open,6800
-EVT-0040,New Starter Welcome,Career fair,2026-03-26,13:30,Stockholm · Online,Mateo Bauer,People & Culture,52,60,Open,4100
-EVT-0041,Sustainability Forum,Town hall,2026-03-28,11:00,Amsterdam · Online,Sofia Meyer,Engineering,76,80,Completed,12400
-EVT-0042,Customer Stories Live,Workshop,2026-03-30,13:30,Berlin · Meeting room A,Noah Keller,Product,30,45,Completed,7200
-EVT-0043,Learning Lab,Town hall,2026-04-01,09:30,Cologne · Online,Mila Becker,Finance,22,250,Planning,2200
-EVT-0044,Summer Social,Career fair,2026-04-03,17:30,Berlin · Auditorium,Elias Braun,Operations,58,80,Open,5800
-EVT-0045,Leadership Q&A,All hands,2026-04-05,15:00,Frankfurt · Meeting room A,Zara Wagner,Sales,10,180,Completed,5200
-EVT-0046,Community Day,Town hall,2026-04-07,13:30,Remote — Germany · Auditorium,Luca Neumann,Marketing,8,180,Planning,2200
-EVT-0047,Wellbeing Workshop,All hands,2026-04-09,17:30,Amsterdam · Online,Freya Fischer,Customer Success,27,30,Planning,5400
-EVT-0048,Nexora Connect,Career fair,2026-04-11,11:00,Cologne · Studio 2,Theo Wolf,IT & Security,28,180,Completed,8700
-EVT-0049,Product Demo Hour,Social,2026-04-13,13:30,Berlin · Online,Nina Hoffmann,Sustainability,31,45,Planning,4400
-EVT-0050,People & Culture Coffee,Workshop,2026-04-15,13:30,Berlin · Online,Ava Koch,People & Culture,62,80,Planning,7000
-EVT-0051,Engineering Open House,All hands,2026-04-17,09:30,Hamburg · Auditorium,Emil Weber,Engineering,28,30,Full,7200
-EVT-0052,New Starter Welcome,Webinar,2026-04-19,13:30,Berlin · Meeting room A,Maya Richter,Product,232,250,Completed,6900
-EVT-0053,Sustainability Forum,Career fair,2026-04-21,13:30,Berlin · Auditorium,Felix Schmidt,Finance,120,120,Full,6800
-EVT-0054,Customer Stories Live,All hands,2026-04-23,09:30,Berlin · Studio 2,Ines Schulz,Operations,43,45,Completed,6200
-EVT-0055,Learning Lab,Webinar,2026-04-25,09:30,Berlin · Online,David Bauer,Sales,57,60,Open,10100
-EVT-0056,Summer Social,Career fair,2026-04-27,11:00,Cologne · Auditorium,Clara Meyer,Marketing,45,80,Open,3200
-EVT-0057,Leadership Q&A,Webinar,2026-04-29,17:30,Munich · Online,Amira Keller,Customer Success,15,120,Open,11500
-EVT-0058,Community Day,Webinar,2026-05-01,17:30,Remote — Germany · Meeting room A,Jonas Becker,IT & Security,149,250,Completed,400
-EVT-0059,Wellbeing Workshop,Career fair,2026-05-03,15:00,Hamburg · Studio 2,Lea Braun,Sustainability,95,180,Completed,5400
-EVT-0060,Nexora Connect,Career fair,2026-05-05,15:00,Munich · Online,Mateo Wagner,People & Culture,42,45,Completed,1100
-EVT-0061,Product Demo Hour,All hands,2026-05-07,11:00,Berlin · Studio 2,Sofia Neumann,Engineering,13,45,Planning,800
-EVT-0062,People & Culture Coffee,Career fair,2026-05-09,17:30,Hamburg · Meeting room A,Noah Fischer,Product,12,45,Planning,3400
-EVT-0063,Engineering Open House,Workshop,2026-05-11,09:30,Frankfurt · Meeting room A,Mila Wolf,Finance,13,250,Completed,500
-EVT-0064,New Starter Welcome,Social,2026-05-13,17:30,Hamburg · Auditorium,Elias Hoffmann,Operations,26,45,Planning,8000
-EVT-0065,Sustainability Forum,Workshop,2026-05-15,13:30,Hamburg · Auditorium,Zara Koch,Sales,32,45,Completed,1500
-EVT-0066,Customer Stories Live,Career fair,2026-05-17,11:00,Cologne · Studio 2,Luca Weber,Marketing,20,45,Full,1800
-EVT-0067,Learning Lab,Career fair,2026-05-19,09:30,Amsterdam · Studio 2,Freya Richter,Customer Success,63,80,Completed,2400
-EVT-0068,Summer Social,Workshop,2026-05-21,09:30,Cologne · Auditorium,Theo Schmidt,IT & Security,66,250,Planning,3200
-EVT-0069,Leadership Q&A,Town hall,2026-05-23,09:30,Hamburg · Meeting room A,Nina Schulz,Sustainability,40,45,Planning,10800
-EVT-0070,Community Day,All hands,2026-05-25,09:30,Frankfurt · Studio 2,Ava Bauer,People & Culture,82,180,Completed,1600
-EVT-0071,Wellbeing Workshop,Workshop,2026-05-27,11:00,Cologne · Studio 2,Emil Meyer,Engineering,42,250,Full,2100
-EVT-0072,Nexora Connect,Social,2026-05-29,09:30,Remote — Germany · Online,Maya Keller,Product,50,120,Planning,9900
-EVT-0073,Product Demo Hour,Career fair,2026-05-31,13:30,Amsterdam · Auditorium,Felix Becker,Finance,8,60,Full,11900
-EVT-0074,People & Culture Coffee,All hands,2026-06-02,15:00,Stockholm · Studio 2,Ines Braun,Operations,74,120,Completed,5900
-EVT-0075,Engineering Open House,Town hall,2026-06-04,17:30,Amsterdam · Auditorium,David Wagner,Sales,61,250,Planning,1900
-EVT-0076,New Starter Welcome,Career fair,2026-06-06,15:00,Frankfurt · Meeting room A,Clara Neumann,Marketing,11,120,Full,4200
-EVT-0077,Sustainability Forum,All hands,2026-06-08,11:00,Frankfurt · Auditorium,Amira Fischer,Customer Success,112,180,Open,11800
-EVT-0078,Customer Stories Live,Career fair,2026-06-10,11:00,Berlin · Auditorium,Jonas Wolf,IT & Security,49,80,Planning,2900
-EVT-0079,Learning Lab,Webinar,2026-06-12,09:30,Hamburg · Studio 2,Lea Hoffmann,Sustainability,26,60,Full,500
-EVT-0080,Summer Social,Career fair,2026-06-14,11:00,Berlin · Meeting room A,Mateo Koch,People & Culture,36,45,Open,5400
-EVT-0081,Leadership Q&A,All hands,2026-06-16,15:00,Amsterdam · Online,Sofia Weber,Engineering,23,30,Full,2100
-EVT-0082,Community Day,Webinar,2026-06-18,17:30,Cologne · Online,Noah Richter,Product,38,120,Open,9300
-EVT-0083,Wellbeing Workshop,Webinar,2026-06-20,11:00,Amsterdam · Studio 2,Mila Schmidt,Finance,24,80,Open,9600
-EVT-0084,Nexora Connect,Town hall,2026-06-22,09:30,Frankfurt · Online,Elias Schulz,Operations,9,45,Planning,10400
-EVT-0085,Product Demo Hour,Social,2026-06-24,09:30,Munich · Meeting room A,Zara Bauer,Sales,110,250,Planning,3900
-EVT-0086,People & Culture Coffee,All hands,2026-06-26,13:30,Stockholm · Online,Luca Meyer,Marketing,33,80,Open,2000
-EVT-0087,Engineering Open House,All hands,2026-06-28,09:30,Berlin · Studio 2,Freya Keller,Customer Success,40,120,Completed,4900
-EVT-0088,New Starter Welcome,Town hall,2026-06-30,11:00,Cologne · Auditorium,Theo Becker,IT & Security,37,45,Open,12500
-EVT-0089,Sustainability Forum,Workshop,2026-07-02,09:30,Amsterdam · Auditorium,Nina Braun,Sustainability,43,45,Completed,8200
-EVT-0090,Customer Stories Live,Career fair,2026-07-04,11:00,Cologne · Studio 2,Ava Wagner,People & Culture,11,45,Completed,2700
-EVT-0091,Learning Lab,All hands,2026-07-06,13:30,Berlin · Meeting room A,Emil Neumann,Engineering,52,250,Completed,2200
-EVT-0092,Summer Social,Career fair,2026-07-08,09:30,Remote — Germany · Studio 2,Maya Fischer,Product,8,120,Open,1800
-EVT-0093,Leadership Q&A,Town hall,2026-07-10,11:00,Stockholm · Online,Felix Wolf,Finance,54,250,Open,11300
-EVT-0094,Community Day,Workshop,2026-07-12,17:30,Hamburg · Online,Ines Hoffmann,Operations,36,60,Completed,10100
-EVT-0095,Wellbeing Workshop,Career fair,2026-07-14,13:30,Hamburg · Meeting room A,David Koch,Sales,98,120,Open,8300
-EVT-0096,Nexora Connect,Town hall,2026-07-16,09:30,Remote — Germany · Auditorium,Clara Weber,Marketing,10,30,Planning,9800
-EVT-0097,Product Demo Hour,Career fair,2026-07-18,09:30,Amsterdam · Studio 2,Amira Richter,Customer Success,26,80,Open,11100
-EVT-0098,People & Culture Coffee,Career fair,2026-07-20,15:00,Amsterdam · Online,Jonas Schmidt,IT & Security,42,45,Full,4400
-EVT-0099,Engineering Open House,Workshop,2026-07-22,09:30,Cologne · Meeting room A,Lea Schulz,Sustainability,59,180,Completed,8900
-EVT-0100,New Starter Welcome,Webinar,2026-07-24,15:00,Munich · Auditorium,Mateo Bauer,People & Culture,23,80,Open,7100
-EVT-0101,Sustainability Forum,All hands,2026-07-26,13:30,Frankfurt · Auditorium,Sofia Meyer,Engineering,70,120,Full,2200
-EVT-0102,Customer Stories Live,Career fair,2026-07-28,09:30,Frankfurt · Auditorium,Noah Keller,Product,26,45,Planning,9000
-EVT-0103,Learning Lab,Webinar,2026-07-30,11:00,Stockholm · Auditorium,Mila Becker,Finance,9,120,Open,3800
-EVT-0104,Summer Social,Social,2026-08-01,11:00,Berlin · Auditorium,Elias Braun,Operations,54,60,Open,7800
-EVT-0105,Leadership Q&A,All hands,2026-08-03,13:30,Frankfurt · Studio 2,Zara Wagner,Sales,9,30,Completed,3700
-EVT-0106,Community Day,Town hall,2026-08-05,15:00,Hamburg · Studio 2,Luca Neumann,Marketing,14,45,Completed,4300
-EVT-0107,Wellbeing Workshop,Town hall,2026-08-07,11:00,Hamburg · Online,Freya Fischer,Customer Success,43,180,Full,7900
-EVT-0108,Nexora Connect,Social,2026-08-09,09:30,Amsterdam · Meeting room A,Theo Wolf,IT & Security,42,60,Completed,400
-EVT-0109,Product Demo Hour,Social,2026-08-11,11:00,Stockholm · Auditorium,Nina Hoffmann,Sustainability,134,180,Open,10100
-EVT-0110,People & Culture Coffee,Town hall,2026-08-13,09:30,Berlin · Studio 2,Ava Koch,People & Culture,10,180,Full,4400
-EVT-0111,Engineering Open House,Career fair,2026-08-15,13:30,Remote — Germany · Auditorium,Emil Weber,Engineering,8,30,Planning,10500
-EVT-0112,New Starter Welcome,Social,2026-08-17,11:00,Frankfurt · Studio 2,Maya Richter,Product,55,80,Full,6200
-EVT-0113,Sustainability Forum,Webinar,2026-08-19,13:30,Hamburg · Online,Felix Schmidt,Finance,80,120,Full,3000
-EVT-0114,Customer Stories Live,All hands,2026-08-21,17:30,Amsterdam · Online,Ines Schulz,Operations,35,45,Completed,12100
-EVT-0115,Learning Lab,Career fair,2026-08-23,09:30,Cologne · Meeting room A,David Bauer,Sales,201,250,Full,4800
-EVT-0116,Summer Social,All hands,2026-08-25,11:00,Amsterdam · Meeting room A,Clara Meyer,Marketing,30,30,Full,3800
-EVT-0117,Leadership Q&A,Webinar,2026-08-27,09:30,Amsterdam · Studio 2,Amira Keller,Customer Success,14,180,Planning,12000
-EVT-0118,Community Day,Town hall,2026-08-29,13:30,Cologne · Auditorium,Jonas Becker,IT & Security,13,60,Completed,5600
-EVT-0119,Wellbeing Workshop,All hands,2026-08-31,09:30,Stockholm · Studio 2,Lea Braun,Sustainability,80,250,Open,6600
-EVT-0120,Nexora Connect,Career fair,2026-09-02,11:00,Remote — Germany · Auditorium,Mateo Wagner,People & Culture,8,45,Open,2900
-EVT-0121,Product Demo Hour,Workshop,2026-09-04,09:30,Stockholm · Auditorium,Sofia Neumann,Engineering,45,45,Completed,3000
-EVT-0122,People & Culture Coffee,Webinar,2026-09-06,11:00,Berlin · Meeting room A,Noah Fischer,Product,17,30,Open,3000
-EVT-0123,Engineering Open House,Social,2026-09-08,09:30,Cologne · Studio 2,Mila Wolf,Finance,103,120,Completed,2800
-EVT-0124,New Starter Welcome,All hands,2026-09-10,11:00,Frankfurt · Meeting room A,Elias Hoffmann,Operations,21,30,Completed,7600
-EVT-0125,Sustainability Forum,All hands,2026-09-12,17:30,Amsterdam · Online,Zara Koch,Sales,27,30,Open,6600
-EVT-0126,Customer Stories Live,Workshop,2026-09-14,13:30,Hamburg · Auditorium,Luca Weber,Marketing,78,250,Completed,500
-EVT-0127,Learning Lab,Social,2026-09-16,13:30,Munich · Meeting room A,Freya Richter,Customer Success,10,30,Open,6400
-EVT-0128,Summer Social,All hands,2026-09-18,15:00,Amsterdam · Meeting room A,Theo Schmidt,IT & Security,26,60,Planning,10700
-EVT-0129,Leadership Q&A,Workshop,2026-09-20,13:30,Berlin · Meeting room A,Nina Schulz,Sustainability,36,60,Open,11500
-EVT-0130,Community Day,Social,2026-09-22,11:00,Amsterdam · Online,Ava Bauer,People & Culture,125,250,Full,10400
-EVT-0131,Wellbeing Workshop,Career fair,2026-09-24,15:00,Frankfurt · Auditorium,Emil Meyer,Engineering,22,250,Planning,1900
-EVT-0132,Nexora Connect,All hands,2026-09-26,17:30,Amsterdam · Studio 2,Maya Keller,Product,52,60,Planning,5300
-EVT-0133,Product Demo Hour,Webinar,2026-09-28,15:00,Amsterdam · Studio 2,Felix Becker,Finance,27,45,Open,6700
-EVT-0134,People & Culture Coffee,Social,2026-09-30,15:00,Amsterdam · Online,Ines Braun,Operations,15,80,Completed,7700
-EVT-0135,Engineering Open House,Social,2026-10-02,09:30,Cologne · Studio 2,David Wagner,Sales,65,120,Open,2200
-EVT-0136,New Starter Welcome,All hands,2026-10-04,13:30,Remote — Germany · Meeting room A,Clara Neumann,Marketing,37,45,Full,9900
-EVT-0137,Sustainability Forum,All hands,2026-10-06,13:30,Berlin · Auditorium,Amira Fischer,Customer Success,27,60,Open,11600
-EVT-0138,Customer Stories Live,Town hall,2026-10-08,15:00,Hamburg · Meeting room A,Jonas Wolf,IT & Security,42,80,Open,9300
-EVT-0139,Learning Lab,All hands,2026-10-10,09:30,Frankfurt · Online,Lea Hoffmann,Sustainability,93,120,Planning,4500
-EVT-0140,Summer Social,Town hall,2026-10-12,09:30,Cologne · Online,Mateo Koch,People & Culture,87,120,Full,4300
-EVT-0141,Leadership Q&A,Career fair,2026-10-14,17:30,Frankfurt · Online,Sofia Weber,Engineering,110,180,Completed,8400
-EVT-0142,Community Day,Webinar,2026-10-16,17:30,Munich · Online,Noah Richter,Product,10,60,Full,5800
-EVT-0143,Wellbeing Workshop,Social,2026-10-18,15:00,Stockholm · Meeting room A,Mila Schmidt,Finance,27,30,Open,10100
-EVT-0144,Nexora Connect,Town hall,2026-10-20,13:30,Munich · Auditorium,Elias Schulz,Operations,117,120,Full,9000
-EVT-0145,Product Demo Hour,Social,2026-10-22,11:00,Cologne · Auditorium,Zara Bauer,Sales,19,60,Open,11500
-EVT-0146,People & Culture Coffee,Career fair,2026-10-24,13:30,Amsterdam · Studio 2,Luca Meyer,Marketing,29,60,Completed,5200
-EVT-0147,Engineering Open House,Career fair,2026-10-26,15:00,Munich · Online,Freya Keller,Customer Success,62,80,Open,8300
-EVT-0148,New Starter Welcome,Town hall,2026-10-28,11:00,Amsterdam · Studio 2,Theo Becker,IT & Security,44,45,Planning,12100
-EVT-0149,Sustainability Forum,Workshop,2026-10-30,09:30,Amsterdam · Auditorium,Nina Braun,Sustainability,9,60,Open,1300
-EVT-0150,Customer Stories Live,All hands,2026-11-01,15:00,Cologne · Meeting room A,Ava Wagner,People & Culture,90,120,Open,2100
-EVT-0151,Learning Lab,All hands,2026-11-03,15:00,Stockholm · Online,Emil Neumann,Engineering,140,180,Open,9300
-EVT-0152,Summer Social,Social,2026-11-05,11:00,Munich · Meeting room A,Maya Fischer,Product,43,120,Completed,5500
-EVT-0153,Leadership Q&A,All hands,2026-11-07,13:30,Hamburg · Auditorium,Felix Wolf,Finance,59,60,Full,5500
-EVT-0154,Community Day,All hands,2026-11-09,09:30,Hamburg · Online,Ines Hoffmann,Operations,15,30,Open,4000
-EVT-0155,Wellbeing Workshop,Town hall,2026-11-11,13:30,Amsterdam · Auditorium,David Koch,Sales,38,120,Open,8300
-EVT-0156,Nexora Connect,Social,2026-11-13,13:30,Amsterdam · Studio 2,Clara Weber,Marketing,89,250,Open,3800
-EVT-0157,Product Demo Hour,Social,2026-11-15,13:30,Amsterdam · Meeting room A,Amira Richter,Customer Success,11,30,Completed,3000
-EVT-0158,People & Culture Coffee,Webinar,2026-11-17,15:00,Frankfurt · Studio 2,Jonas Schmidt,IT & Security,64,80,Open,11400
-EVT-0159,Engineering Open House,All hands,2026-11-19,17:30,Munich · Meeting room A,Lea Schulz,Sustainability,43,60,Completed,5500
-EVT-0160,New Starter Welcome,Career fair,2026-11-21,17:30,Frankfurt · Online,Mateo Bauer,People & Culture,46,250,Completed,12500
-EVT-0161,Sustainability Forum,Social,2026-11-23,09:30,Cologne · Online,Sofia Meyer,Engineering,60,60,Planning,500
-EVT-0162,Customer Stories Live,All hands,2026-11-25,15:00,Stockholm · Meeting room A,Noah Keller,Product,74,120,Completed,4800
-EVT-0163,Learning Lab,Career fair,2026-11-27,17:30,Frankfurt · Online,Mila Becker,Finance,43,250,Open,2600
-EVT-0164,Summer Social,Workshop,2026-11-29,17:30,Cologne · Auditorium,Elias Braun,Operations,68,250,Open,4100
-EVT-0165,Leadership Q&A,Career fair,2026-12-01,13:30,Hamburg · Auditorium,Zara Wagner,Sales,10,30,Open,10800
-EVT-0166,Community Day,All hands,2026-12-03,15:00,Berlin · Auditorium,Luca Neumann,Marketing,242,250,Open,11900
-EVT-0167,Wellbeing Workshop,Workshop,2026-12-05,11:00,Remote — Germany · Online,Freya Fischer,Customer Success,35,45,Open,6600
-EVT-0168,Nexora Connect,Town hall,2026-12-07,17:30,Stockholm · Online,Theo Wolf,IT & Security,97,120,Full,11800
-EVT-0169,Product Demo Hour,Town hall,2026-12-09,17:30,Amsterdam · Online,Nina Hoffmann,Sustainability,110,180,Open,11300
-EVT-0170,People & Culture Coffee,Webinar,2026-12-11,11:00,Hamburg · Auditorium,Ava Koch,People & Culture,23,80,Completed,7800
-EVT-0171,Engineering Open House,Town hall,2026-12-13,11:00,Remote — Germany · Online,Emil Weber,Engineering,29,30,Completed,3700
-EVT-0172,New Starter Welcome,Workshop,2026-12-15,09:30,Hamburg · Meeting room A,Maya Richter,Product,17,45,Planning,2600
-EVT-0173,Sustainability Forum,Career fair,2026-12-17,17:30,Berlin · Studio 2,Felix Schmidt,Finance,218,250,Full,8300
-EVT-0174,Customer Stories Live,Town hall,2026-12-19,17:30,Amsterdam · Studio 2,Ines Schulz,Operations,12,45,Completed,5100
-EVT-0175,Learning Lab,Town hall,2026-12-21,17:30,Berlin · Auditorium,David Bauer,Sales,110,180,Completed,9000
-EVT-0176,Summer Social,Career fair,2026-12-23,11:00,Berlin · Online,Clara Meyer,Marketing,48,80,Open,4300
-EVT-0177,Leadership Q&A,Workshop,2026-12-25,11:00,Berlin · Studio 2,Amira Keller,Customer Success,50,60,Completed,10300
-EVT-0178,Community Day,Career fair,2026-12-27,17:30,Munich · Meeting room A,Jonas Becker,IT & Security,14,30,Full,5300
-EVT-0179,Wellbeing Workshop,All hands,2026-12-29,13:30,Frankfurt · Meeting room A,Lea Braun,Sustainability,8,80,Open,11800
-EVT-0180,Nexora Connect,Workshop,2026-01-05,17:30,Frankfurt · Online,Mateo Wagner,People & Culture,137,180,Completed,7100
-EVT-0181,Product Demo Hour,Workshop,2026-01-07,17:30,Stockholm · Auditorium,Sofia Neumann,Engineering,132,250,Open,7600
-EVT-0182,People & Culture Coffee,Social,2026-01-09,13:30,Hamburg · Meeting room A,Noah Fischer,Product,16,120,Completed,8200
-EVT-0183,Engineering Open House,Workshop,2026-01-11,09:30,Stockholm · Meeting room A,Mila Wolf,Finance,28,30,Open,8400
-EVT-0184,New Starter Welcome,Workshop,2026-01-13,17:30,Frankfurt · Studio 2,Elias Hoffmann,Operations,56,60,Full,11600
-EVT-0185,Sustainability Forum,Town hall,2026-01-15,15:00,Amsterdam · Online,Zara Koch,Sales,8,45,Planning,9500
-EVT-0186,Customer Stories Live,Workshop,2026-01-17,17:30,Frankfurt · Auditorium,Luca Weber,Marketing,24,80,Open,7000
-EVT-0187,Learning Lab,Workshop,2026-01-19,09:30,Stockholm · Auditorium,Freya Richter,Customer Success,49,60,Full,10400
-EVT-0188,Summer Social,Webinar,2026-01-21,17:30,Munich · Studio 2,Theo Schmidt,IT & Security,9,45,Full,9200
-EVT-0189,Leadership Q&A,Town hall,2026-01-23,15:00,Amsterdam · Studio 2,Nina Schulz,Sustainability,204,250,Planning,1600
-EVT-0190,Community Day,Town hall,2026-01-25,17:30,Frankfurt · Studio 2,Ava Bauer,People & Culture,51,120,Full,700
-EVT-0191,Wellbeing Workshop,Career fair,2026-01-27,15:00,Frankfurt · Online,Emil Meyer,Engineering,17,30,Planning,9600
-EVT-0192,Nexora Connect,All hands,2026-01-29,09:30,Munich · Studio 2,Maya Keller,Product,85,250,Planning,2000
-EVT-0193,Product Demo Hour,Town hall,2026-01-31,13:30,Munich · Auditorium,Felix Becker,Finance,39,45,Full,1300
-EVT-0194,People & Culture Coffee,Workshop,2026-02-02,11:00,Berlin · Auditorium,Ines Braun,Operations,95,180,Planning,5000
-EVT-0195,Engineering Open House,Social,2026-02-04,17:30,Hamburg · Auditorium,David Wagner,Sales,16,45,Open,8400
-EVT-0196,New Starter Welcome,Webinar,2026-02-06,17:30,Berlin · Meeting room A,Clara Neumann,Marketing,88,180,Open,1900
-EVT-0197,Sustainability Forum,All hands,2026-02-08,11:00,Frankfurt · Studio 2,Amira Fischer,Customer Success,27,80,Planning,2400
-EVT-0198,Customer Stories Live,Career fair,2026-02-10,13:30,Hamburg · Online,Jonas Wolf,IT & Security,149,180,Open,4800
-EVT-0199,Learning Lab,All hands,2026-02-12,11:00,Munich · Auditorium,Lea Hoffmann,Sustainability,143,250,Planning,7500
-EVT-0200,Summer Social,Webinar,2026-02-14,09:30,Hamburg · Studio 2,Mateo Koch,People & Culture,20,30,Open,2600
-EVT-0201,Leadership Q&A,Social,2026-02-16,09:30,Amsterdam · Auditorium,Sofia Weber,Engineering,48,60,Completed,3300
-EVT-0202,Community Day,Town hall,2026-02-18,09:30,Munich · Auditorium,Noah Richter,Product,41,180,Completed,11500
-EVT-0203,Wellbeing Workshop,Career fair,2026-02-20,09:30,Amsterdam · Auditorium,Mila Schmidt,Finance,81,180,Completed,9300
-EVT-0204,Nexora Connect,Social,2026-02-22,17:30,Hamburg · Meeting room A,Elias Schulz,Operations,152,250,Planning,5200
-EVT-0205,Product Demo Hour,Webinar,2026-02-24,15:00,Hamburg · Online,Zara Bauer,Sales,34,80,Completed,7500
-EVT-0206,People & Culture Coffee,Webinar,2026-02-26,13:30,Cologne · Online,Luca Meyer,Marketing,107,180,Completed,11200
-EVT-0207,Engineering Open House,Social,2026-02-28,15:00,Amsterdam · Auditorium,Freya Keller,Customer Success,37,250,Completed,7000
-EVT-0208,New Starter Welcome,All hands,2026-03-02,15:00,Cologne · Meeting room A,Theo Becker,IT & Security,149,180,Completed,6800
-EVT-0209,Sustainability Forum,All hands,2026-03-04,11:00,Munich · Auditorium,Nina Braun,Sustainability,92,250,Open,9900
-EVT-0210,Customer Stories Live,All hands,2026-03-06,09:30,Hamburg · Auditorium,Ava Wagner,People & Culture,20,30,Open,2600
-EVT-0211,Learning Lab,Town hall,2026-03-08,17:30,Hamburg · Auditorium,Emil Neumann,Engineering,26,60,Completed,1700
-EVT-0212,Summer Social,Workshop,2026-03-10,11:00,Amsterdam · Studio 2,Maya Fischer,Product,59,60,Open,1300
-EVT-0213,Leadership Q&A,All hands,2026-03-12,13:30,Frankfurt · Studio 2,Felix Wolf,Finance,37,80,Full,6600
-EVT-0214,Community Day,Town hall,2026-03-14,13:30,Berlin · Online,Ines Hoffmann,Operations,84,120,Completed,4100
-EVT-0215,Wellbeing Workshop,All hands,2026-03-16,15:00,Frankfurt · Auditorium,David Koch,Sales,36,45,Open,11900
-EVT-0216,Nexora Connect,Career fair,2026-03-18,13:30,Cologne · Auditorium,Clara Weber,Marketing,102,120,Planning,800
-EVT-0217,Product Demo Hour,Workshop,2026-03-20,09:30,Munich · Meeting room A,Amira Richter,Customer Success,39,45,Open,6800
-EVT-0218,People & Culture Coffee,All hands,2026-03-22,11:00,Stockholm · Auditorium,Jonas Schmidt,IT & Security,47,60,Open,600
-EVT-0219,Engineering Open House,Webinar,2026-03-24,13:30,Amsterdam · Auditorium,Lea Schulz,Sustainability,23,80,Planning,6100
-EVT-0220,New Starter Welcome,Town hall,2026-03-26,09:30,Berlin · Meeting room A,Mateo Bauer,People & Culture,56,250,Open,2900
-EVT-0221,Sustainability Forum,All hands,2026-03-28,11:00,Frankfurt · Studio 2,Sofia Meyer,Engineering,14,45,Full,3700
-EVT-0222,Customer Stories Live,Webinar,2026-03-30,13:30,Remote — Germany · Auditorium,Noah Keller,Product,17,30,Planning,3000
-EVT-0223,Learning Lab,Social,2026-04-01,11:00,Stockholm · Auditorium,Mila Becker,Finance,15,120,Completed,5100
-EVT-0224,Summer Social,Career fair,2026-04-03,15:00,Amsterdam · Online,Elias Braun,Operations,188,250,Open,10100
-EVT-0225,Leadership Q&A,Social,2026-04-05,13:30,Hamburg · Auditorium,Zara Wagner,Sales,13,60,Completed,600
-EVT-0226,Community Day,Social,2026-04-07,13:30,Cologne · Studio 2,Luca Neumann,Marketing,22,45,Open,900
-EVT-0227,Wellbeing Workshop,Town hall,2026-04-09,13:30,Amsterdam · Studio 2,Freya Fischer,Customer Success,16,30,Open,2900
-EVT-0228,Nexora Connect,Social,2026-04-11,09:30,Stockholm · Online,Theo Wolf,IT & Security,128,180,Open,8000
-EVT-0229,Product Demo Hour,Town hall,2026-04-13,11:00,Hamburg · Online,Nina Hoffmann,Sustainability,25,30,Open,2200
-EVT-0230,People & Culture Coffee,All hands,2026-04-15,17:30,Remote — Germany · Meeting room A,Ava Koch,People & Culture,33,45,Open,10700
-EVT-0231,Engineering Open House,Social,2026-04-17,13:30,Hamburg · Auditorium,Emil Weber,Engineering,48,60,Full,5900
-EVT-0232,New Starter Welcome,Town hall,2026-04-19,11:00,Amsterdam · Online,Maya Richter,Product,35,45,Completed,2200
-EVT-0233,Sustainability Forum,Town hall,2026-04-21,13:30,Berlin · Studio 2,Felix Schmidt,Finance,29,60,Full,2600
-EVT-0234,Customer Stories Live,All hands,2026-04-23,17:30,Remote — Germany · Meeting room A,Ines Schulz,Operations,136,180,Completed,1000
-EVT-0235,Learning Lab,Social,2026-04-25,15:00,Stockholm · Auditorium,David Bauer,Sales,9,45,Completed,1300
-EVT-0236,Summer Social,Workshop,2026-04-27,17:30,Berlin · Studio 2,Clara Meyer,Marketing,175,250,Planning,6900
-EVT-0237,Leadership Q&A,Social,2026-04-29,11:00,Berlin · Auditorium,Amira Keller,Customer Success,187,250,Open,9100
-EVT-0238,Community Day,All hands,2026-05-01,11:00,Frankfurt · Auditorium,Jonas Becker,IT & Security,68,180,Completed,5500
-EVT-0239,Wellbeing Workshop,Social,2026-05-03,17:30,Stockholm · Meeting room A,Lea Braun,Sustainability,18,80,Completed,3500
-EVT-0240,Nexora Connect,Career fair,2026-05-05,15:00,Cologne · Studio 2,Mateo Wagner,People & Culture,23,80,Planning,400
-EVT-0241,Product Demo Hour,Social,2026-05-07,13:30,Berlin · Studio 2,Sofia Neumann,Engineering,95,120,Planning,12400
-EVT-0242,People & Culture Coffee,Career fair,2026-05-09,15:00,Stockholm · Studio 2,Noah Fischer,Product,31,60,Planning,11700
-EVT-0243,Engineering Open House,Social,2026-05-11,17:30,Remote — Germany · Online,Mila Wolf,Finance,94,120,Completed,8700
-EVT-0244,New Starter Welcome,Webinar,2026-05-13,11:00,Hamburg · Auditorium,Elias Hoffmann,Operations,80,250,Full,3100
-EVT-0245,Sustainability Forum,Town hall,2026-05-15,09:30,Hamburg · Studio 2,Zara Koch,Sales,63,180,Completed,6300
-EVT-0246,Customer Stories Live,All hands,2026-05-17,15:00,Cologne · Studio 2,Luca Weber,Marketing,167,180,Completed,9800
-EVT-0247,Learning Lab,Career fair,2026-05-19,11:00,Frankfurt · Auditorium,Freya Richter,Customer Success,171,180,Open,1700
-EVT-0248,Summer Social,Workshop,2026-05-21,15:00,Hamburg · Studio 2,Theo Schmidt,IT & Security,60,80,Planning,1300
-EVT-0249,Leadership Q&A,All hands,2026-05-23,13:30,Frankfurt · Studio 2,Nina Schulz,Sustainability,37,250,Completed,9700
-EVT-0250,Community Day,Town hall,2026-05-25,11:00,Hamburg · Auditorium,Ava Bauer,People & Culture,86,180,Open,7300
-EVT-0251,Wellbeing Workshop,Career fair,2026-05-27,15:00,Berlin · Auditorium,Emil Meyer,Engineering,76,80,Planning,8500
-EVT-0252,Nexora Connect,Career fair,2026-05-29,11:00,Berlin · Online,Maya Keller,Product,41,120,Open,7700
-EVT-0253,Product Demo Hour,Social,2026-05-31,11:00,Berlin · Meeting room A,Felix Becker,Finance,30,45,Full,6000
-EVT-0254,People & Culture Coffee,Workshop,2026-06-02,17:30,Berlin · Auditorium,Ines Braun,Operations,9,180,Completed,4300
-EVT-0255,Engineering Open House,All hands,2026-06-04,11:00,Hamburg · Auditorium,David Wagner,Sales,15,80,Full,5000
-EVT-0256,New Starter Welcome,All hands,2026-06-06,17:30,Amsterdam · Auditorium,Clara Neumann,Marketing,12,120,Planning,5600
-EVT-0257,Sustainability Forum,Town hall,2026-06-08,11:00,Hamburg · Auditorium,Amira Fischer,Customer Success,35,60,Full,1000
-EVT-0258,Customer Stories Live,Career fair,2026-06-10,09:30,Cologne · Auditorium,Jonas Wolf,IT & Security,71,120,Planning,10700
-EVT-0259,Learning Lab,Workshop,2026-06-12,17:30,Remote — Germany · Online,Lea Hoffmann,Sustainability,50,60,Planning,6600
-EVT-0260,Summer Social,Town hall,2026-06-14,13:30,Frankfurt · Studio 2,Mateo Koch,People & Culture,138,250,Planning,6900
-EVT-0261,Leadership Q&A,Social,2026-06-16,15:00,Remote — Germany · Auditorium,Sofia Weber,Engineering,12,80,Completed,11800
-EVT-0262,Community Day,Workshop,2026-06-18,17:30,Remote — Germany · Online,Noah Richter,Product,15,30,Open,11000
-EVT-0263,Wellbeing Workshop,Town hall,2026-06-20,13:30,Amsterdam · Studio 2,Mila Schmidt,Finance,30,30,Full,7700
-EVT-0264,Nexora Connect,Town hall,2026-06-22,17:30,Munich · Meeting room A,Elias Schulz,Operations,24,80,Open,11300
-EVT-0265,Product Demo Hour,Town hall,2026-06-24,15:00,Cologne · Meeting room A,Zara Bauer,Sales,44,60,Full,5800
-EVT-0266,People & Culture Coffee,Social,2026-06-26,09:30,Hamburg · Online,Luca Meyer,Marketing,49,80,Open,11300
-EVT-0267,Engineering Open House,Workshop,2026-06-28,15:00,Berlin · Meeting room A,Freya Keller,Customer Success,13,30,Open,7400
-EVT-0268,New Starter Welcome,Town hall,2026-06-30,11:00,Hamburg · Online,Theo Becker,IT & Security,29,30,Completed,8000
-EVT-0269,Sustainability Forum,Town hall,2026-07-02,11:00,Berlin · Studio 2,Nina Braun,Sustainability,26,30,Full,2700
-EVT-0270,Customer Stories Live,Career fair,2026-07-04,13:30,Remote — Germany · Studio 2,Ava Wagner,People & Culture,35,80,Planning,12100
-EVT-0271,Learning Lab,Workshop,2026-07-06,11:00,Stockholm · Online,Emil Neumann,Engineering,59,60,Full,7900
-EVT-0272,Summer Social,Social,2026-07-08,11:00,Hamburg · Online,Maya Fischer,Product,43,80,Completed,800
-EVT-0273,Leadership Q&A,Career fair,2026-07-10,11:00,Hamburg · Studio 2,Felix Wolf,Finance,80,80,Open,10400
-EVT-0274,Community Day,Social,2026-07-12,17:30,Stockholm · Meeting room A,Ines Hoffmann,Operations,101,180,Open,10100
-EVT-0275,Wellbeing Workshop,Workshop,2026-07-14,11:00,Frankfurt · Studio 2,David Koch,Sales,12,60,Open,4700
-EVT-0276,Nexora Connect,Workshop,2026-07-16,13:30,Munich · Auditorium,Clara Weber,Marketing,12,30,Open,1600
-EVT-0277,Product Demo Hour,All hands,2026-07-18,09:30,Cologne · Meeting room A,Amira Richter,Customer Success,90,250,Full,11000
-EVT-0278,People & Culture Coffee,Town hall,2026-07-20,13:30,Cologne · Online,Jonas Schmidt,IT & Security,37,80,Open,12200
-EVT-0279,Engineering Open House,Workshop,2026-07-22,15:00,Cologne · Studio 2,Lea Schulz,Sustainability,14,45,Open,7600
-EVT-0280,New Starter Welcome,Town hall,2026-07-24,13:30,Munich · Auditorium,Mateo Bauer,People & Culture,59,120,Full,2700
-EVT-0281,Sustainability Forum,Webinar,2026-07-26,13:30,Remote — Germany · Meeting room A,Sofia Meyer,Engineering,112,180,Full,4300
-EVT-0282,Customer Stories Live,Social,2026-07-28,15:00,Hamburg · Auditorium,Noah Keller,Product,56,60,Planning,7100
-EVT-0283,Learning Lab,Webinar,2026-07-30,15:00,Frankfurt · Online,Mila Becker,Finance,49,60,Full,600
-EVT-0284,Summer Social,Workshop,2026-08-01,15:00,Cologne · Meeting room A,Elias Braun,Operations,12,60,Planning,3300
-EVT-0285,Leadership Q&A,All hands,2026-08-03,11:00,Berlin · Studio 2,Zara Wagner,Sales,172,180,Open,700
-EVT-0286,Community Day,Workshop,2026-08-05,11:00,Stockholm · Studio 2,Luca Neumann,Marketing,47,60,Completed,7900
-EVT-0287,Wellbeing Workshop,All hands,2026-08-07,09:30,Berlin · Meeting room A,Freya Fischer,Customer Success,54,60,Open,9800
-EVT-0288,Nexora Connect,Webinar,2026-08-09,09:30,Munich · Auditorium,Theo Wolf,IT & Security,30,180,Completed,4900
-EVT-0289,Product Demo Hour,Social,2026-08-11,15:00,Berlin · Auditorium,Nina Hoffmann,Sustainability,21,30,Planning,10000
-EVT-0290,People & Culture Coffee,Social,2026-08-13,17:30,Amsterdam · Meeting room A,Ava Koch,People & Culture,10,180,Open,6000
-EVT-0291,Engineering Open House,Workshop,2026-08-15,09:30,Cologne · Online,Emil Weber,Engineering,118,120,Full,8000
-EVT-0292,New Starter Welcome,Workshop,2026-08-17,15:00,Cologne · Meeting room A,Maya Richter,Product,145,250,Full,1000
-EVT-0293,Sustainability Forum,All hands,2026-08-19,15:00,Hamburg · Online,Felix Schmidt,Finance,14,60,Open,2700
-EVT-0294,Customer Stories Live,Career fair,2026-08-21,11:00,Amsterdam · Auditorium,Ines Schulz,Operations,28,45,Full,10500
-EVT-0295,Learning Lab,Town hall,2026-08-23,17:30,Hamburg · Auditorium,David Bauer,Sales,10,60,Completed,5500
-EVT-0296,Summer Social,Town hall,2026-08-25,09:30,Stockholm · Auditorium,Clara Meyer,Marketing,63,80,Open,7800
-EVT-0297,Leadership Q&A,Town hall,2026-08-27,11:00,Munich · Online,Amira Keller,Customer Success,88,120,Open,2000
-EVT-0298,Community Day,All hands,2026-08-29,15:00,Hamburg · Meeting room A,Jonas Becker,IT & Security,33,80,Open,7300
-EVT-0299,Wellbeing Workshop,Career fair,2026-08-31,11:00,Amsterdam · Meeting room A,Lea Braun,Sustainability,207,250,Open,5600
-EVT-0300,Nexora Connect,Town hall,2026-09-02,13:30,Berlin · Auditorium,Mateo Wagner,People & Culture,42,80,Planning,4800
-EVT-0301,Product Demo Hour,Career fair,2026-09-04,17:30,Hamburg · Online,Sofia Neumann,Engineering,40,80,Open,6600
-EVT-0302,People & Culture Coffee,Career fair,2026-09-06,11:00,Cologne · Meeting room A,Noah Fischer,Product,81,120,Completed,9700
-EVT-0303,Engineering Open House,Career fair,2026-09-08,13:30,Berlin · Studio 2,Mila Wolf,Finance,50,180,Completed,800
-EVT-0304,New Starter Welcome,All hands,2026-09-10,09:30,Hamburg · Studio 2,Elias Hoffmann,Operations,29,80,Open,9600
-EVT-0305,Sustainability Forum,All hands,2026-09-12,17:30,Berlin · Online,Zara Koch,Sales,10,250,Full,1500
-EVT-0306,Customer Stories Live,Workshop,2026-09-14,17:30,Frankfurt · Studio 2,Luca Weber,Marketing,8,60,Open,7400
-EVT-0307,Learning Lab,Social,2026-09-16,17:30,Munich · Meeting room A,Freya Richter,Customer Success,229,250,Planning,5300
-EVT-0308,Summer Social,Social,2026-09-18,15:00,Cologne · Studio 2,Theo Schmidt,IT & Security,95,120,Planning,7800
-EVT-0309,Leadership Q&A,All hands,2026-09-20,17:30,Hamburg · Online,Nina Schulz,Sustainability,67,250,Open,5300
-EVT-0310,Community Day,Career fair,2026-09-22,11:00,Hamburg · Auditorium,Ava Bauer,People & Culture,56,120,Full,12400
-EVT-0311,Wellbeing Workshop,All hands,2026-09-24,17:30,Frankfurt · Auditorium,Emil Meyer,Engineering,146,180,Open,3800
-EVT-0312,Nexora Connect,Social,2026-09-26,09:30,Hamburg · Online,Maya Keller,Product,28,80,Full,9900
-EVT-0313,Product Demo Hour,Webinar,2026-09-28,11:00,Stockholm · Meeting room A,Felix Becker,Finance,43,120,Completed,9400
-EVT-0314,People & Culture Coffee,Career fair,2026-09-30,13:30,Berlin · Studio 2,Ines Braun,Operations,42,45,Full,8800
-EVT-0315,Engineering Open House,Social,2026-10-02,15:00,Amsterdam · Meeting room A,David Wagner,Sales,42,45,Planning,10800
-EVT-0316,New Starter Welcome,Webinar,2026-10-04,15:00,Remote — Germany · Studio 2,Clara Neumann,Marketing,18,45,Open,1800
-EVT-0317,Sustainability Forum,Town hall,2026-10-06,13:30,Cologne · Studio 2,Amira Fischer,Customer Success,54,60,Full,11000
-EVT-0318,Customer Stories Live,Workshop,2026-10-08,11:00,Amsterdam · Online,Jonas Wolf,IT & Security,68,250,Completed,1500
-EVT-0319,Learning Lab,Social,2026-10-10,13:30,Stockholm · Studio 2,Lea Hoffmann,Sustainability,111,250,Open,800
-EVT-0320,Summer Social,All hands,2026-10-12,13:30,Stockholm · Meeting room A,Mateo Koch,People & Culture,25,30,Open,5000
-EVT-0321,Leadership Q&A,Social,2026-10-14,15:00,Remote — Germany · Meeting room A,Sofia Weber,Engineering,227,250,Open,800
-EVT-0322,Community Day,Career fair,2026-10-16,15:00,Berlin · Meeting room A,Noah Richter,Product,40,45,Full,5000
-EVT-0323,Wellbeing Workshop,Webinar,2026-10-18,17:30,Amsterdam · Auditorium,Mila Schmidt,Finance,54,60,Open,2700
-EVT-0324,Nexora Connect,Town hall,2026-10-20,09:30,Stockholm · Studio 2,Elias Schulz,Operations,31,45,Full,8600
-EVT-0325,Product Demo Hour,Webinar,2026-10-22,13:30,Remote — Germany · Studio 2,Zara Bauer,Sales,8,30,Open,700
-EVT-0326,People & Culture Coffee,All hands,2026-10-24,17:30,Stockholm · Online,Luca Meyer,Marketing,27,60,Planning,6400
-EVT-0327,Engineering Open House,Career fair,2026-10-26,09:30,Amsterdam · Online,Freya Keller,Customer Success,10,120,Completed,3900
-EVT-0328,New Starter Welcome,Career fair,2026-10-28,11:00,Berlin · Auditorium,Theo Becker,IT & Security,23,45,Completed,9100
-EVT-0329,Sustainability Forum,All hands,2026-10-30,13:30,Munich · Studio 2,Nina Braun,Sustainability,55,60,Completed,1200
-EVT-0330,Customer Stories Live,Workshop,2026-11-01,09:30,Frankfurt · Auditorium,Ava Wagner,People & Culture,16,30,Open,1800
-EVT-0331,Learning Lab,Workshop,2026-11-03,11:00,Berlin · Online,Emil Neumann,Engineering,40,120,Open,11500
-EVT-0332,Summer Social,Webinar,2026-11-05,11:00,Amsterdam · Meeting room A,Maya Fischer,Product,9,60,Planning,9500
-EVT-0333,Leadership Q&A,Workshop,2026-11-07,15:00,Amsterdam · Meeting room A,Felix Wolf,Finance,27,45,Planning,11100
-EVT-0334,Community Day,Social,2026-11-09,11:00,Berlin · Meeting room A,Ines Hoffmann,Operations,10,30,Open,11500
-EVT-0335,Wellbeing Workshop,Town hall,2026-11-11,17:30,Remote — Germany · Studio 2,David Koch,Sales,25,30,Open,6800
-EVT-0336,Nexora Connect,All hands,2026-11-13,11:00,Berlin · Studio 2,Clara Weber,Marketing,15,30,Planning,1000
-EVT-0337,Product Demo Hour,Workshop,2026-11-15,11:00,Remote — Germany · Studio 2,Amira Richter,Customer Success,248,250,Planning,8400
-EVT-0338,People & Culture Coffee,Career fair,2026-11-17,09:30,Remote — Germany · Meeting room A,Jonas Schmidt,IT & Security,20,60,Planning,2200
-EVT-0339,Engineering Open House,All hands,2026-11-19,17:30,Stockholm · Studio 2,Lea Schulz,Sustainability,12,60,Planning,1400
-EVT-0340,New Starter Welcome,Career fair,2026-11-21,09:30,Amsterdam · Meeting room A,Mateo Bauer,People & Culture,78,80,Completed,3400
-EVT-0341,Sustainability Forum,Webinar,2026-11-23,11:00,Stockholm · Auditorium,Sofia Meyer,Engineering,39,60,Open,7800
-EVT-0342,Customer Stories Live,Town hall,2026-11-25,09:30,Cologne · Studio 2,Noah Keller,Product,37,45,Open,4900
-EVT-0343,Learning Lab,All hands,2026-11-27,13:30,Remote — Germany · Online,Mila Becker,Finance,163,250,Open,9300
-EVT-0344,Summer Social,Social,2026-11-29,11:00,Hamburg · Meeting room A,Elias Braun,Operations,37,60,Planning,10100
-EVT-0345,Leadership Q&A,Webinar,2026-12-01,17:30,Hamburg · Meeting room A,Zara Wagner,Sales,60,60,Completed,3300
-EVT-0346,Community Day,Workshop,2026-12-03,11:00,Stockholm · Online,Luca Neumann,Marketing,13,80,Open,8000
-EVT-0347,Wellbeing Workshop,Workshop,2026-12-05,09:30,Cologne · Meeting room A,Freya Fischer,Customer Success,41,80,Planning,3400
-EVT-0348,Nexora Connect,Webinar,2026-12-07,09:30,Hamburg · Auditorium,Theo Wolf,IT & Security,50,80,Planning,1100
-EVT-0349,Product Demo Hour,Webinar,2026-12-09,17:30,Munich · Online,Nina Hoffmann,Sustainability,130,180,Open,3200
-EVT-0350,People & Culture Coffee,Town hall,2026-12-11,17:30,Munich · Online,Ava Koch,People & Culture,218,250,Open,8700
-EVT-0351,Engineering Open House,Social,2026-12-13,13:30,Amsterdam · Online,Emil Weber,Engineering,20,45,Completed,1000
-EVT-0352,New Starter Welcome,Career fair,2026-12-15,17:30,Stockholm · Online,Maya Richter,Product,219,250,Planning,7300
-EVT-0353,Sustainability Forum,Town hall,2026-12-17,11:00,Frankfurt · Studio 2,Felix Schmidt,Finance,11,60,Open,12100
-EVT-0354,Customer Stories Live,Workshop,2026-12-19,13:30,Stockholm · Meeting room A,Ines Schulz,Operations,71,120,Open,1200
-EVT-0355,Learning Lab,Webinar,2026-12-21,13:30,Munich · Online,David Bauer,Sales,9,45,Open,7300
-EVT-0356,Summer Social,Social,2026-12-23,09:30,Amsterdam · Online,Clara Meyer,Marketing,23,60,Completed,5300
-EVT-0357,Leadership Q&A,All hands,2026-12-25,11:00,Stockholm · Auditorium,Amira Keller,Customer Success,14,30,Open,9700
-EVT-0358,Community Day,Town hall,2026-12-27,09:30,Cologne · Studio 2,Jonas Becker,IT & Security,27,30,Completed,4500
-EVT-0359,Wellbeing Workshop,Career fair,2026-12-29,09:30,Munich · Studio 2,Lea Braun,Sustainability,12,30,Full,7400
-EVT-0360,Nexora Connect,Town hall,2026-01-05,15:00,Berlin · Meeting room A,Mateo Wagner,People & Culture,174,180,Open,1300
-EVT-0361,Product Demo Hour,Social,2026-01-07,17:30,Munich · Meeting room A,Sofia Neumann,Engineering,117,180,Full,8800
-EVT-0362,People & Culture Coffee,Social,2026-01-09,17:30,Berlin · Online,Noah Fischer,Product,128,180,Completed,3200
-EVT-0363,Engineering Open House,Workshop,2026-01-11,15:00,Berlin · Meeting room A,Mila Wolf,Finance,34,250,Full,4000
-EVT-0364,New Starter Welcome,Town hall,2026-01-13,17:30,Stockholm · Online,Elias Hoffmann,Operations,64,80,Open,10200
-EVT-0365,Sustainability Forum,Webinar,2026-01-15,11:00,Amsterdam · Online,Zara Koch,Sales,10,120,Completed,5600
-EVT-0366,Customer Stories Live,Town hall,2026-01-17,09:30,Remote — Germany · Meeting room A,Luca Weber,Marketing,20,45,Completed,3600
-EVT-0367,Learning Lab,Webinar,2026-01-19,11:00,Stockholm · Auditorium,Freya Richter,Customer Success,12,80,Completed,10800
-EVT-0368,Summer Social,Webinar,2026-01-21,17:30,Hamburg · Auditorium,Theo Schmidt,IT & Security,75,80,Open,7200
-EVT-0369,Leadership Q&A,Social,2026-01-23,15:00,Hamburg · Online,Nina Schulz,Sustainability,21,80,Completed,9800
-EVT-0370,Community Day,Town hall,2026-01-25,17:30,Amsterdam · Meeting room A,Ava Bauer,People & Culture,12,120,Open,6500
-EVT-0371,Wellbeing Workshop,All hands,2026-01-27,17:30,Berlin · Online,Emil Meyer,Engineering,35,45,Full,600
-EVT-0372,Nexora Connect,Webinar,2026-01-29,09:30,Berlin · Studio 2,Maya Keller,Product,30,45,Open,5500
-EVT-0373,Product Demo Hour,Career fair,2026-01-31,13:30,Frankfurt · Auditorium,Felix Becker,Finance,61,80,Full,4800
-EVT-0374,People & Culture Coffee,Workshop,2026-02-02,15:00,Frankfurt · Meeting room A,Ines Braun,Operations,54,60,Full,2500
-EVT-0375,Engineering Open House,Town hall,2026-02-04,17:30,Stockholm · Studio 2,David Wagner,Sales,24,45,Open,4500
-EVT-0376,New Starter Welcome,All hands,2026-02-06,13:30,Berlin · Studio 2,Clara Neumann,Marketing,19,45,Planning,12500
-EVT-0377,Sustainability Forum,Workshop,2026-02-08,17:30,Munich · Studio 2,Amira Fischer,Customer Success,67,120,Completed,2900
-EVT-0378,Customer Stories Live,Town hall,2026-02-10,11:00,Berlin · Online,Jonas Wolf,IT & Security,17,180,Planning,3100
-EVT-0379,Learning Lab,Workshop,2026-02-12,13:30,Munich · Meeting room A,Lea Hoffmann,Sustainability,29,60,Open,4600
-EVT-0380,Summer Social,Social,2026-02-14,15:00,Munich · Meeting room A,Mateo Koch,People & Culture,50,120,Full,11500
-EVT-0381,Leadership Q&A,Town hall,2026-02-16,13:30,Stockholm · Online,Sofia Weber,Engineering,15,30,Open,6900
-EVT-0382,Community Day,Career fair,2026-02-18,15:00,Stockholm · Meeting room A,Noah Richter,Product,9,30,Completed,11000
-EVT-0383,Wellbeing Workshop,Social,2026-02-20,15:00,Stockholm · Auditorium,Mila Schmidt,Finance,76,80,Full,8200
-EVT-0384,Nexora Connect,Career fair,2026-02-22,09:30,Amsterdam · Studio 2,Elias Schulz,Operations,41,80,Full,12000
-EVT-0385,Product Demo Hour,Webinar,2026-02-24,15:00,Hamburg · Meeting room A,Zara Bauer,Sales,28,45,Open,10400
-EVT-0386,People & Culture Coffee,Town hall,2026-02-26,17:30,Berlin · Auditorium,Luca Meyer,Marketing,83,120,Planning,9700
-EVT-0387,Engineering Open House,Career fair,2026-02-28,09:30,Cologne · Auditorium,Freya Keller,Customer Success,244,250,Completed,1300
-EVT-0388,New Starter Welcome,All hands,2026-03-02,09:30,Amsterdam · Studio 2,Theo Becker,IT & Security,58,120,Completed,4300
-EVT-0389,Sustainability Forum,Town hall,2026-03-04,15:00,Hamburg · Online,Nina Braun,Sustainability,33,60,Completed,10400
-EVT-0390,Customer Stories Live,All hands,2026-03-06,13:30,Amsterdam · Studio 2,Ava Wagner,People & Culture,17,180,Planning,9500
-EVT-0391,Learning Lab,Workshop,2026-03-08,09:30,Amsterdam · Online,Emil Neumann,Engineering,19,30,Open,11700
-EVT-0392,Summer Social,Workshop,2026-03-10,09:30,Berlin · Auditorium,Maya Fischer,Product,53,120,Planning,2200
-EVT-0393,Leadership Q&A,Social,2026-03-12,11:00,Amsterdam · Studio 2,Felix Wolf,Finance,50,60,Open,11600
-EVT-0394,Community Day,All hands,2026-03-14,17:30,Berlin · Meeting room A,Ines Hoffmann,Operations,17,30,Completed,4800
-EVT-0395,Wellbeing Workshop,Social,2026-03-16,09:30,Munich · Auditorium,David Koch,Sales,17,30,Open,1500
-EVT-0396,Nexora Connect,Town hall,2026-03-18,09:30,Berlin · Auditorium,Clara Weber,Marketing,131,180,Planning,8100
-EVT-0397,Product Demo Hour,Webinar,2026-03-20,15:00,Berlin · Online,Amira Richter,Customer Success,10,60,Planning,1500
-EVT-0398,People & Culture Coffee,Town hall,2026-03-22,17:30,Berlin · Studio 2,Jonas Schmidt,IT & Security,21,30,Open,8600
-EVT-0399,Engineering Open House,Career fair,2026-03-24,11:00,Cologne · Meeting room A,Lea Schulz,Sustainability,10,60,Planning,11800
-EVT-0400,New Starter Welcome,Webinar,2026-03-26,17:30,Remote — Germany · Auditorium,Mateo Bauer,People & Culture,11,60,Open,8800
-EVT-0401,Sustainability Forum,Social,2026-03-28,15:00,Hamburg · Studio 2,Sofia Meyer,Engineering,26,80,Planning,2600
-EVT-0402,Customer Stories Live,All hands,2026-03-30,15:00,Berlin · Studio 2,Noah Keller,Product,45,120,Full,6200
-EVT-0403,Learning Lab,Social,2026-04-01,11:00,Cologne · Meeting room A,Mila Becker,Finance,49,60,Open,400
-EVT-0404,Summer Social,Social,2026-04-03,17:30,Hamburg · Auditorium,Elias Braun,Operations,71,120,Full,8500
-EVT-0405,Leadership Q&A,Social,2026-04-05,17:30,Amsterdam · Studio 2,Zara Wagner,Sales,242,250,Open,5500
-EVT-0406,Community Day,Social,2026-04-07,15:00,Remote — Germany · Studio 2,Luca Neumann,Marketing,45,60,Completed,12500
-EVT-0407,Wellbeing Workshop,Social,2026-04-09,13:30,Remote — Germany · Online,Freya Fischer,Customer Success,36,80,Open,8200
-EVT-0408,Nexora Connect,Career fair,2026-04-11,11:00,Stockholm · Online,Theo Wolf,IT & Security,20,30,Full,9300
-EVT-0409,Product Demo Hour,Webinar,2026-04-13,13:30,Remote — Germany · Auditorium,Nina Hoffmann,Sustainability,8,45,Full,1600
-EVT-0410,People & Culture Coffee,Social,2026-04-15,17:30,Remote — Germany · Auditorium,Ava Koch,People & Culture,49,120,Completed,5600
-EVT-0411,Engineering Open House,Career fair,2026-04-17,09:30,Amsterdam · Studio 2,Emil Weber,Engineering,32,80,Completed,10900
-EVT-0412,New Starter Welcome,Town hall,2026-04-19,11:00,Munich · Meeting room A,Maya Richter,Product,39,45,Completed,4200
-EVT-0413,Sustainability Forum,Career fair,2026-04-21,09:30,Cologne · Online,Felix Schmidt,Finance,229,250,Planning,5600
-EVT-0414,Customer Stories Live,All hands,2026-04-23,13:30,Remote — Germany · Auditorium,Ines Schulz,Operations,44,120,Planning,8100
-EVT-0415,Learning Lab,Workshop,2026-04-25,13:30,Frankfurt · Meeting room A,David Bauer,Sales,37,45,Completed,2400
-EVT-0416,Summer Social,Workshop,2026-04-27,17:30,Munich · Auditorium,Clara Meyer,Marketing,69,80,Open,8200
-EVT-0417,Leadership Q&A,All hands,2026-04-29,09:30,Frankfurt · Meeting room A,Amira Keller,Customer Success,79,80,Open,11800
-EVT-0418,Community Day,Town hall,2026-05-01,11:00,Frankfurt · Auditorium,Jonas Becker,IT & Security,72,180,Full,5900
-EVT-0419,Wellbeing Workshop,Workshop,2026-05-03,13:30,Cologne · Meeting room A,Lea Braun,Sustainability,71,120,Open,9300
-EVT-0420,Nexora Connect,Webinar,2026-05-05,09:30,Remote — Germany · Online,Mateo Wagner,People & Culture,178,180,Completed,5200
-EVT-0421,Product Demo Hour,Workshop,2026-05-07,17:30,Munich · Online,Sofia Neumann,Engineering,27,30,Planning,3000
-EVT-0422,People & Culture Coffee,All hands,2026-05-09,09:30,Stockholm · Meeting room A,Noah Fischer,Product,21,30,Completed,1800
-EVT-0423,Engineering Open House,Career fair,2026-05-11,11:00,Munich · Meeting room A,Mila Wolf,Finance,27,30,Completed,10600
-EVT-0424,New Starter Welcome,Workshop,2026-05-13,09:30,Remote — Germany · Auditorium,Elias Hoffmann,Operations,77,250,Planning,11100
-EVT-0425,Sustainability Forum,Social,2026-05-15,17:30,Remote — Germany · Auditorium,Zara Koch,Sales,33,45,Planning,600
-EVT-0426,Customer Stories Live,Workshop,2026-05-17,09:30,Berlin · Studio 2,Luca Weber,Marketing,78,80,Completed,11200
-EVT-0427,Learning Lab,Social,2026-05-19,17:30,Amsterdam · Auditorium,Freya Richter,Customer Success,79,80,Planning,7800
-EVT-0428,Summer Social,Career fair,2026-05-21,15:00,Hamburg · Studio 2,Theo Schmidt,IT & Security,31,45,Open,10400
-EVT-0429,Leadership Q&A,Workshop,2026-05-23,11:00,Amsterdam · Auditorium,Nina Schulz,Sustainability,21,30,Completed,3200
-EVT-0430,Community Day,Webinar,2026-05-25,09:30,Munich · Online,Ava Bauer,People & Culture,13,250,Planning,3900
-EVT-0431,Wellbeing Workshop,Career fair,2026-05-27,13:30,Berlin · Auditorium,Emil Meyer,Engineering,114,120,Open,3800
-EVT-0432,Nexora Connect,Webinar,2026-05-29,15:00,Munich · Studio 2,Maya Keller,Product,17,250,Full,10700
-EVT-0433,Product Demo Hour,Career fair,2026-05-31,11:00,Munich · Online,Felix Becker,Finance,37,60,Open,11000
-EVT-0434,People & Culture Coffee,Social,2026-06-02,17:30,Frankfurt · Meeting room A,Ines Braun,Operations,56,60,Open,4400
-EVT-0435,Engineering Open House,Town hall,2026-06-04,11:00,Stockholm · Auditorium,David Wagner,Sales,20,80,Completed,11600
-EVT-0436,New Starter Welcome,Social,2026-06-06,15:00,Stockholm · Auditorium,Clara Neumann,Marketing,15,45,Full,11600
-EVT-0437,Sustainability Forum,Social,2026-06-08,09:30,Munich · Meeting room A,Amira Fischer,Customer Success,14,60,Full,600
-EVT-0438,Customer Stories Live,Webinar,2026-06-10,13:30,Munich · Studio 2,Jonas Wolf,IT & Security,34,60,Planning,800
-EVT-0439,Learning Lab,Town hall,2026-06-12,17:30,Frankfurt · Studio 2,Lea Hoffmann,Sustainability,97,120,Planning,2000
-EVT-0440,Summer Social,Webinar,2026-06-14,15:00,Remote — Germany · Auditorium,Mateo Koch,People & Culture,85,120,Full,9100
-EVT-0441,Leadership Q&A,Career fair,2026-06-16,09:30,Cologne · Auditorium,Sofia Weber,Engineering,59,60,Planning,10400
-EVT-0442,Community Day,Webinar,2026-06-18,09:30,Frankfurt · Online,Noah Richter,Product,44,45,Open,12100
-EVT-0443,Wellbeing Workshop,All hands,2026-06-20,09:30,Cologne · Auditorium,Mila Schmidt,Finance,44,45,Open,9300
-EVT-0444,Nexora Connect,Webinar,2026-06-22,11:00,Cologne · Meeting room A,Elias Schulz,Operations,15,120,Open,8800
-EVT-0445,Product Demo Hour,Webinar,2026-06-24,11:00,Berlin · Meeting room A,Zara Bauer,Sales,12,30,Open,5400
-EVT-0446,People & Culture Coffee,Career fair,2026-06-26,17:30,Hamburg · Studio 2,Luca Meyer,Marketing,12,45,Completed,7500
-EVT-0447,Engineering Open House,Social,2026-06-28,15:00,Remote — Germany · Studio 2,Freya Keller,Customer Success,68,80,Open,9300
-EVT-0448,New Starter Welcome,Social,2026-06-30,17:30,Remote — Germany · Online,Theo Becker,IT & Security,208,250,Full,4800
-EVT-0449,Sustainability Forum,Workshop,2026-07-02,09:30,Stockholm · Auditorium,Nina Braun,Sustainability,48,60,Completed,8000
-EVT-0450,Customer Stories Live,Town hall,2026-07-04,09:30,Amsterdam · Online,Ava Wagner,People & Culture,162,180,Open,5800
-EVT-0451,Learning Lab,Webinar,2026-07-06,09:30,Berlin · Auditorium,Emil Neumann,Engineering,33,80,Open,4500
-EVT-0452,Summer Social,Workshop,2026-07-08,15:00,Remote — Germany · Online,Maya Fischer,Product,28,80,Completed,10900
-EVT-0453,Leadership Q&A,All hands,2026-07-10,11:00,Munich · Meeting room A,Felix Wolf,Finance,20,80,Open,7600
-EVT-0454,Community Day,All hands,2026-07-12,11:00,Amsterdam · Studio 2,Ines Hoffmann,Operations,158,250,Open,5000
-EVT-0455,Wellbeing Workshop,Workshop,2026-07-14,17:30,Munich · Studio 2,David Koch,Sales,24,60,Open,3800
-EVT-0456,Nexora Connect,All hands,2026-07-16,17:30,Amsterdam · Auditorium,Clara Weber,Marketing,99,120,Full,5700
-EVT-0457,Product Demo Hour,All hands,2026-07-18,09:30,Frankfurt · Studio 2,Amira Richter,Customer Success,12,45,Completed,2400
-EVT-0458,People & Culture Coffee,Town hall,2026-07-20,11:00,Stockholm · Studio 2,Jonas Schmidt,IT & Security,136,180,Completed,11900
-EVT-0459,Engineering Open House,Social,2026-07-22,17:30,Frankfurt · Studio 2,Lea Schulz,Sustainability,19,30,Open,7400
-EVT-0460,New Starter Welcome,Career fair,2026-07-24,13:30,Remote — Germany · Meeting room A,Mateo Bauer,People & Culture,40,45,Open,2900
-EVT-0461,Sustainability Forum,Social,2026-07-26,15:00,Cologne · Auditorium,Sofia Meyer,Engineering,30,45,Completed,3800
-EVT-0462,Customer Stories Live,Town hall,2026-07-28,13:30,Berlin · Online,Noah Keller,Product,44,60,Planning,3000
-EVT-0463,Learning Lab,All hands,2026-07-30,15:00,Hamburg · Studio 2,Mila Becker,Finance,24,30,Open,1000
-EVT-0464,Summer Social,All hands,2026-08-01,17:30,Berlin · Online,Elias Braun,Operations,21,30,Full,5000
-EVT-0465,Leadership Q&A,All hands,2026-08-03,09:30,Remote — Germany · Auditorium,Zara Wagner,Sales,19,120,Completed,12200
-EVT-0466,Community Day,Town hall,2026-08-05,09:30,Berlin · Online,Luca Neumann,Marketing,25,45,Open,4500
-EVT-0467,Wellbeing Workshop,Career fair,2026-08-07,09:30,Remote — Germany · Online,Freya Fischer,Customer Success,11,30,Open,10000
-EVT-0468,Nexora Connect,Career fair,2026-08-09,13:30,Cologne · Meeting room A,Theo Wolf,IT & Security,82,120,Completed,9200
-EVT-0469,Product Demo Hour,Workshop,2026-08-11,13:30,Hamburg · Online,Nina Hoffmann,Sustainability,10,45,Open,7400
-EVT-0470,People & Culture Coffee,Career fair,2026-08-13,17:30,Munich · Meeting room A,Ava Koch,People & Culture,13,45,Completed,10900
-EVT-0471,Engineering Open House,Town hall,2026-08-15,11:00,Frankfurt · Auditorium,Emil Weber,Engineering,26,45,Completed,6700
-EVT-0472,New Starter Welcome,Social,2026-08-17,15:00,Munich · Meeting room A,Maya Richter,Product,38,120,Open,10900
-EVT-0473,Sustainability Forum,Town hall,2026-08-19,15:00,Amsterdam · Auditorium,Felix Schmidt,Finance,26,60,Completed,6800
-EVT-0474,Customer Stories Live,Workshop,2026-08-21,15:00,Munich · Auditorium,Ines Schulz,Operations,21,60,Open,8900
-EVT-0475,Learning Lab,Social,2026-08-23,15:00,Berlin · Online,David Bauer,Sales,68,250,Open,11100
-EVT-0476,Summer Social,Workshop,2026-08-25,09:30,Hamburg · Online,Clara Meyer,Marketing,11,60,Open,5400
-EVT-0477,Leadership Q&A,Town hall,2026-08-27,17:30,Berlin · Studio 2,Amira Keller,Customer Success,14,60,Open,7100
-EVT-0478,Community Day,Social,2026-08-29,15:00,Amsterdam · Meeting room A,Jonas Becker,IT & Security,11,45,Completed,4500
-EVT-0479,Wellbeing Workshop,All hands,2026-08-31,13:30,Hamburg · Online,Lea Braun,Sustainability,127,180,Planning,7100
-EVT-0480,Nexora Connect,Workshop,2026-09-02,09:30,Berlin · Online,Mateo Wagner,People & Culture,15,60,Full,700
-EVT-0481,Product Demo Hour,Workshop,2026-09-04,17:30,Stockholm · Meeting room A,Sofia Neumann,Engineering,51,60,Planning,7100
-EVT-0482,People & Culture Coffee,Workshop,2026-09-06,13:30,Frankfurt · Online,Noah Fischer,Product,56,180,Open,3700
-EVT-0483,Engineering Open House,All hands,2026-09-08,13:30,Stockholm · Online,Mila Wolf,Finance,65,80,Open,4200
-EVT-0484,New Starter Welcome,Workshop,2026-09-10,13:30,Stockholm · Auditorium,Elias Hoffmann,Operations,22,60,Planning,12200
-EVT-0485,Sustainability Forum,Workshop,2026-09-12,17:30,Stockholm · Online,Zara Koch,Sales,11,60,Open,6100
-EVT-0486,Customer Stories Live,Webinar,2026-09-14,11:00,Cologne · Studio 2,Luca Weber,Marketing,13,30,Completed,11300
-EVT-0487,Learning Lab,Social,2026-09-16,15:00,Cologne · Meeting room A,Freya Richter,Customer Success,41,45,Open,12400
-EVT-0488,Summer Social,Town hall,2026-09-18,15:00,Hamburg · Auditorium,Theo Schmidt,IT & Security,44,45,Full,9100
-EVT-0489,Leadership Q&A,Social,2026-09-20,15:00,Frankfurt · Meeting room A,Nina Schulz,Sustainability,12,30,Planning,2500
-EVT-0490,Community Day,Workshop,2026-09-22,13:30,Frankfurt · Online,Ava Bauer,People & Culture,27,120,Full,1900
-EVT-0491,Wellbeing Workshop,Town hall,2026-09-24,11:00,Cologne · Meeting room A,Emil Meyer,Engineering,67,250,Full,1700
-EVT-0492,Nexora Connect,Career fair,2026-09-26,15:00,Amsterdam · Studio 2,Maya Keller,Product,44,45,Completed,1400
-EVT-0493,Product Demo Hour,All hands,2026-09-28,11:00,Remote — Germany · Studio 2,Felix Becker,Finance,61,180,Full,10300
-EVT-0494,People & Culture Coffee,Social,2026-09-30,11:00,Cologne · Meeting room A,Ines Braun,Operations,20,30,Open,8500
-EVT-0495,Engineering Open House,Career fair,2026-10-02,11:00,Remote — Germany · Auditorium,David Wagner,Sales,103,180,Completed,5700
-EVT-0496,New Starter Welcome,Webinar,2026-10-04,17:30,Stockholm · Auditorium,Clara Neumann,Marketing,75,250,Full,400
-EVT-0497,Sustainability Forum,Social,2026-10-06,15:00,Remote — Germany · Studio 2,Amira Fischer,Customer Success,40,60,Completed,1200
-EVT-0498,Customer Stories Live,Webinar,2026-10-08,13:30,Hamburg · Studio 2,Jonas Wolf,IT & Security,33,45,Open,4300
-EVT-0499,Learning Lab,Webinar,2026-10-10,13:30,Frankfurt · Studio 2,Lea Hoffmann,Sustainability,9,45,Completed,7300
-EVT-0500,Summer Social,Career fair,2026-10-12,11:00,Frankfurt · Online,Mateo Koch,People & Culture,22,80,Open,4200
-EVT-0501,Leadership Q&A,Workshop,2026-10-14,11:00,Hamburg · Meeting room A,Sofia Weber,Engineering,41,80,Open,8200
-EVT-0502,Community Day,Webinar,2026-10-16,15:00,Hamburg · Online,Noah Richter,Product,20,250,Planning,5800
-EVT-0503,Wellbeing Workshop,Career fair,2026-10-18,09:30,Amsterdam · Meeting room A,Mila Schmidt,Finance,41,60,Open,6900
-EVT-0504,Nexora Connect,Webinar,2026-10-20,17:30,Remote — Germany · Meeting room A,Elias Schulz,Operations,35,120,Completed,3400
-EVT-0505,Product Demo Hour,Workshop,2026-10-22,09:30,Frankfurt · Meeting room A,Zara Bauer,Sales,10,30,Planning,11000
-EVT-0506,People & Culture Coffee,Town hall,2026-10-24,15:00,Hamburg · Auditorium,Luca Meyer,Marketing,24,60,Open,6800
-EVT-0507,Engineering Open House,Social,2026-10-26,15:00,Stockholm · Online,Freya Keller,Customer Success,229,250,Full,11500
-EVT-0508,New Starter Welcome,Social,2026-10-28,11:00,Frankfurt · Studio 2,Theo Becker,IT & Security,12,30,Full,12000
-EVT-0509,Sustainability Forum,Career fair,2026-10-30,09:30,Frankfurt · Studio 2,Nina Braun,Sustainability,14,30,Full,7700
-EVT-0510,Customer Stories Live,Webinar,2026-11-01,15:00,Cologne · Meeting room A,Ava Wagner,People & Culture,42,45,Completed,2000
-EVT-0511,Learning Lab,All hands,2026-11-03,11:00,Stockholm · Meeting room A,Emil Neumann,Engineering,57,250,Completed,2400
-EVT-0512,Summer Social,All hands,2026-11-05,09:30,Stockholm · Studio 2,Maya Fischer,Product,17,45,Open,1700
-EVT-0513,Leadership Q&A,All hands,2026-11-07,17:30,Munich · Online,Felix Wolf,Finance,51,180,Planning,2000
-EVT-0514,Community Day,Webinar,2026-11-09,11:00,Berlin · Meeting room A,Ines Hoffmann,Operations,10,60,Full,5800
-EVT-0515,Wellbeing Workshop,Town hall,2026-11-11,11:00,Hamburg · Auditorium,David Koch,Sales,139,180,Open,10400
-EVT-0516,Nexora Connect,Workshop,2026-11-13,09:30,Hamburg · Meeting room A,Clara Weber,Marketing,18,30,Completed,3800
-EVT-0517,Product Demo Hour,Career fair,2026-11-15,09:30,Hamburg · Studio 2,Amira Richter,Customer Success,11,30,Open,1900
-EVT-0518,People & Culture Coffee,Webinar,2026-11-17,17:30,Munich · Auditorium,Jonas Schmidt,IT & Security,27,45,Planning,8800
-EVT-0519,Engineering Open House,Webinar,2026-11-19,15:00,Frankfurt · Online,Lea Schulz,Sustainability,132,180,Completed,7200
-EVT-0520,New Starter Welcome,Webinar,2026-11-21,13:30,Stockholm · Auditorium,Mateo Bauer,People & Culture,25,45,Full,3600
-EVT-0521,Sustainability Forum,Career fair,2026-11-23,11:00,Remote — Germany · Auditorium,Sofia Meyer,Engineering,12,30,Completed,9000
-EVT-0522,Customer Stories Live,Webinar,2026-11-25,15:00,Amsterdam · Studio 2,Noah Keller,Product,158,180,Open,1600
-EVT-0523,Learning Lab,All hands,2026-11-27,09:30,Frankfurt · Meeting room A,Mila Becker,Finance,24,180,Open,6700
-EVT-0524,Summer Social,Webinar,2026-11-29,17:30,Berlin · Online,Elias Braun,Operations,29,60,Open,3600
-EVT-0525,Leadership Q&A,Workshop,2026-12-01,11:00,Amsterdam · Auditorium,Zara Wagner,Sales,16,45,Full,6800
-EVT-0526,Community Day,Career fair,2026-12-03,11:00,Munich · Online,Luca Neumann,Marketing,59,80,Full,9100
-EVT-0527,Wellbeing Workshop,Social,2026-12-05,13:30,Hamburg · Auditorium,Freya Fischer,Customer Success,74,80,Completed,800
-EVT-0528,Nexora Connect,Town hall,2026-12-07,09:30,Hamburg · Auditorium,Theo Wolf,IT & Security,41,45,Open,4600
-EVT-0529,Product Demo Hour,Career fair,2026-12-09,13:30,Cologne · Auditorium,Nina Hoffmann,Sustainability,123,250,Completed,11800
-EVT-0530,People & Culture Coffee,Town hall,2026-12-11,15:00,Stockholm · Meeting room A,Ava Koch,People & Culture,50,80,Open,2300
-EVT-0531,Engineering Open House,Workshop,2026-12-13,13:30,Amsterdam · Auditorium,Emil Weber,Engineering,22,30,Open,10400
-EVT-0532,New Starter Welcome,Webinar,2026-12-15,13:30,Berlin · Meeting room A,Maya Richter,Product,26,30,Completed,1600
-EVT-0533,Sustainability Forum,Town hall,2026-12-17,13:30,Munich · Auditorium,Felix Schmidt,Finance,16,45,Open,3000
-EVT-0534,Customer Stories Live,Webinar,2026-12-19,15:00,Frankfurt · Studio 2,Ines Schulz,Operations,145,180,Completed,9400
-EVT-0535,Learning Lab,All hands,2026-12-21,13:30,Frankfurt · Auditorium,David Bauer,Sales,30,45,Full,5500
-EVT-0536,Summer Social,Social,2026-12-23,15:00,Munich · Online,Clara Meyer,Marketing,43,60,Open,10100
-EVT-0537,Leadership Q&A,All hands,2026-12-25,15:00,Hamburg · Auditorium,Amira Keller,Customer Success,13,45,Full,6200
-EVT-0538,Community Day,All hands,2026-12-27,09:30,Amsterdam · Online,Jonas Becker,IT & Security,37,80,Completed,11100
-EVT-0539,Wellbeing Workshop,All hands,2026-12-29,09:30,Stockholm · Online,Lea Braun,Sustainability,43,120,Open,5200
-EVT-0540,Nexora Connect,All hands,2026-01-05,15:00,Cologne · Meeting room A,Mateo Wagner,People & Culture,67,120,Planning,9600
-EVT-0541,Product Demo Hour,All hands,2026-01-07,15:00,Remote — Germany · Online,Sofia Neumann,Engineering,24,45,Full,3700
-EVT-0542,People & Culture Coffee,Social,2026-01-09,09:30,Cologne · Studio 2,Noah Fischer,Product,134,180,Full,10400
-EVT-0543,Engineering Open House,Career fair,2026-01-11,11:00,Berlin · Online,Mila Wolf,Finance,75,120,Full,12000
-EVT-0544,New Starter Welcome,Town hall,2026-01-13,15:00,Amsterdam · Meeting room A,Elias Hoffmann,Operations,151,250,Open,10800
-EVT-0545,Sustainability Forum,Webinar,2026-01-15,17:30,Berlin · Meeting room A,Zara Koch,Sales,9,120,Completed,11500
-EVT-0546,Customer Stories Live,All hands,2026-01-17,11:00,Berlin · Online,Luca Weber,Marketing,22,30,Completed,5400
-EVT-0547,Learning Lab,Career fair,2026-01-19,11:00,Frankfurt · Meeting room A,Freya Richter,Customer Success,15,45,Open,10200
-EVT-0548,Summer Social,All hands,2026-01-21,11:00,Stockholm · Auditorium,Theo Schmidt,IT & Security,30,30,Open,7700
-EVT-0549,Leadership Q&A,Career fair,2026-01-23,15:00,Stockholm · Auditorium,Nina Schulz,Sustainability,23,30,Open,12300
-EVT-0550,Community Day,Social,2026-01-25,17:30,Cologne · Studio 2,Ava Bauer,People & Culture,54,60,Open,6400
-EVT-0551,Wellbeing Workshop,Social,2026-01-27,15:00,Berlin · Auditorium,Emil Meyer,Engineering,54,60,Open,2000
-EVT-0552,Nexora Connect,Town hall,2026-01-29,13:30,Amsterdam · Auditorium,Maya Keller,Product,42,80,Full,11900
-EVT-0553,Product Demo Hour,Career fair,2026-01-31,13:30,Berlin · Meeting room A,Felix Becker,Finance,35,120,Completed,2500
-EVT-0554,People & Culture Coffee,All hands,2026-02-02,15:00,Remote — Germany · Studio 2,Ines Braun,Operations,22,45,Planning,12300
-EVT-0555,Engineering Open House,Career fair,2026-02-04,11:00,Amsterdam · Studio 2,David Wagner,Sales,28,45,Open,1800
-EVT-0556,New Starter Welcome,Webinar,2026-02-06,15:00,Cologne · Online,Clara Neumann,Marketing,36,120,Full,1400
-EVT-0557,Sustainability Forum,All hands,2026-02-08,11:00,Cologne · Meeting room A,Amira Fischer,Customer Success,62,120,Open,2000
-EVT-0558,Customer Stories Live,Town hall,2026-02-10,11:00,Berlin · Auditorium,Jonas Wolf,IT & Security,38,250,Open,11700
-EVT-0559,Learning Lab,Webinar,2026-02-12,09:30,Hamburg · Studio 2,Lea Hoffmann,Sustainability,78,80,Open,4400
-EVT-0560,Summer Social,Town hall,2026-02-14,09:30,Munich · Online,Mateo Koch,People & Culture,12,120,Full,12500
-EVT-0561,Leadership Q&A,All hands,2026-02-16,13:30,Remote — Germany · Meeting room A,Sofia Weber,Engineering,49,60,Planning,2200
-EVT-0562,Community Day,Social,2026-02-18,11:00,Cologne · Auditorium,Noah Richter,Product,47,80,Open,8000
-EVT-0563,Wellbeing Workshop,Town hall,2026-02-20,11:00,Frankfurt · Meeting room A,Mila Schmidt,Finance,86,120,Full,3200
-EVT-0564,Nexora Connect,Social,2026-02-22,15:00,Remote — Germany · Studio 2,Elias Schulz,Operations,97,120,Completed,4000
-EVT-0565,Product Demo Hour,Webinar,2026-02-24,09:30,Amsterdam · Auditorium,Zara Bauer,Sales,18,30,Completed,6500
-EVT-0566,People & Culture Coffee,Social,2026-02-26,11:00,Hamburg · Auditorium,Luca Meyer,Marketing,53,60,Open,800
-EVT-0567,Engineering Open House,Social,2026-02-28,13:30,Munich · Online,Freya Keller,Customer Success,52,60,Open,4200
-EVT-0568,New Starter Welcome,Town hall,2026-03-02,17:30,Stockholm · Meeting room A,Theo Becker,IT & Security,25,30,Planning,4400
-EVT-0569,Sustainability Forum,Webinar,2026-03-04,17:30,Stockholm · Studio 2,Nina Braun,Sustainability,10,120,Open,4900
-EVT-0570,Customer Stories Live,Webinar,2026-03-06,17:30,Amsterdam · Online,Ava Wagner,People & Culture,31,80,Completed,800
-EVT-0571,Learning Lab,Workshop,2026-03-08,13:30,Munich · Studio 2,Emil Neumann,Engineering,18,60,Completed,5000
-EVT-0572,Summer Social,All hands,2026-03-10,11:00,Frankfurt · Auditorium,Maya Fischer,Product,14,60,Planning,500
-EVT-0573,Leadership Q&A,Career fair,2026-03-12,17:30,Amsterdam · Meeting room A,Felix Wolf,Finance,21,60,Full,400
-EVT-0574,Community Day,Town hall,2026-03-14,13:30,Berlin · Meeting room A,Ines Hoffmann,Operations,20,30,Planning,7500
-EVT-0575,Wellbeing Workshop,Town hall,2026-03-16,17:30,Remote — Germany · Meeting room A,David Koch,Sales,36,60,Open,5400
-EVT-0576,Nexora Connect,Career fair,2026-03-18,13:30,Berlin · Online,Clara Weber,Marketing,196,250,Planning,4000
-EVT-0577,Product Demo Hour,Workshop,2026-03-20,11:00,Amsterdam · Online,Amira Richter,Customer Success,9,180,Completed,6400
-EVT-0578,People & Culture Coffee,Town hall,2026-03-22,15:00,Hamburg · Online,Jonas Schmidt,IT & Security,25,60,Open,3100
-EVT-0579,Engineering Open House,All hands,2026-03-24,09:30,Remote — Germany · Online,Lea Schulz,Sustainability,23,120,Open,2100
-EVT-0580,New Starter Welcome,Workshop,2026-03-26,17:30,Berlin · Studio 2,Mateo Bauer,People & Culture,11,30,Full,7300
-EVT-0581,Sustainability Forum,Social,2026-03-28,17:30,Remote — Germany · Auditorium,Sofia Meyer,Engineering,45,80,Completed,9300
-EVT-0582,Customer Stories Live,Social,2026-03-30,17:30,Remote — Germany · Online,Noah Keller,Product,10,45,Open,9900
-EVT-0583,Learning Lab,Webinar,2026-04-01,13:30,Cologne · Auditorium,Mila Becker,Finance,90,250,Completed,5600
-EVT-0584,Summer Social,All hands,2026-04-03,09:30,Frankfurt · Studio 2,Elias Braun,Operations,9,120,Completed,9800
-EVT-0585,Leadership Q&A,Workshop,2026-04-05,09:30,Hamburg · Auditorium,Zara Wagner,Sales,23,30,Open,10300
-EVT-0586,Community Day,Career fair,2026-04-07,15:00,Berlin · Meeting room A,Luca Neumann,Marketing,15,180,Planning,5400
-EVT-0587,Wellbeing Workshop,Workshop,2026-04-09,13:30,Stockholm · Meeting room A,Freya Fischer,Customer Success,70,250,Open,6500
-EVT-0588,Nexora Connect,Town hall,2026-04-11,15:00,Stockholm · Auditorium,Theo Wolf,IT & Security,38,120,Completed,8300
-EVT-0589,Product Demo Hour,Webinar,2026-04-13,09:30,Cologne · Studio 2,Nina Hoffmann,Sustainability,21,120,Completed,7500
-EVT-0590,People & Culture Coffee,Town hall,2026-04-15,09:30,Amsterdam · Studio 2,Ava Koch,People & Culture,44,45,Open,2400
-EVT-0591,Engineering Open House,Social,2026-04-17,17:30,Munich · Meeting room A,Emil Weber,Engineering,154,180,Full,10500
-EVT-0592,New Starter Welcome,Workshop,2026-04-19,15:00,Stockholm · Auditorium,Maya Richter,Product,117,180,Planning,3700
-EVT-0593,Sustainability Forum,Workshop,2026-04-21,15:00,Berlin · Meeting room A,Felix Schmidt,Finance,50,120,Open,5200
-EVT-0594,Customer Stories Live,All hands,2026-04-23,17:30,Hamburg · Auditorium,Ines Schulz,Operations,19,60,Open,3300
-EVT-0595,Learning Lab,All hands,2026-04-25,11:00,Stockholm · Online,David Bauer,Sales,181,250,Planning,5400
-EVT-0596,Summer Social,Workshop,2026-04-27,13:30,Hamburg · Online,Clara Meyer,Marketing,9,30,Completed,10700
-EVT-0597,Leadership Q&A,Town hall,2026-04-29,17:30,Berlin · Online,Amira Keller,Customer Success,8,45,Open,3600
-EVT-0598,Community Day,All hands,2026-05-01,09:30,Berlin · Meeting room A,Jonas Becker,IT & Security,45,250,Planning,6200
-EVT-0599,Wellbeing Workshop,Social,2026-05-03,17:30,Cologne · Studio 2,Lea Braun,Sustainability,234,250,Open,11500
-EVT-0600,Nexora Connect,Town hall,2026-05-05,09:30,Hamburg · Meeting room A,Mateo Wagner,People & Culture,11,30,Completed,5300
-EVT-0601,Product Demo Hour,All hands,2026-05-07,15:00,Amsterdam · Online,Sofia Neumann,Engineering,9,30,Open,10400
-EVT-0602,People & Culture Coffee,Workshop,2026-05-09,17:30,Remote — Germany · Studio 2,Noah Fischer,Product,148,250,Planning,3800
-EVT-0603,Engineering Open House,Workshop,2026-05-11,17:30,Berlin · Studio 2,Mila Wolf,Finance,127,180,Completed,6600
-EVT-0604,New Starter Welcome,All hands,2026-05-13,09:30,Amsterdam · Auditorium,Elias Hoffmann,Operations,157,180,Open,7300
-EVT-0605,Sustainability Forum,Town hall,2026-05-15,15:00,Amsterdam · Studio 2,Zara Koch,Sales,120,120,Completed,9100
-EVT-0606,Customer Stories Live,All hands,2026-05-17,17:30,Munich · Online,Luca Weber,Marketing,22,45,Planning,6800
-EVT-0607,Learning Lab,Career fair,2026-05-19,15:00,Berlin · Meeting room A,Freya Richter,Customer Success,52,80,Completed,12200
-EVT-0608,Summer Social,Town hall,2026-05-21,15:00,Munich · Online,Theo Schmidt,IT & Security,30,45,Planning,1100
-EVT-0609,Leadership Q&A,Career fair,2026-05-23,11:00,Stockholm · Auditorium,Nina Schulz,Sustainability,68,80,Completed,10100
-EVT-0610,Community Day,Workshop,2026-05-25,13:30,Amsterdam · Auditorium,Ava Bauer,People & Culture,15,30,Planning,5100
-EVT-0611,Wellbeing Workshop,Webinar,2026-05-27,09:30,Munich · Online,Emil Meyer,Engineering,18,80,Full,12400
-EVT-0612,Nexora Connect,Town hall,2026-05-29,17:30,Frankfurt · Auditorium,Maya Keller,Product,19,60,Planning,12400
-EVT-0613,Product Demo Hour,Webinar,2026-05-31,11:00,Amsterdam · Online,Felix Becker,Finance,11,30,Planning,9100
-EVT-0614,People & Culture Coffee,Webinar,2026-06-02,17:30,Remote — Germany · Online,Ines Braun,Operations,27,30,Open,8200
-EVT-0615,Engineering Open House,Town hall,2026-06-04,09:30,Amsterdam · Meeting room A,David Wagner,Sales,21,30,Open,5000
-EVT-0616,New Starter Welcome,Social,2026-06-06,15:00,Munich · Studio 2,Clara Neumann,Marketing,13,30,Open,7200
-EVT-0617,Sustainability Forum,Social,2026-06-08,13:30,Remote — Germany · Auditorium,Amira Fischer,Customer Success,25,45,Planning,3700
-EVT-0618,Customer Stories Live,Workshop,2026-06-10,11:00,Amsterdam · Online,Jonas Wolf,IT & Security,38,45,Open,12000
-EVT-0619,Learning Lab,Workshop,2026-06-12,17:30,Frankfurt · Meeting room A,Lea Hoffmann,Sustainability,37,45,Full,12000
-EVT-0620,Summer Social,All hands,2026-06-14,13:30,Remote — Germany · Auditorium,Mateo Koch,People & Culture,30,30,Completed,2500
-EVT-0621,Leadership Q&A,All hands,2026-06-16,09:30,Stockholm · Online,Sofia Weber,Engineering,21,180,Open,6300
-EVT-0622,Community Day,Social,2026-06-18,09:30,Cologne · Online,Noah Richter,Product,25,30,Planning,11600
-EVT-0623,Wellbeing Workshop,Career fair,2026-06-20,17:30,Munich · Meeting room A,Mila Schmidt,Finance,204,250,Full,3000
-EVT-0624,Nexora Connect,All hands,2026-06-22,15:00,Cologne · Online,Elias Schulz,Operations,8,45,Open,4300
-EVT-0625,Product Demo Hour,All hands,2026-06-24,15:00,Remote — Germany · Auditorium,Zara Bauer,Sales,66,80,Completed,4600
-EVT-0626,People & Culture Coffee,Webinar,2026-06-26,13:30,Munich · Auditorium,Luca Meyer,Marketing,27,180,Open,2300
-EVT-0627,Engineering Open House,Career fair,2026-06-28,13:30,Stockholm · Meeting room A,Freya Keller,Customer Success,32,45,Planning,9600
-EVT-0628,New Starter Welcome,Social,2026-06-30,11:00,Hamburg · Studio 2,Theo Becker,IT & Security,31,250,Full,11800
-EVT-0629,Sustainability Forum,Workshop,2026-07-02,11:00,Munich · Meeting room A,Nina Braun,Sustainability,41,60,Completed,2800
-EVT-0630,Customer Stories Live,Workshop,2026-07-04,15:00,Remote — Germany · Meeting room A,Ava Wagner,People & Culture,27,120,Planning,3600
-EVT-0631,Learning Lab,Career fair,2026-07-06,17:30,Hamburg · Studio 2,Emil Neumann,Engineering,21,30,Planning,7000
-EVT-0632,Summer Social,Career fair,2026-07-08,09:30,Frankfurt · Meeting room A,Maya Fischer,Product,13,30,Completed,10200
-EVT-0633,Leadership Q&A,Town hall,2026-07-10,09:30,Munich · Studio 2,Felix Wolf,Finance,69,120,Open,8100
-EVT-0634,Community Day,Town hall,2026-07-12,13:30,Berlin · Online,Ines Hoffmann,Operations,20,60,Completed,6000
-EVT-0635,Wellbeing Workshop,All hands,2026-07-14,11:00,Munich · Auditorium,David Koch,Sales,14,45,Open,900
-EVT-0636,Nexora Connect,Career fair,2026-07-16,13:30,Cologne · Studio 2,Clara Weber,Marketing,38,60,Open,6800
-EVT-0637,Product Demo Hour,Town hall,2026-07-18,09:30,Hamburg · Studio 2,Amira Richter,Customer Success,33,250,Completed,8800
-EVT-0638,People & Culture Coffee,Social,2026-07-20,13:30,Munich · Meeting room A,Jonas Schmidt,IT & Security,99,120,Full,8100
-EVT-0639,Engineering Open House,Career fair,2026-07-22,11:00,Munich · Online,Lea Schulz,Sustainability,228,250,Planning,10100
-EVT-0640,New Starter Welcome,Social,2026-07-24,17:30,Hamburg · Online,Mateo Bauer,People & Culture,37,80,Planning,9000
-EVT-0641,Sustainability Forum,Workshop,2026-07-26,11:00,Remote — Germany · Auditorium,Sofia Meyer,Engineering,125,250,Open,6700
-EVT-0642,Customer Stories Live,Social,2026-07-28,15:00,Berlin · Meeting room A,Noah Keller,Product,16,30,Completed,11300
-EVT-0643,Learning Lab,Social,2026-07-30,17:30,Frankfurt · Auditorium,Mila Becker,Finance,47,60,Open,10500
-EVT-0644,Summer Social,Social,2026-08-01,13:30,Berlin · Studio 2,Elias Braun,Operations,39,45,Full,3400
-EVT-0645,Leadership Q&A,Career fair,2026-08-03,09:30,Hamburg · Auditorium,Zara Wagner,Sales,33,120,Open,5500
-EVT-0646,Community Day,Social,2026-08-05,13:30,Munich · Meeting room A,Luca Neumann,Marketing,27,60,Completed,12300
-EVT-0647,Wellbeing Workshop,Career fair,2026-08-07,13:30,Stockholm · Auditorium,Freya Fischer,Customer Success,30,30,Planning,7500
-EVT-0648,Nexora Connect,Webinar,2026-08-09,17:30,Cologne · Meeting room A,Theo Wolf,IT & Security,77,80,Open,12300
-EVT-0649,Product Demo Hour,Social,2026-08-11,13:30,Hamburg · Online,Nina Hoffmann,Sustainability,16,45,Completed,6000
-EVT-0650,People & Culture Coffee,Workshop,2026-08-13,17:30,Hamburg · Online,Ava Koch,People & Culture,201,250,Open,3200
+﻿Event_ID,Event_Name,Event_Type,Event_Date,Start_Time,Location,Format,Event_Owner,Capacity,Registrations,Waitlist,Budget_EUR,Spend_EUR,Supplier_Status,Approval_Status,Comms_Deadline
+EVT-NX-2026-01,Nexora Annual Employee Celebration,Celebration,2026-10-15,17:30,Nexora Conference Hall (fictional),On-site,Mila Fischer,220,192,0,9000,8612,Confirmed,Complete,2026-09-24
+EVT-0002,Volunteer day May 2026 - 002,Recruitment fair,2026-05-12,09:00,Remote - Germany,Online,Sara Özdemir,80,10,0,2500,7200,Not required,In planning,2026-04-21
+EVT-0003,Recruitment fair May 2026 - 003,Learning session,2026-05-23,18:00,Berlin,Online,Lea Schneider,60,5,0,1200,950,Not required,Complete,2026-05-02
+EVT-0004,Town hall Jul 2026 - 004,Recruitment fair,2026-07-13,18:00,Cologne,Online,Nina Krüger,180,76,0,1200,4200,Pending,Complete,2026-06-22
+EVT-0005,Recruitment fair May 2026 - 005,Volunteer day,2026-05-19,09:00,Berlin,Hybrid,David Neumann,400,226,0,8500,950,Not required,Complete,2026-04-28
+EVT-0006,Recruitment fair Feb 2027 - 006,Wellbeing,2027-02-06,12:30,Hamburg,Online,Adam Nowak,100,7,0,500,4200,Confirmed,Complete,2027-01-16
+EVT-0007,Wellbeing Feb 2027 - 007,Wellbeing,2027-02-08,09:00,Berlin,On-site,Sara Özdemir,40,15,0,2500,7200,Not required,Complete,2027-01-18
+EVT-0008,Recruitment fair Dec 2026 - 008,Town hall,2026-12-25,18:00,Cologne,Online,Sofia Wagner,40,16,0,5000,350,Confirmed,In planning,2026-12-04
+EVT-0009,Customer event Mar 2026 - 009,Team social,2026-03-30,12:30,Cologne,Online,Nina Krüger,180,67,0,500,7200,Pending,Approved,2026-03-09
+EVT-0010,Wellbeing Jul 2027 - 010,Wellbeing,2027-07-25,09:00,Hamburg,Hybrid,Nina Krüger,100,26,0,5000,950,Confirmed,Approved,2027-07-04
+EVT-0011,Customer event Sep 2027 - 011,Town hall,2027-09-05,16:00,Remote - Germany,Hybrid,Sara Özdemir,100,84,0,1200,7200,Confirmed,Approved,2027-08-15
+EVT-0012,Celebration Jan 2027 - 012,Team social,2027-01-14,12:30,Munich,On-site,David Neumann,400,277,0,500,4200,Confirmed,In planning,2026-12-24
+EVT-0013,Customer event Feb 2026 - 013,Volunteer day,2026-02-20,12:30,Hamburg,Online,Clara Schmitt,40,38,0,12000,950,Not required,Proposed,2026-01-30
+EVT-0014,Wellbeing Oct 2026 - 014,Town hall,2026-10-28,12:30,Munich,Hybrid,Paul Wolf,100,51,0,5000,1800,Confirmed,Complete,2026-10-07
+EVT-0015,Celebration Nov 2027 - 015,Wellbeing,2027-11-30,18:00,Hamburg,On-site,Mia Schulz,40,40,0,2500,350,Pending,Complete,2027-11-09
+EVT-0016,Team social Aug 2026 - 016,Wellbeing,2026-08-04,18:00,Berlin,Hybrid,Lea Schneider,80,45,0,1200,7200,Not required,Complete,2026-07-14
+EVT-0017,Town hall Nov 2027 - 017,Learning session,2027-11-18,16:00,Hamburg,On-site,Mia Schulz,250,13,0,500,1800,Not required,Approved,2027-10-28
+EVT-0018,Town hall Jan 2026 - 018,Wellbeing,2026-01-15,16:00,Berlin,Hybrid,Adam Nowak,180,71,0,2500,350,Not required,In planning,2025-12-25
+EVT-0019,Volunteer day Aug 2027 - 019,Town hall,2027-08-03,18:00,Remote - Germany,Hybrid,Omar Haddad,120,91,0,8500,4200,Not required,Complete,2027-07-13
+EVT-0020,Volunteer day Jul 2026 - 020,Town hall,2026-07-29,09:00,Hamburg,Online,Leon Koch,60,22,0,8500,7200,Pending,Complete,2026-07-08
+EVT-0021,Town hall Feb 2026 - 021,Town hall,2026-02-07,09:00,Hamburg,Online,Felix Braun,120,114,0,1200,4200,Not required,Approved,2026-01-17
+EVT-0022,Celebration Oct 2026 - 022,Volunteer day,2026-10-16,09:00,Remote - Germany,On-site,Luca Hartmann,40,5,0,1200,7200,Pending,In planning,2026-09-25
+EVT-0023,Team social Apr 2026 - 023,Volunteer day,2026-04-07,09:00,Berlin,Online,Adam Nowak,120,65,0,12000,7200,Pending,In planning,2026-03-17
+EVT-0024,Volunteer day Mar 2026 - 024,Team social,2026-03-17,10:00,Cologne,Online,Sara Özdemir,100,25,0,8500,1800,Not required,Approved,2026-02-24
+EVT-0025,Wellbeing Jul 2027 - 025,Volunteer day,2027-07-23,16:00,Remote - Germany,Hybrid,Paul Wolf,180,19,0,500,350,Confirmed,Proposed,2027-07-02
+EVT-0026,Recruitment fair Apr 2027 - 026,Customer event,2027-04-30,09:00,Munich,On-site,Nina Krüger,250,201,0,5000,7200,Pending,In planning,2027-04-09
+EVT-0027,Celebration Feb 2026 - 027,Town hall,2026-02-07,16:00,Berlin,Online,Elena Richter,250,221,0,8500,1800,Not required,Approved,2026-01-17
+EVT-0028,Volunteer day Oct 2026 - 028,Recruitment fair,2026-10-07,10:00,Berlin,On-site,David Neumann,80,30,0,12000,7200,Not required,Complete,2026-09-16
+EVT-0029,Town hall Apr 2026 - 029,Recruitment fair,2026-04-07,16:00,Cologne,Online,Hannah Lange,400,212,0,500,4200,Not required,Complete,2026-03-17
+EVT-0030,Team social Jan 2026 - 030,Town hall,2026-01-20,16:00,Berlin,Hybrid,Mia Schulz,250,9,0,1200,950,Not required,In planning,2025-12-30
+EVT-0031,Team social Nov 2026 - 031,Wellbeing,2026-11-07,16:00,Cologne,Online,Noah Becker,40,2,0,500,7200,Pending,Approved,2026-10-17
+EVT-0032,Recruitment fair Mar 2027 - 032,Volunteer day,2027-03-15,12:30,Berlin,On-site,Emil Hoffmann,60,26,0,2500,4200,Not required,Complete,2027-02-22
+EVT-0033,Volunteer day Oct 2026 - 033,Recruitment fair,2026-10-10,10:00,Berlin,Online,Emil Hoffmann,100,99,0,500,4200,Not required,Proposed,2026-09-19
+EVT-0034,Customer event Feb 2026 - 034,Volunteer day,2026-02-14,16:00,Munich,Hybrid,Sara Özdemir,100,81,0,12000,7200,Not required,Proposed,2026-01-24
+EVT-0035,Learning session Dec 2027 - 035,Town hall,2027-12-12,12:30,Munich,Online,Adam Nowak,250,123,0,8500,350,Not required,Complete,2027-11-21
+EVT-0036,Wellbeing Nov 2026 - 036,Town hall,2026-11-23,16:00,Munich,Online,Sara Özdemir,60,23,0,8500,4200,Not required,Complete,2026-11-02
+EVT-0037,Wellbeing Oct 2026 - 037,Team social,2026-10-18,12:30,Munich,Online,Amira Yilmaz,60,39,0,2500,7200,Confirmed,Complete,2026-09-27
+EVT-0038,Town hall Jan 2027 - 038,Learning session,2027-01-11,18:00,Cologne,Hybrid,Leon Koch,40,17,0,12000,1800,Pending,Complete,2026-12-21
+EVT-0039,Learning session May 2027 - 039,Team social,2027-05-22,16:00,Remote - Germany,Hybrid,Elena Richter,250,190,0,2500,350,Confirmed,Complete,2027-05-01
+EVT-0040,Customer event Aug 2026 - 040,Recruitment fair,2026-08-01,10:00,Hamburg,On-site,Adam Nowak,120,38,0,500,950,Confirmed,In planning,2026-07-11
+EVT-0041,Customer event Jan 2027 - 041,Customer event,2027-01-14,16:00,Remote - Germany,Hybrid,Jonas Weber,120,110,0,1200,950,Confirmed,In planning,2026-12-24
+EVT-0042,Customer event Jul 2026 - 042,Wellbeing,2026-07-24,10:00,Munich,Hybrid,Leon Koch,40,40,0,12000,950,Not required,Approved,2026-07-03
+EVT-0043,Customer event Jun 2026 - 043,Volunteer day,2026-06-23,12:30,Remote - Germany,Hybrid,Emil Hoffmann,250,53,0,5000,350,Pending,Proposed,2026-06-02
+EVT-0044,Recruitment fair May 2027 - 044,Celebration,2027-05-06,09:00,Remote - Germany,Online,Mia Schulz,60,45,0,1200,7200,Pending,Complete,2027-04-15
+EVT-0045,Wellbeing Feb 2027 - 045,Team social,2027-02-28,09:00,Munich,On-site,Amira Yilmaz,250,175,0,1200,7200,Pending,In planning,2027-02-07
+EVT-0046,Recruitment fair Apr 2026 - 046,Celebration,2026-04-28,09:00,Remote - Germany,Hybrid,Amira Yilmaz,80,63,0,12000,4200,Confirmed,In planning,2026-04-07
+EVT-0047,Recruitment fair Apr 2026 - 047,Town hall,2026-04-01,18:00,Munich,Online,Sara Özdemir,60,57,0,2500,1800,Pending,Complete,2026-03-11
+EVT-0048,Celebration Aug 2026 - 048,Wellbeing,2026-08-14,18:00,Berlin,Hybrid,Leon Koch,40,22,0,12000,4200,Pending,Complete,2026-07-24
+EVT-0049,Recruitment fair Jan 2027 - 049,Learning session,2027-01-29,12:30,Cologne,Online,Felix Braun,180,6,0,500,950,Pending,Proposed,2027-01-08
+EVT-0050,Team social Apr 2026 - 050,Wellbeing,2026-04-13,09:00,Berlin,Hybrid,Mila Fischer,60,26,0,5000,7200,Not required,Complete,2026-03-23
+EVT-0051,Learning session Mar 2026 - 051,Recruitment fair,2026-03-29,18:00,Remote - Germany,Online,Clara Schmitt,60,17,0,12000,1800,Confirmed,Complete,2026-03-08
+EVT-0052,Customer event Apr 2027 - 052,Celebration,2027-04-11,10:00,Munich,Online,Sara Özdemir,60,17,0,8500,950,Pending,Complete,2027-03-21
+EVT-0053,Town hall Sep 2026 - 053,Wellbeing,2026-09-04,16:00,Remote - Germany,Hybrid,Paul Wolf,250,55,0,500,950,Confirmed,Proposed,2026-08-14
+EVT-0054,Wellbeing Oct 2027 - 054,Town hall,2027-10-29,09:00,Remote - Germany,On-site,Hannah Lange,40,5,0,12000,4200,Not required,In planning,2027-10-08
+EVT-0055,Customer event Nov 2026 - 055,Customer event,2026-11-13,18:00,Cologne,Hybrid,Clara Schmitt,80,57,0,5000,1800,Not required,Proposed,2026-10-23
+EVT-0056,Volunteer day Nov 2027 - 056,Volunteer day,2027-11-21,16:00,Munich,On-site,Clara Schmitt,120,33,0,12000,350,Confirmed,Approved,2027-10-31
+EVT-0057,Team social Feb 2026 - 057,Wellbeing,2026-02-13,12:30,Remote - Germany,On-site,Leon Koch,60,9,0,12000,4200,Confirmed,Complete,2026-01-23
+EVT-0058,Town hall Apr 2026 - 058,Volunteer day,2026-04-22,16:00,Cologne,Online,Hannah Lange,400,62,0,2500,350,Not required,Proposed,2026-04-01
+EVT-0059,Customer event Oct 2026 - 059,Customer event,2026-10-21,16:00,Munich,Hybrid,Lea Schneider,180,95,0,500,950,Not required,In planning,2026-09-30
+EVT-0060,Wellbeing Nov 2027 - 060,Learning session,2027-11-25,09:00,Cologne,Hybrid,Felix Braun,60,42,0,8500,350,Confirmed,Proposed,2027-11-04
+EVT-0061,Volunteer day Mar 2027 - 061,Volunteer day,2027-03-19,18:00,Remote - Germany,On-site,Jonas Weber,400,68,0,8500,350,Pending,Approved,2027-02-26
+EVT-0062,Customer event Apr 2027 - 062,Recruitment fair,2027-04-05,16:00,Cologne,Online,Felix Braun,80,76,0,500,4200,Confirmed,In planning,2027-03-15
+EVT-0063,Customer event Mar 2027 - 063,Town hall,2027-03-11,12:30,Berlin,On-site,Hannah Lange,100,56,0,2500,950,Pending,Proposed,2027-02-18
+EVT-0064,Team social May 2026 - 064,Learning session,2026-05-20,12:30,Munich,On-site,David Neumann,80,46,0,2500,350,Not required,Approved,2026-04-29
+EVT-0065,Customer event Jan 2027 - 065,Team social,2027-01-21,16:00,Munich,On-site,Felix Braun,250,213,0,500,7200,Not required,In planning,2026-12-31
+EVT-0066,Customer event Jul 2026 - 066,Wellbeing,2026-07-14,18:00,Hamburg,Hybrid,Felix Braun,400,52,0,500,1800,Pending,Approved,2026-06-23
+EVT-0067,Team social Sep 2027 - 067,Celebration,2027-09-11,09:00,Munich,Online,Sara Özdemir,60,35,0,12000,1800,Confirmed,Proposed,2027-08-21
+EVT-0068,Learning session Oct 2027 - 068,Volunteer day,2027-10-19,16:00,Cologne,Online,Jonas Weber,40,35,0,2500,1800,Pending,Approved,2027-09-28
+EVT-0069,Celebration Jan 2026 - 069,Town hall,2026-01-25,12:30,Cologne,On-site,Adam Nowak,400,136,0,2500,7200,Not required,Approved,2026-01-04
+EVT-0070,Customer event Feb 2027 - 070,Celebration,2027-02-16,09:00,Cologne,Hybrid,Clara Schmitt,400,48,0,2500,950,Confirmed,Complete,2027-01-26
+EVT-0071,Team social Sep 2026 - 071,Wellbeing,2026-09-09,18:00,Cologne,Online,Elena Richter,400,215,0,1200,4200,Confirmed,Approved,2026-08-19
+EVT-0072,Customer event Mar 2026 - 072,Learning session,2026-03-07,12:30,Hamburg,Online,Elena Richter,80,45,0,8500,350,Confirmed,In planning,2026-02-14
+EVT-0073,Team social May 2026 - 073,Town hall,2026-05-19,10:00,Munich,On-site,Emil Hoffmann,120,102,0,5000,1800,Confirmed,Approved,2026-04-28
+EVT-0074,Learning session Jan 2027 - 074,Recruitment fair,2027-01-02,18:00,Berlin,Online,Sofia Wagner,80,11,0,5000,950,Confirmed,Complete,2026-12-12
+EVT-0075,Team social Jan 2027 - 075,Team social,2027-01-10,16:00,Berlin,On-site,Jonas Weber,250,113,0,5000,4200,Pending,In planning,2026-12-20
+EVT-0076,Recruitment fair Jun 2026 - 076,Learning session,2026-06-20,16:00,Berlin,On-site,Leon Koch,80,48,0,12000,950,Confirmed,Complete,2026-05-30
+EVT-0077,Volunteer day Apr 2027 - 077,Recruitment fair,2027-04-13,12:30,Hamburg,Hybrid,Mila Fischer,80,0,0,500,950,Pending,Proposed,2027-03-23
+EVT-0078,Learning session Feb 2027 - 078,Celebration,2027-02-17,18:00,Remote - Germany,Online,Sofia Wagner,400,82,0,500,1800,Pending,Proposed,2027-01-27
+EVT-0079,Volunteer day Oct 2027 - 079,Customer event,2027-10-21,12:30,Hamburg,On-site,Amira Yilmaz,120,32,0,5000,4200,Confirmed,In planning,2027-09-30
+EVT-0080,Town hall Sep 2026 - 080,Customer event,2026-09-20,10:00,Hamburg,Online,Felix Braun,120,69,0,1200,1800,Confirmed,Complete,2026-08-30
+EVT-0081,Recruitment fair Dec 2026 - 081,Volunteer day,2026-12-26,10:00,Cologne,Hybrid,Mia Schulz,100,36,0,5000,350,Confirmed,In planning,2026-12-05
+EVT-0082,Learning session Feb 2027 - 082,Wellbeing,2027-02-13,12:30,Munich,On-site,Amira Yilmaz,180,75,0,5000,4200,Not required,In planning,2027-01-23
+EVT-0083,Recruitment fair Aug 2027 - 083,Learning session,2027-08-20,09:00,Munich,Hybrid,Leon Koch,250,174,0,8500,4200,Confirmed,Proposed,2027-07-30
+EVT-0084,Town hall Jan 2026 - 084,Town hall,2026-01-06,09:00,Berlin,Hybrid,Paul Wolf,40,21,0,1200,1800,Not required,Proposed,2025-12-16
+EVT-0085,Learning session May 2026 - 085,Customer event,2026-05-15,10:00,Hamburg,Hybrid,Mila Fischer,400,3,0,5000,4200,Pending,Approved,2026-04-24
+EVT-0086,Recruitment fair Jun 2026 - 086,Customer event,2026-06-19,10:00,Cologne,Online,Nina Krüger,400,104,0,12000,4200,Pending,Proposed,2026-05-29
+EVT-0087,Customer event Apr 2027 - 087,Volunteer day,2027-04-18,16:00,Berlin,Online,Sara Özdemir,180,85,0,8500,350,Pending,Proposed,2027-03-28
+EVT-0088,Customer event Jan 2026 - 088,Team social,2026-01-13,16:00,Cologne,On-site,Hannah Lange,80,62,0,2500,950,Pending,In planning,2025-12-23
+EVT-0089,Team social Oct 2027 - 089,Team social,2027-10-21,09:00,Cologne,Online,Paul Wolf,80,12,0,5000,4200,Not required,Approved,2027-09-30
+EVT-0090,Volunteer day May 2027 - 090,Learning session,2027-05-23,18:00,Remote - Germany,Online,Felix Braun,60,49,0,12000,4200,Confirmed,Complete,2027-05-02
+EVT-0091,Recruitment fair Oct 2026 - 091,Team social,2026-10-01,09:00,Cologne,Hybrid,Sofia Wagner,120,104,0,5000,350,Pending,Approved,2026-09-10
+EVT-0092,Team social Jan 2026 - 092,Volunteer day,2026-01-14,10:00,Remote - Germany,Online,Leon Koch,60,23,0,8500,1800,Pending,Complete,2025-12-24
+EVT-0093,Team social Sep 2026 - 093,Volunteer day,2026-09-26,18:00,Remote - Germany,Hybrid,Amira Yilmaz,400,65,0,2500,7200,Not required,Proposed,2026-09-05
+EVT-0094,Celebration Oct 2027 - 094,Wellbeing,2027-10-08,10:00,Berlin,Online,Elena Richter,180,9,0,8500,950,Not required,Proposed,2027-09-17
+EVT-0095,Recruitment fair Dec 2026 - 095,Learning session,2026-12-13,12:30,Hamburg,Online,Emil Hoffmann,400,60,0,5000,4200,Not required,Complete,2026-11-22
+EVT-0096,Recruitment fair May 2027 - 096,Celebration,2027-05-11,12:30,Cologne,On-site,Elena Richter,250,48,0,2500,350,Not required,Approved,2027-04-20
+EVT-0097,Celebration Jan 2026 - 097,Learning session,2026-01-20,18:00,Cologne,On-site,Noah Becker,400,200,0,8500,7200,Confirmed,Proposed,2025-12-30
+EVT-0098,Celebration Apr 2026 - 098,Customer event,2026-04-02,09:00,Cologne,Hybrid,Sara Özdemir,60,41,0,5000,4200,Confirmed,In planning,2026-03-12
+EVT-0099,Team social Jun 2026 - 099,Customer event,2026-06-18,16:00,Munich,On-site,Nina Krüger,180,112,0,500,7200,Not required,Complete,2026-05-28
+EVT-0100,Volunteer day Oct 2026 - 100,Volunteer day,2026-10-31,12:30,Berlin,On-site,Sara Özdemir,400,264,0,1200,7200,Confirmed,Proposed,2026-10-10
+EVT-0101,Town hall Jun 2027 - 101,Celebration,2027-06-30,09:00,Cologne,On-site,Amira Yilmaz,400,332,0,8500,1800,Pending,Approved,2027-06-09
+EVT-0102,Town hall Sep 2027 - 102,Celebration,2027-09-27,09:00,Cologne,Hybrid,Sara Özdemir,180,143,0,1200,1800,Confirmed,Complete,2027-09-06
+EVT-0103,Customer event Aug 2027 - 103,Recruitment fair,2027-08-17,10:00,Hamburg,Hybrid,Adam Nowak,250,22,0,8500,4200,Not required,Complete,2027-07-27
+EVT-0104,Learning session Jun 2027 - 104,Team social,2027-06-18,10:00,Remote - Germany,Online,Elena Richter,60,37,0,5000,950,Pending,Approved,2027-05-28
+EVT-0105,Town hall May 2027 - 105,Wellbeing,2027-05-19,18:00,Hamburg,Hybrid,Mila Fischer,120,15,0,500,950,Not required,Approved,2027-04-28
+EVT-0106,Celebration Apr 2026 - 106,Volunteer day,2026-04-19,12:30,Cologne,Online,Sara Özdemir,100,19,0,5000,7200,Not required,Proposed,2026-03-29
+EVT-0107,Team social Sep 2026 - 107,Customer event,2026-09-08,09:00,Munich,On-site,Nina Krüger,400,24,0,1200,950,Not required,Approved,2026-08-18
+EVT-0108,Celebration Sep 2027 - 108,Wellbeing,2027-09-11,12:30,Hamburg,Hybrid,Mila Fischer,80,59,0,12000,350,Confirmed,In planning,2027-08-21
+EVT-0109,Learning session Jul 2026 - 109,Wellbeing,2026-07-15,16:00,Remote - Germany,Online,David Neumann,40,3,0,500,4200,Pending,Approved,2026-06-24
+EVT-0110,Celebration Aug 2026 - 110,Wellbeing,2026-08-19,09:00,Munich,Online,Paul Wolf,60,39,0,5000,4200,Confirmed,In planning,2026-07-29
+EVT-0111,Town hall May 2026 - 111,Town hall,2026-05-16,12:30,Hamburg,On-site,David Neumann,40,13,0,2500,7200,Not required,In planning,2026-04-25
+EVT-0112,Celebration Apr 2027 - 112,Team social,2027-04-01,09:00,Munich,Online,Paul Wolf,80,21,0,2500,950,Pending,Complete,2027-03-11
+EVT-0113,Town hall Aug 2027 - 113,Learning session,2027-08-20,18:00,Remote - Germany,Hybrid,Lea Schneider,180,42,0,5000,7200,Confirmed,In planning,2027-07-30
+EVT-0114,Town hall Nov 2026 - 114,Town hall,2026-11-07,12:30,Remote - Germany,On-site,Emil Hoffmann,180,27,0,1200,1800,Not required,In planning,2026-10-17
+EVT-0115,Wellbeing Mar 2027 - 115,Volunteer day,2027-03-14,09:00,Remote - Germany,Online,Emil Hoffmann,250,79,0,12000,4200,Pending,In planning,2027-02-21
+EVT-0116,Team social Feb 2027 - 116,Wellbeing,2027-02-22,12:30,Remote - Germany,Online,Adam Nowak,400,284,0,12000,350,Pending,In planning,2027-02-01
+EVT-0117,Team social Jun 2026 - 117,Celebration,2026-06-25,09:00,Cologne,On-site,Elena Richter,100,47,0,500,4200,Pending,Proposed,2026-06-04
+EVT-0118,Celebration Sep 2026 - 118,Town hall,2026-09-10,09:00,Cologne,Hybrid,Sara Özdemir,400,171,0,2500,950,Not required,Approved,2026-08-20
+EVT-0119,Team social Sep 2026 - 119,Town hall,2026-09-28,10:00,Berlin,Online,Lea Schneider,120,115,0,2500,7200,Confirmed,In planning,2026-09-07
+EVT-0120,Customer event Sep 2027 - 120,Team social,2027-09-05,18:00,Remote - Germany,Hybrid,Felix Braun,250,106,0,12000,4200,Not required,In planning,2027-08-15
+EVT-0121,Volunteer day Apr 2027 - 121,Town hall,2027-04-23,10:00,Remote - Germany,Hybrid,Paul Wolf,100,69,0,500,4200,Confirmed,Proposed,2027-04-02
+EVT-0122,Wellbeing Mar 2026 - 122,Customer event,2026-03-20,12:30,Hamburg,Hybrid,Felix Braun,400,271,0,12000,7200,Not required,Proposed,2026-02-27
+EVT-0123,Town hall Sep 2027 - 123,Recruitment fair,2027-09-16,12:30,Remote - Germany,On-site,Mila Fischer,250,250,0,1200,7200,Pending,In planning,2027-08-26
+EVT-0124,Town hall Nov 2027 - 124,Wellbeing,2027-11-24,10:00,Cologne,Online,Sofia Wagner,60,41,0,12000,1800,Not required,In planning,2027-11-03
+EVT-0125,Team social Feb 2026 - 125,Recruitment fair,2026-02-25,16:00,Cologne,Online,Mila Fischer,120,56,0,12000,350,Pending,In planning,2026-02-04
+EVT-0126,Learning session Jun 2026 - 126,Celebration,2026-06-19,12:30,Hamburg,Online,Adam Nowak,60,44,0,1200,7200,Not required,In planning,2026-05-29
+EVT-0127,Team social Dec 2026 - 127,Team social,2026-12-02,10:00,Remote - Germany,On-site,Lea Schneider,250,69,0,12000,7200,Confirmed,In planning,2026-11-11
+EVT-0128,Learning session May 2026 - 128,Celebration,2026-05-21,10:00,Hamburg,On-site,Amira Yilmaz,80,49,0,12000,950,Confirmed,Complete,2026-04-30
+EVT-0129,Wellbeing Aug 2026 - 129,Celebration,2026-08-14,12:30,Remote - Germany,Online,Elena Richter,120,67,0,5000,350,Not required,Complete,2026-07-24
+EVT-0130,Team social Jan 2027 - 130,Volunteer day,2027-01-07,12:30,Hamburg,On-site,Clara Schmitt,120,35,0,8500,350,Confirmed,In planning,2026-12-17
+EVT-0131,Celebration Sep 2027 - 131,Celebration,2027-09-09,10:00,Munich,Online,Omar Haddad,60,46,0,5000,950,Pending,Proposed,2027-08-19
+EVT-0132,Recruitment fair Jun 2026 - 132,Recruitment fair,2026-06-04,18:00,Hamburg,Hybrid,Emil Hoffmann,60,6,0,12000,4200,Pending,Complete,2026-05-14
+EVT-0133,Celebration Mar 2026 - 133,Recruitment fair,2026-03-27,12:30,Remote - Germany,On-site,Elena Richter,400,211,0,1200,350,Pending,Proposed,2026-03-06
+EVT-0134,Recruitment fair Dec 2027 - 134,Wellbeing,2027-12-23,09:00,Berlin,Hybrid,Clara Schmitt,400,289,0,500,4200,Pending,Approved,2027-12-02
+EVT-0135,Town hall Aug 2026 - 135,Learning session,2026-08-23,18:00,Berlin,On-site,Sara Özdemir,400,158,0,8500,950,Pending,Complete,2026-08-02
+EVT-0136,Celebration Nov 2027 - 136,Volunteer day,2027-11-10,16:00,Hamburg,Hybrid,Clara Schmitt,180,29,0,8500,1800,Confirmed,In planning,2027-10-20
+EVT-0137,Customer event Jul 2027 - 137,Learning session,2027-07-25,10:00,Berlin,Hybrid,Hannah Lange,100,99,0,2500,350,Confirmed,In planning,2027-07-04
+EVT-0138,Customer event Jul 2026 - 138,Learning session,2026-07-28,16:00,Remote - Germany,Hybrid,Clara Schmitt,40,25,0,500,950,Not required,In planning,2026-07-07
+EVT-0139,Wellbeing Nov 2026 - 139,Customer event,2026-11-27,12:30,Berlin,Hybrid,Amira Yilmaz,120,22,0,2500,4200,Confirmed,Approved,2026-11-06
+EVT-0140,Town hall Oct 2027 - 140,Recruitment fair,2027-10-13,10:00,Cologne,Hybrid,Hannah Lange,80,13,0,500,7200,Not required,Approved,2027-09-22
+EVT-0141,Wellbeing Jul 2026 - 141,Recruitment fair,2026-07-08,10:00,Cologne,On-site,Adam Nowak,60,55,0,2500,950,Confirmed,Complete,2026-06-17
+EVT-0142,Learning session Jul 2027 - 142,Celebration,2027-07-13,16:00,Berlin,Hybrid,Nina Krüger,60,56,0,2500,7200,Confirmed,In planning,2027-06-22
+EVT-0143,Wellbeing Jul 2026 - 143,Celebration,2026-07-01,16:00,Cologne,Hybrid,Sara Özdemir,40,23,0,5000,7200,Pending,In planning,2026-06-10
+EVT-0144,Learning session Jan 2026 - 144,Team social,2026-01-01,16:00,Remote - Germany,Hybrid,Lea Schneider,40,29,0,1200,1800,Not required,Approved,2025-12-11
+EVT-0145,Town hall Mar 2027 - 145,Customer event,2027-03-22,09:00,Munich,On-site,Amira Yilmaz,120,1,0,500,950,Confirmed,In planning,2027-03-01
+EVT-0146,Wellbeing Aug 2026 - 146,Learning session,2026-08-10,09:00,Munich,On-site,Mia Schulz,400,101,0,1200,1800,Pending,Complete,2026-07-20
+EVT-0147,Team social Sep 2026 - 147,Celebration,2026-09-19,09:00,Cologne,Online,Hannah Lange,40,23,0,12000,350,Confirmed,Complete,2026-08-29
+EVT-0148,Celebration Dec 2027 - 148,Celebration,2027-12-29,18:00,Berlin,On-site,Clara Schmitt,40,5,0,5000,4200,Pending,Proposed,2027-12-08
+EVT-0149,Learning session Oct 2027 - 149,Celebration,2027-10-09,10:00,Berlin,Online,Sara Özdemir,180,135,0,1200,7200,Pending,Complete,2027-09-18
+EVT-0150,Team social Oct 2026 - 150,Team social,2026-10-15,16:00,Munich,Hybrid,Hannah Lange,40,21,0,1200,950,Not required,Complete,2026-09-24
+EVT-0151,Celebration Jun 2026 - 151,Customer event,2026-06-26,09:00,Munich,Hybrid,Hannah Lange,400,325,0,500,350,Pending,Approved,2026-06-05
+EVT-0152,Customer event Nov 2027 - 152,Wellbeing,2027-11-14,12:30,Berlin,Hybrid,Noah Becker,40,22,0,500,350,Confirmed,Proposed,2027-10-24
+EVT-0153,Recruitment fair Jul 2027 - 153,Learning session,2027-07-11,10:00,Munich,On-site,Jonas Weber,250,25,0,12000,350,Not required,Complete,2027-06-20
+EVT-0154,Town hall Aug 2026 - 154,Volunteer day,2026-08-26,10:00,Remote - Germany,Online,Mia Schulz,400,172,0,8500,1800,Confirmed,Complete,2026-08-05
+EVT-0155,Volunteer day Feb 2027 - 155,Town hall,2027-02-20,10:00,Berlin,Hybrid,Elena Richter,40,31,0,5000,7200,Pending,Proposed,2027-01-30
+EVT-0156,Customer event Feb 2027 - 156,Volunteer day,2027-02-09,09:00,Munich,Hybrid,Omar Haddad,180,166,0,1200,350,Not required,In planning,2027-01-19
+EVT-0157,Team social Oct 2027 - 157,Volunteer day,2027-10-01,18:00,Remote - Germany,Hybrid,David Neumann,80,14,0,1200,350,Pending,In planning,2027-09-10
+EVT-0158,Volunteer day Oct 2026 - 158,Recruitment fair,2026-10-25,18:00,Munich,Hybrid,Lea Schneider,80,3,0,12000,4200,Pending,Complete,2026-10-04
+EVT-0159,Town hall Apr 2027 - 159,Celebration,2027-04-28,10:00,Cologne,On-site,David Neumann,250,71,0,1200,7200,Confirmed,Complete,2027-04-07
+EVT-0160,Customer event Jan 2026 - 160,Celebration,2026-01-16,18:00,Berlin,On-site,Paul Wolf,100,85,0,12000,1800,Pending,Complete,2025-12-26
+EVT-0161,Celebration Apr 2027 - 161,Customer event,2027-04-06,12:30,Remote - Germany,On-site,Lea Schneider,80,49,0,5000,4200,Confirmed,Proposed,2027-03-16
+EVT-0162,Customer event Jun 2026 - 162,Recruitment fair,2026-06-06,16:00,Berlin,Online,David Neumann,100,36,0,8500,350,Confirmed,In planning,2026-05-16
+EVT-0163,Volunteer day Sep 2026 - 163,Celebration,2026-09-12,18:00,Hamburg,Online,Emil Hoffmann,250,18,0,5000,350,Confirmed,Complete,2026-08-22
+EVT-0164,Recruitment fair Sep 2027 - 164,Celebration,2027-09-13,10:00,Hamburg,On-site,Sofia Wagner,80,9,0,8500,7200,Confirmed,Approved,2027-08-23
+EVT-0165,Learning session Jun 2026 - 165,Recruitment fair,2026-06-03,09:00,Cologne,On-site,Noah Becker,400,168,0,12000,350,Confirmed,Complete,2026-05-13
+EVT-0166,Volunteer day Mar 2026 - 166,Wellbeing,2026-03-14,10:00,Munich,On-site,Elena Richter,120,24,0,1200,1800,Pending,Approved,2026-02-21
+EVT-0167,Recruitment fair Sep 2027 - 167,Wellbeing,2027-09-17,12:30,Cologne,On-site,Paul Wolf,60,13,0,5000,1800,Not required,Approved,2027-08-27
+EVT-0168,Town hall Apr 2027 - 168,Volunteer day,2027-04-04,16:00,Munich,Hybrid,Mia Schulz,80,23,0,5000,350,Pending,Complete,2027-03-14
+EVT-0169,Town hall Mar 2027 - 169,Learning session,2027-03-24,18:00,Berlin,Online,Noah Becker,40,29,0,12000,950,Not required,Complete,2027-03-03
+EVT-0170,Recruitment fair Dec 2027 - 170,Town hall,2027-12-21,12:30,Remote - Germany,On-site,Nina Krüger,80,27,0,2500,350,Pending,Proposed,2027-11-30
+EVT-0171,Volunteer day Feb 2026 - 171,Recruitment fair,2026-02-11,10:00,Hamburg,Online,Sara Özdemir,80,64,0,500,4200,Pending,Complete,2026-01-21
+EVT-0172,Celebration Apr 2027 - 172,Volunteer day,2027-04-02,10:00,Cologne,On-site,Hannah Lange,400,230,0,5000,950,Confirmed,Complete,2027-03-12
+EVT-0173,Team social Jul 2026 - 173,Wellbeing,2026-07-05,12:30,Hamburg,Online,Paul Wolf,180,81,0,1200,4200,Confirmed,Proposed,2026-06-14
+EVT-0174,Wellbeing Dec 2026 - 174,Team social,2026-12-04,16:00,Berlin,Hybrid,Hannah Lange,120,93,0,8500,4200,Pending,Approved,2026-11-13
+EVT-0175,Celebration Feb 2027 - 175,Team social,2027-02-20,12:30,Hamburg,Hybrid,Mila Fischer,120,68,0,1200,950,Pending,In planning,2027-01-30
+EVT-0176,Learning session Nov 2027 - 176,Celebration,2027-11-16,10:00,Berlin,Online,Luca Hartmann,60,17,0,8500,950,Pending,Proposed,2027-10-26
+EVT-0177,Recruitment fair Jun 2026 - 177,Learning session,2026-06-20,09:00,Remote - Germany,Hybrid,Noah Becker,80,9,0,500,7200,Confirmed,Complete,2026-05-30
+EVT-0178,Volunteer day Aug 2027 - 178,Recruitment fair,2027-08-24,09:00,Berlin,On-site,Mila Fischer,100,7,0,2500,950,Confirmed,Proposed,2027-08-03
+EVT-0179,Volunteer day Sep 2027 - 179,Customer event,2027-09-07,09:00,Berlin,On-site,Lea Schneider,60,51,0,5000,950,Pending,Proposed,2027-08-17
+EVT-0180,Team social Dec 2026 - 180,Team social,2026-12-24,10:00,Hamburg,Online,Emil Hoffmann,180,77,0,12000,350,Not required,Complete,2026-12-03
+EVT-0181,Customer event Apr 2026 - 181,Recruitment fair,2026-04-04,12:30,Munich,On-site,David Neumann,250,197,0,5000,950,Not required,In planning,2026-03-14
+EVT-0182,Team social Jan 2026 - 182,Celebration,2026-01-19,18:00,Hamburg,On-site,Elena Richter,180,145,0,2500,4200,Confirmed,Approved,2025-12-29
+EVT-0183,Volunteer day Sep 2026 - 183,Customer event,2026-09-23,12:30,Hamburg,Online,Sofia Wagner,60,50,0,12000,7200,Not required,Proposed,2026-09-02
+EVT-0184,Customer event Nov 2026 - 184,Wellbeing,2026-11-01,18:00,Hamburg,On-site,Hannah Lange,180,165,0,12000,4200,Confirmed,In planning,2026-10-11
+EVT-0185,Learning session Jun 2027 - 185,Learning session,2027-06-09,09:00,Berlin,Hybrid,Nina Krüger,120,12,0,8500,4200,Not required,Proposed,2027-05-19
+EVT-0186,Learning session Apr 2027 - 186,Team social,2027-04-20,09:00,Remote - Germany,On-site,Sara Özdemir,250,2,0,12000,1800,Pending,In planning,2027-03-30
+EVT-0187,Customer event Dec 2026 - 187,Team social,2026-12-06,12:30,Munich,On-site,Felix Braun,40,3,0,1200,1800,Not required,Complete,2026-11-15
+EVT-0188,Celebration Jun 2026 - 188,Celebration,2026-06-21,09:00,Cologne,Online,Lea Schneider,250,48,0,1200,1800,Confirmed,Approved,2026-05-31
+EVT-0189,Wellbeing Jan 2026 - 189,Town hall,2026-01-19,18:00,Munich,Online,Jonas Weber,400,392,0,8500,7200,Not required,Proposed,2025-12-29
+EVT-0190,Learning session Jun 2026 - 190,Celebration,2026-06-18,09:00,Berlin,Online,Paul Wolf,80,46,0,2500,4200,Not required,Complete,2026-05-28
+EVT-0191,Celebration Sep 2026 - 191,Learning session,2026-09-26,16:00,Berlin,On-site,Felix Braun,60,26,0,5000,350,Not required,In planning,2026-09-05
+EVT-0192,Volunteer day Sep 2026 - 192,Team social,2026-09-09,10:00,Cologne,On-site,Lea Schneider,400,210,0,500,950,Pending,Proposed,2026-08-19
+EVT-0193,Celebration Aug 2026 - 193,Recruitment fair,2026-08-27,18:00,Munich,Hybrid,Sara Özdemir,40,17,0,500,7200,Confirmed,Complete,2026-08-06
+EVT-0194,Recruitment fair Jun 2027 - 194,Volunteer day,2027-06-28,18:00,Cologne,On-site,Lea Schneider,120,95,0,5000,950,Pending,In planning,2027-06-07
+EVT-0195,Celebration Mar 2027 - 195,Customer event,2027-03-01,10:00,Hamburg,Online,Omar Haddad,250,206,0,500,4200,Not required,Proposed,2027-02-08
+EVT-0196,Town hall Dec 2026 - 196,Team social,2026-12-27,18:00,Hamburg,Hybrid,Clara Schmitt,100,14,0,8500,1800,Pending,Complete,2026-12-06
+EVT-0197,Volunteer day Nov 2027 - 197,Wellbeing,2027-11-28,16:00,Hamburg,Hybrid,Amira Yilmaz,40,2,0,5000,7200,Pending,Proposed,2027-11-07
+EVT-0198,Celebration Jun 2027 - 198,Celebration,2027-06-23,16:00,Berlin,On-site,Lea Schneider,40,5,0,1200,1800,Confirmed,Complete,2027-06-02
+EVT-0199,Recruitment fair Feb 2026 - 199,Customer event,2026-02-04,18:00,Berlin,Hybrid,Leon Koch,400,226,0,8500,1800,Not required,Complete,2026-01-14
+EVT-0200,Learning session Aug 2026 - 200,Recruitment fair,2026-08-14,12:30,Remote - Germany,Online,Hannah Lange,180,144,0,1200,4200,Pending,Proposed,2026-07-24
+EVT-0201,Team social Oct 2027 - 201,Celebration,2027-10-10,18:00,Berlin,Online,Sofia Wagner,120,58,0,500,7200,Pending,Approved,2027-09-19
+EVT-0202,Recruitment fair Sep 2026 - 202,Wellbeing,2026-09-22,12:30,Hamburg,Hybrid,Noah Becker,180,44,0,500,1800,Not required,In planning,2026-09-01
+EVT-0203,Recruitment fair Sep 2027 - 203,Recruitment fair,2027-09-02,09:00,Cologne,Online,Clara Schmitt,100,28,0,12000,7200,Confirmed,In planning,2027-08-12
+EVT-0204,Town hall Dec 2026 - 204,Learning session,2026-12-07,16:00,Berlin,Online,Emil Hoffmann,120,103,0,5000,1800,Confirmed,Proposed,2026-11-16
+EVT-0205,Learning session Apr 2026 - 205,Team social,2026-04-28,16:00,Munich,On-site,Omar Haddad,100,92,0,5000,4200,Not required,In planning,2026-04-07
+EVT-0206,Customer event Apr 2027 - 206,Customer event,2027-04-13,16:00,Cologne,Online,Hannah Lange,80,26,0,12000,950,Pending,Complete,2027-03-23
+EVT-0207,Customer event Oct 2026 - 207,Volunteer day,2026-10-10,18:00,Remote - Germany,Online,Jonas Weber,400,154,0,12000,350,Confirmed,Approved,2026-09-19
+EVT-0208,Customer event Jan 2027 - 208,Learning session,2027-01-25,18:00,Hamburg,Hybrid,Mia Schulz,80,46,0,2500,1800,Confirmed,Approved,2027-01-04
+EVT-0209,Team social Jun 2026 - 209,Celebration,2026-06-26,16:00,Hamburg,Hybrid,Nina Krüger,180,123,0,8500,1800,Pending,In planning,2026-06-05
+EVT-0210,Recruitment fair Sep 2027 - 210,Recruitment fair,2027-09-28,16:00,Remote - Germany,On-site,Adam Nowak,40,30,0,500,350,Pending,Complete,2027-09-07
+EVT-0211,Town hall Mar 2026 - 211,Wellbeing,2026-03-25,10:00,Munich,Hybrid,Hannah Lange,40,15,0,1200,950,Pending,Approved,2026-03-04
+EVT-0212,Celebration Jan 2027 - 212,Recruitment fair,2027-01-11,12:30,Cologne,Hybrid,Mila Fischer,120,19,0,1200,350,Pending,Approved,2026-12-21
+EVT-0213,Volunteer day Jun 2027 - 213,Learning session,2027-06-22,12:30,Remote - Germany,On-site,Paul Wolf,120,72,0,1200,1800,Pending,Proposed,2027-06-01
+EVT-0214,Customer event Nov 2026 - 214,Volunteer day,2026-11-24,18:00,Cologne,On-site,Leon Koch,80,63,0,500,4200,Confirmed,In planning,2026-11-03
+EVT-0215,Learning session May 2027 - 215,Recruitment fair,2027-05-27,16:00,Berlin,Hybrid,Luca Hartmann,80,51,0,500,950,Confirmed,Complete,2027-05-06
+EVT-0216,Wellbeing Sep 2026 - 216,Celebration,2026-09-04,09:00,Berlin,Online,Mia Schulz,400,251,0,12000,4200,Confirmed,Complete,2026-08-14
+EVT-0217,Volunteer day Feb 2026 - 217,Recruitment fair,2026-02-08,12:30,Berlin,Online,Luca Hartmann,60,40,0,500,7200,Not required,Complete,2026-01-18
+EVT-0218,Team social Apr 2027 - 218,Town hall,2027-04-28,12:30,Remote - Germany,On-site,Amira Yilmaz,60,7,0,8500,7200,Pending,Approved,2027-04-07
+EVT-0219,Customer event May 2027 - 219,Wellbeing,2027-05-27,18:00,Remote - Germany,On-site,Adam Nowak,100,23,0,500,4200,Confirmed,Complete,2027-05-06
+EVT-0220,Customer event Jul 2026 - 220,Town hall,2026-07-16,16:00,Hamburg,On-site,Mila Fischer,250,127,0,2500,4200,Confirmed,Approved,2026-06-25
+EVT-0221,Celebration Jul 2027 - 221,Celebration,2027-07-26,16:00,Remote - Germany,Online,Elena Richter,100,81,0,8500,1800,Not required,In planning,2027-07-05
+EVT-0222,Recruitment fair Dec 2026 - 222,Customer event,2026-12-18,18:00,Munich,Online,Nina Krüger,60,38,0,500,350,Not required,Approved,2026-11-27
+EVT-0223,Volunteer day Apr 2027 - 223,Wellbeing,2027-04-01,18:00,Remote - Germany,Hybrid,Omar Haddad,120,88,0,2500,7200,Not required,Complete,2027-03-11
+EVT-0224,Team social Sep 2027 - 224,Town hall,2027-09-30,10:00,Cologne,Online,Felix Braun,80,65,0,500,4200,Not required,In planning,2027-09-09
+EVT-0225,Town hall Jul 2026 - 225,Learning session,2026-07-24,12:30,Hamburg,Online,Emil Hoffmann,250,32,0,1200,4200,Not required,In planning,2026-07-03
+EVT-0226,Team social Jan 2027 - 226,Wellbeing,2027-01-15,10:00,Cologne,Online,Mia Schulz,60,18,0,5000,350,Confirmed,Approved,2026-12-25
+EVT-0227,Recruitment fair Apr 2027 - 227,Wellbeing,2027-04-18,12:30,Hamburg,On-site,Emil Hoffmann,180,158,0,1200,1800,Not required,In planning,2027-03-28
+EVT-0228,Celebration Mar 2027 - 228,Volunteer day,2027-03-08,09:00,Remote - Germany,Hybrid,Adam Nowak,60,41,0,5000,1800,Confirmed,Proposed,2027-02-15
+EVT-0229,Town hall Nov 2026 - 229,Celebration,2026-11-12,18:00,Hamburg,Online,Mila Fischer,40,40,0,8500,350,Not required,Proposed,2026-10-22
+EVT-0230,Customer event Jul 2026 - 230,Learning session,2026-07-30,09:00,Munich,Hybrid,Amira Yilmaz,60,49,0,12000,350,Pending,Proposed,2026-07-09
+EVT-0231,Town hall Sep 2026 - 231,Volunteer day,2026-09-17,18:00,Munich,Online,Elena Richter,400,236,0,1200,4200,Confirmed,Proposed,2026-08-27
+EVT-0232,Learning session Jul 2027 - 232,Learning session,2027-07-21,09:00,Remote - Germany,On-site,Clara Schmitt,120,48,0,2500,7200,Not required,Approved,2027-06-30
+EVT-0233,Town hall Nov 2026 - 233,Learning session,2026-11-29,09:00,Munich,Hybrid,Emil Hoffmann,180,102,0,12000,4200,Not required,Approved,2026-11-08
+EVT-0234,Team social Dec 2027 - 234,Wellbeing,2027-12-24,09:00,Hamburg,Online,Sara Özdemir,80,20,0,1200,350,Confirmed,Proposed,2027-12-03
+EVT-0235,Team social Apr 2026 - 235,Wellbeing,2026-04-27,10:00,Munich,Online,Adam Nowak,250,180,0,2500,4200,Pending,Proposed,2026-04-06
+EVT-0236,Wellbeing Apr 2026 - 236,Town hall,2026-04-11,18:00,Hamburg,Hybrid,Noah Becker,180,8,0,500,7200,Not required,Approved,2026-03-21
+EVT-0237,Team social Jan 2026 - 237,Recruitment fair,2026-01-15,12:30,Munich,On-site,Felix Braun,100,63,0,1200,950,Not required,In planning,2025-12-25
+EVT-0238,Learning session Jun 2026 - 238,Recruitment fair,2026-06-16,12:30,Cologne,On-site,Mila Fischer,400,63,0,2500,350,Pending,In planning,2026-05-26
+EVT-0239,Recruitment fair Oct 2026 - 239,Learning session,2026-10-29,18:00,Munich,On-site,Leon Koch,100,42,0,1200,1800,Confirmed,Proposed,2026-10-08
+EVT-0240,Wellbeing Jun 2026 - 240,Customer event,2026-06-13,16:00,Cologne,On-site,David Neumann,100,66,0,1200,350,Confirmed,Approved,2026-05-23
+EVT-0241,Team social Dec 2027 - 241,Town hall,2027-12-01,12:30,Remote - Germany,On-site,Adam Nowak,180,116,0,8500,350,Confirmed,Complete,2027-11-10
+EVT-0242,Town hall Jul 2027 - 242,Volunteer day,2027-07-23,18:00,Cologne,On-site,Sara Özdemir,80,39,0,1200,950,Confirmed,In planning,2027-07-02
+EVT-0243,Town hall Jan 2026 - 243,Celebration,2026-01-12,09:00,Hamburg,On-site,Sara Özdemir,100,44,0,500,1800,Confirmed,Complete,2025-12-22
+EVT-0244,Wellbeing Apr 2026 - 244,Town hall,2026-04-12,09:00,Berlin,Online,Hannah Lange,180,119,0,1200,950,Confirmed,Approved,2026-03-22
+EVT-0245,Volunteer day Dec 2027 - 245,Town hall,2027-12-10,16:00,Remote - Germany,Online,Hannah Lange,40,37,0,500,1800,Confirmed,Complete,2027-11-19
+EVT-0246,Town hall Nov 2026 - 246,Town hall,2026-11-17,09:00,Cologne,Hybrid,Hannah Lange,120,45,0,12000,4200,Pending,Proposed,2026-10-27
+EVT-0247,Town hall Feb 2026 - 247,Team social,2026-02-12,16:00,Remote - Germany,Hybrid,Emil Hoffmann,400,96,0,1200,4200,Not required,In planning,2026-01-22
+EVT-0248,Learning session Jan 2026 - 248,Town hall,2026-01-08,18:00,Hamburg,Hybrid,Felix Braun,100,45,0,8500,1800,Not required,Complete,2025-12-18
+EVT-0249,Customer event Aug 2026 - 249,Recruitment fair,2026-08-11,09:00,Hamburg,Online,Amira Yilmaz,250,117,0,12000,350,Not required,Complete,2026-07-21
+EVT-0250,Wellbeing Oct 2027 - 250,Customer event,2027-10-20,12:30,Hamburg,Online,Noah Becker,40,24,0,2500,950,Confirmed,Approved,2027-09-29
+EVT-0251,Learning session Jan 2026 - 251,Recruitment fair,2026-01-22,09:00,Remote - Germany,Online,Adam Nowak,120,75,0,500,7200,Pending,Complete,2026-01-01
+EVT-0252,Team social Feb 2027 - 252,Town hall,2027-02-03,16:00,Remote - Germany,On-site,Leon Koch,250,21,0,8500,4200,Not required,In planning,2027-01-13
+EVT-0253,Wellbeing Aug 2026 - 253,Wellbeing,2026-08-09,12:30,Hamburg,On-site,Omar Haddad,80,18,0,8500,1800,Pending,In planning,2026-07-19
+EVT-0254,Recruitment fair Jan 2027 - 254,Team social,2027-01-18,18:00,Remote - Germany,Online,Amira Yilmaz,40,36,0,1200,1800,Pending,Complete,2026-12-28
+EVT-0255,Team social Nov 2027 - 255,Customer event,2027-11-02,16:00,Berlin,Online,Sara Özdemir,250,10,0,2500,4200,Pending,In planning,2027-10-12
+EVT-0256,Town hall Sep 2027 - 256,Customer event,2027-09-21,10:00,Berlin,Online,David Neumann,100,23,0,12000,350,Pending,Approved,2027-08-31
+EVT-0257,Customer event Jun 2027 - 257,Celebration,2027-06-10,16:00,Hamburg,Hybrid,Luca Hartmann,40,38,0,500,1800,Not required,Approved,2027-05-20
+EVT-0258,Town hall Feb 2027 - 258,Recruitment fair,2027-02-12,16:00,Berlin,On-site,Nina Krüger,180,16,0,500,7200,Not required,In planning,2027-01-22
+EVT-0259,Volunteer day Apr 2026 - 259,Team social,2026-04-06,10:00,Cologne,Hybrid,Mila Fischer,40,33,0,2500,950,Confirmed,Proposed,2026-03-16
+EVT-0260,Wellbeing Aug 2027 - 260,Wellbeing,2027-08-02,09:00,Munich,Online,Emil Hoffmann,120,18,0,500,1800,Pending,Proposed,2027-07-12
+EVT-0261,Celebration Dec 2026 - 261,Team social,2026-12-21,09:00,Remote - Germany,Online,Jonas Weber,80,39,0,12000,1800,Confirmed,Approved,2026-11-30
+EVT-0262,Volunteer day Aug 2027 - 262,Recruitment fair,2027-08-01,12:30,Berlin,On-site,Lea Schneider,60,39,0,5000,1800,Pending,Approved,2027-07-11
+EVT-0263,Recruitment fair Feb 2026 - 263,Town hall,2026-02-25,12:30,Hamburg,On-site,Amira Yilmaz,250,100,0,12000,350,Pending,In planning,2026-02-04
+EVT-0264,Learning session Jun 2027 - 264,Volunteer day,2027-06-01,10:00,Berlin,Hybrid,Elena Richter,250,19,0,12000,950,Not required,Proposed,2027-05-11
+EVT-0265,Customer event Aug 2026 - 265,Celebration,2026-08-04,09:00,Remote - Germany,On-site,Adam Nowak,250,80,0,8500,7200,Confirmed,Approved,2026-07-14
+EVT-0266,Team social Jun 2027 - 266,Customer event,2027-06-20,09:00,Munich,Online,Sofia Wagner,100,76,0,8500,950,Confirmed,Complete,2027-05-30
+EVT-0267,Learning session Oct 2027 - 267,Customer event,2027-10-19,16:00,Berlin,On-site,Mia Schulz,250,129,0,1200,950,Not required,Proposed,2027-09-28
+EVT-0268,Customer event Jan 2027 - 268,Team social,2027-01-27,09:00,Cologne,On-site,Mia Schulz,180,31,0,12000,350,Pending,Complete,2027-01-06
+EVT-0269,Recruitment fair Dec 2027 - 269,Volunteer day,2027-12-29,12:30,Berlin,Hybrid,Felix Braun,400,373,0,8500,350,Confirmed,In planning,2027-12-08
+EVT-0270,Wellbeing Aug 2027 - 270,Volunteer day,2027-08-24,09:00,Cologne,Hybrid,Leon Koch,40,17,0,8500,950,Pending,Approved,2027-08-03
+EVT-0271,Recruitment fair Jun 2026 - 271,Celebration,2026-06-02,18:00,Remote - Germany,Online,Mila Fischer,180,44,0,5000,4200,Pending,In planning,2026-05-12
+EVT-0272,Wellbeing May 2027 - 272,Learning session,2027-05-05,12:30,Hamburg,Hybrid,Lea Schneider,120,15,0,1200,7200,Not required,Proposed,2027-04-14
+EVT-0273,Wellbeing Nov 2026 - 273,Customer event,2026-11-21,10:00,Remote - Germany,On-site,Sofia Wagner,120,64,0,5000,4200,Pending,Complete,2026-10-31
+EVT-0274,Volunteer day Jun 2026 - 274,Volunteer day,2026-06-19,09:00,Cologne,Online,Mia Schulz,400,63,0,12000,4200,Confirmed,In planning,2026-05-29
+EVT-0275,Volunteer day Mar 2026 - 275,Town hall,2026-03-18,18:00,Cologne,Online,Elena Richter,60,37,0,500,7200,Not required,Complete,2026-02-25
+EVT-0276,Customer event Dec 2026 - 276,Learning session,2026-12-06,16:00,Cologne,On-site,Noah Becker,400,185,0,500,7200,Confirmed,In planning,2026-11-15
+EVT-0277,Wellbeing Jan 2026 - 277,Learning session,2026-01-29,09:00,Hamburg,On-site,Adam Nowak,180,104,0,500,4200,Confirmed,Complete,2026-01-08
+EVT-0278,Volunteer day Feb 2026 - 278,Recruitment fair,2026-02-21,10:00,Hamburg,Hybrid,Mila Fischer,100,17,0,12000,1800,Confirmed,Proposed,2026-01-31
+EVT-0279,Customer event Jul 2026 - 279,Town hall,2026-07-02,16:00,Hamburg,Online,Mila Fischer,80,66,0,2500,1800,Pending,Approved,2026-06-11
+EVT-0280,Celebration Sep 2027 - 280,Town hall,2027-09-17,10:00,Munich,On-site,Nina Krüger,250,217,0,12000,350,Not required,Approved,2027-08-27
+EVT-0281,Team social Dec 2027 - 281,Wellbeing,2027-12-02,10:00,Cologne,Hybrid,Paul Wolf,100,79,0,8500,950,Confirmed,Proposed,2027-11-11
+EVT-0282,Town hall Aug 2027 - 282,Learning session,2027-08-23,10:00,Berlin,On-site,David Neumann,80,7,0,12000,350,Pending,Approved,2027-08-02
+EVT-0283,Customer event Jul 2026 - 283,Volunteer day,2026-07-19,18:00,Remote - Germany,Online,Amira Yilmaz,120,67,0,5000,950,Confirmed,Proposed,2026-06-28
+EVT-0284,Celebration Mar 2026 - 284,Learning session,2026-03-15,09:00,Berlin,Online,Luca Hartmann,180,133,0,2500,7200,Not required,Proposed,2026-02-22
+EVT-0285,Recruitment fair Mar 2027 - 285,Volunteer day,2027-03-31,10:00,Berlin,Online,Felix Braun,120,74,0,1200,950,Confirmed,Approved,2027-03-10
+EVT-0286,Town hall Jan 2027 - 286,Learning session,2027-01-04,09:00,Remote - Germany,On-site,Sofia Wagner,60,10,0,1200,350,Confirmed,Complete,2026-12-14
+EVT-0287,Celebration Mar 2026 - 287,Celebration,2026-03-21,16:00,Cologne,Hybrid,Adam Nowak,60,58,0,8500,7200,Pending,In planning,2026-02-28
+EVT-0288,Recruitment fair Sep 2026 - 288,Customer event,2026-09-28,10:00,Berlin,Online,Elena Richter,40,15,0,2500,4200,Confirmed,In planning,2026-09-07
+EVT-0289,Team social Sep 2026 - 289,Learning session,2026-09-09,12:30,Remote - Germany,Online,Adam Nowak,40,37,0,12000,950,Not required,Complete,2026-08-19
+EVT-0290,Wellbeing Aug 2027 - 290,Team social,2027-08-08,12:30,Munich,Online,Mia Schulz,100,41,0,12000,950,Pending,Proposed,2027-07-18
+EVT-0291,Recruitment fair Nov 2026 - 291,Recruitment fair,2026-11-06,09:00,Munich,Hybrid,Elena Richter,180,66,0,1200,7200,Not required,Proposed,2026-10-16
+EVT-0292,Customer event Sep 2026 - 292,Wellbeing,2026-09-16,18:00,Remote - Germany,Online,Nina Krüger,60,13,0,8500,4200,Not required,Proposed,2026-08-26
+EVT-0293,Customer event Aug 2026 - 293,Team social,2026-08-04,16:00,Cologne,On-site,Sara Özdemir,250,248,0,1200,7200,Not required,Complete,2026-07-14
+EVT-0294,Celebration May 2026 - 294,Recruitment fair,2026-05-30,12:30,Cologne,On-site,Felix Braun,400,384,0,8500,950,Not required,Proposed,2026-05-09
+EVT-0295,Customer event Oct 2027 - 295,Volunteer day,2027-10-06,18:00,Berlin,On-site,Mia Schulz,120,61,0,500,1800,Not required,In planning,2027-09-15
+EVT-0296,Celebration Apr 2026 - 296,Recruitment fair,2026-04-02,16:00,Cologne,On-site,Paul Wolf,250,24,0,12000,7200,Pending,Proposed,2026-03-12
+EVT-0297,Town hall May 2026 - 297,Team social,2026-05-23,10:00,Munich,Hybrid,Nina Krüger,400,193,0,5000,4200,Not required,In planning,2026-05-02
+EVT-0298,Recruitment fair Oct 2027 - 298,Town hall,2027-10-15,18:00,Remote - Germany,On-site,Omar Haddad,120,50,0,500,4200,Not required,Complete,2027-09-24
+EVT-0299,Customer event Apr 2026 - 299,Recruitment fair,2026-04-26,16:00,Hamburg,Hybrid,Noah Becker,100,85,0,1200,4200,Pending,Approved,2026-04-05
+EVT-0300,Recruitment fair Oct 2026 - 300,Recruitment fair,2026-10-30,09:00,Remote - Germany,Hybrid,Omar Haddad,100,7,0,5000,1800,Pending,Complete,2026-10-09
+EVT-0301,Wellbeing Apr 2026 - 301,Volunteer day,2026-04-03,09:00,Hamburg,Hybrid,Mila Fischer,80,38,0,12000,7200,Not required,In planning,2026-03-13
+EVT-0302,Wellbeing Jan 2027 - 302,Town hall,2027-01-17,09:00,Munich,Online,Sofia Wagner,180,123,0,8500,950,Confirmed,Approved,2026-12-27
+EVT-0303,Town hall Oct 2027 - 303,Recruitment fair,2027-10-17,09:00,Munich,Online,Hannah Lange,60,23,0,500,7200,Pending,Complete,2027-09-26
+EVT-0304,Team social May 2026 - 304,Town hall,2026-05-03,12:30,Remote - Germany,Hybrid,Elena Richter,180,143,0,5000,950,Pending,Approved,2026-04-12
+EVT-0305,Volunteer day Jun 2026 - 305,Celebration,2026-06-11,09:00,Berlin,On-site,Noah Becker,400,28,0,1200,4200,Confirmed,In planning,2026-05-21
+EVT-0306,Team social May 2027 - 306,Team social,2027-05-03,12:30,Berlin,On-site,Lea Schneider,120,82,0,500,350,Pending,Complete,2027-04-12
+EVT-0307,Celebration May 2026 - 307,Customer event,2026-05-20,10:00,Remote - Germany,On-site,Leon Koch,180,153,0,2500,950,Not required,Approved,2026-04-29
+EVT-0308,Customer event Apr 2026 - 308,Celebration,2026-04-30,16:00,Remote - Germany,On-site,Amira Yilmaz,100,20,0,500,350,Not required,Complete,2026-04-09
+EVT-0309,Celebration Sep 2027 - 309,Team social,2027-09-30,18:00,Munich,On-site,Clara Schmitt,80,70,0,500,350,Not required,In planning,2027-09-09
+EVT-0310,Customer event Jun 2027 - 310,Town hall,2027-06-16,16:00,Munich,Hybrid,Sara Özdemir,100,65,0,8500,7200,Confirmed,Approved,2027-05-26
+EVT-0311,Customer event Oct 2027 - 311,Recruitment fair,2027-10-30,16:00,Hamburg,Hybrid,Leon Koch,60,22,0,500,7200,Not required,In planning,2027-10-09
+EVT-0312,Learning session Mar 2026 - 312,Celebration,2026-03-04,18:00,Remote - Germany,Hybrid,Adam Nowak,120,9,0,5000,1800,Pending,Complete,2026-02-11
+EVT-0313,Celebration May 2026 - 313,Wellbeing,2026-05-29,18:00,Cologne,Online,Amira Yilmaz,60,40,0,2500,1800,Confirmed,In planning,2026-05-08
+EVT-0314,Team social Jul 2027 - 314,Customer event,2027-07-24,09:00,Berlin,Hybrid,Adam Nowak,100,76,0,1200,1800,Confirmed,Proposed,2027-07-03
+EVT-0315,Team social Feb 2026 - 315,Wellbeing,2026-02-25,09:00,Munich,On-site,Felix Braun,250,176,0,5000,350,Not required,In planning,2026-02-04
+EVT-0316,Celebration Dec 2027 - 316,Customer event,2027-12-28,18:00,Remote - Germany,Online,Leon Koch,60,25,0,500,1800,Confirmed,Proposed,2027-12-07
+EVT-0317,Team social Aug 2027 - 317,Celebration,2027-08-02,18:00,Cologne,On-site,Noah Becker,60,38,0,12000,1800,Pending,In planning,2027-07-12
+EVT-0318,Celebration Nov 2026 - 318,Town hall,2026-11-13,16:00,Berlin,On-site,Noah Becker,250,56,0,1200,7200,Confirmed,Approved,2026-10-23
+EVT-0319,Celebration Aug 2027 - 319,Volunteer day,2027-08-16,09:00,Berlin,On-site,Noah Becker,180,129,0,500,350,Not required,Complete,2027-07-26
+EVT-0320,Town hall Feb 2026 - 320,Customer event,2026-02-16,10:00,Cologne,On-site,Elena Richter,100,0,0,2500,1800,Confirmed,Approved,2026-01-26
+EVT-0321,Recruitment fair Jul 2027 - 321,Customer event,2027-07-06,10:00,Berlin,Online,Noah Becker,80,7,0,8500,4200,Pending,In planning,2027-06-15
+EVT-0322,Wellbeing Sep 2026 - 322,Volunteer day,2026-09-28,10:00,Hamburg,On-site,Sofia Wagner,180,52,0,8500,4200,Confirmed,Complete,2026-09-07
+EVT-0323,Town hall Jan 2026 - 323,Learning session,2026-01-12,09:00,Hamburg,Hybrid,Omar Haddad,250,249,0,8500,950,Pending,Complete,2025-12-22
+EVT-0324,Town hall Apr 2027 - 324,Wellbeing,2027-04-24,12:30,Munich,Online,Felix Braun,120,58,0,1200,4200,Pending,In planning,2027-04-03
+EVT-0325,Celebration Oct 2027 - 325,Learning session,2027-10-30,18:00,Hamburg,On-site,Elena Richter,100,59,0,1200,4200,Confirmed,Complete,2027-10-09
+EVT-0326,Volunteer day Feb 2027 - 326,Customer event,2027-02-15,18:00,Cologne,Hybrid,Nina Krüger,400,202,0,12000,4200,Confirmed,Complete,2027-01-25
+EVT-0327,Customer event Aug 2026 - 327,Town hall,2026-08-10,12:30,Cologne,Hybrid,Paul Wolf,120,94,0,12000,1800,Pending,Complete,2026-07-20
+EVT-0328,Celebration Sep 2027 - 328,Learning session,2027-09-03,18:00,Munich,Online,Sofia Wagner,80,11,0,2500,350,Confirmed,Approved,2027-08-13
+EVT-0329,Learning session May 2027 - 329,Town hall,2027-05-18,10:00,Cologne,On-site,Leon Koch,40,31,0,5000,950,Not required,In planning,2027-04-27
+EVT-0330,Volunteer day Oct 2027 - 330,Wellbeing,2027-10-27,16:00,Munich,Hybrid,Paul Wolf,120,81,0,12000,1800,Not required,Complete,2027-10-06
+EVT-0331,Team social Oct 2026 - 331,Customer event,2026-10-29,16:00,Berlin,On-site,Felix Braun,60,44,0,5000,4200,Pending,Approved,2026-10-08
+EVT-0332,Customer event Jul 2027 - 332,Volunteer day,2027-07-13,16:00,Munich,On-site,Lea Schneider,100,89,0,1200,950,Confirmed,Complete,2027-06-22
+EVT-0333,Team social Mar 2026 - 333,Customer event,2026-03-13,12:30,Berlin,On-site,Paul Wolf,400,215,0,8500,7200,Not required,In planning,2026-02-20
+EVT-0334,Wellbeing Oct 2027 - 334,Team social,2027-10-09,12:30,Berlin,Hybrid,Mila Fischer,400,80,0,5000,4200,Pending,Approved,2027-09-18
+EVT-0335,Volunteer day Sep 2026 - 335,Town hall,2026-09-03,10:00,Remote - Germany,Hybrid,Sara Özdemir,80,23,0,500,350,Pending,Complete,2026-08-13
+EVT-0336,Volunteer day Sep 2027 - 336,Celebration,2027-09-13,16:00,Berlin,Online,Adam Nowak,400,318,0,2500,4200,Not required,Approved,2027-08-23
+EVT-0337,Wellbeing Jun 2026 - 337,Learning session,2026-06-02,10:00,Remote - Germany,Hybrid,Adam Nowak,400,137,0,5000,350,Not required,Complete,2026-05-12
+EVT-0338,Team social Nov 2027 - 338,Team social,2027-11-30,09:00,Munich,On-site,Felix Braun,400,59,0,1200,950,Not required,Complete,2027-11-09
+EVT-0339,Recruitment fair May 2026 - 339,Learning session,2026-05-25,10:00,Berlin,Online,Felix Braun,180,179,0,8500,4200,Confirmed,Complete,2026-05-04
+EVT-0340,Recruitment fair Aug 2027 - 340,Wellbeing,2027-08-04,09:00,Berlin,Online,Mila Fischer,60,41,0,8500,1800,Pending,In planning,2027-07-14
+EVT-0341,Learning session Nov 2026 - 341,Celebration,2026-11-11,10:00,Berlin,Online,Lea Schneider,100,40,0,12000,350,Confirmed,Proposed,2026-10-21
+EVT-0342,Learning session Oct 2026 - 342,Volunteer day,2026-10-18,16:00,Remote - Germany,On-site,Nina Krüger,40,5,0,500,350,Pending,Proposed,2026-09-27
+EVT-0343,Volunteer day Sep 2026 - 343,Customer event,2026-09-03,10:00,Hamburg,Online,Lea Schneider,400,52,0,1200,950,Pending,Proposed,2026-08-13
+EVT-0344,Wellbeing May 2027 - 344,Volunteer day,2027-05-06,10:00,Remote - Germany,On-site,Emil Hoffmann,400,266,0,2500,350,Confirmed,Approved,2027-04-15
+EVT-0345,Learning session Oct 2027 - 345,Volunteer day,2027-10-07,12:30,Remote - Germany,Hybrid,Adam Nowak,40,27,0,500,1800,Confirmed,Approved,2027-09-16
+EVT-0346,Wellbeing Aug 2027 - 346,Town hall,2027-08-24,18:00,Hamburg,On-site,Jonas Weber,120,88,0,12000,4200,Not required,Proposed,2027-08-03
+EVT-0347,Customer event Sep 2027 - 347,Town hall,2027-09-25,16:00,Berlin,Hybrid,Felix Braun,40,36,0,1200,350,Confirmed,Proposed,2027-09-04
+EVT-0348,Town hall Mar 2027 - 348,Celebration,2027-03-12,16:00,Hamburg,Hybrid,Sofia Wagner,250,213,0,500,4200,Pending,Approved,2027-02-19
+EVT-0349,Volunteer day Nov 2026 - 349,Celebration,2026-11-25,16:00,Hamburg,On-site,Emil Hoffmann,60,52,0,12000,350,Pending,Proposed,2026-11-04
+EVT-0350,Town hall Sep 2027 - 350,Recruitment fair,2027-09-12,12:30,Berlin,Hybrid,Amira Yilmaz,250,127,0,5000,7200,Pending,Proposed,2027-08-22
+EVT-0351,Team social Jul 2026 - 351,Wellbeing,2026-07-23,12:30,Berlin,Online,Leon Koch,400,20,0,12000,4200,Pending,Complete,2026-07-02
+EVT-0352,Volunteer day Sep 2027 - 352,Volunteer day,2027-09-30,12:30,Cologne,Hybrid,Elena Richter,100,37,0,2500,950,Pending,Proposed,2027-09-09
+EVT-0353,Wellbeing Aug 2026 - 353,Volunteer day,2026-08-25,09:00,Berlin,Online,Mia Schulz,400,340,0,500,4200,Not required,In planning,2026-08-04
+EVT-0354,Celebration Nov 2026 - 354,Town hall,2026-11-10,16:00,Cologne,Online,Omar Haddad,120,62,0,500,7200,Pending,Approved,2026-10-20
+EVT-0355,Celebration Sep 2027 - 355,Recruitment fair,2027-09-20,09:00,Cologne,Online,Hannah Lange,40,19,0,500,1800,Confirmed,Complete,2027-08-30
+EVT-0356,Recruitment fair Feb 2027 - 356,Customer event,2027-02-14,10:00,Remote - Germany,On-site,Luca Hartmann,120,97,0,2500,4200,Pending,In planning,2027-01-24
+EVT-0357,Wellbeing Jan 2026 - 357,Wellbeing,2026-01-29,09:00,Munich,Hybrid,Mila Fischer,80,51,0,500,1800,Pending,Approved,2026-01-08
+EVT-0358,Town hall Jan 2027 - 358,Town hall,2027-01-07,12:30,Munich,Online,Hannah Lange,100,22,0,8500,4200,Confirmed,In planning,2026-12-17
+EVT-0359,Wellbeing Mar 2027 - 359,Learning session,2027-03-06,09:00,Berlin,Hybrid,Clara Schmitt,120,103,0,1200,350,Pending,Approved,2027-02-13
+EVT-0360,Customer event Oct 2027 - 360,Customer event,2027-10-13,16:00,Cologne,Online,Leon Koch,120,63,0,12000,350,Pending,Approved,2027-09-22
+EVT-0361,Wellbeing Jun 2026 - 361,Customer event,2026-06-26,12:30,Munich,Online,Sara Özdemir,80,69,0,1200,1800,Not required,Complete,2026-06-05
+EVT-0362,Town hall Aug 2026 - 362,Learning session,2026-08-10,12:30,Munich,Online,Nina Krüger,80,18,0,8500,1800,Not required,Proposed,2026-07-20
+EVT-0363,Recruitment fair Jul 2026 - 363,Celebration,2026-07-15,10:00,Cologne,Hybrid,Noah Becker,100,29,0,2500,1800,Not required,Approved,2026-06-24
+EVT-0364,Celebration Jun 2026 - 364,Recruitment fair,2026-06-02,16:00,Munich,Hybrid,Clara Schmitt,60,8,0,12000,1800,Not required,Proposed,2026-05-12
+EVT-0365,Learning session Aug 2026 - 365,Celebration,2026-08-15,18:00,Munich,On-site,Felix Braun,120,106,0,5000,7200,Pending,In planning,2026-07-25
+EVT-0366,Team social Dec 2026 - 366,Town hall,2026-12-31,09:00,Cologne,On-site,David Neumann,400,169,0,5000,1800,Not required,Proposed,2026-12-10
+EVT-0367,Recruitment fair May 2026 - 367,Recruitment fair,2026-05-08,09:00,Berlin,Hybrid,Clara Schmitt,40,16,0,12000,950,Confirmed,Approved,2026-04-17
+EVT-0368,Recruitment fair Nov 2026 - 368,Recruitment fair,2026-11-14,18:00,Remote - Germany,On-site,Hannah Lange,120,120,0,500,7200,Confirmed,Approved,2026-10-24
+EVT-0369,Team social Sep 2027 - 369,Town hall,2027-09-28,09:00,Munich,Online,Lea Schneider,100,17,0,5000,4200,Confirmed,In planning,2027-09-07
+EVT-0370,Volunteer day Nov 2027 - 370,Volunteer day,2027-11-30,09:00,Munich,Hybrid,Elena Richter,120,59,0,5000,950,Pending,Approved,2027-11-09
+EVT-0371,Wellbeing Nov 2027 - 371,Learning session,2027-11-20,12:30,Berlin,Online,Nina Krüger,40,11,0,2500,350,Confirmed,Approved,2027-10-30
+EVT-0372,Recruitment fair May 2027 - 372,Team social,2027-05-18,16:00,Munich,On-site,Leon Koch,120,26,0,500,7200,Pending,Proposed,2027-04-27
+EVT-0373,Celebration Mar 2027 - 373,Customer event,2027-03-06,16:00,Munich,Hybrid,Nina Krüger,40,0,0,8500,950,Not required,Approved,2027-02-13
+EVT-0374,Customer event Aug 2027 - 374,Wellbeing,2027-08-01,09:00,Hamburg,Hybrid,Mila Fischer,40,30,0,12000,4200,Not required,Approved,2027-07-11
+EVT-0375,Learning session Jul 2027 - 375,Learning session,2027-07-27,09:00,Hamburg,Hybrid,Omar Haddad,60,7,0,8500,950,Confirmed,In planning,2027-07-06
+EVT-0376,Volunteer day Aug 2027 - 376,Customer event,2027-08-24,10:00,Cologne,On-site,Nina Krüger,60,12,0,12000,4200,Confirmed,In planning,2027-08-03
+EVT-0377,Town hall Sep 2027 - 377,Celebration,2027-09-17,10:00,Munich,Online,Emil Hoffmann,100,80,0,8500,4200,Confirmed,Approved,2027-08-27
+EVT-0378,Volunteer day May 2027 - 378,Customer event,2027-05-05,12:30,Cologne,Hybrid,Clara Schmitt,400,188,0,500,7200,Not required,Approved,2027-04-14
+EVT-0379,Recruitment fair Aug 2026 - 379,Wellbeing,2026-08-27,18:00,Remote - Germany,On-site,Emil Hoffmann,400,399,0,2500,350,Confirmed,Proposed,2026-08-06
+EVT-0380,Wellbeing Jun 2027 - 380,Learning session,2027-06-16,09:00,Munich,Online,Felix Braun,60,2,0,5000,4200,Confirmed,Approved,2027-05-26
+EVT-0381,Team social Feb 2027 - 381,Celebration,2027-02-14,12:30,Remote - Germany,Online,Jonas Weber,400,208,0,1200,1800,Pending,Complete,2027-01-24
+EVT-0382,Customer event Dec 2027 - 382,Wellbeing,2027-12-09,10:00,Remote - Germany,On-site,Luca Hartmann,80,25,0,500,1800,Not required,Approved,2027-11-18
+EVT-0383,Learning session Nov 2026 - 383,Team social,2026-11-27,18:00,Remote - Germany,On-site,Luca Hartmann,250,160,0,2500,350,Confirmed,Proposed,2026-11-06
+EVT-0384,Volunteer day May 2026 - 384,Wellbeing,2026-05-07,18:00,Hamburg,Hybrid,David Neumann,250,208,0,12000,4200,Confirmed,Approved,2026-04-16
+EVT-0385,Celebration May 2027 - 385,Town hall,2027-05-14,10:00,Berlin,On-site,Mia Schulz,60,46,0,1200,7200,Pending,Approved,2027-04-23
+EVT-0386,Recruitment fair May 2026 - 386,Town hall,2026-05-24,09:00,Remote - Germany,Online,Adam Nowak,100,5,0,2500,7200,Not required,Proposed,2026-05-03
+EVT-0387,Wellbeing Mar 2027 - 387,Recruitment fair,2027-03-30,10:00,Hamburg,On-site,Lea Schneider,180,134,0,500,1800,Pending,Proposed,2027-03-09
+EVT-0388,Town hall Mar 2027 - 388,Recruitment fair,2027-03-11,12:30,Hamburg,On-site,Emil Hoffmann,120,46,0,8500,950,Not required,Approved,2027-02-18
+EVT-0389,Learning session Jul 2027 - 389,Team social,2027-07-29,10:00,Hamburg,Hybrid,Emil Hoffmann,60,12,0,12000,7200,Not required,In planning,2027-07-08
+EVT-0390,Recruitment fair Jan 2027 - 390,Wellbeing,2027-01-12,12:30,Munich,Online,Paul Wolf,80,34,0,12000,7200,Confirmed,Complete,2026-12-22
+EVT-0391,Wellbeing Apr 2027 - 391,Celebration,2027-04-03,12:30,Cologne,On-site,Omar Haddad,100,39,0,12000,950,Not required,Complete,2027-03-13
+EVT-0392,Recruitment fair Nov 2026 - 392,Customer event,2026-11-16,12:30,Berlin,On-site,Luca Hartmann,120,31,0,5000,350,Confirmed,Approved,2026-10-26
+EVT-0393,Celebration Sep 2027 - 393,Celebration,2027-09-17,18:00,Berlin,Online,Mia Schulz,100,42,0,500,4200,Confirmed,Complete,2027-08-27
+EVT-0394,Learning session Nov 2027 - 394,Customer event,2027-11-22,16:00,Remote - Germany,Hybrid,Amira Yilmaz,60,58,0,5000,1800,Pending,Proposed,2027-11-01
+EVT-0395,Wellbeing Oct 2026 - 395,Town hall,2026-10-09,09:00,Munich,On-site,Adam Nowak,180,69,0,1200,7200,Not required,Proposed,2026-09-18
+EVT-0396,Customer event Jan 2026 - 396,Learning session,2026-01-07,16:00,Hamburg,Online,Paul Wolf,250,2,0,500,4200,Not required,In planning,2025-12-17
+EVT-0397,Learning session Dec 2027 - 397,Recruitment fair,2027-12-10,12:30,Berlin,On-site,Adam Nowak,40,40,0,5000,1800,Not required,In planning,2027-11-19
+EVT-0398,Team social Mar 2027 - 398,Volunteer day,2027-03-13,18:00,Berlin,On-site,Mila Fischer,100,65,0,1200,1800,Pending,Complete,2027-02-20
+EVT-0399,Wellbeing Oct 2027 - 399,Volunteer day,2027-10-20,12:30,Munich,Online,Elena Richter,60,21,0,12000,350,Not required,In planning,2027-09-29
+EVT-0400,Learning session Nov 2027 - 400,Volunteer day,2027-11-22,18:00,Berlin,Online,Elena Richter,400,38,0,1200,350,Not required,In planning,2027-11-01
+EVT-0401,Celebration Mar 2027 - 401,Recruitment fair,2027-03-16,10:00,Remote - Germany,On-site,Sofia Wagner,180,38,0,2500,1800,Confirmed,Proposed,2027-02-23
+EVT-0402,Celebration Mar 2026 - 402,Customer event,2026-03-27,16:00,Remote - Germany,On-site,Sofia Wagner,100,91,0,5000,4200,Confirmed,Complete,2026-03-06
+EVT-0403,Customer event Feb 2027 - 403,Town hall,2027-02-07,12:30,Munich,Hybrid,Paul Wolf,400,316,0,500,950,Not required,In planning,2027-01-17
+EVT-0404,Volunteer day Apr 2026 - 404,Learning session,2026-04-19,16:00,Berlin,Hybrid,Mila Fischer,100,72,0,2500,7200,Not required,Proposed,2026-03-29
+EVT-0405,Celebration Dec 2026 - 405,Team social,2026-12-17,12:30,Berlin,Online,Clara Schmitt,40,15,0,12000,4200,Not required,Proposed,2026-11-26
+EVT-0406,Celebration Oct 2026 - 406,Town hall,2026-10-21,09:00,Remote - Germany,On-site,Paul Wolf,80,39,0,1200,350,Pending,Complete,2026-09-30
+EVT-0407,Volunteer day Jun 2027 - 407,Wellbeing,2027-06-30,10:00,Berlin,Hybrid,Elena Richter,180,175,0,12000,950,Pending,Proposed,2027-06-09
+EVT-0408,Learning session Dec 2027 - 408,Celebration,2027-12-22,10:00,Remote - Germany,Online,Lea Schneider,80,25,0,12000,1800,Confirmed,Proposed,2027-12-01
+EVT-0409,Recruitment fair Jan 2026 - 409,Learning session,2026-01-02,10:00,Cologne,Online,Luca Hartmann,120,109,0,2500,7200,Not required,Complete,2025-12-12
+EVT-0410,Wellbeing Jul 2027 - 410,Volunteer day,2027-07-18,12:30,Berlin,Online,Lea Schneider,400,187,0,2500,4200,Pending,Complete,2027-06-27
+EVT-0411,Team social Nov 2026 - 411,Wellbeing,2026-11-10,10:00,Berlin,Online,Mila Fischer,40,39,0,12000,4200,Pending,Proposed,2026-10-20
+EVT-0412,Team social Feb 2027 - 412,Volunteer day,2027-02-19,18:00,Cologne,Hybrid,Luca Hartmann,180,137,0,500,7200,Not required,Proposed,2027-01-29
+EVT-0413,Team social Feb 2027 - 413,Recruitment fair,2027-02-11,18:00,Cologne,Online,Emil Hoffmann,80,30,0,500,1800,Confirmed,Complete,2027-01-21
+EVT-0414,Recruitment fair Oct 2026 - 414,Recruitment fair,2026-10-10,16:00,Cologne,Hybrid,Lea Schneider,40,2,0,500,1800,Confirmed,In planning,2026-09-19
+EVT-0415,Recruitment fair Mar 2026 - 415,Team social,2026-03-15,12:30,Munich,Hybrid,Amira Yilmaz,100,96,0,5000,4200,Pending,In planning,2026-02-22
+EVT-0416,Customer event Jul 2026 - 416,Team social,2026-07-18,09:00,Berlin,Online,Nina Krüger,60,27,0,12000,4200,Not required,Complete,2026-06-27
+EVT-0417,Volunteer day Jul 2026 - 417,Celebration,2026-07-18,09:00,Cologne,On-site,Felix Braun,120,37,0,8500,350,Confirmed,In planning,2026-06-27
+EVT-0418,Town hall Oct 2026 - 418,Town hall,2026-10-23,18:00,Cologne,On-site,Sofia Wagner,80,43,0,500,1800,Not required,In planning,2026-10-02
+EVT-0419,Recruitment fair Dec 2026 - 419,Recruitment fair,2026-12-22,09:00,Remote - Germany,Hybrid,Adam Nowak,100,79,0,2500,950,Pending,Complete,2026-12-01
+EVT-0420,Learning session Jun 2026 - 420,Celebration,2026-06-17,10:00,Hamburg,Hybrid,Amira Yilmaz,80,63,0,5000,350,Pending,Proposed,2026-05-27
+EVT-0421,Wellbeing Mar 2026 - 421,Team social,2026-03-22,10:00,Munich,Hybrid,Nina Krüger,250,211,0,1200,1800,Not required,In planning,2026-03-01
+EVT-0422,Learning session Mar 2026 - 422,Volunteer day,2026-03-01,16:00,Munich,Hybrid,Elena Richter,400,34,0,5000,7200,Not required,Proposed,2026-02-08
+EVT-0423,Town hall Sep 2026 - 423,Learning session,2026-09-08,16:00,Cologne,Online,Paul Wolf,120,1,0,1200,350,Confirmed,In planning,2026-08-18
+EVT-0424,Customer event Feb 2027 - 424,Team social,2027-02-25,09:00,Munich,On-site,Noah Becker,120,120,0,12000,1800,Not required,Complete,2027-02-04
+EVT-0425,Celebration Jan 2027 - 425,Team social,2027-01-31,16:00,Remote - Germany,Online,Elena Richter,120,78,0,5000,1800,Confirmed,Proposed,2027-01-10
+EVT-0426,Recruitment fair Jul 2027 - 426,Celebration,2027-07-03,10:00,Cologne,Online,Sara Özdemir,100,92,0,8500,1800,Pending,In planning,2027-06-12
+EVT-0427,Wellbeing Aug 2027 - 427,Volunteer day,2027-08-30,16:00,Cologne,Online,Felix Braun,80,32,0,12000,350,Not required,Approved,2027-08-09
+EVT-0428,Recruitment fair Apr 2027 - 428,Town hall,2027-04-26,16:00,Hamburg,On-site,Sara Özdemir,180,18,0,500,1800,Pending,Complete,2027-04-05
+EVT-0429,Team social Nov 2026 - 429,Town hall,2026-11-10,18:00,Cologne,On-site,Lea Schneider,100,91,0,2500,7200,Confirmed,Approved,2026-10-20
+EVT-0430,Learning session Aug 2027 - 430,Team social,2027-08-12,12:30,Berlin,Online,Jonas Weber,180,144,0,5000,7200,Not required,Approved,2027-07-22
+EVT-0431,Recruitment fair Mar 2026 - 431,Customer event,2026-03-03,09:00,Hamburg,Hybrid,Paul Wolf,250,193,0,500,7200,Not required,Proposed,2026-02-10
+EVT-0432,Customer event Jul 2026 - 432,Learning session,2026-07-21,18:00,Remote - Germany,Hybrid,Leon Koch,250,52,0,1200,950,Not required,Proposed,2026-06-30
+EVT-0433,Learning session Jan 2026 - 433,Town hall,2026-01-04,12:30,Hamburg,Online,Mia Schulz,40,10,0,12000,7200,Not required,Proposed,2025-12-14
+EVT-0434,Recruitment fair Jul 2027 - 434,Celebration,2027-07-08,16:00,Hamburg,Hybrid,Hannah Lange,250,200,0,2500,950,Confirmed,In planning,2027-06-17
+EVT-0435,Celebration Jun 2027 - 435,Learning session,2027-06-10,12:30,Cologne,Hybrid,Mia Schulz,250,25,0,2500,4200,Pending,Complete,2027-05-20
+EVT-0436,Wellbeing Sep 2026 - 436,Volunteer day,2026-09-17,12:30,Berlin,Online,Omar Haddad,120,99,0,1200,7200,Pending,In planning,2026-08-27
+EVT-0437,Team social Sep 2027 - 437,Learning session,2027-09-27,10:00,Berlin,Online,David Neumann,80,18,0,8500,950,Not required,Complete,2027-09-06
+EVT-0438,Celebration Sep 2027 - 438,Learning session,2027-09-25,18:00,Remote - Germany,Hybrid,Amira Yilmaz,250,44,0,5000,950,Not required,Approved,2027-09-04
+EVT-0439,Wellbeing May 2027 - 439,Learning session,2027-05-31,10:00,Berlin,Hybrid,Luca Hartmann,120,30,0,500,4200,Confirmed,Proposed,2027-05-10
+EVT-0440,Town hall Jun 2027 - 440,Wellbeing,2027-06-29,18:00,Munich,Online,Luca Hartmann,40,11,0,5000,7200,Not required,In planning,2027-06-08
+EVT-0441,Learning session Mar 2026 - 441,Learning session,2026-03-23,18:00,Munich,Hybrid,Paul Wolf,250,59,0,2500,350,Pending,In planning,2026-03-02
+EVT-0442,Town hall Dec 2027 - 442,Recruitment fair,2027-12-15,12:30,Munich,Online,Sofia Wagner,180,119,0,5000,950,Pending,Complete,2027-11-24
+EVT-0443,Wellbeing Jul 2027 - 443,Customer event,2027-07-22,09:00,Munich,Online,Elena Richter,60,16,0,12000,1800,Confirmed,Proposed,2027-07-01
+EVT-0444,Town hall Jul 2027 - 444,Celebration,2027-07-21,10:00,Cologne,On-site,David Neumann,60,39,0,8500,7200,Not required,In planning,2027-06-30
+EVT-0445,Customer event Oct 2027 - 445,Wellbeing,2027-10-23,10:00,Berlin,On-site,Adam Nowak,40,33,0,1200,4200,Pending,Approved,2027-10-02
+EVT-0446,Volunteer day Jun 2027 - 446,Recruitment fair,2027-06-18,12:30,Berlin,On-site,Paul Wolf,120,4,0,12000,350,Pending,Approved,2027-05-28
+EVT-0447,Customer event Mar 2027 - 447,Learning session,2027-03-05,12:30,Remote - Germany,Online,Mia Schulz,400,7,0,2500,7200,Pending,In planning,2027-02-12
+EVT-0448,Town hall Aug 2026 - 448,Team social,2026-08-15,16:00,Hamburg,Hybrid,Amira Yilmaz,40,24,0,1200,4200,Not required,In planning,2026-07-25
+EVT-0449,Celebration Feb 2027 - 449,Town hall,2027-02-06,10:00,Berlin,On-site,Mia Schulz,60,8,0,8500,4200,Confirmed,Complete,2027-01-16
+EVT-0450,Customer event Jul 2026 - 450,Customer event,2026-07-12,10:00,Munich,Online,Leon Koch,120,24,0,12000,4200,Not required,Complete,2026-06-21
+EVT-0451,Team social Jun 2027 - 451,Volunteer day,2027-06-29,16:00,Hamburg,Online,Jonas Weber,60,51,0,12000,1800,Confirmed,Proposed,2027-06-08
+EVT-0452,Team social Jan 2026 - 452,Recruitment fair,2026-01-05,10:00,Cologne,Online,Jonas Weber,180,119,0,12000,950,Not required,Approved,2025-12-15
+EVT-0453,Town hall Aug 2026 - 453,Team social,2026-08-24,18:00,Cologne,Online,Amira Yilmaz,40,14,0,500,350,Not required,Approved,2026-08-03
+EVT-0454,Town hall Dec 2027 - 454,Volunteer day,2027-12-25,16:00,Remote - Germany,Hybrid,Jonas Weber,40,23,0,12000,350,Not required,Complete,2027-12-04
+EVT-0455,Learning session Jun 2027 - 455,Recruitment fair,2027-06-27,18:00,Munich,Hybrid,Jonas Weber,120,84,0,500,7200,Not required,In planning,2027-06-06
+EVT-0456,Team social Jul 2027 - 456,Volunteer day,2027-07-21,16:00,Munich,Online,Adam Nowak,40,34,0,8500,950,Not required,In planning,2027-06-30
+EVT-0457,Volunteer day Nov 2027 - 457,Learning session,2027-11-25,18:00,Munich,Online,Mia Schulz,40,19,0,8500,4200,Pending,Approved,2027-11-04
+EVT-0458,Celebration Aug 2026 - 458,Celebration,2026-08-28,10:00,Cologne,On-site,Sofia Wagner,180,92,0,5000,350,Confirmed,Complete,2026-08-07
+EVT-0459,Customer event Mar 2027 - 459,Learning session,2027-03-04,16:00,Munich,Online,Leon Koch,80,62,0,2500,4200,Confirmed,In planning,2027-02-11
+EVT-0460,Town hall Jul 2026 - 460,Wellbeing,2026-07-25,18:00,Hamburg,Hybrid,Mia Schulz,120,14,0,8500,7200,Not required,In planning,2026-07-04
+EVT-0461,Town hall Aug 2027 - 461,Volunteer day,2027-08-04,10:00,Hamburg,Hybrid,Lea Schneider,250,214,0,8500,1800,Confirmed,Complete,2027-07-14
+EVT-0462,Celebration Apr 2026 - 462,Town hall,2026-04-02,09:00,Berlin,On-site,Jonas Weber,120,50,0,12000,1800,Pending,Complete,2026-03-12
+EVT-0463,Team social Sep 2027 - 463,Volunteer day,2027-09-16,12:30,Cologne,Hybrid,Emil Hoffmann,100,65,0,8500,950,Confirmed,Proposed,2027-08-26
+EVT-0464,Town hall Feb 2027 - 464,Recruitment fair,2027-02-05,10:00,Berlin,Hybrid,Leon Koch,400,188,0,500,7200,Not required,Complete,2027-01-15
+EVT-0465,Town hall Jun 2026 - 465,Wellbeing,2026-06-08,12:30,Berlin,Online,Elena Richter,60,6,0,5000,350,Pending,In planning,2026-05-18
+EVT-0466,Wellbeing May 2027 - 466,Recruitment fair,2027-05-17,16:00,Cologne,Hybrid,Leon Koch,180,171,0,8500,4200,Not required,Proposed,2027-04-26
+EVT-0467,Town hall Jun 2027 - 467,Volunteer day,2027-06-08,18:00,Remote - Germany,Online,Mia Schulz,60,58,0,1200,350,Confirmed,Complete,2027-05-18
+EVT-0468,Volunteer day May 2027 - 468,Customer event,2027-05-21,18:00,Hamburg,On-site,Hannah Lange,180,48,0,8500,1800,Not required,In planning,2027-04-30
+EVT-0469,Learning session May 2027 - 469,Volunteer day,2027-05-14,12:30,Remote - Germany,On-site,Sara Özdemir,40,14,0,12000,1800,Not required,Proposed,2027-04-23
+EVT-0470,Learning session Jan 2027 - 470,Wellbeing,2027-01-10,18:00,Remote - Germany,Hybrid,Jonas Weber,60,1,0,8500,1800,Pending,Proposed,2026-12-20
+EVT-0471,Team social Mar 2026 - 471,Team social,2026-03-30,10:00,Hamburg,On-site,Jonas Weber,180,88,0,1200,7200,Confirmed,In planning,2026-03-09
+EVT-0472,Customer event Nov 2026 - 472,Wellbeing,2026-11-12,12:30,Munich,On-site,Felix Braun,250,69,0,2500,4200,Not required,Proposed,2026-10-22
+EVT-0473,Volunteer day Sep 2027 - 473,Celebration,2027-09-27,18:00,Hamburg,Hybrid,Mila Fischer,60,22,0,5000,7200,Not required,In planning,2027-09-06
+EVT-0474,Volunteer day May 2027 - 474,Celebration,2027-05-03,12:30,Hamburg,On-site,Hannah Lange,40,27,0,5000,4200,Pending,In planning,2027-04-12
+EVT-0475,Wellbeing Apr 2026 - 475,Volunteer day,2026-04-22,18:00,Berlin,Online,Jonas Weber,250,199,0,2500,1800,Not required,In planning,2026-04-01
+EVT-0476,Wellbeing Dec 2026 - 476,Volunteer day,2026-12-08,12:30,Remote - Germany,Online,Elena Richter,400,176,0,5000,1800,Pending,Complete,2026-11-17
+EVT-0477,Team social Sep 2026 - 477,Celebration,2026-09-04,16:00,Cologne,On-site,Sofia Wagner,250,124,0,8500,4200,Not required,Approved,2026-08-14
+EVT-0478,Customer event Jan 2026 - 478,Celebration,2026-01-29,16:00,Cologne,Online,Paul Wolf,60,12,0,1200,1800,Confirmed,Complete,2026-01-08
+EVT-0479,Recruitment fair Jul 2026 - 479,Town hall,2026-07-19,16:00,Munich,On-site,Mia Schulz,120,16,0,12000,7200,Confirmed,Proposed,2026-06-28
+EVT-0480,Celebration Jun 2026 - 480,Recruitment fair,2026-06-01,09:00,Remote - Germany,Online,Clara Schmitt,80,77,0,12000,350,Confirmed,Approved,2026-05-11
+EVT-0481,Celebration Jun 2027 - 481,Learning session,2027-06-09,10:00,Berlin,On-site,Omar Haddad,400,70,0,2500,1800,Pending,Proposed,2027-05-19
+EVT-0482,Town hall Feb 2026 - 482,Team social,2026-02-26,10:00,Hamburg,Hybrid,Paul Wolf,100,73,0,8500,4200,Pending,In planning,2026-02-05
+EVT-0483,Wellbeing Aug 2027 - 483,Celebration,2027-08-03,12:30,Berlin,Online,Sofia Wagner,400,149,0,1200,1800,Pending,Complete,2027-07-13
+EVT-0484,Celebration Jul 2027 - 484,Town hall,2027-07-08,09:00,Berlin,On-site,Omar Haddad,80,37,0,500,4200,Pending,Complete,2027-06-17
+EVT-0485,Volunteer day Feb 2027 - 485,Town hall,2027-02-01,09:00,Cologne,Online,Nina Krüger,120,55,0,500,950,Not required,Approved,2027-01-11
+EVT-0486,Customer event Nov 2027 - 486,Learning session,2027-11-10,12:30,Berlin,Hybrid,Hannah Lange,60,55,0,8500,1800,Not required,Proposed,2027-10-20
+EVT-0487,Wellbeing Nov 2027 - 487,Volunteer day,2027-11-14,18:00,Remote - Germany,Online,Felix Braun,250,165,0,5000,1800,Not required,Approved,2027-10-24
+EVT-0488,Wellbeing Sep 2026 - 488,Wellbeing,2026-09-10,12:30,Remote - Germany,Hybrid,David Neumann,60,56,0,5000,350,Pending,In planning,2026-08-20
+EVT-0489,Volunteer day Aug 2027 - 489,Learning session,2027-08-11,10:00,Cologne,Online,Hannah Lange,40,24,0,5000,1800,Confirmed,Complete,2027-07-21
+EVT-0490,Customer event May 2026 - 490,Recruitment fair,2026-05-15,09:00,Hamburg,Online,Noah Becker,250,205,0,12000,350,Confirmed,Proposed,2026-04-24
+EVT-0491,Team social Dec 2027 - 491,Learning session,2027-12-23,10:00,Hamburg,Online,Nina Krüger,180,114,0,12000,950,Confirmed,In planning,2027-12-02
+EVT-0492,Customer event Aug 2026 - 492,Recruitment fair,2026-08-18,09:00,Remote - Germany,On-site,Luca Hartmann,60,3,0,8500,950,Pending,Complete,2026-07-28
+EVT-0493,Celebration Jan 2027 - 493,Wellbeing,2027-01-14,09:00,Cologne,Online,Jonas Weber,100,82,0,12000,350,Confirmed,In planning,2026-12-24
+EVT-0494,Volunteer day Nov 2027 - 494,Wellbeing,2027-11-28,16:00,Remote - Germany,Hybrid,Sara Özdemir,80,75,0,5000,350,Not required,Complete,2027-11-07
+EVT-0495,Learning session Sep 2027 - 495,Recruitment fair,2027-09-12,10:00,Remote - Germany,Hybrid,Hannah Lange,100,66,0,2500,950,Confirmed,Proposed,2027-08-22
+EVT-0496,Team social Aug 2027 - 496,Celebration,2027-08-11,16:00,Berlin,Online,Clara Schmitt,250,182,0,1200,4200,Pending,Complete,2027-07-21
+EVT-0497,Learning session Jul 2026 - 497,Volunteer day,2026-07-28,16:00,Hamburg,Online,Felix Braun,60,16,0,2500,4200,Pending,In planning,2026-07-07
+EVT-0498,Customer event Sep 2027 - 498,Recruitment fair,2027-09-07,10:00,Berlin,Online,Sara Özdemir,100,41,0,1200,1800,Pending,Approved,2027-08-17
+EVT-0499,Celebration Oct 2027 - 499,Customer event,2027-10-19,12:30,Cologne,On-site,David Neumann,100,8,0,8500,950,Confirmed,In planning,2027-09-28
+EVT-0500,Celebration Apr 2027 - 500,Volunteer day,2027-04-07,10:00,Remote - Germany,Online,Nina Krüger,80,43,0,2500,7200,Pending,In planning,2027-03-17
+EVT-0501,Wellbeing Dec 2026 - 501,Recruitment fair,2026-12-16,10:00,Munich,On-site,Noah Becker,80,60,0,1200,1800,Pending,In planning,2026-11-25
+EVT-0502,Town hall Dec 2026 - 502,Team social,2026-12-26,09:00,Cologne,On-site,Omar Haddad,250,61,0,8500,1800,Not required,Approved,2026-12-05
+EVT-0503,Customer event May 2027 - 503,Team social,2027-05-28,18:00,Cologne,Online,Amira Yilmaz,80,67,0,1200,350,Not required,Approved,2027-05-07
+EVT-0504,Recruitment fair Feb 2027 - 504,Team social,2027-02-02,18:00,Remote - Germany,On-site,Felix Braun,100,50,0,2500,1800,Pending,Complete,2027-01-12
+EVT-0505,Customer event Apr 2026 - 505,Celebration,2026-04-06,18:00,Remote - Germany,On-site,Sofia Wagner,100,49,0,2500,350,Pending,Approved,2026-03-16
+EVT-0506,Team social Aug 2026 - 506,Recruitment fair,2026-08-22,10:00,Remote - Germany,Hybrid,Mila Fischer,40,40,0,5000,4200,Confirmed,Proposed,2026-08-01
+EVT-0507,Customer event Mar 2026 - 507,Town hall,2026-03-25,18:00,Remote - Germany,On-site,Hannah Lange,40,19,0,8500,7200,Pending,Proposed,2026-03-04
+EVT-0508,Customer event Jan 2026 - 508,Learning session,2026-01-21,09:00,Hamburg,Hybrid,Hannah Lange,120,107,0,2500,950,Confirmed,Approved,2025-12-31
+EVT-0509,Learning session Mar 2026 - 509,Customer event,2026-03-25,09:00,Berlin,On-site,Amira Yilmaz,120,73,0,12000,1800,Confirmed,Proposed,2026-03-04
+EVT-0510,Customer event Mar 2027 - 510,Learning session,2027-03-21,09:00,Hamburg,On-site,Noah Becker,250,128,0,1200,4200,Not required,Approved,2027-02-28
+EVT-0511,Volunteer day Oct 2026 - 511,Wellbeing,2026-10-23,18:00,Hamburg,Hybrid,Noah Becker,180,78,0,12000,1800,Not required,Complete,2026-10-02
+EVT-0512,Town hall Oct 2027 - 512,Learning session,2027-10-31,10:00,Hamburg,On-site,Paul Wolf,80,4,0,8500,950,Confirmed,In planning,2027-10-10
+EVT-0513,Recruitment fair Aug 2026 - 513,Town hall,2026-08-30,18:00,Munich,Online,David Neumann,250,46,0,12000,4200,Pending,Proposed,2026-08-09
+EVT-0514,Volunteer day Sep 2026 - 514,Volunteer day,2026-09-13,12:30,Hamburg,On-site,Lea Schneider,100,6,0,5000,4200,Confirmed,Proposed,2026-08-23
+EVT-0515,Learning session Mar 2027 - 515,Recruitment fair,2027-03-08,18:00,Remote - Germany,Hybrid,Felix Braun,60,32,0,2500,350,Not required,Approved,2027-02-15
+EVT-0516,Customer event Sep 2027 - 516,Learning session,2027-09-12,09:00,Cologne,Online,Nina Krüger,120,58,0,2500,1800,Not required,Approved,2027-08-22
+EVT-0517,Learning session Apr 2027 - 517,Customer event,2027-04-16,10:00,Hamburg,Online,Mia Schulz,100,78,0,12000,7200,Not required,Approved,2027-03-26
+EVT-0518,Celebration Sep 2026 - 518,Town hall,2026-09-06,16:00,Cologne,On-site,Noah Becker,180,108,0,8500,1800,Confirmed,In planning,2026-08-16
+EVT-0519,Celebration Mar 2026 - 519,Recruitment fair,2026-03-14,16:00,Hamburg,Online,Elena Richter,60,28,0,1200,350,Confirmed,Approved,2026-02-21
+EVT-0520,Town hall Jul 2027 - 520,Town hall,2027-07-02,16:00,Hamburg,Online,David Neumann,400,332,0,1200,7200,Pending,Approved,2027-06-11
+EVT-0521,Celebration Sep 2026 - 521,Volunteer day,2026-09-01,18:00,Remote - Germany,On-site,Lea Schneider,120,3,0,2500,950,Confirmed,Proposed,2026-08-11
+EVT-0522,Customer event Sep 2027 - 522,Town hall,2027-09-26,10:00,Hamburg,On-site,Noah Becker,60,28,0,5000,950,Not required,Approved,2027-09-05
+EVT-0523,Team social Dec 2026 - 523,Wellbeing,2026-12-08,09:00,Munich,On-site,Omar Haddad,40,16,0,12000,350,Pending,Approved,2026-11-17
+EVT-0524,Recruitment fair Aug 2027 - 524,Customer event,2027-08-25,10:00,Cologne,Online,Sofia Wagner,180,164,0,2500,950,Confirmed,Proposed,2027-08-04
+EVT-0525,Learning session Aug 2026 - 525,Volunteer day,2026-08-03,09:00,Hamburg,Hybrid,Mila Fischer,100,96,0,1200,350,Pending,In planning,2026-07-13
+EVT-0526,Team social Feb 2027 - 526,Learning session,2027-02-02,10:00,Cologne,Hybrid,Noah Becker,400,228,0,5000,7200,Confirmed,Approved,2027-01-12
+EVT-0527,Celebration Apr 2026 - 527,Town hall,2026-04-11,09:00,Hamburg,Hybrid,Emil Hoffmann,60,10,0,12000,1800,Not required,Approved,2026-03-21
+EVT-0528,Customer event Jun 2026 - 528,Wellbeing,2026-06-21,16:00,Remote - Germany,Online,Hannah Lange,400,316,0,5000,4200,Not required,Proposed,2026-05-31
+EVT-0529,Recruitment fair Oct 2027 - 529,Recruitment fair,2027-10-11,09:00,Hamburg,Online,Elena Richter,250,33,0,2500,1800,Not required,In planning,2027-09-20
+EVT-0530,Learning session May 2027 - 530,Customer event,2027-05-15,09:00,Hamburg,Hybrid,Paul Wolf,120,70,0,5000,350,Pending,Complete,2027-04-24
+EVT-0531,Wellbeing Oct 2026 - 531,Celebration,2026-10-05,09:00,Cologne,On-site,Elena Richter,60,4,0,500,1800,Not required,Approved,2026-09-14
+EVT-0532,Town hall Jun 2027 - 532,Learning session,2027-06-26,12:30,Hamburg,Online,Emil Hoffmann,80,58,0,12000,7200,Confirmed,Proposed,2027-06-05
+EVT-0533,Team social Oct 2026 - 533,Team social,2026-10-24,16:00,Berlin,Online,Adam Nowak,80,75,0,2500,950,Not required,Proposed,2026-10-03
+EVT-0534,Recruitment fair Oct 2026 - 534,Celebration,2026-10-04,10:00,Munich,Hybrid,Elena Richter,400,354,0,2500,350,Not required,In planning,2026-09-13
+EVT-0535,Customer event May 2027 - 535,Town hall,2027-05-23,09:00,Munich,Online,Jonas Weber,60,57,0,500,350,Not required,Approved,2027-05-02
+EVT-0536,Learning session Sep 2027 - 536,Volunteer day,2027-09-04,18:00,Munich,Online,Jonas Weber,80,73,0,1200,950,Confirmed,Approved,2027-08-14
+EVT-0537,Team social Jul 2027 - 537,Volunteer day,2027-07-12,18:00,Munich,Online,Elena Richter,180,126,0,5000,1800,Not required,Approved,2027-06-21
+EVT-0538,Customer event Sep 2026 - 538,Town hall,2026-09-20,12:30,Berlin,Hybrid,Felix Braun,250,77,0,5000,950,Pending,Complete,2026-08-30
+EVT-0539,Celebration Jun 2027 - 539,Learning session,2027-06-24,12:30,Cologne,Hybrid,Sofia Wagner,250,171,0,1200,4200,Not required,In planning,2027-06-03
+EVT-0540,Customer event Oct 2026 - 540,Town hall,2026-10-04,18:00,Berlin,On-site,Lea Schneider,120,37,0,8500,350,Pending,In planning,2026-09-13
+EVT-0541,Learning session Dec 2027 - 541,Learning session,2027-12-12,18:00,Hamburg,Online,Sara Özdemir,120,111,0,8500,950,Not required,Approved,2027-11-21
+EVT-0542,Learning session Sep 2026 - 542,Celebration,2026-09-29,18:00,Cologne,Hybrid,Omar Haddad,120,1,0,12000,350,Not required,Complete,2026-09-08
+EVT-0543,Celebration Jan 2027 - 543,Celebration,2027-01-29,16:00,Munich,Hybrid,David Neumann,120,114,0,2500,1800,Pending,Approved,2027-01-08
+EVT-0544,Team social Mar 2027 - 544,Team social,2027-03-26,10:00,Munich,On-site,Clara Schmitt,180,141,0,500,350,Not required,Proposed,2027-03-05
+EVT-0545,Wellbeing Mar 2027 - 545,Customer event,2027-03-05,10:00,Remote - Germany,Online,Amira Yilmaz,120,103,0,1200,350,Confirmed,Approved,2027-02-12
+EVT-0546,Wellbeing Apr 2026 - 546,Learning session,2026-04-29,10:00,Remote - Germany,Hybrid,Sara Özdemir,40,12,0,2500,7200,Not required,Proposed,2026-04-08
+EVT-0547,Town hall Nov 2026 - 547,Volunteer day,2026-11-06,16:00,Cologne,Hybrid,Elena Richter,180,51,0,8500,7200,Confirmed,In planning,2026-10-16
+EVT-0548,Recruitment fair Nov 2027 - 548,Customer event,2027-11-14,16:00,Remote - Germany,On-site,Elena Richter,250,105,0,12000,4200,Confirmed,Proposed,2027-10-24
+EVT-0549,Learning session Jul 2026 - 549,Wellbeing,2026-07-02,12:30,Hamburg,Online,Sara Özdemir,250,72,0,500,7200,Not required,Proposed,2026-06-11
+EVT-0550,Town hall Mar 2026 - 550,Customer event,2026-03-12,16:00,Hamburg,Hybrid,Leon Koch,120,18,0,12000,7200,Confirmed,Complete,2026-02-19
+EVT-0551,Learning session Jul 2026 - 551,Town hall,2026-07-28,18:00,Cologne,Online,Lea Schneider,400,262,0,12000,7200,Confirmed,In planning,2026-07-07
+EVT-0552,Team social Aug 2026 - 552,Recruitment fair,2026-08-30,10:00,Remote - Germany,Hybrid,Jonas Weber,400,29,0,2500,350,Not required,Complete,2026-08-09
+EVT-0553,Team social Jun 2026 - 553,Celebration,2026-06-25,16:00,Hamburg,On-site,Jonas Weber,180,103,0,1200,7200,Pending,Approved,2026-06-04
+EVT-0554,Volunteer day Feb 2026 - 554,Learning session,2026-02-07,09:00,Cologne,On-site,Felix Braun,100,44,0,1200,350,Not required,Proposed,2026-01-17
+EVT-0555,Team social Dec 2027 - 555,Celebration,2027-12-26,12:30,Munich,On-site,Nina Krüger,40,9,0,12000,950,Pending,Approved,2027-12-05
+EVT-0556,Celebration Jun 2026 - 556,Team social,2026-06-19,09:00,Remote - Germany,On-site,Leon Koch,60,20,0,500,950,Confirmed,Proposed,2026-05-29
+EVT-0557,Learning session Apr 2027 - 557,Recruitment fair,2027-04-11,09:00,Berlin,Hybrid,Luca Hartmann,180,112,0,12000,7200,Confirmed,In planning,2027-03-21
+EVT-0558,Team social Jul 2027 - 558,Volunteer day,2027-07-13,10:00,Hamburg,Online,Lea Schneider,80,25,0,2500,4200,Confirmed,Complete,2027-06-22
+EVT-0559,Town hall Feb 2027 - 559,Learning session,2027-02-24,16:00,Munich,Hybrid,Mila Fischer,80,46,0,5000,950,Not required,Proposed,2027-02-03
+EVT-0560,Customer event Dec 2026 - 560,Customer event,2026-12-14,10:00,Cologne,Online,Adam Nowak,60,7,0,8500,950,Pending,Approved,2026-11-23
+EVT-0561,Wellbeing Aug 2027 - 561,Learning session,2027-08-04,10:00,Remote - Germany,On-site,Adam Nowak,100,88,0,1200,7200,Confirmed,In planning,2027-07-14
+EVT-0562,Volunteer day Jul 2026 - 562,Celebration,2026-07-09,18:00,Remote - Germany,Online,Leon Koch,250,157,0,12000,7200,Pending,Approved,2026-06-18
+EVT-0563,Learning session Dec 2027 - 563,Celebration,2027-12-15,12:30,Remote - Germany,Online,Luca Hartmann,250,218,0,12000,1800,Pending,Proposed,2027-11-24
+EVT-0564,Wellbeing May 2027 - 564,Town hall,2027-05-15,18:00,Munich,On-site,Luca Hartmann,250,91,0,8500,950,Confirmed,In planning,2027-04-24
+EVT-0565,Town hall Aug 2026 - 565,Customer event,2026-08-29,16:00,Berlin,Hybrid,Nina Krüger,40,29,0,12000,7200,Pending,Proposed,2026-08-08
+EVT-0566,Wellbeing Feb 2026 - 566,Team social,2026-02-20,18:00,Hamburg,On-site,Mia Schulz,400,303,0,8500,350,Not required,In planning,2026-01-30
+EVT-0567,Celebration Oct 2026 - 567,Learning session,2026-10-05,18:00,Remote - Germany,Hybrid,Luca Hartmann,250,221,0,2500,350,Pending,In planning,2026-09-14
+EVT-0568,Team social Jan 2026 - 568,Learning session,2026-01-02,18:00,Munich,On-site,Mia Schulz,180,179,0,5000,4200,Not required,Approved,2025-12-12
+EVT-0569,Town hall Nov 2027 - 569,Team social,2027-11-04,09:00,Hamburg,Hybrid,Sofia Wagner,60,48,0,12000,1800,Not required,In planning,2027-10-14
+EVT-0570,Team social Sep 2027 - 570,Volunteer day,2027-09-04,12:30,Remote - Germany,Hybrid,Nina Krüger,120,23,0,8500,7200,Pending,Complete,2027-08-14
+EVT-0571,Team social Oct 2027 - 571,Team social,2027-10-07,10:00,Munich,Hybrid,Emil Hoffmann,100,29,0,1200,4200,Not required,Complete,2027-09-16
+EVT-0572,Wellbeing Mar 2026 - 572,Celebration,2026-03-24,16:00,Remote - Germany,Hybrid,Elena Richter,400,79,0,8500,950,Not required,In planning,2026-03-03
+EVT-0573,Wellbeing Mar 2027 - 573,Volunteer day,2027-03-20,09:00,Hamburg,Hybrid,Noah Becker,40,14,0,5000,7200,Pending,In planning,2027-02-27
+EVT-0574,Recruitment fair May 2026 - 574,Team social,2026-05-08,10:00,Berlin,On-site,Sofia Wagner,400,313,0,500,350,Not required,Proposed,2026-04-17
+EVT-0575,Team social May 2026 - 575,Town hall,2026-05-06,12:30,Berlin,Hybrid,Noah Becker,120,7,0,500,7200,Pending,Proposed,2026-04-15
+EVT-0576,Volunteer day May 2027 - 576,Volunteer day,2027-05-03,12:30,Munich,Online,Clara Schmitt,180,59,0,2500,4200,Confirmed,Complete,2027-04-12
+EVT-0577,Learning session Jul 2027 - 577,Team social,2027-07-09,16:00,Hamburg,Hybrid,Jonas Weber,60,19,0,500,7200,Not required,In planning,2027-06-18
+EVT-0578,Celebration Sep 2026 - 578,Town hall,2026-09-23,12:30,Cologne,On-site,Omar Haddad,100,36,0,1200,350,Not required,Proposed,2026-09-02
+EVT-0579,Wellbeing Oct 2026 - 579,Celebration,2026-10-04,16:00,Remote - Germany,On-site,Amira Yilmaz,120,60,0,500,350,Not required,Approved,2026-09-13
+EVT-0580,Volunteer day Jul 2027 - 580,Learning session,2027-07-30,10:00,Munich,Online,Hannah Lange,60,44,0,12000,1800,Not required,In planning,2027-07-09
+EVT-0581,Town hall Aug 2026 - 581,Recruitment fair,2026-08-30,10:00,Munich,Hybrid,Sara Özdemir,60,9,0,2500,7200,Confirmed,Approved,2026-08-09
+EVT-0582,Learning session Jan 2027 - 582,Wellbeing,2027-01-12,09:00,Cologne,Hybrid,Mia Schulz,60,2,0,12000,7200,Not required,Complete,2026-12-22
+EVT-0583,Wellbeing Sep 2026 - 583,Customer event,2026-09-19,10:00,Cologne,Online,Elena Richter,100,85,0,2500,950,Pending,Complete,2026-08-29
+EVT-0584,Wellbeing Nov 2027 - 584,Recruitment fair,2027-11-05,18:00,Berlin,On-site,Lea Schneider,180,174,0,8500,1800,Confirmed,Approved,2027-10-15
+EVT-0585,Recruitment fair Oct 2026 - 585,Celebration,2026-10-05,10:00,Munich,Online,Mia Schulz,400,117,0,5000,950,Not required,Proposed,2026-09-14
+EVT-0586,Learning session Apr 2026 - 586,Learning session,2026-04-10,09:00,Munich,On-site,Amira Yilmaz,180,116,0,1200,950,Confirmed,In planning,2026-03-20
+EVT-0587,Volunteer day Feb 2027 - 587,Customer event,2027-02-21,10:00,Munich,On-site,Nina Krüger,120,46,0,8500,1800,Pending,In planning,2027-01-31
+EVT-0588,Learning session Aug 2026 - 588,Customer event,2026-08-28,16:00,Hamburg,Online,David Neumann,40,0,0,5000,350,Not required,Proposed,2026-08-07
+EVT-0589,Celebration Jul 2027 - 589,Wellbeing,2027-07-13,09:00,Hamburg,Hybrid,Amira Yilmaz,180,144,0,8500,350,Confirmed,In planning,2027-06-22
+EVT-0590,Recruitment fair Mar 2026 - 590,Wellbeing,2026-03-15,12:30,Munich,Hybrid,Jonas Weber,60,22,0,8500,350,Not required,In planning,2026-02-22
+EVT-0591,Celebration Apr 2026 - 591,Recruitment fair,2026-04-12,12:30,Berlin,Hybrid,Mia Schulz,80,23,0,2500,950,Not required,Complete,2026-03-22
+EVT-0592,Recruitment fair Jul 2026 - 592,Customer event,2026-07-01,09:00,Munich,On-site,Clara Schmitt,400,244,0,2500,4200,Confirmed,Complete,2026-06-10
+EVT-0593,Recruitment fair Feb 2026 - 593,Wellbeing,2026-02-18,12:30,Remote - Germany,On-site,Noah Becker,40,6,0,5000,1800,Pending,Proposed,2026-01-28
+EVT-0594,Town hall Apr 2027 - 594,Wellbeing,2027-04-23,10:00,Cologne,Hybrid,Emil Hoffmann,100,13,0,2500,350,Pending,Approved,2027-04-02
+EVT-0595,Customer event Jun 2027 - 595,Recruitment fair,2027-06-05,09:00,Munich,Online,Jonas Weber,400,156,0,1200,950,Confirmed,Complete,2027-05-15
+EVT-0596,Recruitment fair Sep 2027 - 596,Volunteer day,2027-09-03,18:00,Remote - Germany,On-site,Elena Richter,100,92,0,12000,350,Confirmed,In planning,2027-08-13
+EVT-0597,Town hall Sep 2026 - 597,Wellbeing,2026-09-25,09:00,Berlin,Hybrid,Paul Wolf,180,134,0,500,4200,Pending,In planning,2026-09-04
+EVT-0598,Learning session Feb 2026 - 598,Team social,2026-02-08,18:00,Hamburg,Hybrid,Mila Fischer,60,32,0,5000,4200,Pending,In planning,2026-01-18
+EVT-0599,Volunteer day Mar 2026 - 599,Wellbeing,2026-03-07,16:00,Cologne,Online,Emil Hoffmann,80,63,0,8500,1800,Confirmed,In planning,2026-02-14
+EVT-0600,Town hall Mar 2026 - 600,Volunteer day,2026-03-22,12:30,Munich,Online,Noah Becker,100,22,0,1200,4200,Not required,Complete,2026-03-01
+EVT-0601,Team social Feb 2027 - 601,Celebration,2027-02-25,18:00,Remote - Germany,Hybrid,Adam Nowak,180,13,0,2500,950,Not required,In planning,2027-02-04
+EVT-0602,Volunteer day Jul 2027 - 602,Learning session,2027-07-25,10:00,Berlin,On-site,Noah Becker,80,33,0,500,1800,Confirmed,Proposed,2027-07-04
+EVT-0603,Recruitment fair Sep 2026 - 603,Wellbeing,2026-09-27,09:00,Munich,Online,Clara Schmitt,180,37,0,500,4200,Not required,Proposed,2026-09-06
+EVT-0604,Wellbeing Dec 2027 - 604,Learning session,2027-12-22,09:00,Remote - Germany,On-site,Mia Schulz,250,135,0,2500,7200,Not required,Complete,2027-12-01
+EVT-0605,Recruitment fair May 2027 - 605,Learning session,2027-05-14,10:00,Hamburg,Online,Clara Schmitt,250,66,0,8500,4200,Confirmed,Complete,2027-04-23
+EVT-0606,Town hall Jun 2027 - 606,Volunteer day,2027-06-11,10:00,Berlin,On-site,Hannah Lange,60,0,0,1200,4200,Confirmed,Complete,2027-05-21
+EVT-0607,Celebration Sep 2027 - 607,Team social,2027-09-24,10:00,Berlin,On-site,Elena Richter,60,14,0,500,1800,Not required,In planning,2027-09-03
+EVT-0608,Recruitment fair Sep 2027 - 608,Customer event,2027-09-03,18:00,Berlin,Hybrid,Amira Yilmaz,60,18,0,500,350,Confirmed,Approved,2027-08-13
+EVT-0609,Learning session Jun 2026 - 609,Learning session,2026-06-07,18:00,Cologne,Online,Adam Nowak,60,54,0,5000,350,Not required,Proposed,2026-05-17
+EVT-0610,Team social Jan 2027 - 610,Recruitment fair,2027-01-10,16:00,Remote - Germany,Hybrid,Sara Özdemir,120,71,0,12000,350,Not required,In planning,2026-12-20
+EVT-0611,Celebration Jan 2026 - 611,Town hall,2026-01-17,10:00,Remote - Germany,Online,Hannah Lange,100,80,0,2500,950,Not required,Proposed,2025-12-27
+EVT-0612,Volunteer day Mar 2027 - 612,Team social,2027-03-01,18:00,Remote - Germany,On-site,Amira Yilmaz,250,153,0,5000,7200,Not required,In planning,2027-02-08
+EVT-0613,Customer event Jun 2027 - 613,Recruitment fair,2027-06-08,10:00,Berlin,Hybrid,Clara Schmitt,250,176,0,5000,7200,Not required,Approved,2027-05-18
+EVT-0614,Customer event May 2027 - 614,Celebration,2027-05-22,12:30,Cologne,On-site,Luca Hartmann,80,57,0,1200,7200,Pending,Approved,2027-05-01
+EVT-0615,Learning session Dec 2026 - 615,Learning session,2026-12-03,10:00,Munich,Hybrid,Elena Richter,250,132,0,12000,350,Pending,In planning,2026-11-12
+EVT-0616,Celebration Oct 2027 - 616,Volunteer day,2027-10-20,18:00,Munich,Online,Lea Schneider,250,33,0,12000,4200,Confirmed,Approved,2027-09-29
+EVT-0617,Volunteer day Jan 2027 - 617,Recruitment fair,2027-01-15,12:30,Hamburg,Online,Felix Braun,120,14,0,8500,1800,Confirmed,Approved,2026-12-25
+EVT-0618,Team social Dec 2026 - 618,Town hall,2026-12-01,10:00,Berlin,On-site,Leon Koch,250,62,0,8500,4200,Confirmed,Approved,2026-11-10
+EVT-0619,Customer event Jul 2026 - 619,Learning session,2026-07-16,09:00,Hamburg,Hybrid,Sara Özdemir,400,364,0,2500,350,Not required,Proposed,2026-06-25
+EVT-0620,Recruitment fair Jun 2027 - 620,Recruitment fair,2027-06-15,12:30,Munich,Online,Lea Schneider,60,29,0,8500,7200,Not required,Approved,2027-05-25
+EVT-0621,Town hall Aug 2026 - 621,Customer event,2026-08-15,16:00,Remote - Germany,On-site,Noah Becker,400,344,0,8500,7200,Confirmed,In planning,2026-07-25
+EVT-0622,Recruitment fair Dec 2026 - 622,Celebration,2026-12-30,09:00,Munich,Online,Adam Nowak,400,127,0,8500,7200,Not required,Complete,2026-12-09
+EVT-0623,Learning session Jan 2027 - 623,Customer event,2027-01-24,10:00,Berlin,On-site,Sara Özdemir,40,19,0,500,4200,Not required,Proposed,2027-01-03
+EVT-0624,Customer event Aug 2026 - 624,Volunteer day,2026-08-26,18:00,Remote - Germany,Hybrid,Paul Wolf,80,65,0,12000,950,Not required,In planning,2026-08-05
+EVT-0625,Team social Apr 2026 - 625,Celebration,2026-04-12,18:00,Berlin,On-site,Felix Braun,100,25,0,5000,7200,Not required,Approved,2026-03-22
+EVT-0626,Town hall Mar 2027 - 626,Volunteer day,2027-03-24,16:00,Remote - Germany,On-site,Leon Koch,80,29,0,12000,950,Confirmed,Proposed,2027-03-03
+EVT-0627,Town hall Jul 2026 - 627,Celebration,2026-07-22,18:00,Munich,Online,Mila Fischer,250,138,0,1200,350,Confirmed,Proposed,2026-07-01
+EVT-0628,Learning session Mar 2026 - 628,Customer event,2026-03-28,10:00,Remote - Germany,Online,Nina Krüger,120,25,0,1200,1800,Not required,In planning,2026-03-07
+EVT-0629,Volunteer day Jan 2027 - 629,Wellbeing,2027-01-07,10:00,Remote - Germany,Hybrid,David Neumann,120,40,0,1200,350,Pending,Complete,2026-12-17
+EVT-0630,Town hall Jan 2026 - 630,Wellbeing,2026-01-30,09:00,Remote - Germany,Hybrid,Elena Richter,80,30,0,2500,950,Not required,In planning,2026-01-09
+EVT-0631,Volunteer day Nov 2027 - 631,Team social,2027-11-13,16:00,Munich,Hybrid,Omar Haddad,120,113,0,8500,4200,Confirmed,Approved,2027-10-23
+EVT-0632,Celebration Oct 2026 - 632,Celebration,2026-10-10,16:00,Cologne,On-site,Mila Fischer,120,111,0,8500,950,Not required,Approved,2026-09-19
+EVT-0633,Town hall Aug 2027 - 633,Customer event,2027-08-10,12:30,Berlin,On-site,Sofia Wagner,180,142,0,2500,7200,Not required,In planning,2027-07-20
+EVT-0634,Celebration Apr 2027 - 634,Town hall,2027-04-18,12:30,Cologne,Online,David Neumann,400,129,0,8500,350,Not required,Complete,2027-03-28
+EVT-0635,Town hall Aug 2027 - 635,Celebration,2027-08-03,10:00,Berlin,Online,Hannah Lange,40,21,0,5000,7200,Pending,Approved,2027-07-13
+EVT-0636,Wellbeing Nov 2026 - 636,Learning session,2026-11-30,10:00,Hamburg,Online,Omar Haddad,60,51,0,500,4200,Not required,Complete,2026-11-09
+EVT-0637,Wellbeing Jul 2027 - 637,Learning session,2027-07-11,10:00,Remote - Germany,Online,Omar Haddad,250,69,0,12000,1800,Pending,In planning,2027-06-20
+EVT-0638,Recruitment fair Feb 2027 - 638,Celebration,2027-02-11,09:00,Remote - Germany,Online,Mia Schulz,80,75,0,8500,7200,Confirmed,In planning,2027-01-21
+EVT-0639,Town hall Nov 2026 - 639,Team social,2026-11-30,12:30,Berlin,Online,Lea Schneider,80,27,0,1200,4200,Pending,Proposed,2026-11-09
+EVT-0640,Customer event Mar 2027 - 640,Celebration,2027-03-12,10:00,Berlin,Online,Mila Fischer,250,230,0,500,7200,Pending,In planning,2027-02-19
+EVT-0641,Recruitment fair Feb 2026 - 641,Customer event,2026-02-22,18:00,Remote - Germany,Hybrid,Jonas Weber,120,96,0,8500,350,Pending,Approved,2026-02-01
+EVT-0642,Customer event Oct 2026 - 642,Celebration,2026-10-02,09:00,Cologne,Online,Sara Özdemir,400,182,0,8500,1800,Not required,In planning,2026-09-11
+EVT-0643,Customer event Nov 2026 - 643,Learning session,2026-11-25,16:00,Berlin,Online,David Neumann,250,115,0,12000,950,Pending,Complete,2026-11-04
+EVT-0644,Celebration Nov 2027 - 644,Wellbeing,2027-11-02,10:00,Berlin,Online,Clara Schmitt,100,7,0,500,7200,Not required,In planning,2027-10-12
+EVT-0645,Team social Jan 2026 - 645,Town hall,2026-01-05,10:00,Berlin,Hybrid,David Neumann,100,67,0,2500,7200,Pending,Complete,2025-12-15
+EVT-0646,Volunteer day Oct 2026 - 646,Town hall,2026-10-05,16:00,Berlin,Hybrid,Mila Fischer,60,56,0,1200,1800,Pending,Complete,2026-09-14
+EVT-0647,Town hall Jun 2027 - 647,Wellbeing,2027-06-22,09:00,Cologne,Online,Hannah Lange,120,9,0,5000,7200,Not required,In planning,2027-06-01
+EVT-0648,Team social Dec 2026 - 648,Volunteer day,2026-12-08,12:30,Berlin,On-site,Amira Yilmaz,180,112,0,1200,7200,Confirmed,Proposed,2026-11-17
+EVT-0649,Customer event Sep 2026 - 649,Team social,2026-09-17,18:00,Hamburg,Hybrid,Hannah Lange,120,98,0,2500,7200,Confirmed,Complete,2026-08-27
+EVT-0650,Celebration Dec 2026 - 650,Team social,2026-12-30,16:00,Berlin,Online,Mila Fischer,120,113,0,1200,4200,Not required,Approved,2026-12-09

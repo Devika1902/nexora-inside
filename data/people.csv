@@ -1,651 +1,651 @@
-﻿id,name,role,department,location,email,start_date,manager,pronouns
-NX-0001,Jonas Becker,Software Engineer,Engineering,Munich,jonas.becker@nexora.example,2018-01-18,Nina Schulz,she/her
-NX-0002,Lea Braun,Product Manager,Product,Hamburg,lea.braun@nexora.example,2018-02-04,Ava Bauer,he/him
-NX-0003,Mateo Wagner,Communications Specialist,Finance,Cologne,mateo.wagner@nexora.example,2018-02-21,Emil Meyer,she/her
-NX-0004,Sofia Neumann,Finance Analyst,Operations,Stockholm,sofia.neumann@nexora.example,2018-03-10,Maya Keller,she/her
-NX-0005,Noah Fischer,Office Coordinator,Sales,Amsterdam,noah.fischer@nexora.example,2018-03-27,Felix Becker,she/her
-NX-0006,Mila Wolf,UX Researcher,Marketing,Remote — Germany,mila.wolf@nexora.example,2018-04-13,Ines Braun,he/him
-NX-0007,Elias Hoffmann,Talent Partner,Customer Success,Frankfurt,elias.hoffmann@nexora.example,2018-04-30,David Wagner,they/them
-NX-0008,Zara Koch,Customer Success Manager,IT & Security,Berlin,zara.koch@nexora.example,2018-05-17,Clara Neumann,they/them
-NX-0009,Luca Weber,Security Engineer,Sustainability,Munich,luca.weber@nexora.example,2018-06-03,Amira Fischer,he/him
-NX-0010,Freya Richter,Sales Director,People & Culture,Hamburg,freya.richter@nexora.example,2018-06-20,Jonas Wolf,they/them
-NX-0011,Theo Schmidt,Data Scientist,Engineering,Cologne,theo.schmidt@nexora.example,2018-07-07,Lea Hoffmann,he/him
-NX-0012,Nina Schulz,People Partner,Product,Stockholm,nina.schulz@nexora.example,2018-07-24,Mateo Koch,he/him
-NX-0013,Ava Bauer,Software Engineer,Finance,Amsterdam,ava.bauer@nexora.example,2018-08-10,Sofia Weber,he/him
-NX-0014,Emil Meyer,Product Manager,Operations,Remote — Germany,emil.meyer@nexora.example,2018-08-27,Noah Richter,he/him
-NX-0015,Maya Keller,Communications Specialist,Sales,Frankfurt,maya.keller@nexora.example,2018-09-13,Mila Schmidt,she/her
-NX-0016,Felix Becker,Finance Analyst,Marketing,Berlin,felix.becker@nexora.example,2018-09-30,Elias Schulz,he/him
-NX-0017,Ines Braun,Office Coordinator,Customer Success,Munich,ines.braun@nexora.example,2018-10-17,Zara Bauer,she/her
-NX-0018,David Wagner,UX Researcher,IT & Security,Hamburg,david.wagner@nexora.example,2018-11-03,Luca Meyer,he/him
-NX-0019,Clara Neumann,Talent Partner,Sustainability,Cologne,clara.neumann@nexora.example,2018-11-20,Freya Keller,she/her
-NX-0020,Amira Fischer,Customer Success Manager,People & Culture,Stockholm,amira.fischer@nexora.example,2018-12-07,Theo Becker,she/her
-NX-0021,Jonas Wolf,Security Engineer,Engineering,Amsterdam,jonas.wolf@nexora.example,2018-12-24,Nina Braun,she/her
-NX-0022,Lea Hoffmann,Sales Director,Product,Remote — Germany,lea.hoffmann@nexora.example,2019-01-10,Ava Wagner,he/him
-NX-0023,Mateo Koch,Data Scientist,Finance,Frankfurt,mateo.koch@nexora.example,2019-01-27,Emil Neumann,she/her
-NX-0024,Sofia Weber,People Partner,Operations,Berlin,sofia.weber@nexora.example,2019-02-13,Maya Fischer,he/him
-NX-0025,Noah Richter,Software Engineer,Sales,Munich,noah.richter@nexora.example,2019-03-02,Felix Wolf,they/them
-NX-0026,Mila Schmidt,Product Manager,Marketing,Hamburg,mila.schmidt@nexora.example,2019-03-19,Ines Hoffmann,he/him
-NX-0027,Elias Schulz,Communications Specialist,Customer Success,Cologne,elias.schulz@nexora.example,2019-04-05,David Koch,he/him
-NX-0028,Zara Bauer,Finance Analyst,IT & Security,Stockholm,zara.bauer@nexora.example,2019-04-22,Clara Weber,she/her
-NX-0029,Luca Meyer,Office Coordinator,Sustainability,Amsterdam,luca.meyer@nexora.example,2019-05-09,Amira Richter,he/him
-NX-0030,Freya Keller,UX Researcher,People & Culture,Remote — Germany,freya.keller@nexora.example,2019-05-26,Jonas Schmidt,he/him
-NX-0031,Theo Becker,Talent Partner,Engineering,Frankfurt,theo.becker@nexora.example,2019-06-12,Lea Schulz,they/them
-NX-0032,Nina Braun,Customer Success Manager,Product,Berlin,nina.braun@nexora.example,2019-06-29,Mateo Bauer,he/him
-NX-0033,Ava Wagner,Security Engineer,Finance,Munich,ava.wagner@nexora.example,2019-07-16,Sofia Meyer,she/her
-NX-0034,Emil Neumann,Sales Director,Operations,Hamburg,emil.neumann@nexora.example,2019-08-02,Noah Keller,he/him
-NX-0035,Maya Fischer,Data Scientist,Sales,Cologne,maya.fischer@nexora.example,2019-08-19,Mila Becker,she/her
-NX-0036,Felix Wolf,People Partner,Marketing,Stockholm,felix.wolf@nexora.example,2019-09-05,Elias Braun,he/him
-NX-0037,Ines Hoffmann,Software Engineer,Customer Success,Amsterdam,ines.hoffmann@nexora.example,2019-09-22,Zara Wagner,he/him
-NX-0038,David Koch,Product Manager,IT & Security,Remote — Germany,david.koch@nexora.example,2019-10-09,Luca Neumann,he/him
-NX-0039,Clara Weber,Communications Specialist,Sustainability,Frankfurt,clara.weber@nexora.example,2019-10-26,Freya Fischer,she/her
-NX-0040,Amira Richter,Finance Analyst,People & Culture,Berlin,amira.richter@nexora.example,2019-11-12,Theo Wolf,she/her
-NX-0041,Jonas Schmidt,Office Coordinator,Engineering,Munich,jonas.schmidt@nexora.example,2019-11-29,Nina Hoffmann,he/him
-NX-0042,Lea Schulz,UX Researcher,Product,Hamburg,lea.schulz@nexora.example,2019-12-16,Ava Koch,she/her
-NX-0043,Mateo Bauer,Talent Partner,Finance,Cologne,mateo.bauer@nexora.example,2020-01-02,Emil Weber,she/her
-NX-0044,Sofia Meyer,Customer Success Manager,Operations,Stockholm,sofia.meyer@nexora.example,2020-01-19,Maya Richter,she/her
-NX-0045,Noah Keller,Security Engineer,Sales,Amsterdam,noah.keller@nexora.example,2020-02-05,Felix Schmidt,they/them
-NX-0046,Mila Becker,Sales Director,Marketing,Remote — Germany,mila.becker@nexora.example,2020-02-22,Ines Schulz,they/them
-NX-0047,Elias Braun,Data Scientist,Customer Success,Frankfurt,elias.braun@nexora.example,2020-03-10,David Bauer,he/him
-NX-0048,Zara Wagner,People Partner,IT & Security,Berlin,zara.wagner@nexora.example,2020-03-27,Clara Meyer,he/him
-NX-0049,Luca Neumann,Software Engineer,Sustainability,Munich,luca.neumann@nexora.example,2020-04-13,Amira Keller,he/him
-NX-0050,Freya Fischer,Product Manager,People & Culture,Hamburg,freya.fischer@nexora.example,2020-04-30,Jonas Becker,she/her
-NX-0051,Theo Wolf,Communications Specialist,Engineering,Cologne,theo.wolf@nexora.example,2020-05-17,Lea Braun,she/her
-NX-0052,Nina Hoffmann,Finance Analyst,Product,Stockholm,nina.hoffmann@nexora.example,2020-06-03,Mateo Wagner,he/him
-NX-0053,Ava Koch,Office Coordinator,Finance,Amsterdam,ava.koch@nexora.example,2020-06-20,Sofia Neumann,she/her
-NX-0054,Emil Weber,UX Researcher,Operations,Remote — Germany,emil.weber@nexora.example,2020-07-07,Noah Fischer,he/him
-NX-0055,Maya Richter,Talent Partner,Sales,Frankfurt,maya.richter@nexora.example,2020-07-24,Mila Wolf,she/her
-NX-0056,Felix Schmidt,Customer Success Manager,Marketing,Berlin,felix.schmidt@nexora.example,2020-08-10,Elias Hoffmann,she/her
-NX-0057,Ines Schulz,Security Engineer,Customer Success,Munich,ines.schulz@nexora.example,2020-08-27,Zara Koch,she/her
-NX-0058,David Bauer,Sales Director,IT & Security,Hamburg,david.bauer@nexora.example,2020-09-13,Luca Weber,she/her
-NX-0059,Clara Meyer,Data Scientist,Sustainability,Cologne,clara.meyer@nexora.example,2020-09-30,Freya Richter,she/her
-NX-0060,Amira Keller,People Partner,People & Culture,Stockholm,amira.keller@nexora.example,2020-10-17,Theo Schmidt,he/him
-NX-0061,Jonas Becker,Software Engineer,Engineering,Amsterdam,jonas.becker@nexora.example,2020-11-03,Nina Schulz,he/him
-NX-0062,Lea Braun,Product Manager,Product,Remote — Germany,lea.braun@nexora.example,2020-11-20,Ava Bauer,he/him
-NX-0063,Mateo Wagner,Communications Specialist,Finance,Frankfurt,mateo.wagner@nexora.example,2020-12-07,Emil Meyer,she/her
-NX-0064,Sofia Neumann,Finance Analyst,Operations,Berlin,sofia.neumann@nexora.example,2020-12-24,Maya Keller,they/them
-NX-0065,Noah Fischer,Office Coordinator,Sales,Munich,noah.fischer@nexora.example,2021-01-10,Felix Becker,they/them
-NX-0066,Mila Wolf,UX Researcher,Marketing,Hamburg,mila.wolf@nexora.example,2021-01-27,Ines Braun,he/him
-NX-0067,Elias Hoffmann,Talent Partner,Customer Success,Cologne,elias.hoffmann@nexora.example,2021-02-13,David Wagner,she/her
-NX-0068,Zara Koch,Customer Success Manager,IT & Security,Stockholm,zara.koch@nexora.example,2021-03-02,Clara Neumann,they/them
-NX-0069,Luca Weber,Security Engineer,Sustainability,Amsterdam,luca.weber@nexora.example,2021-03-19,Amira Fischer,she/her
-NX-0070,Freya Richter,Sales Director,People & Culture,Remote — Germany,freya.richter@nexora.example,2021-04-05,Jonas Wolf,she/her
-NX-0071,Theo Schmidt,Data Scientist,Engineering,Frankfurt,theo.schmidt@nexora.example,2021-04-22,Lea Hoffmann,he/him
-NX-0072,Nina Schulz,People Partner,Product,Berlin,nina.schulz@nexora.example,2021-05-09,Mateo Koch,she/her
-NX-0073,Ava Bauer,Software Engineer,Finance,Munich,ava.bauer@nexora.example,2021-05-26,Sofia Weber,she/her
-NX-0074,Emil Meyer,Product Manager,Operations,Hamburg,emil.meyer@nexora.example,2021-06-12,Noah Richter,he/him
-NX-0075,Maya Keller,Communications Specialist,Sales,Cologne,maya.keller@nexora.example,2021-06-29,Mila Schmidt,she/her
-NX-0076,Felix Becker,Finance Analyst,Marketing,Stockholm,felix.becker@nexora.example,2021-07-16,Elias Schulz,she/her
-NX-0077,Ines Braun,Office Coordinator,Customer Success,Amsterdam,ines.braun@nexora.example,2021-08-02,Zara Bauer,he/him
-NX-0078,David Wagner,UX Researcher,IT & Security,Remote — Germany,david.wagner@nexora.example,2021-08-19,Luca Meyer,she/her
-NX-0079,Clara Neumann,Talent Partner,Sustainability,Frankfurt,clara.neumann@nexora.example,2021-09-05,Freya Keller,she/her
-NX-0080,Amira Fischer,Customer Success Manager,People & Culture,Berlin,amira.fischer@nexora.example,2021-09-22,Theo Becker,he/him
-NX-0081,Jonas Wolf,Security Engineer,Engineering,Munich,jonas.wolf@nexora.example,2021-10-09,Nina Braun,she/her
-NX-0082,Lea Hoffmann,Sales Director,Product,Hamburg,lea.hoffmann@nexora.example,2021-10-26,Ava Wagner,she/her
-NX-0083,Mateo Koch,Data Scientist,Finance,Cologne,mateo.koch@nexora.example,2021-11-12,Emil Neumann,she/her
-NX-0084,Sofia Weber,People Partner,Operations,Stockholm,sofia.weber@nexora.example,2021-11-29,Maya Fischer,she/her
-NX-0085,Noah Richter,Software Engineer,Sales,Amsterdam,noah.richter@nexora.example,2021-12-16,Felix Wolf,she/her
-NX-0086,Mila Schmidt,Product Manager,Marketing,Remote — Germany,mila.schmidt@nexora.example,2022-01-02,Ines Hoffmann,they/them
-NX-0087,Elias Schulz,Communications Specialist,Customer Success,Frankfurt,elias.schulz@nexora.example,2022-01-19,David Koch,he/him
-NX-0088,Zara Bauer,Finance Analyst,IT & Security,Berlin,zara.bauer@nexora.example,2022-02-05,Clara Weber,she/her
-NX-0089,Luca Meyer,Office Coordinator,Sustainability,Munich,luca.meyer@nexora.example,2022-02-22,Amira Richter,he/him
-NX-0090,Freya Keller,UX Researcher,People & Culture,Hamburg,freya.keller@nexora.example,2022-03-11,Jonas Schmidt,she/her
-NX-0091,Theo Becker,Talent Partner,Engineering,Cologne,theo.becker@nexora.example,2022-03-28,Lea Schulz,he/him
-NX-0092,Nina Braun,Customer Success Manager,Product,Stockholm,nina.braun@nexora.example,2022-04-14,Mateo Bauer,they/them
-NX-0093,Ava Wagner,Security Engineer,Finance,Amsterdam,ava.wagner@nexora.example,2022-05-01,Sofia Meyer,they/them
-NX-0094,Emil Neumann,Sales Director,Operations,Remote — Germany,emil.neumann@nexora.example,2022-05-18,Noah Keller,he/him
-NX-0095,Maya Fischer,Data Scientist,Sales,Frankfurt,maya.fischer@nexora.example,2022-06-04,Mila Becker,she/her
-NX-0096,Felix Wolf,People Partner,Marketing,Berlin,felix.wolf@nexora.example,2022-06-21,Elias Braun,she/her
-NX-0097,Ines Hoffmann,Software Engineer,Customer Success,Munich,ines.hoffmann@nexora.example,2022-07-08,Zara Wagner,he/him
-NX-0098,David Koch,Product Manager,IT & Security,Hamburg,david.koch@nexora.example,2022-07-25,Luca Neumann,he/him
-NX-0099,Clara Weber,Communications Specialist,Sustainability,Cologne,clara.weber@nexora.example,2022-08-11,Freya Fischer,he/him
-NX-0100,Amira Richter,Finance Analyst,People & Culture,Stockholm,amira.richter@nexora.example,2022-08-28,Theo Wolf,he/him
-NX-0101,Jonas Schmidt,Office Coordinator,Engineering,Amsterdam,jonas.schmidt@nexora.example,2022-09-14,Nina Hoffmann,she/her
-NX-0102,Lea Schulz,UX Researcher,Product,Remote — Germany,lea.schulz@nexora.example,2022-10-01,Ava Koch,she/her
-NX-0103,Mateo Bauer,Talent Partner,Finance,Frankfurt,mateo.bauer@nexora.example,2022-10-18,Emil Weber,they/them
-NX-0104,Sofia Meyer,Customer Success Manager,Operations,Berlin,sofia.meyer@nexora.example,2022-11-04,Maya Richter,she/her
-NX-0105,Noah Keller,Security Engineer,Sales,Munich,noah.keller@nexora.example,2022-11-21,Felix Schmidt,they/them
-NX-0106,Mila Becker,Sales Director,Marketing,Hamburg,mila.becker@nexora.example,2022-12-08,Ines Schulz,she/her
-NX-0107,Elias Braun,Data Scientist,Customer Success,Cologne,elias.braun@nexora.example,2022-12-25,David Bauer,he/him
-NX-0108,Zara Wagner,People Partner,IT & Security,Stockholm,zara.wagner@nexora.example,2023-01-11,Clara Meyer,she/her
-NX-0109,Luca Neumann,Software Engineer,Sustainability,Amsterdam,luca.neumann@nexora.example,2023-01-28,Amira Keller,she/her
-NX-0110,Freya Fischer,Product Manager,People & Culture,Remote — Germany,freya.fischer@nexora.example,2023-02-14,Jonas Becker,she/her
-NX-0111,Theo Wolf,Communications Specialist,Engineering,Frankfurt,theo.wolf@nexora.example,2023-03-03,Lea Braun,she/her
-NX-0112,Nina Hoffmann,Finance Analyst,Product,Berlin,nina.hoffmann@nexora.example,2023-03-20,Mateo Wagner,he/him
-NX-0113,Ava Koch,Office Coordinator,Finance,Munich,ava.koch@nexora.example,2023-04-06,Sofia Neumann,he/him
-NX-0114,Emil Weber,UX Researcher,Operations,Hamburg,emil.weber@nexora.example,2023-04-23,Noah Fischer,they/them
-NX-0115,Maya Richter,Talent Partner,Sales,Cologne,maya.richter@nexora.example,2023-05-10,Mila Wolf,he/him
-NX-0116,Felix Schmidt,Customer Success Manager,Marketing,Stockholm,felix.schmidt@nexora.example,2023-05-27,Elias Hoffmann,she/her
-NX-0117,Ines Schulz,Security Engineer,Customer Success,Amsterdam,ines.schulz@nexora.example,2023-06-13,Zara Koch,she/her
-NX-0118,David Bauer,Sales Director,IT & Security,Remote — Germany,david.bauer@nexora.example,2023-06-30,Luca Weber,she/her
-NX-0119,Clara Meyer,Data Scientist,Sustainability,Frankfurt,clara.meyer@nexora.example,2023-07-17,Freya Richter,she/her
-NX-0120,Amira Keller,People Partner,People & Culture,Berlin,amira.keller@nexora.example,2023-08-03,Theo Schmidt,she/her
-NX-0121,Jonas Becker,Software Engineer,Engineering,Munich,jonas.becker@nexora.example,2023-08-20,Nina Schulz,she/her
-NX-0122,Lea Braun,Product Manager,Product,Hamburg,lea.braun@nexora.example,2023-09-06,Ava Bauer,she/her
-NX-0123,Mateo Wagner,Communications Specialist,Finance,Cologne,mateo.wagner@nexora.example,2023-09-23,Emil Meyer,she/her
-NX-0124,Sofia Neumann,Finance Analyst,Operations,Stockholm,sofia.neumann@nexora.example,2023-10-10,Maya Keller,he/him
-NX-0125,Noah Fischer,Office Coordinator,Sales,Amsterdam,noah.fischer@nexora.example,2023-10-27,Felix Becker,she/her
-NX-0126,Mila Wolf,UX Researcher,Marketing,Remote — Germany,mila.wolf@nexora.example,2023-11-13,Ines Braun,he/him
-NX-0127,Elias Hoffmann,Talent Partner,Customer Success,Frankfurt,elias.hoffmann@nexora.example,2023-11-30,David Wagner,she/her
-NX-0128,Zara Koch,Customer Success Manager,IT & Security,Berlin,zara.koch@nexora.example,2023-12-17,Clara Neumann,he/him
-NX-0129,Luca Weber,Security Engineer,Sustainability,Munich,luca.weber@nexora.example,2024-01-03,Amira Fischer,she/her
-NX-0130,Freya Richter,Sales Director,People & Culture,Hamburg,freya.richter@nexora.example,2024-01-20,Jonas Wolf,he/him
-NX-0131,Theo Schmidt,Data Scientist,Engineering,Cologne,theo.schmidt@nexora.example,2024-02-06,Lea Hoffmann,he/him
-NX-0132,Nina Schulz,People Partner,Product,Stockholm,nina.schulz@nexora.example,2024-02-23,Mateo Koch,he/him
-NX-0133,Ava Bauer,Software Engineer,Finance,Amsterdam,ava.bauer@nexora.example,2024-03-11,Sofia Weber,she/her
-NX-0134,Emil Meyer,Product Manager,Operations,Remote — Germany,emil.meyer@nexora.example,2024-03-28,Noah Richter,he/him
-NX-0135,Maya Keller,Communications Specialist,Sales,Frankfurt,maya.keller@nexora.example,2024-04-14,Mila Schmidt,they/them
-NX-0136,Felix Becker,Finance Analyst,Marketing,Berlin,felix.becker@nexora.example,2024-05-01,Elias Schulz,she/her
-NX-0137,Ines Braun,Office Coordinator,Customer Success,Munich,ines.braun@nexora.example,2024-05-18,Zara Bauer,she/her
-NX-0138,David Wagner,UX Researcher,IT & Security,Hamburg,david.wagner@nexora.example,2024-06-04,Luca Meyer,he/him
-NX-0139,Clara Neumann,Talent Partner,Sustainability,Cologne,clara.neumann@nexora.example,2024-06-21,Freya Keller,she/her
-NX-0140,Amira Fischer,Customer Success Manager,People & Culture,Stockholm,amira.fischer@nexora.example,2024-07-08,Theo Becker,he/him
-NX-0141,Jonas Wolf,Security Engineer,Engineering,Amsterdam,jonas.wolf@nexora.example,2024-07-25,Nina Braun,he/him
-NX-0142,Lea Hoffmann,Sales Director,Product,Remote — Germany,lea.hoffmann@nexora.example,2024-08-11,Ava Wagner,he/him
-NX-0143,Mateo Koch,Data Scientist,Finance,Frankfurt,mateo.koch@nexora.example,2024-08-28,Emil Neumann,they/them
-NX-0144,Sofia Weber,People Partner,Operations,Berlin,sofia.weber@nexora.example,2024-09-14,Maya Fischer,she/her
-NX-0145,Noah Richter,Software Engineer,Sales,Munich,noah.richter@nexora.example,2024-10-01,Felix Wolf,he/him
-NX-0146,Mila Schmidt,Product Manager,Marketing,Hamburg,mila.schmidt@nexora.example,2024-10-18,Ines Hoffmann,she/her
-NX-0147,Elias Schulz,Communications Specialist,Customer Success,Cologne,elias.schulz@nexora.example,2024-11-04,David Koch,she/her
-NX-0148,Zara Bauer,Finance Analyst,IT & Security,Stockholm,zara.bauer@nexora.example,2024-11-21,Clara Weber,she/her
-NX-0149,Luca Meyer,Office Coordinator,Sustainability,Amsterdam,luca.meyer@nexora.example,2024-12-08,Amira Richter,he/him
-NX-0150,Freya Keller,UX Researcher,People & Culture,Remote — Germany,freya.keller@nexora.example,2024-12-25,Jonas Schmidt,she/her
-NX-0151,Theo Becker,Talent Partner,Engineering,Frankfurt,theo.becker@nexora.example,2025-01-11,Lea Schulz,he/him
-NX-0152,Nina Braun,Customer Success Manager,Product,Berlin,nina.braun@nexora.example,2025-01-28,Mateo Bauer,he/him
-NX-0153,Ava Wagner,Security Engineer,Finance,Munich,ava.wagner@nexora.example,2025-02-14,Sofia Meyer,they/them
-NX-0154,Emil Neumann,Sales Director,Operations,Hamburg,emil.neumann@nexora.example,2025-03-03,Noah Keller,she/her
-NX-0155,Maya Fischer,Data Scientist,Sales,Cologne,maya.fischer@nexora.example,2025-03-20,Mila Becker,she/her
-NX-0156,Felix Wolf,People Partner,Marketing,Stockholm,felix.wolf@nexora.example,2025-04-06,Elias Braun,she/her
-NX-0157,Ines Hoffmann,Software Engineer,Customer Success,Amsterdam,ines.hoffmann@nexora.example,2025-04-23,Zara Wagner,she/her
-NX-0158,David Koch,Product Manager,IT & Security,Remote — Germany,david.koch@nexora.example,2025-05-10,Luca Neumann,they/them
-NX-0159,Clara Weber,Communications Specialist,Sustainability,Frankfurt,clara.weber@nexora.example,2025-05-27,Freya Fischer,she/her
-NX-0160,Amira Richter,Finance Analyst,People & Culture,Berlin,amira.richter@nexora.example,2025-06-13,Theo Wolf,he/him
-NX-0161,Jonas Schmidt,Office Coordinator,Engineering,Munich,jonas.schmidt@nexora.example,2025-06-30,Nina Hoffmann,she/her
-NX-0162,Lea Schulz,UX Researcher,Product,Hamburg,lea.schulz@nexora.example,2025-07-17,Ava Koch,he/him
-NX-0163,Mateo Bauer,Talent Partner,Finance,Cologne,mateo.bauer@nexora.example,2025-08-03,Emil Weber,she/her
-NX-0164,Sofia Meyer,Customer Success Manager,Operations,Stockholm,sofia.meyer@nexora.example,2025-08-20,Maya Richter,they/them
-NX-0165,Noah Keller,Security Engineer,Sales,Amsterdam,noah.keller@nexora.example,2025-09-06,Felix Schmidt,she/her
-NX-0166,Mila Becker,Sales Director,Marketing,Remote — Germany,mila.becker@nexora.example,2025-09-23,Ines Schulz,she/her
-NX-0167,Elias Braun,Data Scientist,Customer Success,Frankfurt,elias.braun@nexora.example,2025-10-10,David Bauer,they/them
-NX-0168,Zara Wagner,People Partner,IT & Security,Berlin,zara.wagner@nexora.example,2025-10-27,Clara Meyer,they/them
-NX-0169,Luca Neumann,Software Engineer,Sustainability,Munich,luca.neumann@nexora.example,2025-11-13,Amira Keller,he/him
-NX-0170,Freya Fischer,Product Manager,People & Culture,Hamburg,freya.fischer@nexora.example,2025-11-30,Jonas Becker,he/him
-NX-0171,Theo Wolf,Communications Specialist,Engineering,Cologne,theo.wolf@nexora.example,2025-12-17,Lea Braun,she/her
-NX-0172,Nina Hoffmann,Finance Analyst,Product,Stockholm,nina.hoffmann@nexora.example,2026-01-03,Mateo Wagner,he/him
-NX-0173,Ava Koch,Office Coordinator,Finance,Amsterdam,ava.koch@nexora.example,2026-01-20,Sofia Neumann,she/her
-NX-0174,Emil Weber,UX Researcher,Operations,Remote — Germany,emil.weber@nexora.example,2026-02-06,Noah Fischer,she/her
-NX-0175,Maya Richter,Talent Partner,Sales,Frankfurt,maya.richter@nexora.example,2026-02-23,Mila Wolf,he/him
-NX-0176,Felix Schmidt,Customer Success Manager,Marketing,Berlin,felix.schmidt@nexora.example,2026-03-12,Elias Hoffmann,they/them
-NX-0177,Ines Schulz,Security Engineer,Customer Success,Munich,ines.schulz@nexora.example,2026-03-29,Zara Koch,she/her
-NX-0178,David Bauer,Sales Director,IT & Security,Hamburg,david.bauer@nexora.example,2026-04-15,Luca Weber,he/him
-NX-0179,Clara Meyer,Data Scientist,Sustainability,Cologne,clara.meyer@nexora.example,2026-05-02,Freya Richter,she/her
-NX-0180,Amira Keller,People Partner,People & Culture,Stockholm,amira.keller@nexora.example,2026-05-19,Theo Schmidt,she/her
-NX-0181,Jonas Becker,Software Engineer,Engineering,Amsterdam,jonas.becker@nexora.example,2026-06-05,Nina Schulz,he/him
-NX-0182,Lea Braun,Product Manager,Product,Remote — Germany,lea.braun@nexora.example,2026-06-22,Ava Bauer,he/him
-NX-0183,Mateo Wagner,Communications Specialist,Finance,Frankfurt,mateo.wagner@nexora.example,2026-07-09,Emil Meyer,they/them
-NX-0184,Sofia Neumann,Finance Analyst,Operations,Berlin,sofia.neumann@nexora.example,2026-07-26,Maya Keller,he/him
-NX-0185,Noah Fischer,Office Coordinator,Sales,Munich,noah.fischer@nexora.example,2026-08-12,Felix Becker,he/him
-NX-0186,Mila Wolf,UX Researcher,Marketing,Hamburg,mila.wolf@nexora.example,2026-08-29,Ines Braun,she/her
-NX-0187,Elias Hoffmann,Talent Partner,Customer Success,Cologne,elias.hoffmann@nexora.example,2026-09-15,David Wagner,she/her
-NX-0188,Zara Koch,Customer Success Manager,IT & Security,Stockholm,zara.koch@nexora.example,2026-10-02,Clara Neumann,she/her
-NX-0189,Luca Weber,Security Engineer,Sustainability,Amsterdam,luca.weber@nexora.example,2018-01-14,Amira Fischer,they/them
-NX-0190,Freya Richter,Sales Director,People & Culture,Remote — Germany,freya.richter@nexora.example,2018-01-31,Jonas Wolf,she/her
-NX-0191,Theo Schmidt,Data Scientist,Engineering,Frankfurt,theo.schmidt@nexora.example,2018-02-17,Lea Hoffmann,she/her
-NX-0192,Nina Schulz,People Partner,Product,Berlin,nina.schulz@nexora.example,2018-03-06,Mateo Koch,he/him
-NX-0193,Ava Bauer,Software Engineer,Finance,Munich,ava.bauer@nexora.example,2018-03-23,Sofia Weber,she/her
-NX-0194,Emil Meyer,Product Manager,Operations,Hamburg,emil.meyer@nexora.example,2018-04-09,Noah Richter,he/him
-NX-0195,Maya Keller,Communications Specialist,Sales,Cologne,maya.keller@nexora.example,2018-04-26,Mila Schmidt,she/her
-NX-0196,Felix Becker,Finance Analyst,Marketing,Stockholm,felix.becker@nexora.example,2018-05-13,Elias Schulz,he/him
-NX-0197,Ines Braun,Office Coordinator,Customer Success,Amsterdam,ines.braun@nexora.example,2018-05-30,Zara Bauer,she/her
-NX-0198,David Wagner,UX Researcher,IT & Security,Remote — Germany,david.wagner@nexora.example,2018-06-16,Luca Meyer,she/her
-NX-0199,Clara Neumann,Talent Partner,Sustainability,Frankfurt,clara.neumann@nexora.example,2018-07-03,Freya Keller,she/her
-NX-0200,Amira Fischer,Customer Success Manager,People & Culture,Berlin,amira.fischer@nexora.example,2018-07-20,Theo Becker,they/them
-NX-0201,Jonas Wolf,Security Engineer,Engineering,Munich,jonas.wolf@nexora.example,2018-08-06,Nina Braun,she/her
-NX-0202,Lea Hoffmann,Sales Director,Product,Hamburg,lea.hoffmann@nexora.example,2018-08-23,Ava Wagner,she/her
-NX-0203,Mateo Koch,Data Scientist,Finance,Cologne,mateo.koch@nexora.example,2018-09-09,Emil Neumann,he/him
-NX-0204,Sofia Weber,People Partner,Operations,Stockholm,sofia.weber@nexora.example,2018-09-26,Maya Fischer,he/him
-NX-0205,Noah Richter,Software Engineer,Sales,Amsterdam,noah.richter@nexora.example,2018-10-13,Felix Wolf,she/her
-NX-0206,Mila Schmidt,Product Manager,Marketing,Remote — Germany,mila.schmidt@nexora.example,2018-10-30,Ines Hoffmann,they/them
-NX-0207,Elias Schulz,Communications Specialist,Customer Success,Frankfurt,elias.schulz@nexora.example,2018-11-16,David Koch,they/them
-NX-0208,Zara Bauer,Finance Analyst,IT & Security,Berlin,zara.bauer@nexora.example,2018-12-03,Clara Weber,they/them
-NX-0209,Luca Meyer,Office Coordinator,Sustainability,Munich,luca.meyer@nexora.example,2018-12-20,Amira Richter,he/him
-NX-0210,Freya Keller,UX Researcher,People & Culture,Hamburg,freya.keller@nexora.example,2019-01-06,Jonas Schmidt,he/him
-NX-0211,Theo Becker,Talent Partner,Engineering,Cologne,theo.becker@nexora.example,2019-01-23,Lea Schulz,she/her
-NX-0212,Nina Braun,Customer Success Manager,Product,Stockholm,nina.braun@nexora.example,2019-02-09,Mateo Bauer,she/her
-NX-0213,Ava Wagner,Security Engineer,Finance,Amsterdam,ava.wagner@nexora.example,2019-02-26,Sofia Meyer,he/him
-NX-0214,Emil Neumann,Sales Director,Operations,Remote — Germany,emil.neumann@nexora.example,2019-03-15,Noah Keller,he/him
-NX-0215,Maya Fischer,Data Scientist,Sales,Frankfurt,maya.fischer@nexora.example,2019-04-01,Mila Becker,they/them
-NX-0216,Felix Wolf,People Partner,Marketing,Berlin,felix.wolf@nexora.example,2019-04-18,Elias Braun,he/him
-NX-0217,Ines Hoffmann,Software Engineer,Customer Success,Munich,ines.hoffmann@nexora.example,2019-05-05,Zara Wagner,she/her
-NX-0218,David Koch,Product Manager,IT & Security,Hamburg,david.koch@nexora.example,2019-05-22,Luca Neumann,she/her
-NX-0219,Clara Weber,Communications Specialist,Sustainability,Cologne,clara.weber@nexora.example,2019-06-08,Freya Fischer,they/them
-NX-0220,Amira Richter,Finance Analyst,People & Culture,Stockholm,amira.richter@nexora.example,2019-06-25,Theo Wolf,she/her
-NX-0221,Jonas Schmidt,Office Coordinator,Engineering,Amsterdam,jonas.schmidt@nexora.example,2019-07-12,Nina Hoffmann,she/her
-NX-0222,Lea Schulz,UX Researcher,Product,Remote — Germany,lea.schulz@nexora.example,2019-07-29,Ava Koch,she/her
-NX-0223,Mateo Bauer,Talent Partner,Finance,Frankfurt,mateo.bauer@nexora.example,2019-08-15,Emil Weber,she/her
-NX-0224,Sofia Meyer,Customer Success Manager,Operations,Berlin,sofia.meyer@nexora.example,2019-09-01,Maya Richter,she/her
-NX-0225,Noah Keller,Security Engineer,Sales,Munich,noah.keller@nexora.example,2019-09-18,Felix Schmidt,he/him
-NX-0226,Mila Becker,Sales Director,Marketing,Hamburg,mila.becker@nexora.example,2019-10-05,Ines Schulz,he/him
-NX-0227,Elias Braun,Data Scientist,Customer Success,Cologne,elias.braun@nexora.example,2019-10-22,David Bauer,she/her
-NX-0228,Zara Wagner,People Partner,IT & Security,Stockholm,zara.wagner@nexora.example,2019-11-08,Clara Meyer,he/him
-NX-0229,Luca Neumann,Software Engineer,Sustainability,Amsterdam,luca.neumann@nexora.example,2019-11-25,Amira Keller,she/her
-NX-0230,Freya Fischer,Product Manager,People & Culture,Remote — Germany,freya.fischer@nexora.example,2019-12-12,Jonas Becker,she/her
-NX-0231,Theo Wolf,Communications Specialist,Engineering,Frankfurt,theo.wolf@nexora.example,2019-12-29,Lea Braun,he/him
-NX-0232,Nina Hoffmann,Finance Analyst,Product,Berlin,nina.hoffmann@nexora.example,2020-01-15,Mateo Wagner,he/him
-NX-0233,Ava Koch,Office Coordinator,Finance,Munich,ava.koch@nexora.example,2020-02-01,Sofia Neumann,she/her
-NX-0234,Emil Weber,UX Researcher,Operations,Hamburg,emil.weber@nexora.example,2020-02-18,Noah Fischer,they/them
-NX-0235,Maya Richter,Talent Partner,Sales,Cologne,maya.richter@nexora.example,2020-03-06,Mila Wolf,she/her
-NX-0236,Felix Schmidt,Customer Success Manager,Marketing,Stockholm,felix.schmidt@nexora.example,2020-03-23,Elias Hoffmann,she/her
-NX-0237,Ines Schulz,Security Engineer,Customer Success,Amsterdam,ines.schulz@nexora.example,2020-04-09,Zara Koch,she/her
-NX-0238,David Bauer,Sales Director,IT & Security,Remote — Germany,david.bauer@nexora.example,2020-04-26,Luca Weber,he/him
-NX-0239,Clara Meyer,Data Scientist,Sustainability,Frankfurt,clara.meyer@nexora.example,2020-05-13,Freya Richter,she/her
-NX-0240,Amira Keller,People Partner,People & Culture,Berlin,amira.keller@nexora.example,2020-05-30,Theo Schmidt,they/them
-NX-0241,Jonas Becker,Software Engineer,Engineering,Munich,jonas.becker@nexora.example,2020-06-16,Nina Schulz,he/him
-NX-0242,Lea Braun,Product Manager,Product,Hamburg,lea.braun@nexora.example,2020-07-03,Ava Bauer,he/him
-NX-0243,Mateo Wagner,Communications Specialist,Finance,Cologne,mateo.wagner@nexora.example,2020-07-20,Emil Meyer,they/them
-NX-0244,Sofia Neumann,Finance Analyst,Operations,Stockholm,sofia.neumann@nexora.example,2020-08-06,Maya Keller,he/him
-NX-0245,Noah Fischer,Office Coordinator,Sales,Amsterdam,noah.fischer@nexora.example,2020-08-23,Felix Becker,she/her
-NX-0246,Mila Wolf,UX Researcher,Marketing,Remote — Germany,mila.wolf@nexora.example,2020-09-09,Ines Braun,they/them
-NX-0247,Elias Hoffmann,Talent Partner,Customer Success,Frankfurt,elias.hoffmann@nexora.example,2020-09-26,David Wagner,she/her
-NX-0248,Zara Koch,Customer Success Manager,IT & Security,Berlin,zara.koch@nexora.example,2020-10-13,Clara Neumann,he/him
-NX-0249,Luca Weber,Security Engineer,Sustainability,Munich,luca.weber@nexora.example,2020-10-30,Amira Fischer,they/them
-NX-0250,Freya Richter,Sales Director,People & Culture,Hamburg,freya.richter@nexora.example,2020-11-16,Jonas Wolf,he/him
-NX-0251,Theo Schmidt,Data Scientist,Engineering,Cologne,theo.schmidt@nexora.example,2020-12-03,Lea Hoffmann,she/her
-NX-0252,Nina Schulz,People Partner,Product,Stockholm,nina.schulz@nexora.example,2020-12-20,Mateo Koch,he/him
-NX-0253,Ava Bauer,Software Engineer,Finance,Amsterdam,ava.bauer@nexora.example,2021-01-06,Sofia Weber,he/him
-NX-0254,Emil Meyer,Product Manager,Operations,Remote — Germany,emil.meyer@nexora.example,2021-01-23,Noah Richter,he/him
-NX-0255,Maya Keller,Communications Specialist,Sales,Frankfurt,maya.keller@nexora.example,2021-02-09,Mila Schmidt,they/them
-NX-0256,Felix Becker,Finance Analyst,Marketing,Berlin,felix.becker@nexora.example,2021-02-26,Elias Schulz,she/her
-NX-0257,Ines Braun,Office Coordinator,Customer Success,Munich,ines.braun@nexora.example,2021-03-15,Zara Bauer,they/them
-NX-0258,David Wagner,UX Researcher,IT & Security,Hamburg,david.wagner@nexora.example,2021-04-01,Luca Meyer,they/them
-NX-0259,Clara Neumann,Talent Partner,Sustainability,Cologne,clara.neumann@nexora.example,2021-04-18,Freya Keller,he/him
-NX-0260,Amira Fischer,Customer Success Manager,People & Culture,Stockholm,amira.fischer@nexora.example,2021-05-05,Theo Becker,he/him
-NX-0261,Jonas Wolf,Security Engineer,Engineering,Amsterdam,jonas.wolf@nexora.example,2021-05-22,Nina Braun,he/him
-NX-0262,Lea Hoffmann,Sales Director,Product,Remote — Germany,lea.hoffmann@nexora.example,2021-06-08,Ava Wagner,she/her
-NX-0263,Mateo Koch,Data Scientist,Finance,Frankfurt,mateo.koch@nexora.example,2021-06-25,Emil Neumann,she/her
-NX-0264,Sofia Weber,People Partner,Operations,Berlin,sofia.weber@nexora.example,2021-07-12,Maya Fischer,he/him
-NX-0265,Noah Richter,Software Engineer,Sales,Munich,noah.richter@nexora.example,2021-07-29,Felix Wolf,she/her
-NX-0266,Mila Schmidt,Product Manager,Marketing,Hamburg,mila.schmidt@nexora.example,2021-08-15,Ines Hoffmann,she/her
-NX-0267,Elias Schulz,Communications Specialist,Customer Success,Cologne,elias.schulz@nexora.example,2021-09-01,David Koch,he/him
-NX-0268,Zara Bauer,Finance Analyst,IT & Security,Stockholm,zara.bauer@nexora.example,2021-09-18,Clara Weber,she/her
-NX-0269,Luca Meyer,Office Coordinator,Sustainability,Amsterdam,luca.meyer@nexora.example,2021-10-05,Amira Richter,they/them
-NX-0270,Freya Keller,UX Researcher,People & Culture,Remote — Germany,freya.keller@nexora.example,2021-10-22,Jonas Schmidt,she/her
-NX-0271,Theo Becker,Talent Partner,Engineering,Frankfurt,theo.becker@nexora.example,2021-11-08,Lea Schulz,they/them
-NX-0272,Nina Braun,Customer Success Manager,Product,Berlin,nina.braun@nexora.example,2021-11-25,Mateo Bauer,he/him
-NX-0273,Ava Wagner,Security Engineer,Finance,Munich,ava.wagner@nexora.example,2021-12-12,Sofia Meyer,he/him
-NX-0274,Emil Neumann,Sales Director,Operations,Hamburg,emil.neumann@nexora.example,2021-12-29,Noah Keller,she/her
-NX-0275,Maya Fischer,Data Scientist,Sales,Cologne,maya.fischer@nexora.example,2022-01-15,Mila Becker,he/him
-NX-0276,Felix Wolf,People Partner,Marketing,Stockholm,felix.wolf@nexora.example,2022-02-01,Elias Braun,she/her
-NX-0277,Ines Hoffmann,Software Engineer,Customer Success,Amsterdam,ines.hoffmann@nexora.example,2022-02-18,Zara Wagner,they/them
-NX-0278,David Koch,Product Manager,IT & Security,Remote — Germany,david.koch@nexora.example,2022-03-07,Luca Neumann,she/her
-NX-0279,Clara Weber,Communications Specialist,Sustainability,Frankfurt,clara.weber@nexora.example,2022-03-24,Freya Fischer,she/her
-NX-0280,Amira Richter,Finance Analyst,People & Culture,Berlin,amira.richter@nexora.example,2022-04-10,Theo Wolf,he/him
-NX-0281,Jonas Schmidt,Office Coordinator,Engineering,Munich,jonas.schmidt@nexora.example,2022-04-27,Nina Hoffmann,she/her
-NX-0282,Lea Schulz,UX Researcher,Product,Hamburg,lea.schulz@nexora.example,2022-05-14,Ava Koch,he/him
-NX-0283,Mateo Bauer,Talent Partner,Finance,Cologne,mateo.bauer@nexora.example,2022-05-31,Emil Weber,she/her
-NX-0284,Sofia Meyer,Customer Success Manager,Operations,Stockholm,sofia.meyer@nexora.example,2022-06-17,Maya Richter,they/them
-NX-0285,Noah Keller,Security Engineer,Sales,Amsterdam,noah.keller@nexora.example,2022-07-04,Felix Schmidt,she/her
-NX-0286,Mila Becker,Sales Director,Marketing,Remote — Germany,mila.becker@nexora.example,2022-07-21,Ines Schulz,he/him
-NX-0287,Elias Braun,Data Scientist,Customer Success,Frankfurt,elias.braun@nexora.example,2022-08-07,David Bauer,she/her
-NX-0288,Zara Wagner,People Partner,IT & Security,Berlin,zara.wagner@nexora.example,2022-08-24,Clara Meyer,they/them
-NX-0289,Luca Neumann,Software Engineer,Sustainability,Munich,luca.neumann@nexora.example,2022-09-10,Amira Keller,they/them
-NX-0290,Freya Fischer,Product Manager,People & Culture,Hamburg,freya.fischer@nexora.example,2022-09-27,Jonas Becker,she/her
-NX-0291,Theo Wolf,Communications Specialist,Engineering,Cologne,theo.wolf@nexora.example,2022-10-14,Lea Braun,she/her
-NX-0292,Nina Hoffmann,Finance Analyst,Product,Stockholm,nina.hoffmann@nexora.example,2022-10-31,Mateo Wagner,she/her
-NX-0293,Ava Koch,Office Coordinator,Finance,Amsterdam,ava.koch@nexora.example,2022-11-17,Sofia Neumann,they/them
-NX-0294,Emil Weber,UX Researcher,Operations,Remote — Germany,emil.weber@nexora.example,2022-12-04,Noah Fischer,they/them
-NX-0295,Maya Richter,Talent Partner,Sales,Frankfurt,maya.richter@nexora.example,2022-12-21,Mila Wolf,he/him
-NX-0296,Felix Schmidt,Customer Success Manager,Marketing,Berlin,felix.schmidt@nexora.example,2023-01-07,Elias Hoffmann,he/him
-NX-0297,Ines Schulz,Security Engineer,Customer Success,Munich,ines.schulz@nexora.example,2023-01-24,Zara Koch,she/her
-NX-0298,David Bauer,Sales Director,IT & Security,Hamburg,david.bauer@nexora.example,2023-02-10,Luca Weber,she/her
-NX-0299,Clara Meyer,Data Scientist,Sustainability,Cologne,clara.meyer@nexora.example,2023-02-27,Freya Richter,he/him
-NX-0300,Amira Keller,People Partner,People & Culture,Stockholm,amira.keller@nexora.example,2023-03-16,Theo Schmidt,they/them
-NX-0301,Jonas Becker,Software Engineer,Engineering,Amsterdam,jonas.becker@nexora.example,2023-04-02,Nina Schulz,she/her
-NX-0302,Lea Braun,Product Manager,Product,Remote — Germany,lea.braun@nexora.example,2023-04-19,Ava Bauer,they/them
-NX-0303,Mateo Wagner,Communications Specialist,Finance,Frankfurt,mateo.wagner@nexora.example,2023-05-06,Emil Meyer,she/her
-NX-0304,Sofia Neumann,Finance Analyst,Operations,Berlin,sofia.neumann@nexora.example,2023-05-23,Maya Keller,he/him
-NX-0305,Noah Fischer,Office Coordinator,Sales,Munich,noah.fischer@nexora.example,2023-06-09,Felix Becker,they/them
-NX-0306,Mila Wolf,UX Researcher,Marketing,Hamburg,mila.wolf@nexora.example,2023-06-26,Ines Braun,they/them
-NX-0307,Elias Hoffmann,Talent Partner,Customer Success,Cologne,elias.hoffmann@nexora.example,2023-07-13,David Wagner,she/her
-NX-0308,Zara Koch,Customer Success Manager,IT & Security,Stockholm,zara.koch@nexora.example,2023-07-30,Clara Neumann,she/her
-NX-0309,Luca Weber,Security Engineer,Sustainability,Amsterdam,luca.weber@nexora.example,2023-08-16,Amira Fischer,they/them
-NX-0310,Freya Richter,Sales Director,People & Culture,Remote — Germany,freya.richter@nexora.example,2023-09-02,Jonas Wolf,he/him
-NX-0311,Theo Schmidt,Data Scientist,Engineering,Frankfurt,theo.schmidt@nexora.example,2023-09-19,Lea Hoffmann,she/her
-NX-0312,Nina Schulz,People Partner,Product,Berlin,nina.schulz@nexora.example,2023-10-06,Mateo Koch,they/them
-NX-0313,Ava Bauer,Software Engineer,Finance,Munich,ava.bauer@nexora.example,2023-10-23,Sofia Weber,he/him
-NX-0314,Emil Meyer,Product Manager,Operations,Hamburg,emil.meyer@nexora.example,2023-11-09,Noah Richter,she/her
-NX-0315,Maya Keller,Communications Specialist,Sales,Cologne,maya.keller@nexora.example,2023-11-26,Mila Schmidt,he/him
-NX-0316,Felix Becker,Finance Analyst,Marketing,Stockholm,felix.becker@nexora.example,2023-12-13,Elias Schulz,he/him
-NX-0317,Ines Braun,Office Coordinator,Customer Success,Amsterdam,ines.braun@nexora.example,2023-12-30,Zara Bauer,he/him
-NX-0318,David Wagner,UX Researcher,IT & Security,Remote — Germany,david.wagner@nexora.example,2024-01-16,Luca Meyer,she/her
-NX-0319,Clara Neumann,Talent Partner,Sustainability,Frankfurt,clara.neumann@nexora.example,2024-02-02,Freya Keller,he/him
-NX-0320,Amira Fischer,Customer Success Manager,People & Culture,Berlin,amira.fischer@nexora.example,2024-02-19,Theo Becker,she/her
-NX-0321,Jonas Wolf,Security Engineer,Engineering,Munich,jonas.wolf@nexora.example,2024-03-07,Nina Braun,they/them
-NX-0322,Lea Hoffmann,Sales Director,Product,Hamburg,lea.hoffmann@nexora.example,2024-03-24,Ava Wagner,she/her
-NX-0323,Mateo Koch,Data Scientist,Finance,Cologne,mateo.koch@nexora.example,2024-04-10,Emil Neumann,she/her
-NX-0324,Sofia Weber,People Partner,Operations,Stockholm,sofia.weber@nexora.example,2024-04-27,Maya Fischer,he/him
-NX-0325,Noah Richter,Software Engineer,Sales,Amsterdam,noah.richter@nexora.example,2024-05-14,Felix Wolf,she/her
-NX-0326,Mila Schmidt,Product Manager,Marketing,Remote — Germany,mila.schmidt@nexora.example,2024-05-31,Ines Hoffmann,he/him
-NX-0327,Elias Schulz,Communications Specialist,Customer Success,Frankfurt,elias.schulz@nexora.example,2024-06-17,David Koch,they/them
-NX-0328,Zara Bauer,Finance Analyst,IT & Security,Berlin,zara.bauer@nexora.example,2024-07-04,Clara Weber,she/her
-NX-0329,Luca Meyer,Office Coordinator,Sustainability,Munich,luca.meyer@nexora.example,2024-07-21,Amira Richter,she/her
-NX-0330,Freya Keller,UX Researcher,People & Culture,Hamburg,freya.keller@nexora.example,2024-08-07,Jonas Schmidt,they/them
-NX-0331,Theo Becker,Talent Partner,Engineering,Cologne,theo.becker@nexora.example,2024-08-24,Lea Schulz,he/him
-NX-0332,Nina Braun,Customer Success Manager,Product,Stockholm,nina.braun@nexora.example,2024-09-10,Mateo Bauer,she/her
-NX-0333,Ava Wagner,Security Engineer,Finance,Amsterdam,ava.wagner@nexora.example,2024-09-27,Sofia Meyer,she/her
-NX-0334,Emil Neumann,Sales Director,Operations,Remote — Germany,emil.neumann@nexora.example,2024-10-14,Noah Keller,she/her
-NX-0335,Maya Fischer,Data Scientist,Sales,Frankfurt,maya.fischer@nexora.example,2024-10-31,Mila Becker,he/him
-NX-0336,Felix Wolf,People Partner,Marketing,Berlin,felix.wolf@nexora.example,2024-11-17,Elias Braun,she/her
-NX-0337,Ines Hoffmann,Software Engineer,Customer Success,Munich,ines.hoffmann@nexora.example,2024-12-04,Zara Wagner,she/her
-NX-0338,David Koch,Product Manager,IT & Security,Hamburg,david.koch@nexora.example,2024-12-21,Luca Neumann,they/them
-NX-0339,Clara Weber,Communications Specialist,Sustainability,Cologne,clara.weber@nexora.example,2025-01-07,Freya Fischer,he/him
-NX-0340,Amira Richter,Finance Analyst,People & Culture,Stockholm,amira.richter@nexora.example,2025-01-24,Theo Wolf,he/him
-NX-0341,Jonas Schmidt,Office Coordinator,Engineering,Amsterdam,jonas.schmidt@nexora.example,2025-02-10,Nina Hoffmann,she/her
-NX-0342,Lea Schulz,UX Researcher,Product,Remote — Germany,lea.schulz@nexora.example,2025-02-27,Ava Koch,he/him
-NX-0343,Mateo Bauer,Talent Partner,Finance,Frankfurt,mateo.bauer@nexora.example,2025-03-16,Emil Weber,she/her
-NX-0344,Sofia Meyer,Customer Success Manager,Operations,Berlin,sofia.meyer@nexora.example,2025-04-02,Maya Richter,she/her
-NX-0345,Noah Keller,Security Engineer,Sales,Munich,noah.keller@nexora.example,2025-04-19,Felix Schmidt,she/her
-NX-0346,Mila Becker,Sales Director,Marketing,Hamburg,mila.becker@nexora.example,2025-05-06,Ines Schulz,he/him
-NX-0347,Elias Braun,Data Scientist,Customer Success,Cologne,elias.braun@nexora.example,2025-05-23,David Bauer,he/him
-NX-0348,Zara Wagner,People Partner,IT & Security,Stockholm,zara.wagner@nexora.example,2025-06-09,Clara Meyer,he/him
-NX-0349,Luca Neumann,Software Engineer,Sustainability,Amsterdam,luca.neumann@nexora.example,2025-06-26,Amira Keller,she/her
-NX-0350,Freya Fischer,Product Manager,People & Culture,Remote — Germany,freya.fischer@nexora.example,2025-07-13,Jonas Becker,he/him
-NX-0351,Theo Wolf,Communications Specialist,Engineering,Frankfurt,theo.wolf@nexora.example,2025-07-30,Lea Braun,he/him
-NX-0352,Nina Hoffmann,Finance Analyst,Product,Berlin,nina.hoffmann@nexora.example,2025-08-16,Mateo Wagner,she/her
-NX-0353,Ava Koch,Office Coordinator,Finance,Munich,ava.koch@nexora.example,2025-09-02,Sofia Neumann,she/her
-NX-0354,Emil Weber,UX Researcher,Operations,Hamburg,emil.weber@nexora.example,2025-09-19,Noah Fischer,she/her
-NX-0355,Maya Richter,Talent Partner,Sales,Cologne,maya.richter@nexora.example,2025-10-06,Mila Wolf,they/them
-NX-0356,Felix Schmidt,Customer Success Manager,Marketing,Stockholm,felix.schmidt@nexora.example,2025-10-23,Elias Hoffmann,she/her
-NX-0357,Ines Schulz,Security Engineer,Customer Success,Amsterdam,ines.schulz@nexora.example,2025-11-09,Zara Koch,she/her
-NX-0358,David Bauer,Sales Director,IT & Security,Remote — Germany,david.bauer@nexora.example,2025-11-26,Luca Weber,he/him
-NX-0359,Clara Meyer,Data Scientist,Sustainability,Frankfurt,clara.meyer@nexora.example,2025-12-13,Freya Richter,he/him
-NX-0360,Amira Keller,People Partner,People & Culture,Berlin,amira.keller@nexora.example,2025-12-30,Theo Schmidt,she/her
-NX-0361,Jonas Becker,Software Engineer,Engineering,Munich,jonas.becker@nexora.example,2026-01-16,Nina Schulz,she/her
-NX-0362,Lea Braun,Product Manager,Product,Hamburg,lea.braun@nexora.example,2026-02-02,Ava Bauer,she/her
-NX-0363,Mateo Wagner,Communications Specialist,Finance,Cologne,mateo.wagner@nexora.example,2026-02-19,Emil Meyer,he/him
-NX-0364,Sofia Neumann,Finance Analyst,Operations,Stockholm,sofia.neumann@nexora.example,2026-03-08,Maya Keller,he/him
-NX-0365,Noah Fischer,Office Coordinator,Sales,Amsterdam,noah.fischer@nexora.example,2026-03-25,Felix Becker,they/them
-NX-0366,Mila Wolf,UX Researcher,Marketing,Remote — Germany,mila.wolf@nexora.example,2026-04-11,Ines Braun,she/her
-NX-0367,Elias Hoffmann,Talent Partner,Customer Success,Frankfurt,elias.hoffmann@nexora.example,2026-04-28,David Wagner,they/them
-NX-0368,Zara Koch,Customer Success Manager,IT & Security,Berlin,zara.koch@nexora.example,2026-05-15,Clara Neumann,they/them
-NX-0369,Luca Weber,Security Engineer,Sustainability,Munich,luca.weber@nexora.example,2026-06-01,Amira Fischer,he/him
-NX-0370,Freya Richter,Sales Director,People & Culture,Hamburg,freya.richter@nexora.example,2026-06-18,Jonas Wolf,he/him
-NX-0371,Theo Schmidt,Data Scientist,Engineering,Cologne,theo.schmidt@nexora.example,2026-07-05,Lea Hoffmann,he/him
-NX-0372,Nina Schulz,People Partner,Product,Stockholm,nina.schulz@nexora.example,2026-07-22,Mateo Koch,she/her
-NX-0373,Ava Bauer,Software Engineer,Finance,Amsterdam,ava.bauer@nexora.example,2026-08-08,Sofia Weber,she/her
-NX-0374,Emil Meyer,Product Manager,Operations,Remote — Germany,emil.meyer@nexora.example,2026-08-25,Noah Richter,he/him
-NX-0375,Maya Keller,Communications Specialist,Sales,Frankfurt,maya.keller@nexora.example,2026-09-11,Mila Schmidt,he/him
-NX-0376,Felix Becker,Finance Analyst,Marketing,Berlin,felix.becker@nexora.example,2026-09-28,Elias Schulz,he/him
-NX-0377,Ines Braun,Office Coordinator,Customer Success,Munich,ines.braun@nexora.example,2018-01-10,Zara Bauer,she/her
-NX-0378,David Wagner,UX Researcher,IT & Security,Hamburg,david.wagner@nexora.example,2018-01-27,Luca Meyer,he/him
-NX-0379,Clara Neumann,Talent Partner,Sustainability,Cologne,clara.neumann@nexora.example,2018-02-13,Freya Keller,he/him
-NX-0380,Amira Fischer,Customer Success Manager,People & Culture,Stockholm,amira.fischer@nexora.example,2018-03-02,Theo Becker,they/them
-NX-0381,Jonas Wolf,Security Engineer,Engineering,Amsterdam,jonas.wolf@nexora.example,2018-03-19,Nina Braun,she/her
-NX-0382,Lea Hoffmann,Sales Director,Product,Remote — Germany,lea.hoffmann@nexora.example,2018-04-05,Ava Wagner,she/her
-NX-0383,Mateo Koch,Data Scientist,Finance,Frankfurt,mateo.koch@nexora.example,2018-04-22,Emil Neumann,he/him
-NX-0384,Sofia Weber,People Partner,Operations,Berlin,sofia.weber@nexora.example,2018-05-09,Maya Fischer,they/them
-NX-0385,Noah Richter,Software Engineer,Sales,Munich,noah.richter@nexora.example,2018-05-26,Felix Wolf,he/him
-NX-0386,Mila Schmidt,Product Manager,Marketing,Hamburg,mila.schmidt@nexora.example,2018-06-12,Ines Hoffmann,he/him
-NX-0387,Elias Schulz,Communications Specialist,Customer Success,Cologne,elias.schulz@nexora.example,2018-06-29,David Koch,she/her
-NX-0388,Zara Bauer,Finance Analyst,IT & Security,Stockholm,zara.bauer@nexora.example,2018-07-16,Clara Weber,she/her
-NX-0389,Luca Meyer,Office Coordinator,Sustainability,Amsterdam,luca.meyer@nexora.example,2018-08-02,Amira Richter,he/him
-NX-0390,Freya Keller,UX Researcher,People & Culture,Remote — Germany,freya.keller@nexora.example,2018-08-19,Jonas Schmidt,they/them
-NX-0391,Theo Becker,Talent Partner,Engineering,Frankfurt,theo.becker@nexora.example,2018-09-05,Lea Schulz,they/them
-NX-0392,Nina Braun,Customer Success Manager,Product,Berlin,nina.braun@nexora.example,2018-09-22,Mateo Bauer,she/her
-NX-0393,Ava Wagner,Security Engineer,Finance,Munich,ava.wagner@nexora.example,2018-10-09,Sofia Meyer,he/him
-NX-0394,Emil Neumann,Sales Director,Operations,Hamburg,emil.neumann@nexora.example,2018-10-26,Noah Keller,she/her
-NX-0395,Maya Fischer,Data Scientist,Sales,Cologne,maya.fischer@nexora.example,2018-11-12,Mila Becker,he/him
-NX-0396,Felix Wolf,People Partner,Marketing,Stockholm,felix.wolf@nexora.example,2018-11-29,Elias Braun,she/her
-NX-0397,Ines Hoffmann,Software Engineer,Customer Success,Amsterdam,ines.hoffmann@nexora.example,2018-12-16,Zara Wagner,she/her
-NX-0398,David Koch,Product Manager,IT & Security,Remote — Germany,david.koch@nexora.example,2019-01-02,Luca Neumann,he/him
-NX-0399,Clara Weber,Communications Specialist,Sustainability,Frankfurt,clara.weber@nexora.example,2019-01-19,Freya Fischer,she/her
-NX-0400,Amira Richter,Finance Analyst,People & Culture,Berlin,amira.richter@nexora.example,2019-02-05,Theo Wolf,she/her
-NX-0401,Jonas Schmidt,Office Coordinator,Engineering,Munich,jonas.schmidt@nexora.example,2019-02-22,Nina Hoffmann,he/him
-NX-0402,Lea Schulz,UX Researcher,Product,Hamburg,lea.schulz@nexora.example,2019-03-11,Ava Koch,she/her
-NX-0403,Mateo Bauer,Talent Partner,Finance,Cologne,mateo.bauer@nexora.example,2019-03-28,Emil Weber,he/him
-NX-0404,Sofia Meyer,Customer Success Manager,Operations,Stockholm,sofia.meyer@nexora.example,2019-04-14,Maya Richter,he/him
-NX-0405,Noah Keller,Security Engineer,Sales,Amsterdam,noah.keller@nexora.example,2019-05-01,Felix Schmidt,they/them
-NX-0406,Mila Becker,Sales Director,Marketing,Remote — Germany,mila.becker@nexora.example,2019-05-18,Ines Schulz,he/him
-NX-0407,Elias Braun,Data Scientist,Customer Success,Frankfurt,elias.braun@nexora.example,2019-06-04,David Bauer,he/him
-NX-0408,Zara Wagner,People Partner,IT & Security,Berlin,zara.wagner@nexora.example,2019-06-21,Clara Meyer,they/them
-NX-0409,Luca Neumann,Software Engineer,Sustainability,Munich,luca.neumann@nexora.example,2019-07-08,Amira Keller,he/him
-NX-0410,Freya Fischer,Product Manager,People & Culture,Hamburg,freya.fischer@nexora.example,2019-07-25,Jonas Becker,she/her
-NX-0411,Theo Wolf,Communications Specialist,Engineering,Cologne,theo.wolf@nexora.example,2019-08-11,Lea Braun,he/him
-NX-0412,Nina Hoffmann,Finance Analyst,Product,Stockholm,nina.hoffmann@nexora.example,2019-08-28,Mateo Wagner,they/them
-NX-0413,Ava Koch,Office Coordinator,Finance,Amsterdam,ava.koch@nexora.example,2019-09-14,Sofia Neumann,he/him
-NX-0414,Emil Weber,UX Researcher,Operations,Remote — Germany,emil.weber@nexora.example,2019-10-01,Noah Fischer,he/him
-NX-0415,Maya Richter,Talent Partner,Sales,Frankfurt,maya.richter@nexora.example,2019-10-18,Mila Wolf,he/him
-NX-0416,Felix Schmidt,Customer Success Manager,Marketing,Berlin,felix.schmidt@nexora.example,2019-11-04,Elias Hoffmann,he/him
-NX-0417,Ines Schulz,Security Engineer,Customer Success,Munich,ines.schulz@nexora.example,2019-11-21,Zara Koch,she/her
-NX-0418,David Bauer,Sales Director,IT & Security,Hamburg,david.bauer@nexora.example,2019-12-08,Luca Weber,he/him
-NX-0419,Clara Meyer,Data Scientist,Sustainability,Cologne,clara.meyer@nexora.example,2019-12-25,Freya Richter,she/her
-NX-0420,Amira Keller,People Partner,People & Culture,Stockholm,amira.keller@nexora.example,2020-01-11,Theo Schmidt,she/her
-NX-0421,Jonas Becker,Software Engineer,Engineering,Amsterdam,jonas.becker@nexora.example,2020-01-28,Nina Schulz,she/her
-NX-0422,Lea Braun,Product Manager,Product,Remote — Germany,lea.braun@nexora.example,2020-02-14,Ava Bauer,he/him
-NX-0423,Mateo Wagner,Communications Specialist,Finance,Frankfurt,mateo.wagner@nexora.example,2020-03-02,Emil Meyer,he/him
-NX-0424,Sofia Neumann,Finance Analyst,Operations,Berlin,sofia.neumann@nexora.example,2020-03-19,Maya Keller,they/them
-NX-0425,Noah Fischer,Office Coordinator,Sales,Munich,noah.fischer@nexora.example,2020-04-05,Felix Becker,he/him
-NX-0426,Mila Wolf,UX Researcher,Marketing,Hamburg,mila.wolf@nexora.example,2020-04-22,Ines Braun,she/her
-NX-0427,Elias Hoffmann,Talent Partner,Customer Success,Cologne,elias.hoffmann@nexora.example,2020-05-09,David Wagner,she/her
-NX-0428,Zara Koch,Customer Success Manager,IT & Security,Stockholm,zara.koch@nexora.example,2020-05-26,Clara Neumann,he/him
-NX-0429,Luca Weber,Security Engineer,Sustainability,Amsterdam,luca.weber@nexora.example,2020-06-12,Amira Fischer,he/him
-NX-0430,Freya Richter,Sales Director,People & Culture,Remote — Germany,freya.richter@nexora.example,2020-06-29,Jonas Wolf,they/them
-NX-0431,Theo Schmidt,Data Scientist,Engineering,Frankfurt,theo.schmidt@nexora.example,2020-07-16,Lea Hoffmann,he/him
-NX-0432,Nina Schulz,People Partner,Product,Berlin,nina.schulz@nexora.example,2020-08-02,Mateo Koch,he/him
-NX-0433,Ava Bauer,Software Engineer,Finance,Munich,ava.bauer@nexora.example,2020-08-19,Sofia Weber,she/her
-NX-0434,Emil Meyer,Product Manager,Operations,Hamburg,emil.meyer@nexora.example,2020-09-05,Noah Richter,they/them
-NX-0435,Maya Keller,Communications Specialist,Sales,Cologne,maya.keller@nexora.example,2020-09-22,Mila Schmidt,he/him
-NX-0436,Felix Becker,Finance Analyst,Marketing,Stockholm,felix.becker@nexora.example,2020-10-09,Elias Schulz,she/her
-NX-0437,Ines Braun,Office Coordinator,Customer Success,Amsterdam,ines.braun@nexora.example,2020-10-26,Zara Bauer,she/her
-NX-0438,David Wagner,UX Researcher,IT & Security,Remote — Germany,david.wagner@nexora.example,2020-11-12,Luca Meyer,they/them
-NX-0439,Clara Neumann,Talent Partner,Sustainability,Frankfurt,clara.neumann@nexora.example,2020-11-29,Freya Keller,she/her
-NX-0440,Amira Fischer,Customer Success Manager,People & Culture,Berlin,amira.fischer@nexora.example,2020-12-16,Theo Becker,he/him
-NX-0441,Jonas Wolf,Security Engineer,Engineering,Munich,jonas.wolf@nexora.example,2021-01-02,Nina Braun,he/him
-NX-0442,Lea Hoffmann,Sales Director,Product,Hamburg,lea.hoffmann@nexora.example,2021-01-19,Ava Wagner,she/her
-NX-0443,Mateo Koch,Data Scientist,Finance,Cologne,mateo.koch@nexora.example,2021-02-05,Emil Neumann,he/him
-NX-0444,Sofia Weber,People Partner,Operations,Stockholm,sofia.weber@nexora.example,2021-02-22,Maya Fischer,they/them
-NX-0445,Noah Richter,Software Engineer,Sales,Amsterdam,noah.richter@nexora.example,2021-03-11,Felix Wolf,she/her
-NX-0446,Mila Schmidt,Product Manager,Marketing,Remote — Germany,mila.schmidt@nexora.example,2021-03-28,Ines Hoffmann,she/her
-NX-0447,Elias Schulz,Communications Specialist,Customer Success,Frankfurt,elias.schulz@nexora.example,2021-04-14,David Koch,she/her
-NX-0448,Zara Bauer,Finance Analyst,IT & Security,Berlin,zara.bauer@nexora.example,2021-05-01,Clara Weber,he/him
-NX-0449,Luca Meyer,Office Coordinator,Sustainability,Munich,luca.meyer@nexora.example,2021-05-18,Amira Richter,he/him
-NX-0450,Freya Keller,UX Researcher,People & Culture,Hamburg,freya.keller@nexora.example,2021-06-04,Jonas Schmidt,he/him
-NX-0451,Theo Becker,Talent Partner,Engineering,Cologne,theo.becker@nexora.example,2021-06-21,Lea Schulz,they/them
-NX-0452,Nina Braun,Customer Success Manager,Product,Stockholm,nina.braun@nexora.example,2021-07-08,Mateo Bauer,he/him
-NX-0453,Ava Wagner,Security Engineer,Finance,Amsterdam,ava.wagner@nexora.example,2021-07-25,Sofia Meyer,she/her
-NX-0454,Emil Neumann,Sales Director,Operations,Remote — Germany,emil.neumann@nexora.example,2021-08-11,Noah Keller,they/them
-NX-0455,Maya Fischer,Data Scientist,Sales,Frankfurt,maya.fischer@nexora.example,2021-08-28,Mila Becker,they/them
-NX-0456,Felix Wolf,People Partner,Marketing,Berlin,felix.wolf@nexora.example,2021-09-14,Elias Braun,he/him
-NX-0457,Ines Hoffmann,Software Engineer,Customer Success,Munich,ines.hoffmann@nexora.example,2021-10-01,Zara Wagner,she/her
-NX-0458,David Koch,Product Manager,IT & Security,Hamburg,david.koch@nexora.example,2021-10-18,Luca Neumann,she/her
-NX-0459,Clara Weber,Communications Specialist,Sustainability,Cologne,clara.weber@nexora.example,2021-11-04,Freya Fischer,they/them
-NX-0460,Amira Richter,Finance Analyst,People & Culture,Stockholm,amira.richter@nexora.example,2021-11-21,Theo Wolf,she/her
-NX-0461,Jonas Schmidt,Office Coordinator,Engineering,Amsterdam,jonas.schmidt@nexora.example,2021-12-08,Nina Hoffmann,she/her
-NX-0462,Lea Schulz,UX Researcher,Product,Remote — Germany,lea.schulz@nexora.example,2021-12-25,Ava Koch,they/them
-NX-0463,Mateo Bauer,Talent Partner,Finance,Frankfurt,mateo.bauer@nexora.example,2022-01-11,Emil Weber,she/her
-NX-0464,Sofia Meyer,Customer Success Manager,Operations,Berlin,sofia.meyer@nexora.example,2022-01-28,Maya Richter,she/her
-NX-0465,Noah Keller,Security Engineer,Sales,Munich,noah.keller@nexora.example,2022-02-14,Felix Schmidt,he/him
-NX-0466,Mila Becker,Sales Director,Marketing,Hamburg,mila.becker@nexora.example,2022-03-03,Ines Schulz,he/him
-NX-0467,Elias Braun,Data Scientist,Customer Success,Cologne,elias.braun@nexora.example,2022-03-20,David Bauer,she/her
-NX-0468,Zara Wagner,People Partner,IT & Security,Stockholm,zara.wagner@nexora.example,2022-04-06,Clara Meyer,they/them
-NX-0469,Luca Neumann,Software Engineer,Sustainability,Amsterdam,luca.neumann@nexora.example,2022-04-23,Amira Keller,she/her
-NX-0470,Freya Fischer,Product Manager,People & Culture,Remote — Germany,freya.fischer@nexora.example,2022-05-10,Jonas Becker,he/him
-NX-0471,Theo Wolf,Communications Specialist,Engineering,Frankfurt,theo.wolf@nexora.example,2022-05-27,Lea Braun,she/her
-NX-0472,Nina Hoffmann,Finance Analyst,Product,Berlin,nina.hoffmann@nexora.example,2022-06-13,Mateo Wagner,they/them
-NX-0473,Ava Koch,Office Coordinator,Finance,Munich,ava.koch@nexora.example,2022-06-30,Sofia Neumann,she/her
-NX-0474,Emil Weber,UX Researcher,Operations,Hamburg,emil.weber@nexora.example,2022-07-17,Noah Fischer,they/them
-NX-0475,Maya Richter,Talent Partner,Sales,Cologne,maya.richter@nexora.example,2022-08-03,Mila Wolf,she/her
-NX-0476,Felix Schmidt,Customer Success Manager,Marketing,Stockholm,felix.schmidt@nexora.example,2022-08-20,Elias Hoffmann,they/them
-NX-0477,Ines Schulz,Security Engineer,Customer Success,Amsterdam,ines.schulz@nexora.example,2022-09-06,Zara Koch,they/them
-NX-0478,David Bauer,Sales Director,IT & Security,Remote — Germany,david.bauer@nexora.example,2022-09-23,Luca Weber,she/her
-NX-0479,Clara Meyer,Data Scientist,Sustainability,Frankfurt,clara.meyer@nexora.example,2022-10-10,Freya Richter,he/him
-NX-0480,Amira Keller,People Partner,People & Culture,Berlin,amira.keller@nexora.example,2022-10-27,Theo Schmidt,he/him
-NX-0481,Jonas Becker,Software Engineer,Engineering,Munich,jonas.becker@nexora.example,2022-11-13,Nina Schulz,she/her
-NX-0482,Lea Braun,Product Manager,Product,Hamburg,lea.braun@nexora.example,2022-11-30,Ava Bauer,he/him
-NX-0483,Mateo Wagner,Communications Specialist,Finance,Cologne,mateo.wagner@nexora.example,2022-12-17,Emil Meyer,he/him
-NX-0484,Sofia Neumann,Finance Analyst,Operations,Stockholm,sofia.neumann@nexora.example,2023-01-03,Maya Keller,she/her
-NX-0485,Noah Fischer,Office Coordinator,Sales,Amsterdam,noah.fischer@nexora.example,2023-01-20,Felix Becker,he/him
-NX-0486,Mila Wolf,UX Researcher,Marketing,Remote — Germany,mila.wolf@nexora.example,2023-02-06,Ines Braun,they/them
-NX-0487,Elias Hoffmann,Talent Partner,Customer Success,Frankfurt,elias.hoffmann@nexora.example,2023-02-23,David Wagner,she/her
-NX-0488,Zara Koch,Customer Success Manager,IT & Security,Berlin,zara.koch@nexora.example,2023-03-12,Clara Neumann,he/him
-NX-0489,Luca Weber,Security Engineer,Sustainability,Munich,luca.weber@nexora.example,2023-03-29,Amira Fischer,they/them
-NX-0490,Freya Richter,Sales Director,People & Culture,Hamburg,freya.richter@nexora.example,2023-04-15,Jonas Wolf,they/them
-NX-0491,Theo Schmidt,Data Scientist,Engineering,Cologne,theo.schmidt@nexora.example,2023-05-02,Lea Hoffmann,they/them
-NX-0492,Nina Schulz,People Partner,Product,Stockholm,nina.schulz@nexora.example,2023-05-19,Mateo Koch,he/him
-NX-0493,Ava Bauer,Software Engineer,Finance,Amsterdam,ava.bauer@nexora.example,2023-06-05,Sofia Weber,they/them
-NX-0494,Emil Meyer,Product Manager,Operations,Remote — Germany,emil.meyer@nexora.example,2023-06-22,Noah Richter,he/him
-NX-0495,Maya Keller,Communications Specialist,Sales,Frankfurt,maya.keller@nexora.example,2023-07-09,Mila Schmidt,he/him
-NX-0496,Felix Becker,Finance Analyst,Marketing,Berlin,felix.becker@nexora.example,2023-07-26,Elias Schulz,he/him
-NX-0497,Ines Braun,Office Coordinator,Customer Success,Munich,ines.braun@nexora.example,2023-08-12,Zara Bauer,he/him
-NX-0498,David Wagner,UX Researcher,IT & Security,Hamburg,david.wagner@nexora.example,2023-08-29,Luca Meyer,they/them
-NX-0499,Clara Neumann,Talent Partner,Sustainability,Cologne,clara.neumann@nexora.example,2023-09-15,Freya Keller,he/him
-NX-0500,Amira Fischer,Customer Success Manager,People & Culture,Stockholm,amira.fischer@nexora.example,2023-10-02,Theo Becker,he/him
-NX-0501,Jonas Wolf,Security Engineer,Engineering,Amsterdam,jonas.wolf@nexora.example,2023-10-19,Nina Braun,he/him
-NX-0502,Lea Hoffmann,Sales Director,Product,Remote — Germany,lea.hoffmann@nexora.example,2023-11-05,Ava Wagner,she/her
-NX-0503,Mateo Koch,Data Scientist,Finance,Frankfurt,mateo.koch@nexora.example,2023-11-22,Emil Neumann,he/him
-NX-0504,Sofia Weber,People Partner,Operations,Berlin,sofia.weber@nexora.example,2023-12-09,Maya Fischer,they/them
-NX-0505,Noah Richter,Software Engineer,Sales,Munich,noah.richter@nexora.example,2023-12-26,Felix Wolf,she/her
-NX-0506,Mila Schmidt,Product Manager,Marketing,Hamburg,mila.schmidt@nexora.example,2024-01-12,Ines Hoffmann,they/them
-NX-0507,Elias Schulz,Communications Specialist,Customer Success,Cologne,elias.schulz@nexora.example,2024-01-29,David Koch,he/him
-NX-0508,Zara Bauer,Finance Analyst,IT & Security,Stockholm,zara.bauer@nexora.example,2024-02-15,Clara Weber,he/him
-NX-0509,Luca Meyer,Office Coordinator,Sustainability,Amsterdam,luca.meyer@nexora.example,2024-03-03,Amira Richter,she/her
-NX-0510,Freya Keller,UX Researcher,People & Culture,Remote — Germany,freya.keller@nexora.example,2024-03-20,Jonas Schmidt,she/her
-NX-0511,Theo Becker,Talent Partner,Engineering,Frankfurt,theo.becker@nexora.example,2024-04-06,Lea Schulz,they/them
-NX-0512,Nina Braun,Customer Success Manager,Product,Berlin,nina.braun@nexora.example,2024-04-23,Mateo Bauer,he/him
-NX-0513,Ava Wagner,Security Engineer,Finance,Munich,ava.wagner@nexora.example,2024-05-10,Sofia Meyer,he/him
-NX-0514,Emil Neumann,Sales Director,Operations,Hamburg,emil.neumann@nexora.example,2024-05-27,Noah Keller,she/her
-NX-0515,Maya Fischer,Data Scientist,Sales,Cologne,maya.fischer@nexora.example,2024-06-13,Mila Becker,they/them
-NX-0516,Felix Wolf,People Partner,Marketing,Stockholm,felix.wolf@nexora.example,2024-06-30,Elias Braun,he/him
-NX-0517,Ines Hoffmann,Software Engineer,Customer Success,Amsterdam,ines.hoffmann@nexora.example,2024-07-17,Zara Wagner,she/her
-NX-0518,David Koch,Product Manager,IT & Security,Remote — Germany,david.koch@nexora.example,2024-08-03,Luca Neumann,he/him
-NX-0519,Clara Weber,Communications Specialist,Sustainability,Frankfurt,clara.weber@nexora.example,2024-08-20,Freya Fischer,she/her
-NX-0520,Amira Richter,Finance Analyst,People & Culture,Berlin,amira.richter@nexora.example,2024-09-06,Theo Wolf,they/them
-NX-0521,Jonas Schmidt,Office Coordinator,Engineering,Munich,jonas.schmidt@nexora.example,2024-09-23,Nina Hoffmann,they/them
-NX-0522,Lea Schulz,UX Researcher,Product,Hamburg,lea.schulz@nexora.example,2024-10-10,Ava Koch,she/her
-NX-0523,Mateo Bauer,Talent Partner,Finance,Cologne,mateo.bauer@nexora.example,2024-10-27,Emil Weber,they/them
-NX-0524,Sofia Meyer,Customer Success Manager,Operations,Stockholm,sofia.meyer@nexora.example,2024-11-13,Maya Richter,she/her
-NX-0525,Noah Keller,Security Engineer,Sales,Amsterdam,noah.keller@nexora.example,2024-11-30,Felix Schmidt,he/him
-NX-0526,Mila Becker,Sales Director,Marketing,Remote — Germany,mila.becker@nexora.example,2024-12-17,Ines Schulz,he/him
-NX-0527,Elias Braun,Data Scientist,Customer Success,Frankfurt,elias.braun@nexora.example,2025-01-03,David Bauer,he/him
-NX-0528,Zara Wagner,People Partner,IT & Security,Berlin,zara.wagner@nexora.example,2025-01-20,Clara Meyer,he/him
-NX-0529,Luca Neumann,Software Engineer,Sustainability,Munich,luca.neumann@nexora.example,2025-02-06,Amira Keller,he/him
-NX-0530,Freya Fischer,Product Manager,People & Culture,Hamburg,freya.fischer@nexora.example,2025-02-23,Jonas Becker,she/her
-NX-0531,Theo Wolf,Communications Specialist,Engineering,Cologne,theo.wolf@nexora.example,2025-03-12,Lea Braun,he/him
-NX-0532,Nina Hoffmann,Finance Analyst,Product,Stockholm,nina.hoffmann@nexora.example,2025-03-29,Mateo Wagner,they/them
-NX-0533,Ava Koch,Office Coordinator,Finance,Amsterdam,ava.koch@nexora.example,2025-04-15,Sofia Neumann,he/him
-NX-0534,Emil Weber,UX Researcher,Operations,Remote — Germany,emil.weber@nexora.example,2025-05-02,Noah Fischer,she/her
-NX-0535,Maya Richter,Talent Partner,Sales,Frankfurt,maya.richter@nexora.example,2025-05-19,Mila Wolf,she/her
-NX-0536,Felix Schmidt,Customer Success Manager,Marketing,Berlin,felix.schmidt@nexora.example,2025-06-05,Elias Hoffmann,he/him
-NX-0537,Ines Schulz,Security Engineer,Customer Success,Munich,ines.schulz@nexora.example,2025-06-22,Zara Koch,she/her
-NX-0538,David Bauer,Sales Director,IT & Security,Hamburg,david.bauer@nexora.example,2025-07-09,Luca Weber,she/her
-NX-0539,Clara Meyer,Data Scientist,Sustainability,Cologne,clara.meyer@nexora.example,2025-07-26,Freya Richter,he/him
-NX-0540,Amira Keller,People Partner,People & Culture,Stockholm,amira.keller@nexora.example,2025-08-12,Theo Schmidt,she/her
-NX-0541,Jonas Becker,Software Engineer,Engineering,Amsterdam,jonas.becker@nexora.example,2025-08-29,Nina Schulz,she/her
-NX-0542,Lea Braun,Product Manager,Product,Remote — Germany,lea.braun@nexora.example,2025-09-15,Ava Bauer,he/him
-NX-0543,Mateo Wagner,Communications Specialist,Finance,Frankfurt,mateo.wagner@nexora.example,2025-10-02,Emil Meyer,he/him
-NX-0544,Sofia Neumann,Finance Analyst,Operations,Berlin,sofia.neumann@nexora.example,2025-10-19,Maya Keller,he/him
-NX-0545,Noah Fischer,Office Coordinator,Sales,Munich,noah.fischer@nexora.example,2025-11-05,Felix Becker,he/him
-NX-0546,Mila Wolf,UX Researcher,Marketing,Hamburg,mila.wolf@nexora.example,2025-11-22,Ines Braun,he/him
-NX-0547,Elias Hoffmann,Talent Partner,Customer Success,Cologne,elias.hoffmann@nexora.example,2025-12-09,David Wagner,he/him
-NX-0548,Zara Koch,Customer Success Manager,IT & Security,Stockholm,zara.koch@nexora.example,2025-12-26,Clara Neumann,she/her
-NX-0549,Luca Weber,Security Engineer,Sustainability,Amsterdam,luca.weber@nexora.example,2026-01-12,Amira Fischer,she/her
-NX-0550,Freya Richter,Sales Director,People & Culture,Remote — Germany,freya.richter@nexora.example,2026-01-29,Jonas Wolf,she/her
-NX-0551,Theo Schmidt,Data Scientist,Engineering,Frankfurt,theo.schmidt@nexora.example,2026-02-15,Lea Hoffmann,he/him
-NX-0552,Nina Schulz,People Partner,Product,Berlin,nina.schulz@nexora.example,2026-03-04,Mateo Koch,they/them
-NX-0553,Ava Bauer,Software Engineer,Finance,Munich,ava.bauer@nexora.example,2026-03-21,Sofia Weber,he/him
-NX-0554,Emil Meyer,Product Manager,Operations,Hamburg,emil.meyer@nexora.example,2026-04-07,Noah Richter,she/her
-NX-0555,Maya Keller,Communications Specialist,Sales,Cologne,maya.keller@nexora.example,2026-04-24,Mila Schmidt,she/her
-NX-0556,Felix Becker,Finance Analyst,Marketing,Stockholm,felix.becker@nexora.example,2026-05-11,Elias Schulz,he/him
-NX-0557,Ines Braun,Office Coordinator,Customer Success,Amsterdam,ines.braun@nexora.example,2026-05-28,Zara Bauer,she/her
-NX-0558,David Wagner,UX Researcher,IT & Security,Remote — Germany,david.wagner@nexora.example,2026-06-14,Luca Meyer,he/him
-NX-0559,Clara Neumann,Talent Partner,Sustainability,Frankfurt,clara.neumann@nexora.example,2026-07-01,Freya Keller,she/her
-NX-0560,Amira Fischer,Customer Success Manager,People & Culture,Berlin,amira.fischer@nexora.example,2026-07-18,Theo Becker,he/him
-NX-0561,Jonas Wolf,Security Engineer,Engineering,Munich,jonas.wolf@nexora.example,2026-08-04,Nina Braun,he/him
-NX-0562,Lea Hoffmann,Sales Director,Product,Hamburg,lea.hoffmann@nexora.example,2026-08-21,Ava Wagner,she/her
-NX-0563,Mateo Koch,Data Scientist,Finance,Cologne,mateo.koch@nexora.example,2026-09-07,Emil Neumann,she/her
-NX-0564,Sofia Weber,People Partner,Operations,Stockholm,sofia.weber@nexora.example,2026-09-24,Maya Fischer,he/him
-NX-0565,Noah Richter,Software Engineer,Sales,Amsterdam,noah.richter@nexora.example,2018-01-06,Felix Wolf,she/her
-NX-0566,Mila Schmidt,Product Manager,Marketing,Remote — Germany,mila.schmidt@nexora.example,2018-01-23,Ines Hoffmann,he/him
-NX-0567,Elias Schulz,Communications Specialist,Customer Success,Frankfurt,elias.schulz@nexora.example,2018-02-09,David Koch,she/her
-NX-0568,Zara Bauer,Finance Analyst,IT & Security,Berlin,zara.bauer@nexora.example,2018-02-26,Clara Weber,he/him
-NX-0569,Luca Meyer,Office Coordinator,Sustainability,Munich,luca.meyer@nexora.example,2018-03-15,Amira Richter,she/her
-NX-0570,Freya Keller,UX Researcher,People & Culture,Hamburg,freya.keller@nexora.example,2018-04-01,Jonas Schmidt,she/her
-NX-0571,Theo Becker,Talent Partner,Engineering,Cologne,theo.becker@nexora.example,2018-04-18,Lea Schulz,he/him
-NX-0572,Nina Braun,Customer Success Manager,Product,Stockholm,nina.braun@nexora.example,2018-05-05,Mateo Bauer,he/him
-NX-0573,Ava Wagner,Security Engineer,Finance,Amsterdam,ava.wagner@nexora.example,2018-05-22,Sofia Meyer,they/them
-NX-0574,Emil Neumann,Sales Director,Operations,Remote — Germany,emil.neumann@nexora.example,2018-06-08,Noah Keller,he/him
-NX-0575,Maya Fischer,Data Scientist,Sales,Frankfurt,maya.fischer@nexora.example,2018-06-25,Mila Becker,they/them
-NX-0576,Felix Wolf,People Partner,Marketing,Berlin,felix.wolf@nexora.example,2018-07-12,Elias Braun,they/them
-NX-0577,Ines Hoffmann,Software Engineer,Customer Success,Munich,ines.hoffmann@nexora.example,2018-07-29,Zara Wagner,they/them
-NX-0578,David Koch,Product Manager,IT & Security,Hamburg,david.koch@nexora.example,2018-08-15,Luca Neumann,she/her
-NX-0579,Clara Weber,Communications Specialist,Sustainability,Cologne,clara.weber@nexora.example,2018-09-01,Freya Fischer,she/her
-NX-0580,Amira Richter,Finance Analyst,People & Culture,Stockholm,amira.richter@nexora.example,2018-09-18,Theo Wolf,they/them
-NX-0581,Jonas Schmidt,Office Coordinator,Engineering,Amsterdam,jonas.schmidt@nexora.example,2018-10-05,Nina Hoffmann,he/him
-NX-0582,Lea Schulz,UX Researcher,Product,Remote — Germany,lea.schulz@nexora.example,2018-10-22,Ava Koch,they/them
-NX-0583,Mateo Bauer,Talent Partner,Finance,Frankfurt,mateo.bauer@nexora.example,2018-11-08,Emil Weber,he/him
-NX-0584,Sofia Meyer,Customer Success Manager,Operations,Berlin,sofia.meyer@nexora.example,2018-11-25,Maya Richter,she/her
-NX-0585,Noah Keller,Security Engineer,Sales,Munich,noah.keller@nexora.example,2018-12-12,Felix Schmidt,he/him
-NX-0586,Mila Becker,Sales Director,Marketing,Hamburg,mila.becker@nexora.example,2018-12-29,Ines Schulz,he/him
-NX-0587,Elias Braun,Data Scientist,Customer Success,Cologne,elias.braun@nexora.example,2019-01-15,David Bauer,she/her
-NX-0588,Zara Wagner,People Partner,IT & Security,Stockholm,zara.wagner@nexora.example,2019-02-01,Clara Meyer,she/her
-NX-0589,Luca Neumann,Software Engineer,Sustainability,Amsterdam,luca.neumann@nexora.example,2019-02-18,Amira Keller,he/him
-NX-0590,Freya Fischer,Product Manager,People & Culture,Remote — Germany,freya.fischer@nexora.example,2019-03-07,Jonas Becker,she/her
-NX-0591,Theo Wolf,Communications Specialist,Engineering,Frankfurt,theo.wolf@nexora.example,2019-03-24,Lea Braun,he/him
-NX-0592,Nina Hoffmann,Finance Analyst,Product,Berlin,nina.hoffmann@nexora.example,2019-04-10,Mateo Wagner,she/her
-NX-0593,Ava Koch,Office Coordinator,Finance,Munich,ava.koch@nexora.example,2019-04-27,Sofia Neumann,he/him
-NX-0594,Emil Weber,UX Researcher,Operations,Hamburg,emil.weber@nexora.example,2019-05-14,Noah Fischer,she/her
-NX-0595,Maya Richter,Talent Partner,Sales,Cologne,maya.richter@nexora.example,2019-05-31,Mila Wolf,she/her
-NX-0596,Felix Schmidt,Customer Success Manager,Marketing,Stockholm,felix.schmidt@nexora.example,2019-06-17,Elias Hoffmann,they/them
-NX-0597,Ines Schulz,Security Engineer,Customer Success,Amsterdam,ines.schulz@nexora.example,2019-07-04,Zara Koch,he/him
-NX-0598,David Bauer,Sales Director,IT & Security,Remote — Germany,david.bauer@nexora.example,2019-07-21,Luca Weber,he/him
-NX-0599,Clara Meyer,Data Scientist,Sustainability,Frankfurt,clara.meyer@nexora.example,2019-08-07,Freya Richter,she/her
-NX-0600,Amira Keller,People Partner,People & Culture,Berlin,amira.keller@nexora.example,2019-08-24,Theo Schmidt,she/her
-NX-0601,Jonas Becker,Software Engineer,Engineering,Munich,jonas.becker@nexora.example,2019-09-10,Nina Schulz,he/him
-NX-0602,Lea Braun,Product Manager,Product,Hamburg,lea.braun@nexora.example,2019-09-27,Ava Bauer,they/them
-NX-0603,Mateo Wagner,Communications Specialist,Finance,Cologne,mateo.wagner@nexora.example,2019-10-14,Emil Meyer,she/her
-NX-0604,Sofia Neumann,Finance Analyst,Operations,Stockholm,sofia.neumann@nexora.example,2019-10-31,Maya Keller,they/them
-NX-0605,Noah Fischer,Office Coordinator,Sales,Amsterdam,noah.fischer@nexora.example,2019-11-17,Felix Becker,she/her
-NX-0606,Mila Wolf,UX Researcher,Marketing,Remote — Germany,mila.wolf@nexora.example,2019-12-04,Ines Braun,he/him
-NX-0607,Elias Hoffmann,Talent Partner,Customer Success,Frankfurt,elias.hoffmann@nexora.example,2019-12-21,David Wagner,she/her
-NX-0608,Zara Koch,Customer Success Manager,IT & Security,Berlin,zara.koch@nexora.example,2020-01-07,Clara Neumann,he/him
-NX-0609,Luca Weber,Security Engineer,Sustainability,Munich,luca.weber@nexora.example,2020-01-24,Amira Fischer,she/her
-NX-0610,Freya Richter,Sales Director,People & Culture,Hamburg,freya.richter@nexora.example,2020-02-10,Jonas Wolf,she/her
-NX-0611,Theo Schmidt,Data Scientist,Engineering,Cologne,theo.schmidt@nexora.example,2020-02-27,Lea Hoffmann,she/her
-NX-0612,Nina Schulz,People Partner,Product,Stockholm,nina.schulz@nexora.example,2020-03-15,Mateo Koch,she/her
-NX-0613,Ava Bauer,Software Engineer,Finance,Amsterdam,ava.bauer@nexora.example,2020-04-01,Sofia Weber,she/her
-NX-0614,Emil Meyer,Product Manager,Operations,Remote — Germany,emil.meyer@nexora.example,2020-04-18,Noah Richter,they/them
-NX-0615,Maya Keller,Communications Specialist,Sales,Frankfurt,maya.keller@nexora.example,2020-05-05,Mila Schmidt,she/her
-NX-0616,Felix Becker,Finance Analyst,Marketing,Berlin,felix.becker@nexora.example,2020-05-22,Elias Schulz,he/him
-NX-0617,Ines Braun,Office Coordinator,Customer Success,Munich,ines.braun@nexora.example,2020-06-08,Zara Bauer,she/her
-NX-0618,David Wagner,UX Researcher,IT & Security,Hamburg,david.wagner@nexora.example,2020-06-25,Luca Meyer,he/him
-NX-0619,Clara Neumann,Talent Partner,Sustainability,Cologne,clara.neumann@nexora.example,2020-07-12,Freya Keller,he/him
-NX-0620,Amira Fischer,Customer Success Manager,People & Culture,Stockholm,amira.fischer@nexora.example,2020-07-29,Theo Becker,he/him
-NX-0621,Jonas Wolf,Security Engineer,Engineering,Amsterdam,jonas.wolf@nexora.example,2020-08-15,Nina Braun,she/her
-NX-0622,Lea Hoffmann,Sales Director,Product,Remote — Germany,lea.hoffmann@nexora.example,2020-09-01,Ava Wagner,they/them
-NX-0623,Mateo Koch,Data Scientist,Finance,Frankfurt,mateo.koch@nexora.example,2020-09-18,Emil Neumann,they/them
-NX-0624,Sofia Weber,People Partner,Operations,Berlin,sofia.weber@nexora.example,2020-10-05,Maya Fischer,he/him
-NX-0625,Noah Richter,Software Engineer,Sales,Munich,noah.richter@nexora.example,2020-10-22,Felix Wolf,they/them
-NX-0626,Mila Schmidt,Product Manager,Marketing,Hamburg,mila.schmidt@nexora.example,2020-11-08,Ines Hoffmann,she/her
-NX-0627,Elias Schulz,Communications Specialist,Customer Success,Cologne,elias.schulz@nexora.example,2020-11-25,David Koch,he/him
-NX-0628,Zara Bauer,Finance Analyst,IT & Security,Stockholm,zara.bauer@nexora.example,2020-12-12,Clara Weber,they/them
-NX-0629,Luca Meyer,Office Coordinator,Sustainability,Amsterdam,luca.meyer@nexora.example,2020-12-29,Amira Richter,he/him
-NX-0630,Freya Keller,UX Researcher,People & Culture,Remote — Germany,freya.keller@nexora.example,2021-01-15,Jonas Schmidt,she/her
-NX-0631,Theo Becker,Talent Partner,Engineering,Frankfurt,theo.becker@nexora.example,2021-02-01,Lea Schulz,he/him
-NX-0632,Nina Braun,Customer Success Manager,Product,Berlin,nina.braun@nexora.example,2021-02-18,Mateo Bauer,they/them
-NX-0633,Ava Wagner,Security Engineer,Finance,Munich,ava.wagner@nexora.example,2021-03-07,Sofia Meyer,she/her
-NX-0634,Emil Neumann,Sales Director,Operations,Hamburg,emil.neumann@nexora.example,2021-03-24,Noah Keller,they/them
-NX-0635,Maya Fischer,Data Scientist,Sales,Cologne,maya.fischer@nexora.example,2021-04-10,Mila Becker,she/her
-NX-0636,Felix Wolf,People Partner,Marketing,Stockholm,felix.wolf@nexora.example,2021-04-27,Elias Braun,she/her
-NX-0637,Ines Hoffmann,Software Engineer,Customer Success,Amsterdam,ines.hoffmann@nexora.example,2021-05-14,Zara Wagner,she/her
-NX-0638,David Koch,Product Manager,IT & Security,Remote — Germany,david.koch@nexora.example,2021-05-31,Luca Neumann,she/her
-NX-0639,Clara Weber,Communications Specialist,Sustainability,Frankfurt,clara.weber@nexora.example,2021-06-17,Freya Fischer,she/her
-NX-0640,Amira Richter,Finance Analyst,People & Culture,Berlin,amira.richter@nexora.example,2021-07-04,Theo Wolf,he/him
-NX-0641,Jonas Schmidt,Office Coordinator,Engineering,Munich,jonas.schmidt@nexora.example,2021-07-21,Nina Hoffmann,he/him
-NX-0642,Lea Schulz,UX Researcher,Product,Hamburg,lea.schulz@nexora.example,2021-08-07,Ava Koch,he/him
-NX-0643,Mateo Bauer,Talent Partner,Finance,Cologne,mateo.bauer@nexora.example,2021-08-24,Emil Weber,he/him
-NX-0644,Sofia Meyer,Customer Success Manager,Operations,Stockholm,sofia.meyer@nexora.example,2021-09-10,Maya Richter,he/him
-NX-0645,Noah Keller,Security Engineer,Sales,Amsterdam,noah.keller@nexora.example,2021-09-27,Felix Schmidt,they/them
-NX-0646,Mila Becker,Sales Director,Marketing,Remote — Germany,mila.becker@nexora.example,2021-10-14,Ines Schulz,he/him
-NX-0647,Elias Braun,Data Scientist,Customer Success,Frankfurt,elias.braun@nexora.example,2021-10-31,David Bauer,he/him
-NX-0648,Zara Wagner,People Partner,IT & Security,Berlin,zara.wagner@nexora.example,2021-11-17,Clara Meyer,she/her
-NX-0649,Luca Neumann,Software Engineer,Sustainability,Munich,luca.neumann@nexora.example,2021-12-04,Amira Keller,he/him
-NX-0650,Freya Fischer,Product Manager,People & Culture,Hamburg,freya.fischer@nexora.example,2021-12-21,Jonas Becker,they/them
+﻿Employee_ID,First_Name,Last_Name,Role,Department,Location,Manager_ID,Work_Email,Start_Date,Employment_Status
+NX-0001,Noah,Becker,Event Coordinator,Engineering,Berlin,NX-0142,noah.becker.1@nexora.example,2023-10-19,Active
+NX-0002,Noah,Becker,Communications Specialist,Customer Support,Remote - Germany,NX-0253,noah.becker.2@nexora.example,2017-11-07,Active
+NX-0003,Mila,Fischer,Recruiter,Engineering,Munich,NX-0464,mila.fischer.3@nexora.example,2020-04-08,Active
+NX-0004,Adam,Nowak,Product Manager,Sales,Berlin,NX-0078,adam.nowak.4@nexora.example,2022-12-06,Active
+NX-0005,Noah,Becker,Communications Specialist,Product,Munich,NX-0266,noah.becker.5@nexora.example,2023-08-13,Active
+NX-0006,Amira,Yilmaz,Product Manager,Site Management,Remote - Germany,NX-0344,amira.yilmaz.6@nexora.example,2017-05-05,Active
+NX-0007,Sofia,Wagner,Software Engineer,Sales,Remote - Germany,NX-0479,sofia.wagner.7@nexora.example,2025-10-12,Active
+NX-0008,Elena,Richter,UX Designer,Customer Support,Munich,NX-0325,elena.richter.8@nexora.example,2026-09-14,Active
+NX-0009,Noah,Becker,People Partner,Finance,Cologne,NX-0407,noah.becker.9@nexora.example,2019-03-03,Active
+NX-0010,Lea,Schneider,Support Specialist,Site Management,Remote - Germany,NX-0442,lea.schneider.10@nexora.example,2021-05-12,Active
+NX-0011,Sara,Özdemir,Software Engineer,Marketing,Cologne,NX-0585,sara.özdemir.11@nexora.example,2025-06-18,Departed
+NX-0012,Emil,Hoffmann,Software Engineer,Marketing,Munich,NX-0571,emil.hoffmann.12@nexora.example,2021-01-30,Active
+NX-0013,Sofia,Wagner,UX Designer,Marketing,Hamburg,NX-0036,sofia.wagner.13@nexora.example,2019-12-12,Active
+NX-0014,Elena,Richter,Product Manager,Product,Remote - Germany,NX-0092,elena.richter.14@nexora.example,2017-02-04,Active
+NX-0015,Adam,Nowak,Account Executive,Finance,Cologne,NX-0568,adam.nowak.15@nexora.example,2022-10-04,On leave
+NX-0016,Mia,Schulz,Software Engineer,Marketing,Berlin,NX-0007,mia.schulz.16@nexora.example,2020-10-12,Active
+NX-0017,Luca,Hartmann,Support Specialist,Finance,Cologne,NX-0225,luca.hartmann.17@nexora.example,2025-03-24,On leave
+NX-0018,Sara,Özdemir,Account Executive,Finance,Hamburg,NX-0375,sara.özdemir.18@nexora.example,2020-02-26,Departed
+NX-0019,David,Neumann,Software Engineer,Marketing,Hamburg,NX-0592,david.neumann.19@nexora.example,2021-05-11,Active
+NX-0020,Mila,Fischer,UX Designer,Site Management,Munich,NX-0242,mila.fischer.20@nexora.example,2019-06-03,Active
+NX-0021,Elena,Richter,Office Coordinator,Engineering,Remote - Germany,NX-0221,elena.richter.21@nexora.example,2025-02-22,Active
+NX-0022,David,Neumann,Software Engineer,Customer Support,Cologne,NX-0379,david.neumann.22@nexora.example,2023-09-01,Active
+NX-0023,Felix,Braun,Financial Analyst,People and Culture,Hamburg,NX-0542,felix.braun.23@nexora.example,2023-04-24,Active
+NX-0024,Lea,Schneider,UX Designer,Site Management,Hamburg,NX-0140,lea.schneider.24@nexora.example,2017-03-07,Active
+NX-0025,Leon,Koch,Support Specialist,Engineering,Cologne,NX-0045,leon.koch.25@nexora.example,2024-08-16,Active
+NX-0026,Sofia,Wagner,Engineering Lead,Sales,Cologne,NX-0444,sofia.wagner.26@nexora.example,2025-10-25,Active
+NX-0027,Leon,Koch,Office Coordinator,Engineering,Munich,NX-0178,leon.koch.27@nexora.example,2021-12-14,Active
+NX-0028,Noah,Becker,UX Designer,Product,Hamburg,NX-0342,noah.becker.28@nexora.example,2022-12-08,Active
+NX-0029,Clara,Schmitt,Event Coordinator,Finance,Hamburg,NX-0244,clara.schmitt.29@nexora.example,2023-03-01,Active
+NX-0030,Sara,Özdemir,UX Designer,Marketing,Hamburg,NX-0352,sara.özdemir.30@nexora.example,2022-05-24,Active
+NX-0031,Sofia,Wagner,Product Manager,Marketing,Berlin,NX-0517,sofia.wagner.31@nexora.example,2023-07-05,Active
+NX-0032,Lea,Schneider,UX Designer,Sales,Munich,NX-0347,lea.schneider.32@nexora.example,2023-09-26,Active
+NX-0033,Luca,Hartmann,Product Manager,Sales,Cologne,NX-0357,luca.hartmann.33@nexora.example,2025-12-25,Active
+NX-0034,Felix,Braun,Communications Specialist,Product,Berlin,NX-0438,felix.braun.34@nexora.example,2023-11-16,Active
+NX-0035,Lea,Schneider,Product Manager,Product,Hamburg,NX-0276,lea.schneider.35@nexora.example,2021-03-24,Active
+NX-0036,Mila,Fischer,Account Executive,Site Management,Remote - Germany,NX-0257,mila.fischer.36@nexora.example,2022-11-14,Active
+NX-0037,Clara,Schmitt,Office Coordinator,Customer Support,Berlin,NX-0630,clara.schmitt.37@nexora.example,2022-07-30,Active
+NX-0038,Clara,Schmitt,Communications Specialist,Marketing,Hamburg,NX-0103,clara.schmitt.38@nexora.example,2024-07-02,Active
+NX-0039,Sofia,Wagner,UX Designer,Customer Support,Remote - Germany,NX-0315,sofia.wagner.39@nexora.example,2021-10-20,Active
+NX-0040,Leon,Koch,Financial Analyst,Finance,Hamburg,NX-0332,leon.koch.40@nexora.example,2018-10-15,Active
+NX-0041,Emil,Hoffmann,Recruiter,Customer Support,Munich,NX-0056,emil.hoffmann.41@nexora.example,2023-12-13,Active
+NX-0042,Jonas,Weber,Support Specialist,Product,Berlin,NX-0476,jonas.weber.42@nexora.example,2019-11-03,Active
+NX-0043,Sofia,Wagner,Office Coordinator,Product,Munich,NX-0274,sofia.wagner.43@nexora.example,2020-08-15,Active
+NX-0044,Paul,Wolf,Recruiter,People and Culture,Hamburg,NX-0304,paul.wolf.44@nexora.example,2020-12-26,Active
+NX-0045,Amira,Yilmaz,Account Executive,Product,Munich,NX-0040,amira.yilmaz.45@nexora.example,2025-04-22,Active
+NX-0046,Clara,Schmitt,Financial Analyst,Marketing,Cologne,NX-0216,clara.schmitt.46@nexora.example,2020-01-28,Active
+NX-0047,Clara,Schmitt,Event Coordinator,Product,Cologne,NX-0398,clara.schmitt.47@nexora.example,2025-08-12,Active
+NX-0048,Amira,Yilmaz,UX Designer,Marketing,Cologne,NX-0231,amira.yilmaz.48@nexora.example,2026-05-25,Active
+NX-0049,Clara,Schmitt,Product Manager,Sales,Munich,NX-0349,clara.schmitt.49@nexora.example,2018-08-21,Active
+NX-0050,Clara,Schmitt,Support Specialist,People and Culture,Berlin,NX-0297,clara.schmitt.50@nexora.example,2025-07-11,Active
+NX-0051,Sofia,Wagner,Event Coordinator,Product,Munich,NX-0410,sofia.wagner.51@nexora.example,2025-01-13,Active
+NX-0052,David,Neumann,People Partner,Product,Cologne,NX-0430,david.neumann.52@nexora.example,2020-02-27,Active
+NX-0053,Nina,Krüger,Financial Analyst,People and Culture,Hamburg,NX-0242,nina.krüger.53@nexora.example,2022-09-28,Active
+NX-0054,Hannah,Lange,Event Coordinator,Customer Support,Munich,NX-0189,hannah.lange.54@nexora.example,2017-11-23,Active
+NX-0055,Mila,Fischer,Event Coordinator,Customer Support,Remote - Germany,NX-0612,mila.fischer.55@nexora.example,2020-01-19,Active
+NX-0056,Adam,Nowak,Product Manager,Customer Support,Hamburg,NX-0527,adam.nowak.56@nexora.example,2022-05-17,Active
+NX-0057,Mila,Fischer,Financial Analyst,Engineering,Hamburg,NX-0426,mila.fischer.57@nexora.example,2018-03-10,Active
+NX-0058,Lea,Schneider,Financial Analyst,Site Management,Remote - Germany,NX-0380,lea.schneider.58@nexora.example,2019-08-24,Active
+NX-0059,Mila,Fischer,Software Engineer,Marketing,Cologne,NX-0553,mila.fischer.59@nexora.example,2020-03-27,Active
+NX-0060,Mila,Fischer,Financial Analyst,Sales,Cologne,NX-0572,mila.fischer.60@nexora.example,2024-08-01,Active
+NX-0061,Adam,Nowak,People Partner,People and Culture,Cologne,NX-0132,adam.nowak.61@nexora.example,2025-07-17,Active
+NX-0062,Nina,Krüger,UX Designer,Marketing,Berlin,NX-0198,nina.krüger.62@nexora.example,2022-01-23,Active
+NX-0063,David,Neumann,Event Coordinator,Engineering,Munich,NX-0089,david.neumann.63@nexora.example,2023-10-25,Active
+NX-0064,Omar,Haddad,Product Manager,People and Culture,Hamburg,NX-0356,omar.haddad.64@nexora.example,2021-06-21,Active
+NX-0065,Felix,Braun,Office Coordinator,People and Culture,Cologne,NX-0559,felix.braun.65@nexora.example,2021-09-06,Active
+NX-0066,Omar,Haddad,Software Engineer,Product,Berlin,NX-0076,omar.haddad.66@nexora.example,2020-03-11,Active
+NX-0067,Noah,Becker,Account Executive,Marketing,Remote - Germany,NX-0476,noah.becker.67@nexora.example,2018-06-22,Active
+NX-0068,Lea,Schneider,Product Manager,Site Management,Hamburg,NX-0625,lea.schneider.68@nexora.example,2017-05-31,Active
+NX-0069,Paul,Wolf,Office Coordinator,Finance,Berlin,NX-0066,paul.wolf.69@nexora.example,2020-03-19,Active
+NX-0070,Lea,Schneider,Account Executive,Finance,Cologne,NX-0620,lea.schneider.70@nexora.example,2024-07-19,Active
+NX-0071,Adam,Nowak,UX Designer,Finance,Munich,NX-0238,adam.nowak.71@nexora.example,2017-11-16,Active
+NX-0072,David,Neumann,Financial Analyst,Marketing,Cologne,NX-0036,david.neumann.72@nexora.example,2017-03-25,Active
+NX-0073,Mia,Schulz,Account Executive,Marketing,Berlin,NX-0399,mia.schulz.73@nexora.example,2021-03-07,Active
+NX-0074,Mia,Schulz,UX Designer,Engineering,Cologne,NX-0140,mia.schulz.74@nexora.example,2024-12-24,Active
+NX-0075,Mila,Fischer,Account Executive,Marketing,Hamburg,NX-0579,mila.fischer.75@nexora.example,2023-08-12,Active
+NX-0076,Amira,Yilmaz,Engineering Lead,Finance,Munich,NX-0148,amira.yilmaz.76@nexora.example,2024-02-12,Active
+NX-0077,Luca,Hartmann,Support Specialist,Customer Support,Munich,NX-0221,luca.hartmann.77@nexora.example,2021-04-17,Active
+NX-0078,Mila,Fischer,Software Engineer,Product,Remote - Germany,NX-0362,mila.fischer.78@nexora.example,2017-07-22,Active
+NX-0079,Amira,Yilmaz,Office Coordinator,People and Culture,Cologne,NX-0159,amira.yilmaz.79@nexora.example,2019-04-30,Active
+NX-0080,Felix,Braun,Office Coordinator,Customer Support,Munich,NX-0232,felix.braun.80@nexora.example,2023-01-18,Active
+NX-0081,Hannah,Lange,Recruiter,Customer Support,Berlin,NX-0510,hannah.lange.81@nexora.example,2018-10-15,On leave
+NX-0082,Sara,Özdemir,People Partner,Sales,Hamburg,NX-0067,sara.özdemir.82@nexora.example,2022-11-14,Active
+NX-0083,Omar,Haddad,Support Specialist,Marketing,Berlin,NX-0410,omar.haddad.83@nexora.example,2025-12-01,Active
+NX-0084,Emil,Hoffmann,Engineering Lead,Product,Berlin,NX-0283,emil.hoffmann.84@nexora.example,2019-11-07,Active
+NX-0085,Noah,Becker,Event Coordinator,Product,Hamburg,NX-0349,noah.becker.85@nexora.example,2022-11-06,Active
+NX-0086,Mila,Fischer,Event Coordinator,People and Culture,Hamburg,NX-0588,mila.fischer.86@nexora.example,2024-08-01,Active
+NX-0087,Elena,Richter,Support Specialist,Engineering,Remote - Germany,NX-0397,elena.richter.87@nexora.example,2021-06-14,Active
+NX-0088,Emil,Hoffmann,UX Designer,Engineering,Berlin,NX-0629,emil.hoffmann.88@nexora.example,2023-10-13,Active
+NX-0089,Felix,Braun,People Partner,Engineering,Berlin,NX-0395,felix.braun.89@nexora.example,2020-03-27,Active
+NX-0090,Omar,Haddad,Support Specialist,Finance,Remote - Germany,NX-0001,omar.haddad.90@nexora.example,2018-09-06,Active
+NX-0091,Omar,Haddad,Event Coordinator,Customer Support,Hamburg,NX-0412,omar.haddad.91@nexora.example,2019-11-02,Active
+NX-0092,Luca,Hartmann,Communications Specialist,Engineering,Hamburg,NX-0311,luca.hartmann.92@nexora.example,2020-01-10,Active
+NX-0093,Omar,Haddad,UX Designer,Customer Support,Remote - Germany,NX-0053,omar.haddad.93@nexora.example,2026-04-27,Active
+NX-0094,Lea,Schneider,Product Manager,Marketing,Cologne,NX-0314,lea.schneider.94@nexora.example,2018-05-11,Active
+NX-0095,Emil,Hoffmann,UX Designer,Sales,Berlin,NX-0159,emil.hoffmann.95@nexora.example,2024-07-16,Active
+NX-0096,Paul,Wolf,Event Coordinator,Sales,Hamburg,NX-0474,paul.wolf.96@nexora.example,2023-08-29,Departed
+NX-0097,Lea,Schneider,UX Designer,Finance,Berlin,NX-0641,lea.schneider.97@nexora.example,2025-11-23,On leave
+NX-0098,David,Neumann,Communications Specialist,Product,Berlin,NX-0303,david.neumann.98@nexora.example,2023-08-29,On leave
+NX-0099,Clara,Schmitt,Software Engineer,People and Culture,Cologne,NX-0569,clara.schmitt.99@nexora.example,2026-06-24,Active
+NX-0100,Amira,Yilmaz,UX Designer,Marketing,Hamburg,NX-0484,amira.yilmaz.100@nexora.example,2022-03-20,Active
+NX-0101,David,Neumann,Event Coordinator,Customer Support,Cologne,NX-0182,david.neumann.101@nexora.example,2023-07-14,Active
+NX-0102,Luca,Hartmann,Engineering Lead,Engineering,Cologne,NX-0192,luca.hartmann.102@nexora.example,2025-02-15,Active
+NX-0103,David,Neumann,People Partner,Marketing,Cologne,NX-0235,david.neumann.103@nexora.example,2018-01-29,Departed
+NX-0104,Omar,Haddad,Support Specialist,Marketing,Cologne,NX-0012,omar.haddad.104@nexora.example,2025-01-12,Active
+NX-0105,Jonas,Weber,Event Coordinator,Site Management,Cologne,NX-0484,jonas.weber.105@nexora.example,2023-03-28,Active
+NX-0106,Mila,Fischer,Event Coordinator,Site Management,Munich,NX-0268,mila.fischer.106@nexora.example,2022-04-24,Active
+NX-0107,Noah,Becker,Recruiter,Site Management,Berlin,NX-0274,noah.becker.107@nexora.example,2024-03-10,Active
+NX-0108,Omar,Haddad,Product Manager,Marketing,Munich,NX-0478,omar.haddad.108@nexora.example,2018-07-20,Active
+NX-0109,Luca,Hartmann,Recruiter,Engineering,Munich,NX-0099,luca.hartmann.109@nexora.example,2023-10-29,Active
+NX-0110,Felix,Braun,UX Designer,People and Culture,Berlin,NX-0572,felix.braun.110@nexora.example,2025-09-30,Active
+NX-0111,Sofia,Wagner,UX Designer,Engineering,Hamburg,NX-0496,sofia.wagner.111@nexora.example,2020-05-06,Departed
+NX-0112,Amira,Yilmaz,Engineering Lead,Site Management,Remote - Germany,NX-0446,amira.yilmaz.112@nexora.example,2020-09-04,Active
+NX-0113,Amira,Yilmaz,Event Coordinator,People and Culture,Hamburg,NX-0038,amira.yilmaz.113@nexora.example,2018-05-03,Active
+NX-0114,Omar,Haddad,Office Coordinator,Marketing,Cologne,NX-0100,omar.haddad.114@nexora.example,2018-10-23,Active
+NX-0115,Mila,Fischer,Support Specialist,Marketing,Munich,NX-0263,mila.fischer.115@nexora.example,2025-07-02,Active
+NX-0116,Luca,Hartmann,Communications Specialist,Engineering,Remote - Germany,NX-0015,luca.hartmann.116@nexora.example,2019-09-14,Active
+NX-0117,Emil,Hoffmann,Engineering Lead,Marketing,Berlin,NX-0240,emil.hoffmann.117@nexora.example,2022-09-16,Active
+NX-0118,Adam,Nowak,Communications Specialist,People and Culture,Hamburg,NX-0088,adam.nowak.118@nexora.example,2026-07-13,Active
+NX-0119,Nina,Krüger,UX Designer,Customer Support,Munich,NX-0264,nina.krüger.119@nexora.example,2020-01-01,Active
+NX-0120,Emil,Hoffmann,Software Engineer,Sales,Berlin,NX-0247,emil.hoffmann.120@nexora.example,2018-08-17,Active
+NX-0121,Paul,Wolf,Engineering Lead,Marketing,Berlin,NX-0510,paul.wolf.121@nexora.example,2026-03-09,Active
+NX-0122,Hannah,Lange,Communications Specialist,People and Culture,Munich,NX-0342,hannah.lange.122@nexora.example,2024-03-12,Active
+NX-0123,Leon,Koch,Recruiter,Engineering,Munich,NX-0078,leon.koch.123@nexora.example,2021-02-13,Active
+NX-0124,Mia,Schulz,UX Designer,Sales,Berlin,NX-0105,mia.schulz.124@nexora.example,2021-09-12,Active
+NX-0125,Jonas,Weber,Support Specialist,Finance,Hamburg,NX-0520,jonas.weber.125@nexora.example,2019-03-01,Active
+NX-0126,Hannah,Lange,UX Designer,People and Culture,Berlin,NX-0335,hannah.lange.126@nexora.example,2018-02-18,Active
+NX-0127,Paul,Wolf,Support Specialist,Marketing,Berlin,NX-0426,paul.wolf.127@nexora.example,2026-05-06,Active
+NX-0128,Clara,Schmitt,Recruiter,People and Culture,Cologne,NX-0047,clara.schmitt.128@nexora.example,2021-10-26,Active
+NX-0129,Felix,Braun,Event Coordinator,Site Management,Remote - Germany,NX-0112,felix.braun.129@nexora.example,2021-10-20,Active
+NX-0130,Hannah,Lange,Recruiter,Marketing,Remote - Germany,NX-0547,hannah.lange.130@nexora.example,2026-04-06,Active
+NX-0131,Mia,Schulz,Account Executive,Customer Support,Munich,NX-0187,mia.schulz.131@nexora.example,2021-02-26,Active
+NX-0132,Amira,Yilmaz,People Partner,Marketing,Berlin,NX-0524,amira.yilmaz.132@nexora.example,2026-03-28,Active
+NX-0133,Sofia,Wagner,Product Manager,Marketing,Munich,NX-0623,sofia.wagner.133@nexora.example,2020-03-01,Departed
+NX-0134,Elena,Richter,Software Engineer,Finance,Berlin,NX-0430,elena.richter.134@nexora.example,2019-03-19,Active
+NX-0135,Adam,Nowak,Product Manager,Product,Berlin,NX-0594,adam.nowak.135@nexora.example,2018-10-30,Departed
+NX-0136,David,Neumann,UX Designer,Customer Support,Remote - Germany,NX-0295,david.neumann.136@nexora.example,2026-02-27,Active
+NX-0137,Paul,Wolf,Recruiter,Sales,Hamburg,NX-0446,paul.wolf.137@nexora.example,2018-12-04,Active
+NX-0138,Amira,Yilmaz,Product Manager,Finance,Munich,NX-0299,amira.yilmaz.138@nexora.example,2017-07-03,Active
+NX-0139,Clara,Schmitt,Office Coordinator,People and Culture,Berlin,NX-0226,clara.schmitt.139@nexora.example,2018-01-28,Active
+NX-0140,Mia,Schulz,Engineering Lead,Sales,Hamburg,NX-0414,mia.schulz.140@nexora.example,2022-12-20,Active
+NX-0141,Felix,Braun,Recruiter,Sales,Remote - Germany,NX-0302,felix.braun.141@nexora.example,2019-10-15,Active
+NX-0142,Leon,Koch,Office Coordinator,Marketing,Munich,NX-0562,leon.koch.142@nexora.example,2021-05-15,Departed
+NX-0143,David,Neumann,Account Executive,People and Culture,Hamburg,NX-0595,david.neumann.143@nexora.example,2023-05-15,Active
+NX-0144,Clara,Schmitt,Recruiter,Product,Cologne,NX-0416,clara.schmitt.144@nexora.example,2017-09-25,Active
+NX-0145,Mia,Schulz,Product Manager,Marketing,Remote - Germany,NX-0265,mia.schulz.145@nexora.example,2024-04-25,Active
+NX-0146,Mia,Schulz,Office Coordinator,Product,Berlin,NX-0368,mia.schulz.146@nexora.example,2018-04-18,Active
+NX-0147,Sara,Özdemir,Financial Analyst,Site Management,Hamburg,NX-0323,sara.özdemir.147@nexora.example,2024-01-11,Active
+NX-0148,Nina,Krüger,Engineering Lead,Sales,Hamburg,NX-0556,nina.krüger.148@nexora.example,2022-02-17,Active
+NX-0149,Mila,Fischer,Engineering Lead,Marketing,Hamburg,NX-0349,mila.fischer.149@nexora.example,2021-03-21,Active
+NX-0150,Felix,Braun,UX Designer,Marketing,Munich,NX-0501,felix.braun.150@nexora.example,2019-09-18,Active
+NX-0151,David,Neumann,People Partner,Engineering,Cologne,NX-0534,david.neumann.151@nexora.example,2019-12-29,Active
+NX-0152,Lea,Schneider,Software Engineer,Site Management,Berlin,NX-0347,lea.schneider.152@nexora.example,2019-07-01,Active
+NX-0153,Felix,Braun,Account Executive,Customer Support,Berlin,NX-0322,felix.braun.153@nexora.example,2017-07-06,Active
+NX-0154,Leon,Koch,Account Executive,Product,Cologne,NX-0522,leon.koch.154@nexora.example,2026-06-29,On leave
+NX-0155,Clara,Schmitt,Recruiter,Sales,Cologne,NX-0497,clara.schmitt.155@nexora.example,2017-02-06,Active
+NX-0156,Paul,Wolf,UX Designer,Finance,Berlin,NX-0151,paul.wolf.156@nexora.example,2023-05-05,Active
+NX-0157,Paul,Wolf,UX Designer,Finance,Remote - Germany,NX-0595,paul.wolf.157@nexora.example,2021-05-22,Active
+NX-0158,Lea,Schneider,Communications Specialist,Site Management,Remote - Germany,NX-0481,lea.schneider.158@nexora.example,2022-09-14,Active
+NX-0159,Nina,Krüger,Software Engineer,Marketing,Hamburg,NX-0105,nina.krüger.159@nexora.example,2020-12-03,Active
+NX-0160,Omar,Haddad,Account Executive,Product,Berlin,NX-0615,omar.haddad.160@nexora.example,2019-10-26,Active
+NX-0161,Felix,Braun,Engineering Lead,Sales,Remote - Germany,NX-0203,felix.braun.161@nexora.example,2021-02-23,On leave
+NX-0162,Emil,Hoffmann,Communications Specialist,People and Culture,Munich,NX-0466,emil.hoffmann.162@nexora.example,2022-08-16,Active
+NX-0163,Clara,Schmitt,Event Coordinator,Finance,Remote - Germany,NX-0369,clara.schmitt.163@nexora.example,2020-12-17,Active
+NX-0164,Mia,Schulz,Event Coordinator,Sales,Hamburg,NX-0525,mia.schulz.164@nexora.example,2024-08-09,Active
+NX-0165,Lea,Schneider,Engineering Lead,Product,Remote - Germany,NX-0070,lea.schneider.165@nexora.example,2019-03-03,Active
+NX-0166,Mia,Schulz,Financial Analyst,Sales,Cologne,NX-0334,mia.schulz.166@nexora.example,2025-10-01,Active
+NX-0167,Adam,Nowak,Software Engineer,Product,Remote - Germany,NX-0546,adam.nowak.167@nexora.example,2021-07-17,Active
+NX-0168,Clara,Schmitt,Engineering Lead,Marketing,Remote - Germany,NX-0419,clara.schmitt.168@nexora.example,2026-07-31,Active
+NX-0169,Lea,Schneider,Event Coordinator,Customer Support,Hamburg,NX-0635,lea.schneider.169@nexora.example,2019-02-27,Active
+NX-0170,Lea,Schneider,Product Manager,Product,Remote - Germany,NX-0356,lea.schneider.170@nexora.example,2024-05-03,Departed
+NX-0171,Luca,Hartmann,Recruiter,Finance,Remote - Germany,NX-0294,luca.hartmann.171@nexora.example,2025-04-04,Active
+NX-0172,Hannah,Lange,Office Coordinator,Product,Berlin,NX-0418,hannah.lange.172@nexora.example,2025-09-25,Active
+NX-0173,Amira,Yilmaz,Office Coordinator,Sales,Hamburg,NX-0428,amira.yilmaz.173@nexora.example,2018-04-18,Active
+NX-0174,Omar,Haddad,Financial Analyst,Finance,Munich,NX-0621,omar.haddad.174@nexora.example,2022-09-28,Active
+NX-0175,Elena,Richter,Communications Specialist,Site Management,Hamburg,NX-0453,elena.richter.175@nexora.example,2020-03-20,Active
+NX-0176,Sara,Özdemir,Financial Analyst,Marketing,Hamburg,NX-0209,sara.özdemir.176@nexora.example,2017-06-25,Departed
+NX-0177,Hannah,Lange,Engineering Lead,Engineering,Berlin,NX-0275,hannah.lange.177@nexora.example,2026-01-15,Active
+NX-0178,Paul,Wolf,Event Coordinator,Customer Support,Munich,NX-0622,paul.wolf.178@nexora.example,2021-04-17,Active
+NX-0179,Sara,Özdemir,Engineering Lead,Customer Support,Cologne,NX-0639,sara.özdemir.179@nexora.example,2025-07-15,Active
+NX-0180,Luca,Hartmann,Engineering Lead,People and Culture,Remote - Germany,NX-0087,luca.hartmann.180@nexora.example,2021-03-06,Active
+NX-0181,Emil,Hoffmann,Product Manager,Customer Support,Berlin,NX-0156,emil.hoffmann.181@nexora.example,2022-05-03,Active
+NX-0182,Nina,Krüger,Product Manager,Product,Berlin,NX-0106,nina.krüger.182@nexora.example,2025-09-30,Active
+NX-0183,Noah,Becker,Software Engineer,Engineering,Munich,NX-0023,noah.becker.183@nexora.example,2020-11-19,Active
+NX-0184,Adam,Nowak,Financial Analyst,Customer Support,Remote - Germany,NX-0397,adam.nowak.184@nexora.example,2018-03-20,Active
+NX-0185,Nina,Krüger,People Partner,Sales,Munich,NX-0471,nina.krüger.185@nexora.example,2023-08-08,Active
+NX-0186,Paul,Wolf,Support Specialist,Customer Support,Cologne,NX-0392,paul.wolf.186@nexora.example,2019-05-04,Active
+NX-0187,Noah,Becker,Recruiter,Site Management,Remote - Germany,NX-0147,noah.becker.187@nexora.example,2020-01-14,Active
+NX-0188,Paul,Wolf,Software Engineer,Product,Munich,NX-0550,paul.wolf.188@nexora.example,2020-02-09,Active
+NX-0189,Jonas,Weber,Account Executive,Marketing,Remote - Germany,NX-0293,jonas.weber.189@nexora.example,2022-06-11,Active
+NX-0190,David,Neumann,Account Executive,Site Management,Munich,NX-0153,david.neumann.190@nexora.example,2018-11-20,Departed
+NX-0191,Paul,Wolf,Product Manager,Site Management,Remote - Germany,NX-0124,paul.wolf.191@nexora.example,2020-07-15,Active
+NX-0192,Lea,Schneider,Support Specialist,Customer Support,Hamburg,NX-0183,lea.schneider.192@nexora.example,2025-01-21,Active
+NX-0193,Emil,Hoffmann,Support Specialist,Engineering,Cologne,NX-0479,emil.hoffmann.193@nexora.example,2026-05-03,Active
+NX-0194,Omar,Haddad,Recruiter,People and Culture,Cologne,NX-0542,omar.haddad.194@nexora.example,2020-04-23,Active
+NX-0195,Sara,Özdemir,Software Engineer,Sales,Remote - Germany,NX-0156,sara.özdemir.195@nexora.example,2026-04-20,Active
+NX-0196,Noah,Becker,Event Coordinator,Engineering,Cologne,NX-0083,noah.becker.196@nexora.example,2026-09-19,Active
+NX-0197,Mila,Fischer,Office Coordinator,Sales,Munich,NX-0299,mila.fischer.197@nexora.example,2020-10-15,Active
+NX-0198,Sara,Özdemir,UX Designer,People and Culture,Remote - Germany,NX-0619,sara.özdemir.198@nexora.example,2020-09-18,Active
+NX-0199,Leon,Koch,Recruiter,Marketing,Berlin,NX-0151,leon.koch.199@nexora.example,2018-06-06,Active
+NX-0200,Adam,Nowak,Recruiter,Customer Support,Hamburg,NX-0093,adam.nowak.200@nexora.example,2024-02-18,Active
+NX-0201,Mia,Schulz,Office Coordinator,Sales,Munich,NX-0099,mia.schulz.201@nexora.example,2026-08-30,Active
+NX-0202,Amira,Yilmaz,Engineering Lead,People and Culture,Berlin,NX-0646,amira.yilmaz.202@nexora.example,2024-07-07,Active
+NX-0203,Elena,Richter,Product Manager,Marketing,Hamburg,NX-0102,elena.richter.203@nexora.example,2022-01-31,Active
+NX-0204,Clara,Schmitt,Financial Analyst,Engineering,Munich,NX-0453,clara.schmitt.204@nexora.example,2025-07-31,Active
+NX-0205,Luca,Hartmann,Office Coordinator,Site Management,Berlin,NX-0067,luca.hartmann.205@nexora.example,2024-10-19,Active
+NX-0206,Sofia,Wagner,Communications Specialist,Marketing,Remote - Germany,NX-0328,sofia.wagner.206@nexora.example,2025-11-22,Active
+NX-0207,Emil,Hoffmann,Support Specialist,Finance,Remote - Germany,NX-0088,emil.hoffmann.207@nexora.example,2023-09-23,Active
+NX-0208,Sara,Özdemir,People Partner,Marketing,Hamburg,NX-0068,sara.özdemir.208@nexora.example,2026-04-02,Active
+NX-0209,David,Neumann,Event Coordinator,Finance,Cologne,NX-0378,david.neumann.209@nexora.example,2020-10-10,Active
+NX-0210,Felix,Braun,Account Executive,People and Culture,Berlin,NX-0028,felix.braun.210@nexora.example,2022-10-13,Active
+NX-0211,Paul,Wolf,Office Coordinator,Sales,Remote - Germany,NX-0334,paul.wolf.211@nexora.example,2020-03-13,On leave
+NX-0212,Jonas,Weber,People Partner,People and Culture,Hamburg,NX-0477,jonas.weber.212@nexora.example,2017-09-16,Active
+NX-0213,Leon,Koch,Product Manager,Finance,Berlin,NX-0534,leon.koch.213@nexora.example,2026-07-25,Active
+NX-0214,Amira,Yilmaz,Office Coordinator,Finance,Munich,NX-0148,amira.yilmaz.214@nexora.example,2017-12-06,Active
+NX-0215,Sara,Özdemir,UX Designer,Sales,Munich,NX-0328,sara.özdemir.215@nexora.example,2026-05-10,Active
+NX-0216,Clara,Schmitt,Recruiter,Engineering,Berlin,NX-0629,clara.schmitt.216@nexora.example,2025-03-03,Active
+NX-0217,Sara,Özdemir,Support Specialist,Site Management,Cologne,NX-0094,sara.özdemir.217@nexora.example,2024-02-15,Active
+NX-0218,Mia,Schulz,Office Coordinator,Customer Support,Cologne,NX-0343,mia.schulz.218@nexora.example,2021-11-10,Active
+NX-0219,Felix,Braun,Engineering Lead,Marketing,Munich,NX-0304,felix.braun.219@nexora.example,2021-10-18,Departed
+NX-0220,Felix,Braun,Communications Specialist,Site Management,Hamburg,NX-0355,felix.braun.220@nexora.example,2025-08-07,Active
+NX-0221,Emil,Hoffmann,Event Coordinator,Finance,Cologne,NX-0029,emil.hoffmann.221@nexora.example,2021-07-01,Active
+NX-0222,Mila,Fischer,Product Manager,Engineering,Cologne,NX-0375,mila.fischer.222@nexora.example,2018-02-21,Active
+NX-0223,Jonas,Weber,Recruiter,Engineering,Remote - Germany,NX-0477,jonas.weber.223@nexora.example,2021-06-25,On leave
+NX-0224,Elena,Richter,UX Designer,Sales,Cologne,NX-0606,elena.richter.224@nexora.example,2020-10-20,Active
+NX-0225,Emil,Hoffmann,People Partner,Product,Berlin,NX-0156,emil.hoffmann.225@nexora.example,2023-04-05,Active
+NX-0226,Mila,Fischer,UX Designer,Sales,Remote - Germany,NX-0015,mila.fischer.226@nexora.example,2017-04-30,Active
+NX-0227,Noah,Becker,Software Engineer,Finance,Berlin,NX-0627,noah.becker.227@nexora.example,2023-06-04,On leave
+NX-0228,Lea,Schneider,Account Executive,Sales,Berlin,NX-0397,lea.schneider.228@nexora.example,2019-09-06,Active
+NX-0229,Jonas,Weber,Account Executive,People and Culture,Remote - Germany,NX-0542,jonas.weber.229@nexora.example,2019-03-03,Active
+NX-0230,Sofia,Wagner,Software Engineer,Sales,Remote - Germany,NX-0577,sofia.wagner.230@nexora.example,2020-11-20,Active
+NX-0231,Clara,Schmitt,Product Manager,Finance,Munich,NX-0573,clara.schmitt.231@nexora.example,2017-04-13,Active
+NX-0232,Luca,Hartmann,Support Specialist,Marketing,Hamburg,NX-0335,luca.hartmann.232@nexora.example,2022-03-27,Active
+NX-0233,David,Neumann,Office Coordinator,Product,Cologne,NX-0235,david.neumann.233@nexora.example,2022-07-12,Active
+NX-0234,Jonas,Weber,Product Manager,Sales,Berlin,NX-0368,jonas.weber.234@nexora.example,2020-09-11,Active
+NX-0235,Jonas,Weber,Event Coordinator,Finance,Berlin,NX-0561,jonas.weber.235@nexora.example,2020-11-10,Departed
+NX-0236,Adam,Nowak,UX Designer,Customer Support,Cologne,NX-0016,adam.nowak.236@nexora.example,2017-06-13,Active
+NX-0237,Felix,Braun,Software Engineer,Engineering,Remote - Germany,NX-0527,felix.braun.237@nexora.example,2018-06-05,Active
+NX-0238,Mia,Schulz,Software Engineer,Site Management,Berlin,NX-0092,mia.schulz.238@nexora.example,2017-09-18,Active
+NX-0239,Lea,Schneider,Account Executive,Customer Support,Cologne,NX-0638,lea.schneider.239@nexora.example,2017-09-23,Active
+NX-0240,Lea,Schneider,Financial Analyst,Customer Support,Remote - Germany,NX-0013,lea.schneider.240@nexora.example,2021-02-07,Active
+NX-0241,Jonas,Weber,Software Engineer,People and Culture,Berlin,NX-0140,jonas.weber.241@nexora.example,2024-07-30,Active
+NX-0242,Noah,Becker,UX Designer,Engineering,Remote - Germany,NX-0069,noah.becker.242@nexora.example,2022-03-27,Active
+NX-0243,Sofia,Wagner,Recruiter,Product,Berlin,NX-0139,sofia.wagner.243@nexora.example,2018-11-16,Active
+NX-0244,Nina,Krüger,Event Coordinator,Sales,Hamburg,NX-0435,nina.krüger.244@nexora.example,2026-07-31,Active
+NX-0245,Leon,Koch,Financial Analyst,Site Management,Remote - Germany,NX-0004,leon.koch.245@nexora.example,2021-02-28,Active
+NX-0246,Elena,Richter,Software Engineer,Site Management,Munich,NX-0539,elena.richter.246@nexora.example,2020-03-16,Active
+NX-0247,David,Neumann,Recruiter,Engineering,Munich,NX-0440,david.neumann.247@nexora.example,2017-01-09,Active
+NX-0248,Nina,Krüger,Software Engineer,Product,Remote - Germany,NX-0624,nina.krüger.248@nexora.example,2019-02-19,Active
+NX-0249,Amira,Yilmaz,Communications Specialist,Sales,Berlin,NX-0486,amira.yilmaz.249@nexora.example,2021-05-25,On leave
+NX-0250,Clara,Schmitt,Account Executive,Sales,Munich,NX-0228,clara.schmitt.250@nexora.example,2018-11-22,Active
+NX-0251,Mila,Fischer,Product Manager,Sales,Remote - Germany,NX-0438,mila.fischer.251@nexora.example,2023-07-31,Active
+NX-0252,Lea,Schneider,Event Coordinator,Product,Hamburg,NX-0078,lea.schneider.252@nexora.example,2021-08-02,Active
+NX-0253,Mila,Fischer,Account Executive,Sales,Munich,NX-0012,mila.fischer.253@nexora.example,2022-11-01,Active
+NX-0254,Hannah,Lange,Account Executive,Engineering,Remote - Germany,NX-0472,hannah.lange.254@nexora.example,2021-02-15,Active
+NX-0255,Leon,Koch,Event Coordinator,Customer Support,Munich,NX-0045,leon.koch.255@nexora.example,2018-10-11,Active
+NX-0256,Mila,Fischer,UX Designer,Customer Support,Munich,NX-0493,mila.fischer.256@nexora.example,2024-06-01,Active
+NX-0257,Elena,Richter,Support Specialist,Product,Remote - Germany,NX-0546,elena.richter.257@nexora.example,2026-08-21,Active
+NX-0258,Jonas,Weber,Product Manager,People and Culture,Remote - Germany,NX-0462,jonas.weber.258@nexora.example,2018-10-10,Active
+NX-0259,Paul,Wolf,Office Coordinator,Engineering,Cologne,NX-0497,paul.wolf.259@nexora.example,2023-04-24,Active
+NX-0260,Lea,Schneider,Engineering Lead,Sales,Hamburg,NX-0097,lea.schneider.260@nexora.example,2021-12-04,Active
+NX-0261,Hannah,Lange,Communications Specialist,Sales,Munich,NX-0471,hannah.lange.261@nexora.example,2023-08-17,Active
+NX-0262,David,Neumann,Financial Analyst,Marketing,Hamburg,NX-0444,david.neumann.262@nexora.example,2020-12-30,Active
+NX-0263,Clara,Schmitt,UX Designer,People and Culture,Cologne,NX-0158,clara.schmitt.263@nexora.example,2025-10-13,Active
+NX-0264,Clara,Schmitt,Software Engineer,People and Culture,Berlin,NX-0452,clara.schmitt.264@nexora.example,2018-01-07,Active
+NX-0265,Sara,Özdemir,People Partner,Finance,Remote - Germany,NX-0398,sara.özdemir.265@nexora.example,2019-07-06,Active
+NX-0266,Hannah,Lange,Recruiter,Site Management,Munich,NX-0572,hannah.lange.266@nexora.example,2025-11-24,Active
+NX-0267,Sara,Özdemir,UX Designer,Customer Support,Munich,NX-0273,sara.özdemir.267@nexora.example,2020-12-23,Active
+NX-0268,Mila,Fischer,People Partner,Site Management,Cologne,NX-0355,mila.fischer.268@nexora.example,2022-11-20,Active
+NX-0269,Clara,Schmitt,Account Executive,Finance,Cologne,NX-0341,clara.schmitt.269@nexora.example,2022-06-20,Active
+NX-0270,Mila,Fischer,Office Coordinator,Customer Support,Berlin,NX-0380,mila.fischer.270@nexora.example,2023-01-21,Active
+NX-0271,Lea,Schneider,Engineering Lead,Product,Berlin,NX-0409,lea.schneider.271@nexora.example,2021-01-13,Active
+NX-0272,David,Neumann,Software Engineer,Sales,Hamburg,NX-0576,david.neumann.272@nexora.example,2019-01-29,Active
+NX-0273,Elena,Richter,Communications Specialist,People and Culture,Cologne,NX-0107,elena.richter.273@nexora.example,2025-10-23,Active
+NX-0274,David,Neumann,UX Designer,Engineering,Hamburg,NX-0457,david.neumann.274@nexora.example,2017-04-14,Active
+NX-0275,Sofia,Wagner,Product Manager,Site Management,Cologne,NX-0369,sofia.wagner.275@nexora.example,2019-08-25,Active
+NX-0276,David,Neumann,Account Executive,Customer Support,Berlin,NX-0275,david.neumann.276@nexora.example,2023-08-29,Active
+NX-0277,David,Neumann,Recruiter,People and Culture,Hamburg,NX-0034,david.neumann.277@nexora.example,2023-11-17,Active
+NX-0278,Lea,Schneider,Event Coordinator,Site Management,Remote - Germany,NX-0430,lea.schneider.278@nexora.example,2024-04-13,Active
+NX-0279,Hannah,Lange,Recruiter,Site Management,Hamburg,NX-0492,hannah.lange.279@nexora.example,2024-05-10,Active
+NX-0280,Clara,Schmitt,Software Engineer,Product,Cologne,NX-0432,clara.schmitt.280@nexora.example,2017-08-11,Active
+NX-0281,Elena,Richter,Recruiter,Finance,Cologne,NX-0215,elena.richter.281@nexora.example,2025-01-29,Active
+NX-0282,Sara,Özdemir,Office Coordinator,People and Culture,Hamburg,NX-0233,sara.özdemir.282@nexora.example,2018-09-25,Active
+NX-0283,Mia,Schulz,Product Manager,Customer Support,Berlin,NX-0250,mia.schulz.283@nexora.example,2021-12-06,Active
+NX-0284,Sara,Özdemir,Event Coordinator,Finance,Remote - Germany,NX-0157,sara.özdemir.284@nexora.example,2023-12-04,Active
+NX-0285,Felix,Braun,Event Coordinator,Engineering,Remote - Germany,NX-0185,felix.braun.285@nexora.example,2018-11-11,Active
+NX-0286,Clara,Schmitt,Recruiter,Sales,Hamburg,NX-0255,clara.schmitt.286@nexora.example,2021-03-28,Active
+NX-0287,Nina,Krüger,Recruiter,Product,Berlin,NX-0125,nina.krüger.287@nexora.example,2017-12-13,Active
+NX-0288,Emil,Hoffmann,Account Executive,Product,Cologne,NX-0055,emil.hoffmann.288@nexora.example,2020-01-17,Active
+NX-0289,Leon,Koch,Event Coordinator,Marketing,Cologne,NX-0334,leon.koch.289@nexora.example,2021-07-30,Active
+NX-0290,Sara,Özdemir,Account Executive,Customer Support,Cologne,NX-0307,sara.özdemir.290@nexora.example,2025-03-26,Active
+NX-0291,Noah,Becker,UX Designer,Sales,Berlin,NX-0329,noah.becker.291@nexora.example,2018-11-07,Active
+NX-0292,David,Neumann,People Partner,Marketing,Remote - Germany,NX-0284,david.neumann.292@nexora.example,2022-03-18,Active
+NX-0293,Amira,Yilmaz,Engineering Lead,Sales,Hamburg,NX-0630,amira.yilmaz.293@nexora.example,2019-01-01,Active
+NX-0294,Mila,Fischer,Account Executive,Product,Berlin,NX-0577,mila.fischer.294@nexora.example,2019-08-04,Active
+NX-0295,Lea,Schneider,Product Manager,Marketing,Cologne,NX-0254,lea.schneider.295@nexora.example,2019-01-09,Active
+NX-0296,Omar,Haddad,Account Executive,Finance,Munich,NX-0252,omar.haddad.296@nexora.example,2023-04-07,Active
+NX-0297,Omar,Haddad,Communications Specialist,Marketing,Hamburg,NX-0351,omar.haddad.297@nexora.example,2019-10-25,Departed
+NX-0298,Mia,Schulz,Event Coordinator,Sales,Berlin,NX-0227,mia.schulz.298@nexora.example,2023-06-20,Active
+NX-0299,Adam,Nowak,Account Executive,People and Culture,Cologne,NX-0040,adam.nowak.299@nexora.example,2017-01-17,Active
+NX-0300,Nina,Krüger,Engineering Lead,Customer Support,Munich,NX-0400,nina.krüger.300@nexora.example,2023-04-17,Active
+NX-0301,Lea,Schneider,Communications Specialist,Product,Hamburg,NX-0244,lea.schneider.301@nexora.example,2018-03-24,Active
+NX-0302,David,Neumann,Financial Analyst,People and Culture,Hamburg,NX-0265,david.neumann.302@nexora.example,2024-02-27,Active
+NX-0303,Amira,Yilmaz,Product Manager,Site Management,Berlin,NX-0374,amira.yilmaz.303@nexora.example,2026-06-29,Active
+NX-0304,Paul,Wolf,Support Specialist,Product,Munich,NX-0425,paul.wolf.304@nexora.example,2017-06-11,Active
+NX-0305,Clara,Schmitt,UX Designer,Site Management,Munich,NX-0605,clara.schmitt.305@nexora.example,2020-08-16,On leave
+NX-0306,Nina,Krüger,Account Executive,Product,Hamburg,NX-0019,nina.krüger.306@nexora.example,2017-02-23,Active
+NX-0307,Jonas,Weber,Recruiter,Product,Munich,NX-0367,jonas.weber.307@nexora.example,2018-07-18,Active
+NX-0308,Nina,Krüger,Communications Specialist,Finance,Cologne,NX-0190,nina.krüger.308@nexora.example,2023-01-29,Active
+NX-0309,Emil,Hoffmann,People Partner,Sales,Berlin,NX-0180,emil.hoffmann.309@nexora.example,2022-08-11,Active
+NX-0310,Felix,Braun,Engineering Lead,People and Culture,Munich,NX-0342,felix.braun.310@nexora.example,2019-06-03,Active
+NX-0311,Mila,Fischer,Software Engineer,Product,Cologne,NX-0631,mila.fischer.311@nexora.example,2017-06-14,Active
+NX-0312,Nina,Krüger,Event Coordinator,Marketing,Cologne,NX-0294,nina.krüger.312@nexora.example,2024-04-23,Active
+NX-0313,Leon,Koch,Product Manager,Product,Berlin,NX-0178,leon.koch.313@nexora.example,2024-03-23,Active
+NX-0314,Clara,Schmitt,Software Engineer,Finance,Cologne,NX-0590,clara.schmitt.314@nexora.example,2024-09-28,Active
+NX-0315,Luca,Hartmann,Engineering Lead,Sales,Cologne,NX-0490,luca.hartmann.315@nexora.example,2022-08-04,Active
+NX-0316,Omar,Haddad,Support Specialist,Product,Hamburg,NX-0434,omar.haddad.316@nexora.example,2020-02-24,Active
+NX-0317,Mila,Fischer,Account Executive,Site Management,Remote - Germany,NX-0233,mila.fischer.317@nexora.example,2018-01-02,Active
+NX-0318,Adam,Nowak,Office Coordinator,Engineering,Berlin,NX-0524,adam.nowak.318@nexora.example,2021-01-21,Active
+NX-0319,Emil,Hoffmann,Product Manager,Sales,Hamburg,NX-0075,emil.hoffmann.319@nexora.example,2024-05-15,Active
+NX-0320,Paul,Wolf,Support Specialist,Engineering,Remote - Germany,NX-0437,paul.wolf.320@nexora.example,2022-08-05,Active
+NX-0321,Sofia,Wagner,Financial Analyst,Marketing,Cologne,NX-0289,sofia.wagner.321@nexora.example,2023-12-21,Active
+NX-0322,Paul,Wolf,Account Executive,Sales,Hamburg,NX-0433,paul.wolf.322@nexora.example,2022-10-08,On leave
+NX-0323,Adam,Nowak,Office Coordinator,People and Culture,Munich,NX-0313,adam.nowak.323@nexora.example,2022-07-22,Active
+NX-0324,Felix,Braun,Software Engineer,Marketing,Remote - Germany,NX-0118,felix.braun.324@nexora.example,2018-08-19,Active
+NX-0325,Adam,Nowak,Account Executive,Finance,Hamburg,NX-0577,adam.nowak.325@nexora.example,2020-01-31,Active
+NX-0326,Adam,Nowak,Software Engineer,People and Culture,Remote - Germany,NX-0035,adam.nowak.326@nexora.example,2026-07-13,Active
+NX-0327,Jonas,Weber,Product Manager,Finance,Hamburg,NX-0093,jonas.weber.327@nexora.example,2019-12-06,Active
+NX-0328,Nina,Krüger,Engineering Lead,Sales,Cologne,NX-0260,nina.krüger.328@nexora.example,2019-08-26,Active
+NX-0329,Hannah,Lange,UX Designer,People and Culture,Cologne,NX-0330,hannah.lange.329@nexora.example,2021-10-08,Active
+NX-0330,Sara,Özdemir,UX Designer,Engineering,Remote - Germany,NX-0608,sara.özdemir.330@nexora.example,2018-10-07,Active
+NX-0331,Sara,Özdemir,Event Coordinator,Marketing,Remote - Germany,NX-0006,sara.özdemir.331@nexora.example,2023-09-04,Active
+NX-0332,Adam,Nowak,Software Engineer,Sales,Munich,NX-0294,adam.nowak.332@nexora.example,2017-03-30,Active
+NX-0333,Amira,Yilmaz,Communications Specialist,Sales,Cologne,NX-0028,amira.yilmaz.333@nexora.example,2017-05-05,Active
+NX-0334,Sara,Özdemir,Support Specialist,People and Culture,Berlin,NX-0465,sara.özdemir.334@nexora.example,2019-11-24,Active
+NX-0335,David,Neumann,People Partner,Sales,Munich,NX-0143,david.neumann.335@nexora.example,2018-06-17,Active
+NX-0336,Elena,Richter,Engineering Lead,Sales,Cologne,NX-0452,elena.richter.336@nexora.example,2026-04-30,Active
+NX-0337,Clara,Schmitt,Account Executive,Finance,Hamburg,NX-0332,clara.schmitt.337@nexora.example,2017-12-25,Active
+NX-0338,Sara,Özdemir,UX Designer,Engineering,Cologne,NX-0039,sara.özdemir.338@nexora.example,2021-12-14,Active
+NX-0339,Hannah,Lange,Event Coordinator,Customer Support,Munich,NX-0068,hannah.lange.339@nexora.example,2021-05-10,Active
+NX-0340,David,Neumann,Event Coordinator,Sales,Berlin,NX-0082,david.neumann.340@nexora.example,2022-02-02,Active
+NX-0341,Leon,Koch,Software Engineer,Marketing,Munich,NX-0064,leon.koch.341@nexora.example,2022-12-12,Active
+NX-0342,Leon,Koch,People Partner,Finance,Berlin,NX-0465,leon.koch.342@nexora.example,2023-10-17,Active
+NX-0343,Adam,Nowak,Software Engineer,Engineering,Cologne,NX-0289,adam.nowak.343@nexora.example,2025-07-21,Active
+NX-0344,Lea,Schneider,Communications Specialist,Finance,Munich,NX-0416,lea.schneider.344@nexora.example,2018-09-18,Active
+NX-0345,Luca,Hartmann,Software Engineer,Finance,Munich,NX-0042,luca.hartmann.345@nexora.example,2018-12-09,Active
+NX-0346,Sara,Özdemir,Support Specialist,Engineering,Remote - Germany,NX-0236,sara.özdemir.346@nexora.example,2019-03-01,Active
+NX-0347,Sara,Özdemir,Office Coordinator,Product,Hamburg,NX-0573,sara.özdemir.347@nexora.example,2020-10-02,Active
+NX-0348,Mia,Schulz,Engineering Lead,Customer Support,Munich,NX-0182,mia.schulz.348@nexora.example,2020-04-05,Active
+NX-0349,Sara,Özdemir,Engineering Lead,Engineering,Cologne,NX-0104,sara.özdemir.349@nexora.example,2024-09-25,Active
+NX-0350,Sara,Özdemir,Financial Analyst,People and Culture,Munich,NX-0618,sara.özdemir.350@nexora.example,2022-12-09,Active
+NX-0351,Luca,Hartmann,Support Specialist,Sales,Berlin,NX-0565,luca.hartmann.351@nexora.example,2019-06-17,Active
+NX-0352,Noah,Becker,Event Coordinator,Sales,Munich,NX-0624,noah.becker.352@nexora.example,2022-10-27,Active
+NX-0353,Noah,Becker,UX Designer,Finance,Munich,NX-0598,noah.becker.353@nexora.example,2023-10-02,Active
+NX-0354,Nina,Krüger,Engineering Lead,Engineering,Munich,NX-0638,nina.krüger.354@nexora.example,2019-05-05,Active
+NX-0355,Mila,Fischer,Support Specialist,Sales,Remote - Germany,NX-0379,mila.fischer.355@nexora.example,2022-06-19,Active
+NX-0356,Luca,Hartmann,Communications Specialist,Engineering,Berlin,NX-0377,luca.hartmann.356@nexora.example,2021-01-12,Active
+NX-0357,David,Neumann,Product Manager,Sales,Berlin,NX-0523,david.neumann.357@nexora.example,2017-08-08,Active
+NX-0358,Luca,Hartmann,Financial Analyst,Finance,Cologne,NX-0409,luca.hartmann.358@nexora.example,2023-07-25,Active
+NX-0359,Felix,Braun,Account Executive,Customer Support,Cologne,NX-0475,felix.braun.359@nexora.example,2022-01-12,Active
+NX-0360,Jonas,Weber,UX Designer,Sales,Remote - Germany,NX-0211,jonas.weber.360@nexora.example,2026-09-15,Active
+NX-0361,Luca,Hartmann,Financial Analyst,Finance,Cologne,NX-0554,luca.hartmann.361@nexora.example,2020-01-29,Active
+NX-0362,Jonas,Weber,Financial Analyst,Sales,Cologne,NX-0017,jonas.weber.362@nexora.example,2024-06-19,Active
+NX-0363,Luca,Hartmann,Engineering Lead,Finance,Berlin,NX-0350,luca.hartmann.363@nexora.example,2019-12-08,Active
+NX-0364,Emil,Hoffmann,Communications Specialist,Customer Support,Berlin,NX-0546,emil.hoffmann.364@nexora.example,2020-05-12,Active
+NX-0365,Lea,Schneider,Support Specialist,People and Culture,Berlin,NX-0090,lea.schneider.365@nexora.example,2025-02-24,Active
+NX-0366,Jonas,Weber,Engineering Lead,Product,Cologne,NX-0047,jonas.weber.366@nexora.example,2025-05-12,Active
+NX-0367,Felix,Braun,Account Executive,Marketing,Munich,NX-0076,felix.braun.367@nexora.example,2024-01-06,Active
+NX-0368,Leon,Koch,Event Coordinator,Finance,Cologne,NX-0606,leon.koch.368@nexora.example,2018-01-04,Active
+NX-0369,Amira,Yilmaz,Event Coordinator,Site Management,Munich,NX-0585,amira.yilmaz.369@nexora.example,2026-07-29,Active
+NX-0370,David,Neumann,Financial Analyst,Site Management,Cologne,NX-0642,david.neumann.370@nexora.example,2026-02-13,Active
+NX-0371,Mia,Schulz,Financial Analyst,People and Culture,Remote - Germany,NX-0416,mia.schulz.371@nexora.example,2019-07-28,On leave
+NX-0372,Sara,Özdemir,Engineering Lead,Engineering,Berlin,NX-0548,sara.özdemir.372@nexora.example,2025-02-14,Active
+NX-0373,Sara,Özdemir,Recruiter,Customer Support,Munich,NX-0147,sara.özdemir.373@nexora.example,2018-12-20,Active
+NX-0374,David,Neumann,Product Manager,Finance,Munich,NX-0225,david.neumann.374@nexora.example,2023-08-11,Active
+NX-0375,Mia,Schulz,Engineering Lead,Sales,Cologne,NX-0026,mia.schulz.375@nexora.example,2017-10-01,Active
+NX-0376,Adam,Nowak,Event Coordinator,Engineering,Hamburg,NX-0482,adam.nowak.376@nexora.example,2018-04-28,Active
+NX-0377,Jonas,Weber,Product Manager,Marketing,Remote - Germany,NX-0287,jonas.weber.377@nexora.example,2018-09-25,Active
+NX-0378,David,Neumann,UX Designer,Product,Munich,NX-0038,david.neumann.378@nexora.example,2026-05-02,Active
+NX-0379,Adam,Nowak,Recruiter,Engineering,Remote - Germany,NX-0433,adam.nowak.379@nexora.example,2024-02-12,Active
+NX-0380,Adam,Nowak,Communications Specialist,Finance,Berlin,NX-0037,adam.nowak.380@nexora.example,2024-05-31,On leave
+NX-0381,Leon,Koch,People Partner,Product,Remote - Germany,NX-0298,leon.koch.381@nexora.example,2021-11-24,Active
+NX-0382,Adam,Nowak,Account Executive,Sales,Cologne,NX-0648,adam.nowak.382@nexora.example,2019-01-09,Active
+NX-0383,Jonas,Weber,Recruiter,Marketing,Munich,NX-0398,jonas.weber.383@nexora.example,2025-05-14,Active
+NX-0384,Hannah,Lange,Financial Analyst,Site Management,Cologne,NX-0618,hannah.lange.384@nexora.example,2021-09-11,Active
+NX-0385,Clara,Schmitt,Support Specialist,Marketing,Munich,NX-0261,clara.schmitt.385@nexora.example,2018-07-17,Active
+NX-0386,Felix,Braun,Office Coordinator,Engineering,Munich,NX-0040,felix.braun.386@nexora.example,2025-01-30,Active
+NX-0387,Omar,Haddad,Event Coordinator,People and Culture,Hamburg,NX-0471,omar.haddad.387@nexora.example,2025-11-03,Active
+NX-0388,Paul,Wolf,Recruiter,Engineering,Remote - Germany,NX-0395,paul.wolf.388@nexora.example,2025-04-26,Active
+NX-0389,Amira,Yilmaz,People Partner,Finance,Hamburg,NX-0573,amira.yilmaz.389@nexora.example,2018-11-30,Active
+NX-0390,Felix,Braun,Engineering Lead,Product,Hamburg,NX-0511,felix.braun.390@nexora.example,2017-07-10,Active
+NX-0391,Clara,Schmitt,Account Executive,Product,Munich,NX-0187,clara.schmitt.391@nexora.example,2024-05-27,Active
+NX-0392,David,Neumann,UX Designer,Finance,Remote - Germany,NX-0460,david.neumann.392@nexora.example,2021-07-24,Active
+NX-0393,Nina,Krüger,Product Manager,Sales,Berlin,NX-0399,nina.krüger.393@nexora.example,2019-07-25,Active
+NX-0394,Mia,Schulz,Product Manager,Marketing,Berlin,NX-0371,mia.schulz.394@nexora.example,2020-12-19,Active
+NX-0395,Omar,Haddad,Event Coordinator,Site Management,Cologne,NX-0360,omar.haddad.395@nexora.example,2017-02-23,Active
+NX-0396,Felix,Braun,Event Coordinator,Site Management,Hamburg,NX-0235,felix.braun.396@nexora.example,2017-05-17,Active
+NX-0397,Amira,Yilmaz,Event Coordinator,Engineering,Hamburg,NX-0304,amira.yilmaz.397@nexora.example,2024-01-11,On leave
+NX-0398,Noah,Becker,Engineering Lead,Product,Berlin,NX-0556,noah.becker.398@nexora.example,2017-01-13,Active
+NX-0399,Elena,Richter,Product Manager,Sales,Remote - Germany,NX-0243,elena.richter.399@nexora.example,2017-12-04,Active
+NX-0400,Mia,Schulz,Recruiter,Product,Berlin,NX-0622,mia.schulz.400@nexora.example,2022-01-05,Active
+NX-0401,Amira,Yilmaz,Office Coordinator,Product,Cologne,NX-0206,amira.yilmaz.401@nexora.example,2019-05-15,Active
+NX-0402,Sara,Özdemir,Engineering Lead,Engineering,Remote - Germany,NX-0141,sara.özdemir.402@nexora.example,2017-07-21,Active
+NX-0403,Amira,Yilmaz,Product Manager,Product,Remote - Germany,NX-0145,amira.yilmaz.403@nexora.example,2024-06-16,Active
+NX-0404,Lea,Schneider,Event Coordinator,Customer Support,Remote - Germany,NX-0300,lea.schneider.404@nexora.example,2018-05-17,Active
+NX-0405,Noah,Becker,Engineering Lead,Product,Remote - Germany,NX-0008,noah.becker.405@nexora.example,2022-03-29,Active
+NX-0406,David,Neumann,Office Coordinator,People and Culture,Munich,NX-0157,david.neumann.406@nexora.example,2021-08-24,Active
+NX-0407,David,Neumann,Support Specialist,Marketing,Berlin,NX-0286,david.neumann.407@nexora.example,2023-03-25,Active
+NX-0408,Amira,Yilmaz,Financial Analyst,People and Culture,Remote - Germany,NX-0025,amira.yilmaz.408@nexora.example,2024-05-05,Active
+NX-0409,Lea,Schneider,Event Coordinator,Product,Cologne,NX-0634,lea.schneider.409@nexora.example,2023-12-24,Active
+NX-0410,Omar,Haddad,Office Coordinator,Sales,Cologne,NX-0273,omar.haddad.410@nexora.example,2022-08-01,Active
+NX-0411,Amira,Yilmaz,Account Executive,Site Management,Remote - Germany,NX-0138,amira.yilmaz.411@nexora.example,2017-10-23,Active
+NX-0412,Sofia,Wagner,Recruiter,Engineering,Remote - Germany,NX-0126,sofia.wagner.412@nexora.example,2025-07-17,Active
+NX-0413,Mia,Schulz,Product Manager,Marketing,Munich,NX-0552,mia.schulz.413@nexora.example,2023-05-08,Active
+NX-0414,Amira,Yilmaz,Software Engineer,Finance,Munich,NX-0485,amira.yilmaz.414@nexora.example,2023-12-20,Active
+NX-0415,Nina,Krüger,Software Engineer,Engineering,Remote - Germany,NX-0505,nina.krüger.415@nexora.example,2026-07-26,Active
+NX-0416,Luca,Hartmann,Account Executive,Product,Munich,NX-0205,luca.hartmann.416@nexora.example,2023-05-13,Active
+NX-0417,Sara,Özdemir,Financial Analyst,Finance,Berlin,NX-0457,sara.özdemir.417@nexora.example,2023-05-13,Active
+NX-0418,Felix,Braun,Product Manager,Product,Remote - Germany,NX-0488,felix.braun.418@nexora.example,2022-11-27,Active
+NX-0419,Elena,Richter,Support Specialist,Sales,Munich,NX-0146,elena.richter.419@nexora.example,2022-05-05,Active
+NX-0420,Leon,Koch,Support Specialist,Engineering,Remote - Germany,NX-0362,leon.koch.420@nexora.example,2024-10-10,Active
+NX-0421,Nina,Krüger,Event Coordinator,Sales,Hamburg,NX-0251,nina.krüger.421@nexora.example,2020-04-03,Active
+NX-0422,Adam,Nowak,Software Engineer,Site Management,Hamburg,NX-0302,adam.nowak.422@nexora.example,2023-10-08,Active
+NX-0423,David,Neumann,Office Coordinator,Product,Berlin,NX-0509,david.neumann.423@nexora.example,2025-06-04,Active
+NX-0424,Jonas,Weber,People Partner,People and Culture,Munich,NX-0338,jonas.weber.424@nexora.example,2024-11-07,Active
+NX-0425,Elena,Richter,Support Specialist,Engineering,Berlin,NX-0249,elena.richter.425@nexora.example,2021-10-12,Active
+NX-0426,Luca,Hartmann,Engineering Lead,Marketing,Cologne,NX-0595,luca.hartmann.426@nexora.example,2021-04-12,Active
+NX-0427,Jonas,Weber,Event Coordinator,Sales,Cologne,NX-0104,jonas.weber.427@nexora.example,2022-01-18,Departed
+NX-0428,Mila,Fischer,Recruiter,Product,Remote - Germany,NX-0297,mila.fischer.428@nexora.example,2021-11-13,Active
+NX-0429,Lea,Schneider,Recruiter,Finance,Munich,NX-0207,lea.schneider.429@nexora.example,2023-06-09,Active
+NX-0430,David,Neumann,Account Executive,Sales,Berlin,NX-0369,david.neumann.430@nexora.example,2024-09-27,Active
+NX-0431,Elena,Richter,Event Coordinator,Customer Support,Munich,NX-0384,elena.richter.431@nexora.example,2017-07-29,Active
+NX-0432,Hannah,Lange,Software Engineer,People and Culture,Remote - Germany,NX-0134,hannah.lange.432@nexora.example,2017-06-13,Active
+NX-0433,David,Neumann,Engineering Lead,Marketing,Hamburg,NX-0060,david.neumann.433@nexora.example,2022-05-15,Active
+NX-0434,Hannah,Lange,Recruiter,Product,Berlin,NX-0008,hannah.lange.434@nexora.example,2026-01-09,Active
+NX-0435,David,Neumann,Engineering Lead,Finance,Remote - Germany,NX-0111,david.neumann.435@nexora.example,2017-02-11,Active
+NX-0436,Clara,Schmitt,Communications Specialist,Product,Cologne,NX-0022,clara.schmitt.436@nexora.example,2026-02-07,Active
+NX-0437,Emil,Hoffmann,Communications Specialist,Sales,Remote - Germany,NX-0138,emil.hoffmann.437@nexora.example,2023-05-30,Active
+NX-0438,Mia,Schulz,Event Coordinator,People and Culture,Munich,NX-0226,mia.schulz.438@nexora.example,2023-09-19,Active
+NX-0439,Luca,Hartmann,Recruiter,People and Culture,Hamburg,NX-0209,luca.hartmann.439@nexora.example,2026-01-03,Active
+NX-0440,Omar,Haddad,Support Specialist,Marketing,Remote - Germany,NX-0008,omar.haddad.440@nexora.example,2025-01-10,Active
+NX-0441,Sara,Özdemir,Office Coordinator,Site Management,Remote - Germany,NX-0401,sara.özdemir.441@nexora.example,2019-04-19,Active
+NX-0442,Adam,Nowak,Engineering Lead,Marketing,Remote - Germany,NX-0072,adam.nowak.442@nexora.example,2025-03-08,Active
+NX-0443,Omar,Haddad,Software Engineer,Site Management,Berlin,NX-0233,omar.haddad.443@nexora.example,2017-03-12,Active
+NX-0444,Jonas,Weber,Office Coordinator,People and Culture,Remote - Germany,NX-0560,jonas.weber.444@nexora.example,2025-05-20,Active
+NX-0445,Hannah,Lange,Office Coordinator,Marketing,Cologne,NX-0246,hannah.lange.445@nexora.example,2026-02-07,Active
+NX-0446,Lea,Schneider,Communications Specialist,Customer Support,Remote - Germany,NX-0011,lea.schneider.446@nexora.example,2019-09-07,Active
+NX-0447,Adam,Nowak,Recruiter,Site Management,Berlin,NX-0484,adam.nowak.447@nexora.example,2023-08-30,Active
+NX-0448,Omar,Haddad,Support Specialist,Finance,Hamburg,NX-0162,omar.haddad.448@nexora.example,2023-04-14,Active
+NX-0449,Clara,Schmitt,People Partner,Site Management,Munich,NX-0583,clara.schmitt.449@nexora.example,2019-01-01,Active
+NX-0450,Noah,Becker,Product Manager,People and Culture,Cologne,NX-0443,noah.becker.450@nexora.example,2023-02-02,On leave
+NX-0451,Jonas,Weber,Product Manager,Site Management,Remote - Germany,NX-0164,jonas.weber.451@nexora.example,2025-10-09,Active
+NX-0452,Emil,Hoffmann,Financial Analyst,People and Culture,Cologne,NX-0225,emil.hoffmann.452@nexora.example,2018-07-03,Active
+NX-0453,Lea,Schneider,Office Coordinator,Customer Support,Cologne,NX-0298,lea.schneider.453@nexora.example,2025-12-23,Active
+NX-0454,Sara,Özdemir,Financial Analyst,People and Culture,Munich,NX-0160,sara.özdemir.454@nexora.example,2026-01-29,Active
+NX-0455,Leon,Koch,Financial Analyst,Product,Munich,NX-0632,leon.koch.455@nexora.example,2020-10-05,Active
+NX-0456,Paul,Wolf,Product Manager,Marketing,Hamburg,NX-0002,paul.wolf.456@nexora.example,2023-04-23,Active
+NX-0457,Jonas,Weber,Product Manager,Customer Support,Hamburg,NX-0183,jonas.weber.457@nexora.example,2025-02-22,Active
+NX-0458,Paul,Wolf,Financial Analyst,Engineering,Remote - Germany,NX-0518,paul.wolf.458@nexora.example,2020-10-23,Active
+NX-0459,Emil,Hoffmann,Recruiter,Engineering,Remote - Germany,NX-0487,emil.hoffmann.459@nexora.example,2025-07-01,Active
+NX-0460,Sara,Özdemir,Communications Specialist,Sales,Hamburg,NX-0418,sara.özdemir.460@nexora.example,2025-02-16,Active
+NX-0461,Emil,Hoffmann,Event Coordinator,People and Culture,Cologne,NX-0330,emil.hoffmann.461@nexora.example,2025-08-11,Active
+NX-0462,Jonas,Weber,Software Engineer,Marketing,Munich,NX-0308,jonas.weber.462@nexora.example,2020-04-14,Active
+NX-0463,Noah,Becker,Recruiter,Site Management,Hamburg,NX-0014,noah.becker.463@nexora.example,2018-09-10,Active
+NX-0464,Sofia,Wagner,Software Engineer,Marketing,Munich,NX-0406,sofia.wagner.464@nexora.example,2018-01-14,Active
+NX-0465,Elena,Richter,Product Manager,Sales,Hamburg,NX-0138,elena.richter.465@nexora.example,2023-03-23,Active
+NX-0466,Omar,Haddad,Financial Analyst,Product,Berlin,NX-0450,omar.haddad.466@nexora.example,2018-06-20,Active
+NX-0467,Sofia,Wagner,Product Manager,Finance,Munich,NX-0131,sofia.wagner.467@nexora.example,2026-03-23,Active
+NX-0468,Mila,Fischer,People Partner,Engineering,Cologne,NX-0367,mila.fischer.468@nexora.example,2022-01-15,Active
+NX-0469,Elena,Richter,Product Manager,People and Culture,Berlin,NX-0605,elena.richter.469@nexora.example,2026-05-10,Active
+NX-0470,Luca,Hartmann,Account Executive,Marketing,Munich,NX-0297,luca.hartmann.470@nexora.example,2025-07-03,Active
+NX-0471,David,Neumann,Office Coordinator,Site Management,Remote - Germany,NX-0260,david.neumann.471@nexora.example,2024-10-31,Active
+NX-0472,Mila,Fischer,UX Designer,Site Management,Remote - Germany,NX-0361,mila.fischer.472@nexora.example,2019-03-19,Active
+NX-0473,Jonas,Weber,UX Designer,Finance,Munich,NX-0587,jonas.weber.473@nexora.example,2023-09-16,Active
+NX-0474,Leon,Koch,Engineering Lead,Finance,Berlin,NX-0370,leon.koch.474@nexora.example,2025-08-29,Active
+NX-0475,Mila,Fischer,Recruiter,Finance,Berlin,NX-0630,mila.fischer.475@nexora.example,2019-03-06,Active
+NX-0476,Hannah,Lange,Office Coordinator,Site Management,Munich,NX-0287,hannah.lange.476@nexora.example,2017-01-15,Active
+NX-0477,Hannah,Lange,Communications Specialist,Site Management,Remote - Germany,NX-0007,hannah.lange.477@nexora.example,2025-08-26,Active
+NX-0478,Paul,Wolf,UX Designer,Finance,Munich,NX-0113,paul.wolf.478@nexora.example,2025-11-14,Active
+NX-0479,Sofia,Wagner,Account Executive,Product,Berlin,NX-0272,sofia.wagner.479@nexora.example,2021-11-29,Active
+NX-0480,Hannah,Lange,Engineering Lead,Site Management,Hamburg,NX-0633,hannah.lange.480@nexora.example,2025-07-15,Active
+NX-0481,Clara,Schmitt,Account Executive,Site Management,Cologne,NX-0045,clara.schmitt.481@nexora.example,2023-12-06,Active
+NX-0482,Mila,Fischer,UX Designer,People and Culture,Cologne,NX-0644,mila.fischer.482@nexora.example,2017-12-17,Active
+NX-0483,Paul,Wolf,UX Designer,Customer Support,Remote - Germany,NX-0148,paul.wolf.483@nexora.example,2023-08-25,Active
+NX-0484,Hannah,Lange,UX Designer,Product,Remote - Germany,NX-0193,hannah.lange.484@nexora.example,2025-01-15,Active
+NX-0485,Leon,Koch,Engineering Lead,Customer Support,Hamburg,NX-0331,leon.koch.485@nexora.example,2020-09-28,Active
+NX-0486,Mia,Schulz,Office Coordinator,People and Culture,Munich,NX-0417,mia.schulz.486@nexora.example,2023-05-15,Active
+NX-0487,Omar,Haddad,People Partner,Marketing,Cologne,NX-0128,omar.haddad.487@nexora.example,2017-06-22,Active
+NX-0488,Hannah,Lange,Engineering Lead,Marketing,Hamburg,NX-0590,hannah.lange.488@nexora.example,2022-07-18,Active
+NX-0489,Sofia,Wagner,Office Coordinator,Sales,Remote - Germany,NX-0067,sofia.wagner.489@nexora.example,2022-03-05,Active
+NX-0490,Elena,Richter,Event Coordinator,Engineering,Cologne,NX-0216,elena.richter.490@nexora.example,2020-04-01,Active
+NX-0491,Lea,Schneider,UX Designer,Site Management,Hamburg,NX-0346,lea.schneider.491@nexora.example,2025-02-22,Active
+NX-0492,Leon,Koch,Event Coordinator,Engineering,Berlin,NX-0188,leon.koch.492@nexora.example,2023-07-14,Active
+NX-0493,Nina,Krüger,Communications Specialist,Finance,Remote - Germany,NX-0271,nina.krüger.493@nexora.example,2019-08-02,Active
+NX-0494,Jonas,Weber,Support Specialist,Site Management,Munich,NX-0546,jonas.weber.494@nexora.example,2020-06-07,Active
+NX-0495,Mila,Fischer,UX Designer,Site Management,Munich,NX-0378,mila.fischer.495@nexora.example,2020-06-24,Active
+NX-0496,Adam,Nowak,Product Manager,People and Culture,Hamburg,NX-0394,adam.nowak.496@nexora.example,2023-02-08,Active
+NX-0497,Luca,Hartmann,Product Manager,Finance,Hamburg,NX-0081,luca.hartmann.497@nexora.example,2018-09-20,Active
+NX-0498,Mila,Fischer,Software Engineer,Engineering,Berlin,NX-0233,mila.fischer.498@nexora.example,2026-05-05,Active
+NX-0499,Jonas,Weber,Software Engineer,Sales,Remote - Germany,NX-0426,jonas.weber.499@nexora.example,2017-10-27,Active
+NX-0500,Luca,Hartmann,Event Coordinator,Product,Hamburg,NX-0150,luca.hartmann.500@nexora.example,2022-07-14,Active
+NX-0501,Sara,Özdemir,Recruiter,Customer Support,Hamburg,NX-0149,sara.özdemir.501@nexora.example,2024-02-06,Active
+NX-0502,Mia,Schulz,Office Coordinator,Customer Support,Remote - Germany,NX-0358,mia.schulz.502@nexora.example,2019-10-24,Active
+NX-0503,Omar,Haddad,Software Engineer,Finance,Cologne,NX-0309,omar.haddad.503@nexora.example,2020-11-27,Active
+NX-0504,Leon,Koch,Product Manager,Customer Support,Hamburg,NX-0277,leon.koch.504@nexora.example,2024-10-14,Active
+NX-0505,Paul,Wolf,People Partner,Product,Munich,NX-0440,paul.wolf.505@nexora.example,2020-02-03,Active
+NX-0506,Emil,Hoffmann,Product Manager,Finance,Berlin,NX-0601,emil.hoffmann.506@nexora.example,2021-08-11,Active
+NX-0507,Emil,Hoffmann,Account Executive,Finance,Munich,NX-0498,emil.hoffmann.507@nexora.example,2019-07-27,Active
+NX-0508,Hannah,Lange,Office Coordinator,Customer Support,Berlin,NX-0194,hannah.lange.508@nexora.example,2019-03-17,Active
+NX-0509,Mia,Schulz,People Partner,Sales,Berlin,NX-0513,mia.schulz.509@nexora.example,2019-04-22,Active
+NX-0510,Elena,Richter,Office Coordinator,Engineering,Cologne,NX-0015,elena.richter.510@nexora.example,2019-05-13,Active
+NX-0511,David,Neumann,UX Designer,People and Culture,Remote - Germany,NX-0206,david.neumann.511@nexora.example,2026-01-05,Active
+NX-0512,Clara,Schmitt,Financial Analyst,Engineering,Cologne,NX-0172,clara.schmitt.512@nexora.example,2025-10-14,Active
+NX-0513,Paul,Wolf,Recruiter,Engineering,Remote - Germany,NX-0628,paul.wolf.513@nexora.example,2023-06-30,Active
+NX-0514,Nina,Krüger,Product Manager,Site Management,Cologne,NX-0282,nina.krüger.514@nexora.example,2019-09-20,Active
+NX-0515,Nina,Krüger,Engineering Lead,Site Management,Berlin,NX-0532,nina.krüger.515@nexora.example,2017-02-28,Active
+NX-0516,Lea,Schneider,Product Manager,Sales,Berlin,NX-0508,lea.schneider.516@nexora.example,2019-02-03,Active
+NX-0517,Felix,Braun,UX Designer,Marketing,Hamburg,NX-0465,felix.braun.517@nexora.example,2022-07-16,Active
+NX-0518,Sara,Özdemir,Office Coordinator,Sales,Remote - Germany,NX-0042,sara.özdemir.518@nexora.example,2022-06-03,Active
+NX-0519,Sara,Özdemir,Account Executive,Site Management,Hamburg,NX-0356,sara.özdemir.519@nexora.example,2019-11-10,Active
+NX-0520,Jonas,Weber,Recruiter,Customer Support,Cologne,NX-0079,jonas.weber.520@nexora.example,2022-02-07,Active
+NX-0521,Hannah,Lange,Product Manager,Site Management,Cologne,NX-0394,hannah.lange.521@nexora.example,2018-11-16,Active
+NX-0522,Paul,Wolf,Communications Specialist,Product,Munich,NX-0015,paul.wolf.522@nexora.example,2022-07-31,Active
+NX-0523,Nina,Krüger,Event Coordinator,Customer Support,Hamburg,NX-0306,nina.krüger.523@nexora.example,2024-03-02,Active
+NX-0524,Clara,Schmitt,Communications Specialist,Product,Berlin,NX-0201,clara.schmitt.524@nexora.example,2019-01-16,Active
+NX-0525,Sofia,Wagner,Financial Analyst,Marketing,Hamburg,NX-0392,sofia.wagner.525@nexora.example,2024-10-25,Active
+NX-0526,Nina,Krüger,UX Designer,Product,Hamburg,NX-0372,nina.krüger.526@nexora.example,2017-03-10,Active
+NX-0527,Paul,Wolf,Account Executive,Engineering,Cologne,NX-0637,paul.wolf.527@nexora.example,2026-09-09,Active
+NX-0528,Sofia,Wagner,Support Specialist,Finance,Remote - Germany,NX-0097,sofia.wagner.528@nexora.example,2021-12-26,Active
+NX-0529,Luca,Hartmann,Product Manager,People and Culture,Berlin,NX-0213,luca.hartmann.529@nexora.example,2024-06-02,Active
+NX-0530,Nina,Krüger,Account Executive,Customer Support,Remote - Germany,NX-0650,nina.krüger.530@nexora.example,2023-07-14,Active
+NX-0531,Adam,Nowak,Event Coordinator,Product,Berlin,NX-0504,adam.nowak.531@nexora.example,2025-05-04,Active
+NX-0532,Emil,Hoffmann,Product Manager,Sales,Cologne,NX-0014,emil.hoffmann.532@nexora.example,2023-12-28,On leave
+NX-0533,Luca,Hartmann,Account Executive,Marketing,Munich,NX-0532,luca.hartmann.533@nexora.example,2026-07-24,Active
+NX-0534,Emil,Hoffmann,Recruiter,Engineering,Hamburg,NX-0318,emil.hoffmann.534@nexora.example,2019-01-28,Active
+NX-0535,Mia,Schulz,People Partner,Site Management,Hamburg,NX-0342,mia.schulz.535@nexora.example,2022-10-10,Active
+NX-0536,Nina,Krüger,Financial Analyst,Customer Support,Cologne,NX-0434,nina.krüger.536@nexora.example,2023-12-25,Active
+NX-0537,David,Neumann,Software Engineer,Finance,Remote - Germany,NX-0041,david.neumann.537@nexora.example,2019-01-06,Active
+NX-0538,Paul,Wolf,Product Manager,Engineering,Munich,NX-0108,paul.wolf.538@nexora.example,2020-07-20,Active
+NX-0539,Mila,Fischer,People Partner,Customer Support,Munich,NX-0597,mila.fischer.539@nexora.example,2023-12-31,Active
+NX-0540,Leon,Koch,Office Coordinator,Customer Support,Hamburg,NX-0271,leon.koch.540@nexora.example,2017-06-02,Active
+NX-0541,Amira,Yilmaz,Product Manager,Site Management,Remote - Germany,NX-0091,amira.yilmaz.541@nexora.example,2022-02-21,On leave
+NX-0542,Adam,Nowak,Support Specialist,Product,Hamburg,NX-0162,adam.nowak.542@nexora.example,2018-04-14,Active
+NX-0543,Lea,Schneider,Financial Analyst,Engineering,Munich,NX-0635,lea.schneider.543@nexora.example,2026-02-09,Active
+NX-0544,Sofia,Wagner,Account Executive,Finance,Berlin,NX-0372,sofia.wagner.544@nexora.example,2022-09-14,Active
+NX-0545,Noah,Becker,Recruiter,Product,Hamburg,NX-0303,noah.becker.545@nexora.example,2021-01-25,Active
+NX-0546,Amira,Yilmaz,Software Engineer,People and Culture,Hamburg,NX-0284,amira.yilmaz.546@nexora.example,2021-01-11,Active
+NX-0547,Mia,Schulz,Support Specialist,Marketing,Cologne,NX-0447,mia.schulz.547@nexora.example,2022-01-08,Active
+NX-0548,Amira,Yilmaz,Engineering Lead,People and Culture,Cologne,NX-0640,amira.yilmaz.548@nexora.example,2021-07-22,Active
+NX-0549,Hannah,Lange,Engineering Lead,Marketing,Remote - Germany,NX-0332,hannah.lange.549@nexora.example,2025-03-26,Active
+NX-0550,David,Neumann,Account Executive,People and Culture,Munich,NX-0376,david.neumann.550@nexora.example,2021-08-07,Active
+NX-0551,Hannah,Lange,Event Coordinator,Marketing,Hamburg,NX-0391,hannah.lange.551@nexora.example,2023-05-20,Active
+NX-0552,Sofia,Wagner,Recruiter,Marketing,Hamburg,NX-0246,sofia.wagner.552@nexora.example,2018-12-22,Active
+NX-0553,Leon,Koch,Event Coordinator,Finance,Berlin,NX-0118,leon.koch.553@nexora.example,2020-04-23,Active
+NX-0554,Hannah,Lange,Product Manager,Site Management,Berlin,NX-0188,hannah.lange.554@nexora.example,2026-03-14,Active
+NX-0555,Luca,Hartmann,Software Engineer,Engineering,Munich,NX-0206,luca.hartmann.555@nexora.example,2021-11-10,Active
+NX-0556,Mia,Schulz,Support Specialist,Sales,Munich,NX-0500,mia.schulz.556@nexora.example,2022-08-17,Active
+NX-0557,Hannah,Lange,Account Executive,Product,Hamburg,NX-0409,hannah.lange.557@nexora.example,2026-01-26,Active
+NX-0558,Hannah,Lange,Product Manager,Product,Berlin,NX-0474,hannah.lange.558@nexora.example,2018-05-11,Active
+NX-0559,Noah,Becker,UX Designer,Site Management,Berlin,NX-0606,noah.becker.559@nexora.example,2023-06-29,Active
+NX-0560,Lea,Schneider,Office Coordinator,Customer Support,Hamburg,NX-0610,lea.schneider.560@nexora.example,2019-12-22,Active
+NX-0561,Sofia,Wagner,Financial Analyst,People and Culture,Munich,NX-0484,sofia.wagner.561@nexora.example,2022-04-30,Active
+NX-0562,Hannah,Lange,Engineering Lead,Engineering,Munich,NX-0326,hannah.lange.562@nexora.example,2023-12-23,Active
+NX-0563,Jonas,Weber,Recruiter,Product,Munich,NX-0593,jonas.weber.563@nexora.example,2021-02-16,Active
+NX-0564,Lea,Schneider,Engineering Lead,Engineering,Remote - Germany,NX-0116,lea.schneider.564@nexora.example,2023-11-12,Active
+NX-0565,Clara,Schmitt,Product Manager,Site Management,Berlin,NX-0334,clara.schmitt.565@nexora.example,2019-05-12,Active
+NX-0566,Mia,Schulz,Office Coordinator,Engineering,Munich,NX-0568,mia.schulz.566@nexora.example,2025-09-08,Active
+NX-0567,Omar,Haddad,Engineering Lead,People and Culture,Cologne,NX-0376,omar.haddad.567@nexora.example,2021-05-07,Active
+NX-0568,Mila,Fischer,UX Designer,Product,Cologne,NX-0435,mila.fischer.568@nexora.example,2019-06-21,Active
+NX-0569,Hannah,Lange,Financial Analyst,Marketing,Hamburg,NX-0548,hannah.lange.569@nexora.example,2022-11-18,Active
+NX-0570,Sofia,Wagner,Engineering Lead,Sales,Remote - Germany,NX-0074,sofia.wagner.570@nexora.example,2026-01-15,Active
+NX-0571,Omar,Haddad,People Partner,Sales,Hamburg,NX-0186,omar.haddad.571@nexora.example,2022-02-09,Active
+NX-0572,Emil,Hoffmann,Event Coordinator,Finance,Berlin,NX-0277,emil.hoffmann.572@nexora.example,2021-09-10,Active
+NX-0573,Lea,Schneider,Event Coordinator,Sales,Munich,NX-0640,lea.schneider.573@nexora.example,2022-06-25,Active
+NX-0574,Nina,Krüger,Financial Analyst,Engineering,Berlin,NX-0398,nina.krüger.574@nexora.example,2020-08-27,Active
+NX-0575,Elena,Richter,UX Designer,Marketing,Munich,NX-0220,elena.richter.575@nexora.example,2022-12-08,Active
+NX-0576,Sara,Özdemir,People Partner,People and Culture,Remote - Germany,NX-0361,sara.özdemir.576@nexora.example,2026-05-19,Active
+NX-0577,Mia,Schulz,People Partner,Sales,Berlin,NX-0365,mia.schulz.577@nexora.example,2025-10-08,Active
+NX-0578,Luca,Hartmann,Engineering Lead,People and Culture,Munich,NX-0369,luca.hartmann.578@nexora.example,2024-09-19,Active
+NX-0579,Lea,Schneider,Communications Specialist,Product,Munich,NX-0434,lea.schneider.579@nexora.example,2018-02-19,Active
+NX-0580,Nina,Krüger,People Partner,Marketing,Munich,NX-0355,nina.krüger.580@nexora.example,2017-04-12,On leave
+NX-0581,Felix,Braun,Recruiter,Marketing,Cologne,NX-0561,felix.braun.581@nexora.example,2019-11-08,Active
+NX-0582,Felix,Braun,UX Designer,Engineering,Berlin,NX-0240,felix.braun.582@nexora.example,2022-04-08,Active
+NX-0583,Luca,Hartmann,Software Engineer,Product,Berlin,NX-0001,luca.hartmann.583@nexora.example,2021-03-02,Active
+NX-0584,Nina,Krüger,Financial Analyst,Finance,Berlin,NX-0006,nina.krüger.584@nexora.example,2021-08-26,Active
+NX-0585,Sofia,Wagner,Product Manager,Site Management,Berlin,NX-0008,sofia.wagner.585@nexora.example,2024-01-23,Active
+NX-0586,Sara,Özdemir,Recruiter,Engineering,Cologne,NX-0062,sara.özdemir.586@nexora.example,2018-05-14,Active
+NX-0587,Sofia,Wagner,Recruiter,Marketing,Remote - Germany,NX-0140,sofia.wagner.587@nexora.example,2022-07-11,Active
+NX-0588,Adam,Nowak,Engineering Lead,Sales,Remote - Germany,NX-0176,adam.nowak.588@nexora.example,2021-02-03,Active
+NX-0589,Jonas,Weber,Product Manager,Finance,Berlin,NX-0121,jonas.weber.589@nexora.example,2021-07-11,Active
+NX-0590,Elena,Richter,Communications Specialist,Engineering,Munich,NX-0242,elena.richter.590@nexora.example,2024-08-14,Active
+NX-0591,Amira,Yilmaz,Event Coordinator,Product,Berlin,NX-0603,amira.yilmaz.591@nexora.example,2020-12-08,Active
+NX-0592,Leon,Koch,Event Coordinator,Site Management,Berlin,NX-0108,leon.koch.592@nexora.example,2025-06-29,Active
+NX-0593,Clara,Schmitt,UX Designer,Sales,Remote - Germany,NX-0128,clara.schmitt.593@nexora.example,2020-12-08,Active
+NX-0594,Clara,Schmitt,Account Executive,Site Management,Cologne,NX-0460,clara.schmitt.594@nexora.example,2021-04-16,Active
+NX-0595,Sara,Özdemir,Support Specialist,Site Management,Hamburg,NX-0550,sara.özdemir.595@nexora.example,2023-04-18,Active
+NX-0596,Elena,Richter,Communications Specialist,Sales,Munich,NX-0319,elena.richter.596@nexora.example,2023-10-10,Active
+NX-0597,Emil,Hoffmann,Product Manager,Marketing,Hamburg,NX-0102,emil.hoffmann.597@nexora.example,2026-07-16,Active
+NX-0598,Adam,Nowak,UX Designer,Customer Support,Munich,NX-0439,adam.nowak.598@nexora.example,2023-06-21,Active
+NX-0599,Nina,Krüger,UX Designer,Site Management,Berlin,NX-0640,nina.krüger.599@nexora.example,2017-10-31,Active
+NX-0600,Emil,Hoffmann,Support Specialist,People and Culture,Munich,NX-0564,emil.hoffmann.600@nexora.example,2025-05-31,Active
+NX-0601,Mia,Schulz,Office Coordinator,Sales,Hamburg,NX-0010,mia.schulz.601@nexora.example,2022-10-25,Active
+NX-0602,Emil,Hoffmann,Recruiter,People and Culture,Hamburg,NX-0142,emil.hoffmann.602@nexora.example,2024-07-09,Active
+NX-0603,Noah,Becker,People Partner,People and Culture,Cologne,NX-0239,noah.becker.603@nexora.example,2024-12-05,Active
+NX-0604,Noah,Becker,Account Executive,Marketing,Remote - Germany,NX-0610,noah.becker.604@nexora.example,2017-04-08,Active
+NX-0605,Felix,Braun,Engineering Lead,Sales,Munich,NX-0458,felix.braun.605@nexora.example,2026-04-20,Active
+NX-0606,Elena,Richter,UX Designer,Marketing,Remote - Germany,NX-0571,elena.richter.606@nexora.example,2018-05-25,Active
+NX-0607,Hannah,Lange,UX Designer,Sales,Remote - Germany,NX-0227,hannah.lange.607@nexora.example,2018-05-07,Active
+NX-0608,Jonas,Weber,Office Coordinator,Marketing,Munich,NX-0024,jonas.weber.608@nexora.example,2018-03-01,Active
+NX-0609,Elena,Richter,Financial Analyst,Sales,Remote - Germany,NX-0165,elena.richter.609@nexora.example,2020-03-11,Active
+NX-0610,Mila,Fischer,Software Engineer,Customer Support,Berlin,NX-0405,mila.fischer.610@nexora.example,2020-08-15,Active
+NX-0611,Luca,Hartmann,Communications Specialist,Finance,Berlin,NX-0054,luca.hartmann.611@nexora.example,2017-07-13,Active
+NX-0612,Omar,Haddad,Communications Specialist,People and Culture,Munich,NX-0154,omar.haddad.612@nexora.example,2018-01-31,Active
+NX-0613,Leon,Koch,Communications Specialist,Site Management,Hamburg,NX-0270,leon.koch.613@nexora.example,2017-06-15,Active
+NX-0614,David,Neumann,UX Designer,Customer Support,Berlin,NX-0414,david.neumann.614@nexora.example,2019-04-16,Active
+NX-0615,David,Neumann,Office Coordinator,Sales,Remote - Germany,NX-0082,david.neumann.615@nexora.example,2024-01-03,Active
+NX-0616,Clara,Schmitt,Communications Specialist,Product,Hamburg,NX-0033,clara.schmitt.616@nexora.example,2025-07-29,Active
+NX-0617,Nina,Krüger,Product Manager,Site Management,Remote - Germany,NX-0048,nina.krüger.617@nexora.example,2023-09-02,Active
+NX-0618,Leon,Koch,Account Executive,Product,Munich,NX-0238,leon.koch.618@nexora.example,2017-09-14,Active
+NX-0619,Amira,Yilmaz,Software Engineer,Product,Remote - Germany,NX-0531,amira.yilmaz.619@nexora.example,2024-06-05,Active
+NX-0620,Noah,Becker,Financial Analyst,Finance,Cologne,NX-0323,noah.becker.620@nexora.example,2026-03-10,Active
+NX-0621,Amira,Yilmaz,Engineering Lead,Sales,Berlin,NX-0611,amira.yilmaz.621@nexora.example,2017-08-03,Active
+NX-0622,Sofia,Wagner,Office Coordinator,Sales,Munich,NX-0150,sofia.wagner.622@nexora.example,2018-11-30,Active
+NX-0623,Adam,Nowak,Support Specialist,Customer Support,Berlin,NX-0299,adam.nowak.623@nexora.example,2024-02-06,Active
+NX-0624,Felix,Braun,Office Coordinator,Engineering,Hamburg,NX-0446,felix.braun.624@nexora.example,2018-09-29,Active
+NX-0625,Jonas,Weber,Financial Analyst,Product,Hamburg,NX-0564,jonas.weber.625@nexora.example,2018-08-30,Active
+NX-0626,Nina,Krüger,Software Engineer,Sales,Berlin,NX-0189,nina.krüger.626@nexora.example,2020-05-11,Active
+NX-0627,Hannah,Lange,UX Designer,Customer Support,Remote - Germany,NX-0468,hannah.lange.627@nexora.example,2023-04-23,Active
+NX-0628,Mila,Fischer,Account Executive,Marketing,Hamburg,NX-0012,mila.fischer.628@nexora.example,2022-09-09,Active
+NX-0629,Sofia,Wagner,Recruiter,Engineering,Munich,NX-0480,sofia.wagner.629@nexora.example,2022-10-11,Active
+NX-0630,Felix,Braun,Office Coordinator,Engineering,Berlin,NX-0173,felix.braun.630@nexora.example,2024-08-20,Active
+NX-0631,Leon,Koch,Communications Specialist,Engineering,Remote - Germany,NX-0415,leon.koch.631@nexora.example,2022-01-19,Active
+NX-0632,Hannah,Lange,Recruiter,Sales,Cologne,NX-0640,hannah.lange.632@nexora.example,2019-10-16,Active
+NX-0633,Adam,Nowak,UX Designer,Marketing,Remote - Germany,NX-0237,adam.nowak.633@nexora.example,2018-09-22,Active
+NX-0634,Clara,Schmitt,Event Coordinator,Sales,Hamburg,NX-0020,clara.schmitt.634@nexora.example,2022-11-25,Active
+NX-0635,Paul,Wolf,Product Manager,Product,Remote - Germany,NX-0494,paul.wolf.635@nexora.example,2020-04-05,Active
+NX-0636,Adam,Nowak,Event Coordinator,Product,Remote - Germany,NX-0405,adam.nowak.636@nexora.example,2020-03-22,Active
+NX-0637,Felix,Braun,Communications Specialist,Site Management,Munich,NX-0102,felix.braun.637@nexora.example,2020-08-07,Active
+NX-0638,Mia,Schulz,People Partner,Engineering,Munich,NX-0171,mia.schulz.638@nexora.example,2026-04-26,Active
+NX-0639,Clara,Schmitt,Communications Specialist,Customer Support,Munich,NX-0158,clara.schmitt.639@nexora.example,2023-04-12,Active
+NX-0640,Hannah,Lange,Office Coordinator,Marketing,Remote - Germany,NX-0008,hannah.lange.640@nexora.example,2017-02-20,Active
+NX-0641,Paul,Wolf,Office Coordinator,Customer Support,Remote - Germany,NX-0579,paul.wolf.641@nexora.example,2024-04-18,Active
+NX-0642,Sofia,Wagner,Event Coordinator,Site Management,Cologne,NX-0079,sofia.wagner.642@nexora.example,2025-07-06,Active
+NX-0643,Felix,Braun,Event Coordinator,Marketing,Munich,NX-0603,felix.braun.643@nexora.example,2025-03-07,Active
+NX-0644,Jonas,Weber,Office Coordinator,Site Management,Remote - Germany,NX-0090,jonas.weber.644@nexora.example,2017-10-29,Active
+NX-0645,Adam,Nowak,Engineering Lead,Customer Support,Berlin,NX-0543,adam.nowak.645@nexora.example,2017-02-05,Active
+NX-0646,Clara,Schmitt,Account Executive,Site Management,Berlin,NX-0361,clara.schmitt.646@nexora.example,2018-02-11,Active
+NX-0647,David,Neumann,Account Executive,Site Management,Berlin,NX-0388,david.neumann.647@nexora.example,2020-02-18,Active
+NX-0648,Mila,Fischer,Financial Analyst,Engineering,Berlin,NX-0577,mila.fischer.648@nexora.example,2020-06-29,Active
+NX-0649,Jonas,Weber,UX Designer,Site Management,Munich,NX-0057,jonas.weber.649@nexora.example,2026-02-09,Active
+NX-0650,David,Neumann,Recruiter,Engineering,Remote - Germany,NX-0561,david.neumann.650@nexora.example,2020-12-18,Active

@@ -1,601 +1,601 @@
-﻿id,supplier,service,contact,email,city,status,last_used,rating
-SUP-0001,Studio Norden North,Catering,Mateo Wagner,events1@supplier.example,Munich,Not booked,2025-01-10,4.7
-SUP-0002,Green Table Catering Collective,AV & staging,Sofia Neumann,events2@supplier.example,Hamburg,Confirmed,2025-01-19,4.3
-SUP-0003,Sound & Signal GmbH Studio,Print & signage,Noah Fischer,events3@supplier.example,Cologne,Confirmed,2025-01-28,3.6
-SUP-0004,Paper Plane Print Partners,Photography,Mila Wolf,events4@supplier.example,Stockholm,Not booked,2025-02-06,4.0
-SUP-0005,Urban Venue Co. Berlin,Travel,Elias Hoffmann,events5@supplier.example,Amsterdam,Awaiting reply,2025-02-15,4.6
-SUP-0006,GoodDays Hospitality North,Event production,Zara Koch,events6@supplier.example,Remote — Germany,Confirmed,2025-02-24,4.9
-SUP-0007,Pixelhaus Creative Collective,Gifts & merchandise,Luca Weber,events7@supplier.example,Frankfurt,Awaiting reply,2025-03-05,4.4
-SUP-0008,Rail & Ride Studio,Venue,Freya Richter,events8@supplier.example,Berlin,Confirmed,2025-03-14,4.5
-SUP-0009,Clearview AV Partners,Catering,Theo Schmidt,events9@supplier.example,Munich,Confirmed,2025-03-23,3.9
-SUP-0010,Kindred Flowers Berlin,AV & staging,Nina Schulz,events10@supplier.example,Hamburg,Confirmed,2025-04-01,3.9
-SUP-0011,Loop Rental North,Print & signage,Ava Bauer,events11@supplier.example,Cologne,Awaiting reply,2025-04-10,4.1
-SUP-0012,Brightside Events Collective,Photography,Emil Meyer,events12@supplier.example,Stockholm,Not booked,2025-04-19,3.7
-SUP-0013,Studio Norden Studio,Travel,Maya Keller,events13@supplier.example,Amsterdam,Awaiting reply,2025-04-28,4.1
-SUP-0014,Green Table Catering Partners,Event production,Felix Becker,events14@supplier.example,Remote — Germany,Not booked,2025-05-07,3.8
-SUP-0015,Sound & Signal GmbH Berlin,Gifts & merchandise,Ines Braun,events15@supplier.example,Frankfurt,Confirmed,2025-05-16,4.3
-SUP-0016,Paper Plane Print North,Venue,David Wagner,events16@supplier.example,Berlin,Not booked,2025-05-25,4.0
-SUP-0017,Urban Venue Co. Collective,Catering,Clara Neumann,events17@supplier.example,Munich,Confirmed,2025-06-03,4.7
-SUP-0018,GoodDays Hospitality Studio,AV & staging,Amira Fischer,events18@supplier.example,Hamburg,Not booked,2025-06-12,4.6
-SUP-0019,Pixelhaus Creative Partners,Print & signage,Jonas Wolf,events19@supplier.example,Cologne,Awaiting reply,2025-06-21,4.1
-SUP-0020,Rail & Ride Berlin,Photography,Lea Hoffmann,events20@supplier.example,Stockholm,Awaiting reply,2025-06-30,4.6
-SUP-0021,Clearview AV North,Travel,Mateo Koch,events21@supplier.example,Amsterdam,Awaiting reply,2025-07-09,5.0
-SUP-0022,Kindred Flowers Collective,Event production,Sofia Weber,events22@supplier.example,Remote — Germany,Confirmed,2025-07-18,3.6
-SUP-0023,Loop Rental Studio,Gifts & merchandise,Noah Richter,events23@supplier.example,Frankfurt,Not booked,2025-07-27,4.3
-SUP-0024,Brightside Events Partners,Venue,Mila Schmidt,events24@supplier.example,Berlin,Not booked,2025-08-05,4.5
-SUP-0025,Studio Norden Berlin,Catering,Elias Schulz,events25@supplier.example,Munich,Confirmed,2025-08-14,5.0
-SUP-0026,Green Table Catering North,AV & staging,Zara Bauer,events26@supplier.example,Hamburg,Not booked,2025-08-23,3.9
-SUP-0027,Sound & Signal GmbH Collective,Print & signage,Luca Meyer,events27@supplier.example,Cologne,Confirmed,2025-09-01,3.9
-SUP-0028,Paper Plane Print Studio,Photography,Freya Keller,events28@supplier.example,Stockholm,Confirmed,2025-09-10,4.9
-SUP-0029,Urban Venue Co. Partners,Travel,Theo Becker,events29@supplier.example,Amsterdam,Awaiting reply,2025-09-19,4.6
-SUP-0030,GoodDays Hospitality Berlin,Event production,Nina Braun,events30@supplier.example,Remote — Germany,Awaiting reply,2025-09-28,4.0
-SUP-0031,Pixelhaus Creative North,Gifts & merchandise,Ava Wagner,events31@supplier.example,Frankfurt,Awaiting reply,2025-10-07,3.7
-SUP-0032,Rail & Ride Collective,Venue,Emil Neumann,events32@supplier.example,Berlin,Confirmed,2025-10-16,4.0
-SUP-0033,Clearview AV Studio,Catering,Maya Fischer,events33@supplier.example,Munich,Awaiting reply,2025-10-25,3.7
-SUP-0034,Kindred Flowers Partners,AV & staging,Felix Wolf,events34@supplier.example,Hamburg,Confirmed,2025-11-03,4.3
-SUP-0035,Loop Rental Berlin,Print & signage,Ines Hoffmann,events35@supplier.example,Cologne,Confirmed,2025-11-12,3.7
-SUP-0036,Brightside Events North,Photography,David Koch,events36@supplier.example,Stockholm,Confirmed,2025-11-21,3.9
-SUP-0037,Studio Norden Collective,Travel,Clara Weber,events37@supplier.example,Amsterdam,Not booked,2025-11-30,4.6
-SUP-0038,Green Table Catering Studio,Event production,Amira Richter,events38@supplier.example,Remote — Germany,Confirmed,2025-12-09,4.1
-SUP-0039,Sound & Signal GmbH Partners,Gifts & merchandise,Jonas Schmidt,events39@supplier.example,Frankfurt,Confirmed,2025-12-18,4.9
-SUP-0040,Paper Plane Print Berlin,Venue,Lea Schulz,events40@supplier.example,Berlin,Confirmed,2025-12-27,4.2
-SUP-0041,Urban Venue Co. North,Catering,Mateo Bauer,events41@supplier.example,Munich,Confirmed,2025-01-05,4.5
-SUP-0042,GoodDays Hospitality Collective,AV & staging,Sofia Meyer,events42@supplier.example,Hamburg,Confirmed,2025-01-14,4.5
-SUP-0043,Pixelhaus Creative Studio,Print & signage,Noah Keller,events43@supplier.example,Cologne,Confirmed,2025-01-23,4.7
-SUP-0044,Rail & Ride Partners,Photography,Mila Becker,events44@supplier.example,Stockholm,Not booked,2025-02-01,4.3
-SUP-0045,Clearview AV Berlin,Travel,Elias Braun,events45@supplier.example,Amsterdam,Not booked,2025-02-10,3.9
-SUP-0046,Kindred Flowers North,Event production,Zara Wagner,events46@supplier.example,Remote — Germany,Confirmed,2025-02-19,4.6
-SUP-0047,Loop Rental Collective,Gifts & merchandise,Luca Neumann,events47@supplier.example,Frankfurt,Awaiting reply,2025-02-28,4.1
-SUP-0048,Brightside Events Studio,Venue,Freya Fischer,events48@supplier.example,Berlin,Confirmed,2025-03-09,4.0
-SUP-0049,Studio Norden Partners,Catering,Theo Wolf,events49@supplier.example,Munich,Awaiting reply,2025-03-18,3.9
-SUP-0050,Green Table Catering Berlin,AV & staging,Nina Hoffmann,events50@supplier.example,Hamburg,Confirmed,2025-03-27,4.5
-SUP-0051,Sound & Signal GmbH North,Print & signage,Ava Koch,events51@supplier.example,Cologne,Confirmed,2025-04-05,3.7
-SUP-0052,Paper Plane Print Collective,Photography,Emil Weber,events52@supplier.example,Stockholm,Awaiting reply,2025-04-14,4.5
-SUP-0053,Urban Venue Co. Studio,Travel,Maya Richter,events53@supplier.example,Amsterdam,Awaiting reply,2025-04-23,3.7
-SUP-0054,GoodDays Hospitality Partners,Event production,Felix Schmidt,events54@supplier.example,Remote — Germany,Confirmed,2025-05-02,4.9
-SUP-0055,Pixelhaus Creative Berlin,Gifts & merchandise,Ines Schulz,events55@supplier.example,Frankfurt,Confirmed,2025-05-11,4.1
-SUP-0056,Rail & Ride North,Venue,David Bauer,events56@supplier.example,Berlin,Awaiting reply,2025-05-20,3.9
-SUP-0057,Clearview AV Collective,Catering,Clara Meyer,events57@supplier.example,Munich,Awaiting reply,2025-05-29,4.5
-SUP-0058,Kindred Flowers Studio,AV & staging,Amira Keller,events58@supplier.example,Hamburg,Not booked,2025-06-07,3.8
-SUP-0059,Loop Rental Partners,Print & signage,Jonas Becker,events59@supplier.example,Cologne,Confirmed,2025-06-16,4.0
-SUP-0060,Brightside Events Berlin,Photography,Lea Braun,events60@supplier.example,Stockholm,Confirmed,2025-06-25,4.6
-SUP-0061,Studio Norden North,Travel,Mateo Wagner,events61@supplier.example,Amsterdam,Confirmed,2025-07-04,4.5
-SUP-0062,Green Table Catering Collective,Event production,Sofia Neumann,events62@supplier.example,Remote — Germany,Awaiting reply,2025-07-13,4.9
-SUP-0063,Sound & Signal GmbH Studio,Gifts & merchandise,Noah Fischer,events63@supplier.example,Frankfurt,Not booked,2025-07-22,4.3
-SUP-0064,Paper Plane Print Partners,Venue,Mila Wolf,events64@supplier.example,Berlin,Confirmed,2025-07-31,4.3
-SUP-0065,Urban Venue Co. Berlin,Catering,Elias Hoffmann,events65@supplier.example,Munich,Confirmed,2025-08-09,4.5
-SUP-0066,GoodDays Hospitality North,AV & staging,Zara Koch,events66@supplier.example,Hamburg,Confirmed,2025-08-18,4.1
-SUP-0067,Pixelhaus Creative Collective,Print & signage,Luca Weber,events67@supplier.example,Cologne,Confirmed,2025-08-27,4.9
-SUP-0068,Rail & Ride Studio,Photography,Freya Richter,events68@supplier.example,Stockholm,Not booked,2025-09-05,4.0
-SUP-0069,Clearview AV Partners,Travel,Theo Schmidt,events69@supplier.example,Amsterdam,Confirmed,2025-09-14,4.5
-SUP-0070,Kindred Flowers Berlin,Event production,Nina Schulz,events70@supplier.example,Remote — Germany,Awaiting reply,2025-09-23,4.0
-SUP-0071,Loop Rental North,Gifts & merchandise,Ava Bauer,events71@supplier.example,Frankfurt,Confirmed,2025-10-02,4.8
-SUP-0072,Brightside Events Collective,Venue,Emil Meyer,events72@supplier.example,Berlin,Confirmed,2025-10-11,4.4
-SUP-0073,Studio Norden Studio,Catering,Maya Keller,events73@supplier.example,Munich,Confirmed,2025-10-20,4.9
-SUP-0074,Green Table Catering Partners,AV & staging,Felix Becker,events74@supplier.example,Hamburg,Not booked,2025-10-29,4.0
-SUP-0075,Sound & Signal GmbH Berlin,Print & signage,Ines Braun,events75@supplier.example,Cologne,Awaiting reply,2025-11-07,3.7
-SUP-0076,Paper Plane Print North,Photography,David Wagner,events76@supplier.example,Stockholm,Confirmed,2025-11-16,4.3
-SUP-0077,Urban Venue Co. Collective,Travel,Clara Neumann,events77@supplier.example,Amsterdam,Confirmed,2025-11-25,4.6
-SUP-0078,GoodDays Hospitality Studio,Event production,Amira Fischer,events78@supplier.example,Remote — Germany,Confirmed,2025-12-04,3.7
-SUP-0079,Pixelhaus Creative Partners,Gifts & merchandise,Jonas Wolf,events79@supplier.example,Frankfurt,Not booked,2025-12-13,4.4
-SUP-0080,Rail & Ride Berlin,Venue,Lea Hoffmann,events80@supplier.example,Berlin,Confirmed,2025-12-22,3.8
-SUP-0081,Clearview AV North,Catering,Mateo Koch,events81@supplier.example,Munich,Not booked,2025-12-31,4.0
-SUP-0082,Kindred Flowers Collective,AV & staging,Sofia Weber,events82@supplier.example,Hamburg,Not booked,2025-01-09,4.0
-SUP-0083,Loop Rental Studio,Print & signage,Noah Richter,events83@supplier.example,Cologne,Awaiting reply,2025-01-18,4.8
-SUP-0084,Brightside Events Partners,Photography,Mila Schmidt,events84@supplier.example,Stockholm,Confirmed,2025-01-27,3.7
-SUP-0085,Studio Norden Berlin,Travel,Elias Schulz,events85@supplier.example,Amsterdam,Confirmed,2025-02-05,4.7
-SUP-0086,Green Table Catering North,Event production,Zara Bauer,events86@supplier.example,Remote — Germany,Confirmed,2025-02-14,4.5
-SUP-0087,Sound & Signal GmbH Collective,Gifts & merchandise,Luca Meyer,events87@supplier.example,Frankfurt,Confirmed,2025-02-23,4.9
-SUP-0088,Paper Plane Print Studio,Venue,Freya Keller,events88@supplier.example,Berlin,Confirmed,2025-03-04,4.7
-SUP-0089,Urban Venue Co. Partners,Catering,Theo Becker,events89@supplier.example,Munich,Not booked,2025-03-13,5.0
-SUP-0090,GoodDays Hospitality Berlin,AV & staging,Nina Braun,events90@supplier.example,Hamburg,Confirmed,2025-03-22,4.8
-SUP-0091,Pixelhaus Creative North,Print & signage,Ava Wagner,events91@supplier.example,Cologne,Awaiting reply,2025-03-31,4.5
-SUP-0092,Rail & Ride Collective,Photography,Emil Neumann,events92@supplier.example,Stockholm,Awaiting reply,2025-04-09,4.7
-SUP-0093,Clearview AV Studio,Travel,Maya Fischer,events93@supplier.example,Amsterdam,Not booked,2025-04-18,4.6
-SUP-0094,Kindred Flowers Partners,Event production,Felix Wolf,events94@supplier.example,Remote — Germany,Confirmed,2025-04-27,4.1
-SUP-0095,Loop Rental Berlin,Gifts & merchandise,Ines Hoffmann,events95@supplier.example,Frankfurt,Not booked,2025-05-06,3.8
-SUP-0096,Brightside Events North,Venue,David Koch,events96@supplier.example,Berlin,Not booked,2025-05-15,4.2
-SUP-0097,Studio Norden Collective,Catering,Clara Weber,events97@supplier.example,Munich,Awaiting reply,2025-05-24,4.2
-SUP-0098,Green Table Catering Studio,AV & staging,Amira Richter,events98@supplier.example,Hamburg,Confirmed,2025-06-02,3.7
-SUP-0099,Sound & Signal GmbH Partners,Print & signage,Jonas Schmidt,events99@supplier.example,Cologne,Awaiting reply,2025-06-11,4.3
-SUP-0100,Paper Plane Print Berlin,Photography,Lea Schulz,events100@supplier.example,Stockholm,Not booked,2025-06-20,4.1
-SUP-0101,Urban Venue Co. North,Travel,Mateo Bauer,events101@supplier.example,Amsterdam,Confirmed,2025-06-29,4.9
-SUP-0102,GoodDays Hospitality Collective,Event production,Sofia Meyer,events102@supplier.example,Remote — Germany,Awaiting reply,2025-07-08,3.8
-SUP-0103,Pixelhaus Creative Studio,Gifts & merchandise,Noah Keller,events103@supplier.example,Frankfurt,Awaiting reply,2025-07-17,4.4
-SUP-0104,Rail & Ride Partners,Venue,Mila Becker,events104@supplier.example,Berlin,Confirmed,2025-07-26,4.7
-SUP-0105,Clearview AV Berlin,Catering,Elias Braun,events105@supplier.example,Munich,Confirmed,2025-08-04,4.8
-SUP-0106,Kindred Flowers North,AV & staging,Zara Wagner,events106@supplier.example,Hamburg,Not booked,2025-08-13,4.2
-SUP-0107,Loop Rental Collective,Print & signage,Luca Neumann,events107@supplier.example,Cologne,Confirmed,2025-08-22,4.5
-SUP-0108,Brightside Events Studio,Photography,Freya Fischer,events108@supplier.example,Stockholm,Confirmed,2025-08-31,4.3
-SUP-0109,Studio Norden Partners,Travel,Theo Wolf,events109@supplier.example,Amsterdam,Confirmed,2025-09-09,3.6
-SUP-0110,Green Table Catering Berlin,Event production,Nina Hoffmann,events110@supplier.example,Remote — Germany,Confirmed,2025-09-18,5.0
-SUP-0111,Sound & Signal GmbH North,Gifts & merchandise,Ava Koch,events111@supplier.example,Frankfurt,Not booked,2025-09-27,4.1
-SUP-0112,Paper Plane Print Collective,Venue,Emil Weber,events112@supplier.example,Berlin,Not booked,2025-10-06,4.9
-SUP-0113,Urban Venue Co. Studio,Catering,Maya Richter,events113@supplier.example,Munich,Confirmed,2025-10-15,4.0
-SUP-0114,GoodDays Hospitality Partners,AV & staging,Felix Schmidt,events114@supplier.example,Hamburg,Confirmed,2025-10-24,4.4
-SUP-0115,Pixelhaus Creative Berlin,Print & signage,Ines Schulz,events115@supplier.example,Cologne,Confirmed,2025-11-02,4.2
-SUP-0116,Rail & Ride North,Photography,David Bauer,events116@supplier.example,Stockholm,Confirmed,2025-11-11,4.5
-SUP-0117,Clearview AV Collective,Travel,Clara Meyer,events117@supplier.example,Amsterdam,Awaiting reply,2025-11-20,3.7
-SUP-0118,Kindred Flowers Studio,Event production,Amira Keller,events118@supplier.example,Remote — Germany,Awaiting reply,2025-11-29,4.0
-SUP-0119,Loop Rental Partners,Gifts & merchandise,Jonas Becker,events119@supplier.example,Frankfurt,Confirmed,2025-12-08,4.0
-SUP-0120,Brightside Events Berlin,Venue,Lea Braun,events120@supplier.example,Berlin,Awaiting reply,2025-12-17,3.7
-SUP-0121,Studio Norden North,Catering,Mateo Wagner,events121@supplier.example,Munich,Not booked,2025-12-26,3.8
-SUP-0122,Green Table Catering Collective,AV & staging,Sofia Neumann,events122@supplier.example,Hamburg,Confirmed,2025-01-04,3.9
-SUP-0123,Sound & Signal GmbH Studio,Print & signage,Noah Fischer,events123@supplier.example,Cologne,Confirmed,2025-01-13,4.6
-SUP-0124,Paper Plane Print Partners,Photography,Mila Wolf,events124@supplier.example,Stockholm,Confirmed,2025-01-22,4.1
-SUP-0125,Urban Venue Co. Berlin,Travel,Elias Hoffmann,events125@supplier.example,Amsterdam,Awaiting reply,2025-01-31,4.2
-SUP-0126,GoodDays Hospitality North,Event production,Zara Koch,events126@supplier.example,Remote — Germany,Confirmed,2025-02-09,3.9
-SUP-0127,Pixelhaus Creative Collective,Gifts & merchandise,Luca Weber,events127@supplier.example,Frankfurt,Confirmed,2025-02-18,4.5
-SUP-0128,Rail & Ride Studio,Venue,Freya Richter,events128@supplier.example,Berlin,Confirmed,2025-02-27,4.1
-SUP-0129,Clearview AV Partners,Catering,Theo Schmidt,events129@supplier.example,Munich,Awaiting reply,2025-03-08,4.2
-SUP-0130,Kindred Flowers Berlin,AV & staging,Nina Schulz,events130@supplier.example,Hamburg,Confirmed,2025-03-17,4.9
-SUP-0131,Loop Rental North,Print & signage,Ava Bauer,events131@supplier.example,Cologne,Confirmed,2025-03-26,4.8
-SUP-0132,Brightside Events Collective,Photography,Emil Meyer,events132@supplier.example,Stockholm,Not booked,2025-04-04,4.4
-SUP-0133,Studio Norden Studio,Travel,Maya Keller,events133@supplier.example,Amsterdam,Awaiting reply,2025-04-13,4.3
-SUP-0134,Green Table Catering Partners,Event production,Felix Becker,events134@supplier.example,Remote — Germany,Confirmed,2025-04-22,4.0
-SUP-0135,Sound & Signal GmbH Berlin,Gifts & merchandise,Ines Braun,events135@supplier.example,Frankfurt,Confirmed,2025-05-01,4.1
-SUP-0136,Paper Plane Print North,Venue,David Wagner,events136@supplier.example,Berlin,Not booked,2025-05-10,3.9
-SUP-0137,Urban Venue Co. Collective,Catering,Clara Neumann,events137@supplier.example,Munich,Confirmed,2025-05-19,3.7
-SUP-0138,GoodDays Hospitality Studio,AV & staging,Amira Fischer,events138@supplier.example,Hamburg,Not booked,2025-05-28,4.8
-SUP-0139,Pixelhaus Creative Partners,Print & signage,Jonas Wolf,events139@supplier.example,Cologne,Awaiting reply,2025-06-06,4.0
-SUP-0140,Rail & Ride Berlin,Photography,Lea Hoffmann,events140@supplier.example,Stockholm,Confirmed,2025-06-15,4.4
-SUP-0141,Clearview AV North,Travel,Mateo Koch,events141@supplier.example,Amsterdam,Awaiting reply,2025-06-24,4.7
-SUP-0142,Kindred Flowers Collective,Event production,Sofia Weber,events142@supplier.example,Remote — Germany,Not booked,2025-07-03,3.9
-SUP-0143,Loop Rental Studio,Gifts & merchandise,Noah Richter,events143@supplier.example,Frankfurt,Confirmed,2025-07-12,4.0
-SUP-0144,Brightside Events Partners,Venue,Mila Schmidt,events144@supplier.example,Berlin,Not booked,2025-07-21,4.2
-SUP-0145,Studio Norden Berlin,Catering,Elias Schulz,events145@supplier.example,Munich,Awaiting reply,2025-07-30,4.8
-SUP-0146,Green Table Catering North,AV & staging,Zara Bauer,events146@supplier.example,Hamburg,Not booked,2025-08-08,4.6
-SUP-0147,Sound & Signal GmbH Collective,Print & signage,Luca Meyer,events147@supplier.example,Cologne,Confirmed,2025-08-17,4.5
-SUP-0148,Paper Plane Print Studio,Photography,Freya Keller,events148@supplier.example,Stockholm,Confirmed,2025-08-26,4.5
-SUP-0149,Urban Venue Co. Partners,Travel,Theo Becker,events149@supplier.example,Amsterdam,Awaiting reply,2025-09-04,3.6
-SUP-0150,GoodDays Hospitality Berlin,Event production,Nina Braun,events150@supplier.example,Remote — Germany,Awaiting reply,2025-09-13,3.8
-SUP-0151,Pixelhaus Creative North,Gifts & merchandise,Ava Wagner,events151@supplier.example,Frankfurt,Not booked,2025-09-22,4.7
-SUP-0152,Rail & Ride Collective,Venue,Emil Neumann,events152@supplier.example,Berlin,Confirmed,2025-10-01,5.0
-SUP-0153,Clearview AV Studio,Catering,Maya Fischer,events153@supplier.example,Munich,Confirmed,2025-10-10,3.8
-SUP-0154,Kindred Flowers Partners,AV & staging,Felix Wolf,events154@supplier.example,Hamburg,Confirmed,2025-10-19,4.1
-SUP-0155,Loop Rental Berlin,Print & signage,Ines Hoffmann,events155@supplier.example,Cologne,Confirmed,2025-10-28,4.9
-SUP-0156,Brightside Events North,Photography,David Koch,events156@supplier.example,Stockholm,Not booked,2025-11-06,4.5
-SUP-0157,Studio Norden Collective,Travel,Clara Weber,events157@supplier.example,Amsterdam,Not booked,2025-11-15,3.7
-SUP-0158,Green Table Catering Studio,Event production,Amira Richter,events158@supplier.example,Remote — Germany,Confirmed,2025-11-24,4.4
-SUP-0159,Sound & Signal GmbH Partners,Gifts & merchandise,Jonas Schmidt,events159@supplier.example,Frankfurt,Confirmed,2025-12-03,4.7
-SUP-0160,Paper Plane Print Berlin,Venue,Lea Schulz,events160@supplier.example,Berlin,Not booked,2025-12-12,4.0
-SUP-0161,Urban Venue Co. North,Catering,Mateo Bauer,events161@supplier.example,Munich,Confirmed,2025-12-21,3.8
-SUP-0162,GoodDays Hospitality Collective,AV & staging,Sofia Meyer,events162@supplier.example,Hamburg,Awaiting reply,2025-12-30,4.5
-SUP-0163,Pixelhaus Creative Studio,Print & signage,Noah Keller,events163@supplier.example,Cologne,Confirmed,2025-01-08,4.9
-SUP-0164,Rail & Ride Partners,Photography,Mila Becker,events164@supplier.example,Stockholm,Confirmed,2025-01-17,4.5
-SUP-0165,Clearview AV Berlin,Travel,Elias Braun,events165@supplier.example,Amsterdam,Awaiting reply,2025-01-26,3.6
-SUP-0166,Kindred Flowers North,Event production,Zara Wagner,events166@supplier.example,Remote — Germany,Confirmed,2025-02-04,4.3
-SUP-0167,Loop Rental Collective,Gifts & merchandise,Luca Neumann,events167@supplier.example,Frankfurt,Awaiting reply,2025-02-13,4.4
-SUP-0168,Brightside Events Studio,Venue,Freya Fischer,events168@supplier.example,Berlin,Confirmed,2025-02-22,4.9
-SUP-0169,Studio Norden Partners,Catering,Theo Wolf,events169@supplier.example,Munich,Awaiting reply,2025-03-03,4.4
-SUP-0170,Green Table Catering Berlin,AV & staging,Nina Hoffmann,events170@supplier.example,Hamburg,Not booked,2025-03-12,3.6
-SUP-0171,Sound & Signal GmbH North,Print & signage,Ava Koch,events171@supplier.example,Cologne,Awaiting reply,2025-03-21,4.5
-SUP-0172,Paper Plane Print Collective,Photography,Emil Weber,events172@supplier.example,Stockholm,Not booked,2025-03-30,4.7
-SUP-0173,Urban Venue Co. Studio,Travel,Maya Richter,events173@supplier.example,Amsterdam,Not booked,2025-04-08,3.9
-SUP-0174,GoodDays Hospitality Partners,Event production,Felix Schmidt,events174@supplier.example,Remote — Germany,Confirmed,2025-04-17,4.1
-SUP-0175,Pixelhaus Creative Berlin,Gifts & merchandise,Ines Schulz,events175@supplier.example,Frankfurt,Not booked,2025-04-26,4.8
-SUP-0176,Rail & Ride North,Venue,David Bauer,events176@supplier.example,Berlin,Confirmed,2025-05-05,3.6
-SUP-0177,Clearview AV Collective,Catering,Clara Meyer,events177@supplier.example,Munich,Confirmed,2025-05-14,4.4
-SUP-0178,Kindred Flowers Studio,AV & staging,Amira Keller,events178@supplier.example,Hamburg,Not booked,2025-05-23,4.5
-SUP-0179,Loop Rental Partners,Print & signage,Jonas Becker,events179@supplier.example,Cologne,Not booked,2025-06-01,5.0
-SUP-0180,Brightside Events Berlin,Photography,Lea Braun,events180@supplier.example,Stockholm,Awaiting reply,2025-06-10,4.9
-SUP-0181,Studio Norden North,Travel,Mateo Wagner,events181@supplier.example,Amsterdam,Confirmed,2025-06-19,3.7
-SUP-0182,Green Table Catering Collective,Event production,Sofia Neumann,events182@supplier.example,Remote — Germany,Awaiting reply,2025-06-28,4.6
-SUP-0183,Sound & Signal GmbH Studio,Gifts & merchandise,Noah Fischer,events183@supplier.example,Frankfurt,Confirmed,2025-07-07,4.7
-SUP-0184,Paper Plane Print Partners,Venue,Mila Wolf,events184@supplier.example,Berlin,Confirmed,2025-07-16,5.0
-SUP-0185,Urban Venue Co. Berlin,Catering,Elias Hoffmann,events185@supplier.example,Munich,Confirmed,2025-07-25,5.0
-SUP-0186,GoodDays Hospitality North,AV & staging,Zara Koch,events186@supplier.example,Hamburg,Awaiting reply,2025-08-03,4.4
-SUP-0187,Pixelhaus Creative Collective,Print & signage,Luca Weber,events187@supplier.example,Cologne,Confirmed,2025-08-12,4.6
-SUP-0188,Rail & Ride Studio,Photography,Freya Richter,events188@supplier.example,Stockholm,Confirmed,2025-08-21,4.3
-SUP-0189,Clearview AV Partners,Travel,Theo Schmidt,events189@supplier.example,Amsterdam,Confirmed,2025-08-30,4.4
-SUP-0190,Kindred Flowers Berlin,Event production,Nina Schulz,events190@supplier.example,Remote — Germany,Awaiting reply,2025-09-08,3.7
-SUP-0191,Loop Rental North,Gifts & merchandise,Ava Bauer,events191@supplier.example,Frankfurt,Awaiting reply,2025-09-17,4.3
-SUP-0192,Brightside Events Collective,Venue,Emil Meyer,events192@supplier.example,Berlin,Confirmed,2025-09-26,4.3
-SUP-0193,Studio Norden Studio,Catering,Maya Keller,events193@supplier.example,Munich,Confirmed,2025-10-05,4.6
-SUP-0194,Green Table Catering Partners,AV & staging,Felix Becker,events194@supplier.example,Hamburg,Awaiting reply,2025-10-14,4.1
-SUP-0195,Sound & Signal GmbH Berlin,Print & signage,Ines Braun,events195@supplier.example,Cologne,Confirmed,2025-10-23,3.9
-SUP-0196,Paper Plane Print North,Photography,David Wagner,events196@supplier.example,Stockholm,Not booked,2025-11-01,3.9
-SUP-0197,Urban Venue Co. Collective,Travel,Clara Neumann,events197@supplier.example,Amsterdam,Not booked,2025-11-10,4.4
-SUP-0198,GoodDays Hospitality Studio,Event production,Amira Fischer,events198@supplier.example,Remote — Germany,Not booked,2025-11-19,4.3
-SUP-0199,Pixelhaus Creative Partners,Gifts & merchandise,Jonas Wolf,events199@supplier.example,Frankfurt,Confirmed,2025-11-28,4.4
-SUP-0200,Rail & Ride Berlin,Venue,Lea Hoffmann,events200@supplier.example,Berlin,Confirmed,2025-12-07,5.0
-SUP-0201,Clearview AV North,Catering,Mateo Koch,events201@supplier.example,Munich,Confirmed,2025-12-16,4.2
-SUP-0202,Kindred Flowers Collective,AV & staging,Sofia Weber,events202@supplier.example,Hamburg,Not booked,2025-12-25,4.3
-SUP-0203,Loop Rental Studio,Print & signage,Noah Richter,events203@supplier.example,Cologne,Not booked,2025-01-03,3.7
-SUP-0204,Brightside Events Partners,Photography,Mila Schmidt,events204@supplier.example,Stockholm,Confirmed,2025-01-12,3.7
-SUP-0205,Studio Norden Berlin,Travel,Elias Schulz,events205@supplier.example,Amsterdam,Not booked,2025-01-21,4.5
-SUP-0206,Green Table Catering North,Event production,Zara Bauer,events206@supplier.example,Remote — Germany,Awaiting reply,2025-01-30,4.2
-SUP-0207,Sound & Signal GmbH Collective,Gifts & merchandise,Luca Meyer,events207@supplier.example,Frankfurt,Confirmed,2025-02-08,3.8
-SUP-0208,Paper Plane Print Studio,Venue,Freya Keller,events208@supplier.example,Berlin,Awaiting reply,2025-02-17,4.2
-SUP-0209,Urban Venue Co. Partners,Catering,Theo Becker,events209@supplier.example,Munich,Not booked,2025-02-26,4.7
-SUP-0210,GoodDays Hospitality Berlin,AV & staging,Nina Braun,events210@supplier.example,Hamburg,Awaiting reply,2025-03-07,5.0
-SUP-0211,Pixelhaus Creative North,Print & signage,Ava Wagner,events211@supplier.example,Cologne,Not booked,2025-03-16,4.8
-SUP-0212,Rail & Ride Collective,Photography,Emil Neumann,events212@supplier.example,Stockholm,Awaiting reply,2025-03-25,3.6
-SUP-0213,Clearview AV Studio,Travel,Maya Fischer,events213@supplier.example,Amsterdam,Confirmed,2025-04-03,4.4
-SUP-0214,Kindred Flowers Partners,Event production,Felix Wolf,events214@supplier.example,Remote — Germany,Not booked,2025-04-12,4.4
-SUP-0215,Loop Rental Berlin,Gifts & merchandise,Ines Hoffmann,events215@supplier.example,Frankfurt,Confirmed,2025-04-21,4.7
-SUP-0216,Brightside Events North,Venue,David Koch,events216@supplier.example,Berlin,Confirmed,2025-04-30,3.9
-SUP-0217,Studio Norden Collective,Catering,Clara Weber,events217@supplier.example,Munich,Awaiting reply,2025-05-09,3.9
-SUP-0218,Green Table Catering Studio,AV & staging,Amira Richter,events218@supplier.example,Hamburg,Confirmed,2025-05-18,5.0
-SUP-0219,Sound & Signal GmbH Partners,Print & signage,Jonas Schmidt,events219@supplier.example,Cologne,Awaiting reply,2025-05-27,4.9
-SUP-0220,Paper Plane Print Berlin,Photography,Lea Schulz,events220@supplier.example,Stockholm,Not booked,2025-06-05,3.7
-SUP-0221,Urban Venue Co. North,Travel,Mateo Bauer,events221@supplier.example,Amsterdam,Not booked,2025-06-14,3.7
-SUP-0222,GoodDays Hospitality Collective,Event production,Sofia Meyer,events222@supplier.example,Remote — Germany,Awaiting reply,2025-06-23,4.1
-SUP-0223,Pixelhaus Creative Studio,Gifts & merchandise,Noah Keller,events223@supplier.example,Frankfurt,Not booked,2025-07-02,4.5
-SUP-0224,Rail & Ride Partners,Venue,Mila Becker,events224@supplier.example,Berlin,Confirmed,2025-07-11,4.2
-SUP-0225,Clearview AV Berlin,Catering,Elias Braun,events225@supplier.example,Munich,Not booked,2025-07-20,3.6
-SUP-0226,Kindred Flowers North,AV & staging,Zara Wagner,events226@supplier.example,Hamburg,Not booked,2025-07-29,3.7
-SUP-0227,Loop Rental Collective,Print & signage,Luca Neumann,events227@supplier.example,Cologne,Confirmed,2025-08-07,4.7
-SUP-0228,Brightside Events Studio,Photography,Freya Fischer,events228@supplier.example,Stockholm,Confirmed,2025-08-16,4.1
-SUP-0229,Studio Norden Partners,Travel,Theo Wolf,events229@supplier.example,Amsterdam,Confirmed,2025-08-25,4.8
-SUP-0230,Green Table Catering Berlin,Event production,Nina Hoffmann,events230@supplier.example,Remote — Germany,Awaiting reply,2025-09-03,4.0
-SUP-0231,Sound & Signal GmbH North,Gifts & merchandise,Ava Koch,events231@supplier.example,Frankfurt,Confirmed,2025-09-12,4.5
-SUP-0232,Paper Plane Print Collective,Venue,Emil Weber,events232@supplier.example,Berlin,Confirmed,2025-09-21,4.3
-SUP-0233,Urban Venue Co. Studio,Catering,Maya Richter,events233@supplier.example,Munich,Confirmed,2025-09-30,3.6
-SUP-0234,GoodDays Hospitality Partners,AV & staging,Felix Schmidt,events234@supplier.example,Hamburg,Awaiting reply,2025-10-09,4.6
-SUP-0235,Pixelhaus Creative Berlin,Print & signage,Ines Schulz,events235@supplier.example,Cologne,Confirmed,2025-10-18,4.2
-SUP-0236,Rail & Ride North,Photography,David Bauer,events236@supplier.example,Stockholm,Not booked,2025-10-27,4.0
-SUP-0237,Clearview AV Collective,Travel,Clara Meyer,events237@supplier.example,Amsterdam,Awaiting reply,2025-11-05,3.7
-SUP-0238,Kindred Flowers Studio,Event production,Amira Keller,events238@supplier.example,Remote — Germany,Confirmed,2025-11-14,4.7
-SUP-0239,Loop Rental Partners,Gifts & merchandise,Jonas Becker,events239@supplier.example,Frankfurt,Not booked,2025-11-23,4.7
-SUP-0240,Brightside Events Berlin,Venue,Lea Braun,events240@supplier.example,Berlin,Not booked,2025-12-02,4.0
-SUP-0241,Studio Norden North,Catering,Mateo Wagner,events241@supplier.example,Munich,Not booked,2025-12-11,4.4
-SUP-0242,Green Table Catering Collective,AV & staging,Sofia Neumann,events242@supplier.example,Hamburg,Confirmed,2025-12-20,3.7
-SUP-0243,Sound & Signal GmbH Studio,Print & signage,Noah Fischer,events243@supplier.example,Cologne,Confirmed,2025-12-29,3.7
-SUP-0244,Paper Plane Print Partners,Photography,Mila Wolf,events244@supplier.example,Stockholm,Confirmed,2025-01-07,4.7
-SUP-0245,Urban Venue Co. Berlin,Travel,Elias Hoffmann,events245@supplier.example,Amsterdam,Confirmed,2025-01-16,4.3
-SUP-0246,GoodDays Hospitality North,Event production,Zara Koch,events246@supplier.example,Remote — Germany,Not booked,2025-01-25,4.2
-SUP-0247,Pixelhaus Creative Collective,Gifts & merchandise,Luca Weber,events247@supplier.example,Frankfurt,Not booked,2025-02-03,4.6
-SUP-0248,Rail & Ride Studio,Venue,Freya Richter,events248@supplier.example,Berlin,Awaiting reply,2025-02-12,4.7
-SUP-0249,Clearview AV Partners,Catering,Theo Schmidt,events249@supplier.example,Munich,Not booked,2025-02-21,5.0
-SUP-0250,Kindred Flowers Berlin,AV & staging,Nina Schulz,events250@supplier.example,Hamburg,Confirmed,2025-03-02,4.6
-SUP-0251,Loop Rental North,Print & signage,Ava Bauer,events251@supplier.example,Cologne,Not booked,2025-03-11,4.3
-SUP-0252,Brightside Events Collective,Photography,Emil Meyer,events252@supplier.example,Stockholm,Confirmed,2025-03-20,3.6
-SUP-0253,Studio Norden Studio,Travel,Maya Keller,events253@supplier.example,Amsterdam,Confirmed,2025-03-29,4.8
-SUP-0254,Green Table Catering Partners,Event production,Felix Becker,events254@supplier.example,Remote — Germany,Confirmed,2025-04-07,4.4
-SUP-0255,Sound & Signal GmbH Berlin,Gifts & merchandise,Ines Braun,events255@supplier.example,Frankfurt,Not booked,2025-04-16,4.0
-SUP-0256,Paper Plane Print North,Venue,David Wagner,events256@supplier.example,Berlin,Awaiting reply,2025-04-25,3.8
-SUP-0257,Urban Venue Co. Collective,Catering,Clara Neumann,events257@supplier.example,Munich,Not booked,2025-05-04,3.9
-SUP-0258,GoodDays Hospitality Studio,AV & staging,Amira Fischer,events258@supplier.example,Hamburg,Not booked,2025-05-13,4.4
-SUP-0259,Pixelhaus Creative Partners,Print & signage,Jonas Wolf,events259@supplier.example,Cologne,Not booked,2025-05-22,4.4
-SUP-0260,Rail & Ride Berlin,Photography,Lea Hoffmann,events260@supplier.example,Stockholm,Not booked,2025-05-31,4.7
-SUP-0261,Clearview AV North,Travel,Mateo Koch,events261@supplier.example,Amsterdam,Awaiting reply,2025-06-09,3.7
-SUP-0262,Kindred Flowers Collective,Event production,Sofia Weber,events262@supplier.example,Remote — Germany,Confirmed,2025-06-18,3.9
-SUP-0263,Loop Rental Studio,Gifts & merchandise,Noah Richter,events263@supplier.example,Frankfurt,Confirmed,2025-06-27,4.4
-SUP-0264,Brightside Events Partners,Venue,Mila Schmidt,events264@supplier.example,Berlin,Awaiting reply,2025-07-06,4.0
-SUP-0265,Studio Norden Berlin,Catering,Elias Schulz,events265@supplier.example,Munich,Confirmed,2025-07-15,4.3
-SUP-0266,Green Table Catering North,AV & staging,Zara Bauer,events266@supplier.example,Hamburg,Confirmed,2025-07-24,4.0
-SUP-0267,Sound & Signal GmbH Collective,Print & signage,Luca Meyer,events267@supplier.example,Cologne,Confirmed,2025-08-02,3.7
-SUP-0268,Paper Plane Print Studio,Photography,Freya Keller,events268@supplier.example,Stockholm,Not booked,2025-08-11,4.8
-SUP-0269,Urban Venue Co. Partners,Travel,Theo Becker,events269@supplier.example,Amsterdam,Awaiting reply,2025-08-20,3.9
-SUP-0270,GoodDays Hospitality Berlin,Event production,Nina Braun,events270@supplier.example,Remote — Germany,Awaiting reply,2025-08-29,4.2
-SUP-0271,Pixelhaus Creative North,Gifts & merchandise,Ava Wagner,events271@supplier.example,Frankfurt,Not booked,2025-09-07,4.3
-SUP-0272,Rail & Ride Collective,Venue,Emil Neumann,events272@supplier.example,Berlin,Confirmed,2025-09-16,3.9
-SUP-0273,Clearview AV Studio,Catering,Maya Fischer,events273@supplier.example,Munich,Not booked,2025-09-25,4.3
-SUP-0274,Kindred Flowers Partners,AV & staging,Felix Wolf,events274@supplier.example,Hamburg,Not booked,2025-10-04,4.1
-SUP-0275,Loop Rental Berlin,Print & signage,Ines Hoffmann,events275@supplier.example,Cologne,Confirmed,2025-10-13,4.8
-SUP-0276,Brightside Events North,Photography,David Koch,events276@supplier.example,Stockholm,Not booked,2025-10-22,3.9
-SUP-0277,Studio Norden Collective,Travel,Clara Weber,events277@supplier.example,Amsterdam,Awaiting reply,2025-10-31,4.0
-SUP-0278,Green Table Catering Studio,Event production,Amira Richter,events278@supplier.example,Remote — Germany,Awaiting reply,2025-11-09,3.8
-SUP-0279,Sound & Signal GmbH Partners,Gifts & merchandise,Jonas Schmidt,events279@supplier.example,Frankfurt,Confirmed,2025-11-18,4.6
-SUP-0280,Paper Plane Print Berlin,Venue,Lea Schulz,events280@supplier.example,Berlin,Confirmed,2025-11-27,3.9
-SUP-0281,Urban Venue Co. North,Catering,Mateo Bauer,events281@supplier.example,Munich,Confirmed,2025-12-06,4.1
-SUP-0282,GoodDays Hospitality Collective,AV & staging,Sofia Meyer,events282@supplier.example,Hamburg,Awaiting reply,2025-12-15,4.8
-SUP-0283,Pixelhaus Creative Studio,Print & signage,Noah Keller,events283@supplier.example,Cologne,Not booked,2025-12-24,4.7
-SUP-0284,Rail & Ride Partners,Photography,Mila Becker,events284@supplier.example,Stockholm,Not booked,2025-01-02,4.4
-SUP-0285,Clearview AV Berlin,Travel,Elias Braun,events285@supplier.example,Amsterdam,Confirmed,2025-01-11,3.8
-SUP-0286,Kindred Flowers North,Event production,Zara Wagner,events286@supplier.example,Remote — Germany,Confirmed,2025-01-20,3.8
-SUP-0287,Loop Rental Collective,Gifts & merchandise,Luca Neumann,events287@supplier.example,Frankfurt,Confirmed,2025-01-29,3.6
-SUP-0288,Brightside Events Studio,Venue,Freya Fischer,events288@supplier.example,Berlin,Not booked,2025-02-07,4.9
-SUP-0289,Studio Norden Partners,Catering,Theo Wolf,events289@supplier.example,Munich,Confirmed,2025-02-16,3.8
-SUP-0290,Green Table Catering Berlin,AV & staging,Nina Hoffmann,events290@supplier.example,Hamburg,Awaiting reply,2025-02-25,4.7
-SUP-0291,Sound & Signal GmbH North,Print & signage,Ava Koch,events291@supplier.example,Cologne,Confirmed,2025-03-06,4.4
-SUP-0292,Paper Plane Print Collective,Photography,Emil Weber,events292@supplier.example,Stockholm,Confirmed,2025-03-15,3.8
-SUP-0293,Urban Venue Co. Studio,Travel,Maya Richter,events293@supplier.example,Amsterdam,Confirmed,2025-03-24,4.2
-SUP-0294,GoodDays Hospitality Partners,Event production,Felix Schmidt,events294@supplier.example,Remote — Germany,Awaiting reply,2025-04-02,4.3
-SUP-0295,Pixelhaus Creative Berlin,Gifts & merchandise,Ines Schulz,events295@supplier.example,Frankfurt,Confirmed,2025-04-11,4.3
-SUP-0296,Rail & Ride North,Venue,David Bauer,events296@supplier.example,Berlin,Confirmed,2025-04-20,4.1
-SUP-0297,Clearview AV Collective,Catering,Clara Meyer,events297@supplier.example,Munich,Confirmed,2025-04-29,4.3
-SUP-0298,Kindred Flowers Studio,AV & staging,Amira Keller,events298@supplier.example,Hamburg,Confirmed,2025-05-08,4.6
-SUP-0299,Loop Rental Partners,Print & signage,Jonas Becker,events299@supplier.example,Cologne,Awaiting reply,2025-05-17,3.7
-SUP-0300,Brightside Events Berlin,Photography,Lea Braun,events300@supplier.example,Stockholm,Confirmed,2025-05-26,4.8
-SUP-0301,Studio Norden North,Travel,Mateo Wagner,events301@supplier.example,Amsterdam,Confirmed,2025-06-04,4.5
-SUP-0302,Green Table Catering Collective,Event production,Sofia Neumann,events302@supplier.example,Remote — Germany,Not booked,2025-06-13,4.2
-SUP-0303,Sound & Signal GmbH Studio,Gifts & merchandise,Noah Fischer,events303@supplier.example,Frankfurt,Confirmed,2025-06-22,3.9
-SUP-0304,Paper Plane Print Partners,Venue,Mila Wolf,events304@supplier.example,Berlin,Confirmed,2025-07-01,4.7
-SUP-0305,Urban Venue Co. Berlin,Catering,Elias Hoffmann,events305@supplier.example,Munich,Awaiting reply,2025-07-10,3.9
-SUP-0306,GoodDays Hospitality North,AV & staging,Zara Koch,events306@supplier.example,Hamburg,Not booked,2025-07-19,4.5
-SUP-0307,Pixelhaus Creative Collective,Print & signage,Luca Weber,events307@supplier.example,Cologne,Confirmed,2025-07-28,3.9
-SUP-0308,Rail & Ride Studio,Photography,Freya Richter,events308@supplier.example,Stockholm,Awaiting reply,2025-08-06,4.1
-SUP-0309,Clearview AV Partners,Travel,Theo Schmidt,events309@supplier.example,Amsterdam,Not booked,2025-08-15,4.6
-SUP-0310,Kindred Flowers Berlin,Event production,Nina Schulz,events310@supplier.example,Remote — Germany,Not booked,2025-08-24,3.8
-SUP-0311,Loop Rental North,Gifts & merchandise,Ava Bauer,events311@supplier.example,Frankfurt,Confirmed,2025-09-02,3.7
-SUP-0312,Brightside Events Collective,Venue,Emil Meyer,events312@supplier.example,Berlin,Awaiting reply,2025-09-11,3.6
-SUP-0313,Studio Norden Studio,Catering,Maya Keller,events313@supplier.example,Munich,Confirmed,2025-09-20,4.4
-SUP-0314,Green Table Catering Partners,AV & staging,Felix Becker,events314@supplier.example,Hamburg,Awaiting reply,2025-09-29,4.1
-SUP-0315,Sound & Signal GmbH Berlin,Print & signage,Ines Braun,events315@supplier.example,Cologne,Not booked,2025-10-08,4.3
-SUP-0316,Paper Plane Print North,Photography,David Wagner,events316@supplier.example,Stockholm,Confirmed,2025-10-17,3.6
-SUP-0317,Urban Venue Co. Collective,Travel,Clara Neumann,events317@supplier.example,Amsterdam,Awaiting reply,2025-10-26,3.9
-SUP-0318,GoodDays Hospitality Studio,Event production,Amira Fischer,events318@supplier.example,Remote — Germany,Confirmed,2025-11-04,4.2
-SUP-0319,Pixelhaus Creative Partners,Gifts & merchandise,Jonas Wolf,events319@supplier.example,Frankfurt,Confirmed,2025-11-13,4.5
-SUP-0320,Rail & Ride Berlin,Venue,Lea Hoffmann,events320@supplier.example,Berlin,Not booked,2025-11-22,4.1
-SUP-0321,Clearview AV North,Catering,Mateo Koch,events321@supplier.example,Munich,Not booked,2025-12-01,4.1
-SUP-0322,Kindred Flowers Collective,AV & staging,Sofia Weber,events322@supplier.example,Hamburg,Awaiting reply,2025-12-10,3.6
-SUP-0323,Loop Rental Studio,Print & signage,Noah Richter,events323@supplier.example,Cologne,Awaiting reply,2025-12-19,3.8
-SUP-0324,Brightside Events Partners,Photography,Mila Schmidt,events324@supplier.example,Stockholm,Awaiting reply,2025-12-28,5.0
-SUP-0325,Studio Norden Berlin,Travel,Elias Schulz,events325@supplier.example,Amsterdam,Awaiting reply,2025-01-06,4.8
-SUP-0326,Green Table Catering North,Event production,Zara Bauer,events326@supplier.example,Remote — Germany,Confirmed,2025-01-15,3.8
-SUP-0327,Sound & Signal GmbH Collective,Gifts & merchandise,Luca Meyer,events327@supplier.example,Frankfurt,Confirmed,2025-01-24,4.9
-SUP-0328,Paper Plane Print Studio,Venue,Freya Keller,events328@supplier.example,Berlin,Confirmed,2025-02-02,4.2
-SUP-0329,Urban Venue Co. Partners,Catering,Theo Becker,events329@supplier.example,Munich,Confirmed,2025-02-11,4.9
-SUP-0330,GoodDays Hospitality Berlin,AV & staging,Nina Braun,events330@supplier.example,Hamburg,Confirmed,2025-02-20,3.7
-SUP-0331,Pixelhaus Creative North,Print & signage,Ava Wagner,events331@supplier.example,Cologne,Not booked,2025-03-01,5.0
-SUP-0332,Rail & Ride Collective,Photography,Emil Neumann,events332@supplier.example,Stockholm,Not booked,2025-03-10,4.4
-SUP-0333,Clearview AV Studio,Travel,Maya Fischer,events333@supplier.example,Amsterdam,Not booked,2025-03-19,3.7
-SUP-0334,Kindred Flowers Partners,Event production,Felix Wolf,events334@supplier.example,Remote — Germany,Awaiting reply,2025-03-28,3.7
-SUP-0335,Loop Rental Berlin,Gifts & merchandise,Ines Hoffmann,events335@supplier.example,Frankfurt,Awaiting reply,2025-04-06,3.8
-SUP-0336,Brightside Events North,Venue,David Koch,events336@supplier.example,Berlin,Not booked,2025-04-15,5.0
-SUP-0337,Studio Norden Collective,Catering,Clara Weber,events337@supplier.example,Munich,Confirmed,2025-04-24,4.0
-SUP-0338,Green Table Catering Studio,AV & staging,Amira Richter,events338@supplier.example,Hamburg,Awaiting reply,2025-05-03,3.8
-SUP-0339,Sound & Signal GmbH Partners,Print & signage,Jonas Schmidt,events339@supplier.example,Cologne,Confirmed,2025-05-12,4.6
-SUP-0340,Paper Plane Print Berlin,Photography,Lea Schulz,events340@supplier.example,Stockholm,Confirmed,2025-05-21,4.2
-SUP-0341,Urban Venue Co. North,Travel,Mateo Bauer,events341@supplier.example,Amsterdam,Confirmed,2025-05-30,4.1
-SUP-0342,GoodDays Hospitality Collective,Event production,Sofia Meyer,events342@supplier.example,Remote — Germany,Confirmed,2025-06-08,3.8
-SUP-0343,Pixelhaus Creative Studio,Gifts & merchandise,Noah Keller,events343@supplier.example,Frankfurt,Not booked,2025-06-17,4.7
-SUP-0344,Rail & Ride Partners,Venue,Mila Becker,events344@supplier.example,Berlin,Confirmed,2025-06-26,3.9
-SUP-0345,Clearview AV Berlin,Catering,Elias Braun,events345@supplier.example,Munich,Confirmed,2025-07-05,4.5
-SUP-0346,Kindred Flowers North,AV & staging,Zara Wagner,events346@supplier.example,Hamburg,Confirmed,2025-07-14,5.0
-SUP-0347,Loop Rental Collective,Print & signage,Luca Neumann,events347@supplier.example,Cologne,Confirmed,2025-07-23,3.8
-SUP-0348,Brightside Events Studio,Photography,Freya Fischer,events348@supplier.example,Stockholm,Confirmed,2025-08-01,4.9
-SUP-0349,Studio Norden Partners,Travel,Theo Wolf,events349@supplier.example,Amsterdam,Confirmed,2025-08-10,5.0
-SUP-0350,Green Table Catering Berlin,Event production,Nina Hoffmann,events350@supplier.example,Remote — Germany,Not booked,2025-08-19,4.5
-SUP-0351,Sound & Signal GmbH North,Gifts & merchandise,Ava Koch,events351@supplier.example,Frankfurt,Awaiting reply,2025-08-28,4.8
-SUP-0352,Paper Plane Print Collective,Venue,Emil Weber,events352@supplier.example,Berlin,Confirmed,2025-09-06,4.8
-SUP-0353,Urban Venue Co. Studio,Catering,Maya Richter,events353@supplier.example,Munich,Not booked,2025-09-15,4.3
-SUP-0354,GoodDays Hospitality Partners,AV & staging,Felix Schmidt,events354@supplier.example,Hamburg,Not booked,2025-09-24,4.0
-SUP-0355,Pixelhaus Creative Berlin,Print & signage,Ines Schulz,events355@supplier.example,Cologne,Not booked,2025-10-03,4.1
-SUP-0356,Rail & Ride North,Photography,David Bauer,events356@supplier.example,Stockholm,Confirmed,2025-10-12,4.6
-SUP-0357,Clearview AV Collective,Travel,Clara Meyer,events357@supplier.example,Amsterdam,Awaiting reply,2025-10-21,4.0
-SUP-0358,Kindred Flowers Studio,Event production,Amira Keller,events358@supplier.example,Remote — Germany,Not booked,2025-10-30,4.7
-SUP-0359,Loop Rental Partners,Gifts & merchandise,Jonas Becker,events359@supplier.example,Frankfurt,Not booked,2025-11-08,4.2
-SUP-0360,Brightside Events Berlin,Venue,Lea Braun,events360@supplier.example,Berlin,Confirmed,2025-11-17,4.4
-SUP-0361,Studio Norden North,Catering,Mateo Wagner,events361@supplier.example,Munich,Confirmed,2025-11-26,3.6
-SUP-0362,Green Table Catering Collective,AV & staging,Sofia Neumann,events362@supplier.example,Hamburg,Confirmed,2025-12-05,3.7
-SUP-0363,Sound & Signal GmbH Studio,Print & signage,Noah Fischer,events363@supplier.example,Cologne,Confirmed,2025-12-14,3.8
-SUP-0364,Paper Plane Print Partners,Photography,Mila Wolf,events364@supplier.example,Stockholm,Confirmed,2025-12-23,3.9
-SUP-0365,Urban Venue Co. Berlin,Travel,Elias Hoffmann,events365@supplier.example,Amsterdam,Awaiting reply,2025-01-01,4.3
-SUP-0366,GoodDays Hospitality North,Event production,Zara Koch,events366@supplier.example,Remote — Germany,Confirmed,2025-01-10,4.5
-SUP-0367,Pixelhaus Creative Collective,Gifts & merchandise,Luca Weber,events367@supplier.example,Frankfurt,Not booked,2025-01-19,3.7
-SUP-0368,Rail & Ride Studio,Venue,Freya Richter,events368@supplier.example,Berlin,Not booked,2025-01-28,5.0
-SUP-0369,Clearview AV Partners,Catering,Theo Schmidt,events369@supplier.example,Munich,Not booked,2025-02-06,3.8
-SUP-0370,Kindred Flowers Berlin,AV & staging,Nina Schulz,events370@supplier.example,Hamburg,Confirmed,2025-02-15,4.5
-SUP-0371,Loop Rental North,Print & signage,Ava Bauer,events371@supplier.example,Cologne,Not booked,2025-02-24,4.7
-SUP-0372,Brightside Events Collective,Photography,Emil Meyer,events372@supplier.example,Stockholm,Not booked,2025-03-05,4.6
-SUP-0373,Studio Norden Studio,Travel,Maya Keller,events373@supplier.example,Amsterdam,Awaiting reply,2025-03-14,3.6
-SUP-0374,Green Table Catering Partners,Event production,Felix Becker,events374@supplier.example,Remote — Germany,Confirmed,2025-03-23,4.0
-SUP-0375,Sound & Signal GmbH Berlin,Gifts & merchandise,Ines Braun,events375@supplier.example,Frankfurt,Awaiting reply,2025-04-01,4.2
-SUP-0376,Paper Plane Print North,Venue,David Wagner,events376@supplier.example,Berlin,Not booked,2025-04-10,3.8
-SUP-0377,Urban Venue Co. Collective,Catering,Clara Neumann,events377@supplier.example,Munich,Confirmed,2025-04-19,3.6
-SUP-0378,GoodDays Hospitality Studio,AV & staging,Amira Fischer,events378@supplier.example,Hamburg,Awaiting reply,2025-04-28,5.0
-SUP-0379,Pixelhaus Creative Partners,Print & signage,Jonas Wolf,events379@supplier.example,Cologne,Confirmed,2025-05-07,4.5
-SUP-0380,Rail & Ride Berlin,Photography,Lea Hoffmann,events380@supplier.example,Stockholm,Confirmed,2025-05-16,4.8
-SUP-0381,Clearview AV North,Travel,Mateo Koch,events381@supplier.example,Amsterdam,Not booked,2025-05-25,4.2
-SUP-0382,Kindred Flowers Collective,Event production,Sofia Weber,events382@supplier.example,Remote — Germany,Awaiting reply,2025-06-03,4.4
-SUP-0383,Loop Rental Studio,Gifts & merchandise,Noah Richter,events383@supplier.example,Frankfurt,Confirmed,2025-06-12,3.8
-SUP-0384,Brightside Events Partners,Venue,Mila Schmidt,events384@supplier.example,Berlin,Confirmed,2025-06-21,4.2
-SUP-0385,Studio Norden Berlin,Catering,Elias Schulz,events385@supplier.example,Munich,Not booked,2025-06-30,3.8
-SUP-0386,Green Table Catering North,AV & staging,Zara Bauer,events386@supplier.example,Hamburg,Not booked,2025-07-09,4.2
-SUP-0387,Sound & Signal GmbH Collective,Print & signage,Luca Meyer,events387@supplier.example,Cologne,Confirmed,2025-07-18,4.8
-SUP-0388,Paper Plane Print Studio,Photography,Freya Keller,events388@supplier.example,Stockholm,Confirmed,2025-07-27,4.7
-SUP-0389,Urban Venue Co. Partners,Travel,Theo Becker,events389@supplier.example,Amsterdam,Confirmed,2025-08-05,4.2
-SUP-0390,GoodDays Hospitality Berlin,Event production,Nina Braun,events390@supplier.example,Remote — Germany,Confirmed,2025-08-14,4.4
-SUP-0391,Pixelhaus Creative North,Gifts & merchandise,Ava Wagner,events391@supplier.example,Frankfurt,Awaiting reply,2025-08-23,4.2
-SUP-0392,Rail & Ride Collective,Venue,Emil Neumann,events392@supplier.example,Berlin,Awaiting reply,2025-09-01,4.9
-SUP-0393,Clearview AV Studio,Catering,Maya Fischer,events393@supplier.example,Munich,Not booked,2025-09-10,3.7
-SUP-0394,Kindred Flowers Partners,AV & staging,Felix Wolf,events394@supplier.example,Hamburg,Not booked,2025-09-19,4.3
-SUP-0395,Loop Rental Berlin,Print & signage,Ines Hoffmann,events395@supplier.example,Cologne,Confirmed,2025-09-28,4.2
-SUP-0396,Brightside Events North,Photography,David Koch,events396@supplier.example,Stockholm,Confirmed,2025-10-07,4.1
-SUP-0397,Studio Norden Collective,Travel,Clara Weber,events397@supplier.example,Amsterdam,Confirmed,2025-10-16,4.3
-SUP-0398,Green Table Catering Studio,Event production,Amira Richter,events398@supplier.example,Remote — Germany,Confirmed,2025-10-25,4.2
-SUP-0399,Sound & Signal GmbH Partners,Gifts & merchandise,Jonas Schmidt,events399@supplier.example,Frankfurt,Confirmed,2025-11-03,4.7
-SUP-0400,Paper Plane Print Berlin,Venue,Lea Schulz,events400@supplier.example,Berlin,Confirmed,2025-11-12,4.1
-SUP-0401,Urban Venue Co. North,Catering,Mateo Bauer,events401@supplier.example,Munich,Confirmed,2025-11-21,4.9
-SUP-0402,GoodDays Hospitality Collective,AV & staging,Sofia Meyer,events402@supplier.example,Hamburg,Awaiting reply,2025-11-30,3.9
-SUP-0403,Pixelhaus Creative Studio,Print & signage,Noah Keller,events403@supplier.example,Cologne,Awaiting reply,2025-12-09,4.1
-SUP-0404,Rail & Ride Partners,Photography,Mila Becker,events404@supplier.example,Stockholm,Confirmed,2025-12-18,4.1
-SUP-0405,Clearview AV Berlin,Travel,Elias Braun,events405@supplier.example,Amsterdam,Not booked,2025-12-27,4.9
-SUP-0406,Kindred Flowers North,Event production,Zara Wagner,events406@supplier.example,Remote — Germany,Confirmed,2025-01-05,4.2
-SUP-0407,Loop Rental Collective,Gifts & merchandise,Luca Neumann,events407@supplier.example,Frankfurt,Confirmed,2025-01-14,3.9
-SUP-0408,Brightside Events Studio,Venue,Freya Fischer,events408@supplier.example,Berlin,Confirmed,2025-01-23,4.5
-SUP-0409,Studio Norden Partners,Catering,Theo Wolf,events409@supplier.example,Munich,Awaiting reply,2025-02-01,3.9
-SUP-0410,Green Table Catering Berlin,AV & staging,Nina Hoffmann,events410@supplier.example,Hamburg,Confirmed,2025-02-10,4.6
-SUP-0411,Sound & Signal GmbH North,Print & signage,Ava Koch,events411@supplier.example,Cologne,Not booked,2025-02-19,3.8
-SUP-0412,Paper Plane Print Collective,Photography,Emil Weber,events412@supplier.example,Stockholm,Awaiting reply,2025-02-28,4.8
-SUP-0413,Urban Venue Co. Studio,Travel,Maya Richter,events413@supplier.example,Amsterdam,Awaiting reply,2025-03-09,3.7
-SUP-0414,GoodDays Hospitality Partners,Event production,Felix Schmidt,events414@supplier.example,Remote — Germany,Awaiting reply,2025-03-18,4.3
-SUP-0415,Pixelhaus Creative Berlin,Gifts & merchandise,Ines Schulz,events415@supplier.example,Frankfurt,Confirmed,2025-03-27,4.9
-SUP-0416,Rail & Ride North,Venue,David Bauer,events416@supplier.example,Berlin,Confirmed,2025-04-05,4.4
-SUP-0417,Clearview AV Collective,Catering,Clara Meyer,events417@supplier.example,Munich,Confirmed,2025-04-14,4.8
-SUP-0418,Kindred Flowers Studio,AV & staging,Amira Keller,events418@supplier.example,Hamburg,Confirmed,2025-04-23,4.8
-SUP-0419,Loop Rental Partners,Print & signage,Jonas Becker,events419@supplier.example,Cologne,Not booked,2025-05-02,4.5
-SUP-0420,Brightside Events Berlin,Photography,Lea Braun,events420@supplier.example,Stockholm,Confirmed,2025-05-11,3.6
-SUP-0421,Studio Norden North,Travel,Mateo Wagner,events421@supplier.example,Amsterdam,Confirmed,2025-05-20,4.4
-SUP-0422,Green Table Catering Collective,Event production,Sofia Neumann,events422@supplier.example,Remote — Germany,Confirmed,2025-05-29,4.3
-SUP-0423,Sound & Signal GmbH Studio,Gifts & merchandise,Noah Fischer,events423@supplier.example,Frankfurt,Not booked,2025-06-07,4.4
-SUP-0424,Paper Plane Print Partners,Venue,Mila Wolf,events424@supplier.example,Berlin,Awaiting reply,2025-06-16,4.1
-SUP-0425,Urban Venue Co. Berlin,Catering,Elias Hoffmann,events425@supplier.example,Munich,Awaiting reply,2025-06-25,4.7
-SUP-0426,GoodDays Hospitality North,AV & staging,Zara Koch,events426@supplier.example,Hamburg,Confirmed,2025-07-04,3.6
-SUP-0427,Pixelhaus Creative Collective,Print & signage,Luca Weber,events427@supplier.example,Cologne,Not booked,2025-07-13,4.9
-SUP-0428,Rail & Ride Studio,Photography,Freya Richter,events428@supplier.example,Stockholm,Awaiting reply,2025-07-22,4.8
-SUP-0429,Clearview AV Partners,Travel,Theo Schmidt,events429@supplier.example,Amsterdam,Awaiting reply,2025-07-31,4.8
-SUP-0430,Kindred Flowers Berlin,Event production,Nina Schulz,events430@supplier.example,Remote — Germany,Not booked,2025-08-09,3.7
-SUP-0431,Loop Rental North,Gifts & merchandise,Ava Bauer,events431@supplier.example,Frankfurt,Awaiting reply,2025-08-18,4.5
-SUP-0432,Brightside Events Collective,Venue,Emil Meyer,events432@supplier.example,Berlin,Confirmed,2025-08-27,4.6
-SUP-0433,Studio Norden Studio,Catering,Maya Keller,events433@supplier.example,Munich,Not booked,2025-09-05,3.7
-SUP-0434,Green Table Catering Partners,AV & staging,Felix Becker,events434@supplier.example,Hamburg,Not booked,2025-09-14,4.9
-SUP-0435,Sound & Signal GmbH Berlin,Print & signage,Ines Braun,events435@supplier.example,Cologne,Confirmed,2025-09-23,4.3
-SUP-0436,Paper Plane Print North,Photography,David Wagner,events436@supplier.example,Stockholm,Awaiting reply,2025-10-02,3.9
-SUP-0437,Urban Venue Co. Collective,Travel,Clara Neumann,events437@supplier.example,Amsterdam,Confirmed,2025-10-11,4.2
-SUP-0438,GoodDays Hospitality Studio,Event production,Amira Fischer,events438@supplier.example,Remote — Germany,Confirmed,2025-10-20,4.3
-SUP-0439,Pixelhaus Creative Partners,Gifts & merchandise,Jonas Wolf,events439@supplier.example,Frankfurt,Confirmed,2025-10-29,3.8
-SUP-0440,Rail & Ride Berlin,Venue,Lea Hoffmann,events440@supplier.example,Berlin,Not booked,2025-11-07,4.6
-SUP-0441,Clearview AV North,Catering,Mateo Koch,events441@supplier.example,Munich,Confirmed,2025-11-16,4.3
-SUP-0442,Kindred Flowers Collective,AV & staging,Sofia Weber,events442@supplier.example,Hamburg,Confirmed,2025-11-25,3.7
-SUP-0443,Loop Rental Studio,Print & signage,Noah Richter,events443@supplier.example,Cologne,Confirmed,2025-12-04,4.6
-SUP-0444,Brightside Events Partners,Photography,Mila Schmidt,events444@supplier.example,Stockholm,Awaiting reply,2025-12-13,4.4
-SUP-0445,Studio Norden Berlin,Travel,Elias Schulz,events445@supplier.example,Amsterdam,Confirmed,2025-12-22,4.1
-SUP-0446,Green Table Catering North,Event production,Zara Bauer,events446@supplier.example,Remote — Germany,Not booked,2025-12-31,4.4
-SUP-0447,Sound & Signal GmbH Collective,Gifts & merchandise,Luca Meyer,events447@supplier.example,Frankfurt,Confirmed,2025-01-09,5.0
-SUP-0448,Paper Plane Print Studio,Venue,Freya Keller,events448@supplier.example,Berlin,Confirmed,2025-01-18,4.0
-SUP-0449,Urban Venue Co. Partners,Catering,Theo Becker,events449@supplier.example,Munich,Confirmed,2025-01-27,4.7
-SUP-0450,GoodDays Hospitality Berlin,AV & staging,Nina Braun,events450@supplier.example,Hamburg,Confirmed,2025-02-05,5.0
-SUP-0451,Pixelhaus Creative North,Print & signage,Ava Wagner,events451@supplier.example,Cologne,Confirmed,2025-02-14,3.7
-SUP-0452,Rail & Ride Collective,Photography,Emil Neumann,events452@supplier.example,Stockholm,Awaiting reply,2025-02-23,3.9
-SUP-0453,Clearview AV Studio,Travel,Maya Fischer,events453@supplier.example,Amsterdam,Confirmed,2025-03-04,4.1
-SUP-0454,Kindred Flowers Partners,Event production,Felix Wolf,events454@supplier.example,Remote — Germany,Confirmed,2025-03-13,4.7
-SUP-0455,Loop Rental Berlin,Gifts & merchandise,Ines Hoffmann,events455@supplier.example,Frankfurt,Awaiting reply,2025-03-22,4.4
-SUP-0456,Brightside Events North,Venue,David Koch,events456@supplier.example,Berlin,Confirmed,2025-03-31,4.7
-SUP-0457,Studio Norden Collective,Catering,Clara Weber,events457@supplier.example,Munich,Confirmed,2025-04-09,4.8
-SUP-0458,Green Table Catering Studio,AV & staging,Amira Richter,events458@supplier.example,Hamburg,Confirmed,2025-04-18,3.6
-SUP-0459,Sound & Signal GmbH Partners,Print & signage,Jonas Schmidt,events459@supplier.example,Cologne,Not booked,2025-04-27,4.1
-SUP-0460,Paper Plane Print Berlin,Photography,Lea Schulz,events460@supplier.example,Stockholm,Not booked,2025-05-06,4.2
-SUP-0461,Urban Venue Co. North,Travel,Mateo Bauer,events461@supplier.example,Amsterdam,Confirmed,2025-05-15,3.9
-SUP-0462,GoodDays Hospitality Collective,Event production,Sofia Meyer,events462@supplier.example,Remote — Germany,Confirmed,2025-05-24,3.6
-SUP-0463,Pixelhaus Creative Studio,Gifts & merchandise,Noah Keller,events463@supplier.example,Frankfurt,Not booked,2025-06-02,4.7
-SUP-0464,Rail & Ride Partners,Venue,Mila Becker,events464@supplier.example,Berlin,Awaiting reply,2025-06-11,4.1
-SUP-0465,Clearview AV Berlin,Catering,Elias Braun,events465@supplier.example,Munich,Confirmed,2025-06-20,4.7
-SUP-0466,Kindred Flowers North,AV & staging,Zara Wagner,events466@supplier.example,Hamburg,Confirmed,2025-06-29,4.1
-SUP-0467,Loop Rental Collective,Print & signage,Luca Neumann,events467@supplier.example,Cologne,Awaiting reply,2025-07-08,3.7
-SUP-0468,Brightside Events Studio,Photography,Freya Fischer,events468@supplier.example,Stockholm,Confirmed,2025-07-17,3.9
-SUP-0469,Studio Norden Partners,Travel,Theo Wolf,events469@supplier.example,Amsterdam,Confirmed,2025-07-26,3.7
-SUP-0470,Green Table Catering Berlin,Event production,Nina Hoffmann,events470@supplier.example,Remote — Germany,Not booked,2025-08-04,4.8
-SUP-0471,Sound & Signal GmbH North,Gifts & merchandise,Ava Koch,events471@supplier.example,Frankfurt,Confirmed,2025-08-13,3.6
-SUP-0472,Paper Plane Print Collective,Venue,Emil Weber,events472@supplier.example,Berlin,Not booked,2025-08-22,4.0
-SUP-0473,Urban Venue Co. Studio,Catering,Maya Richter,events473@supplier.example,Munich,Awaiting reply,2025-08-31,4.3
-SUP-0474,GoodDays Hospitality Partners,AV & staging,Felix Schmidt,events474@supplier.example,Hamburg,Confirmed,2025-09-09,3.8
-SUP-0475,Pixelhaus Creative Berlin,Print & signage,Ines Schulz,events475@supplier.example,Cologne,Confirmed,2025-09-18,4.8
-SUP-0476,Rail & Ride North,Photography,David Bauer,events476@supplier.example,Stockholm,Not booked,2025-09-27,5.0
-SUP-0477,Clearview AV Collective,Travel,Clara Meyer,events477@supplier.example,Amsterdam,Confirmed,2025-10-06,4.4
-SUP-0478,Kindred Flowers Studio,Event production,Amira Keller,events478@supplier.example,Remote — Germany,Awaiting reply,2025-10-15,4.4
-SUP-0479,Loop Rental Partners,Gifts & merchandise,Jonas Becker,events479@supplier.example,Frankfurt,Confirmed,2025-10-24,3.7
-SUP-0480,Brightside Events Berlin,Venue,Lea Braun,events480@supplier.example,Berlin,Awaiting reply,2025-11-02,3.7
-SUP-0481,Studio Norden North,Catering,Mateo Wagner,events481@supplier.example,Munich,Awaiting reply,2025-11-11,4.0
-SUP-0482,Green Table Catering Collective,AV & staging,Sofia Neumann,events482@supplier.example,Hamburg,Not booked,2025-11-20,5.0
-SUP-0483,Sound & Signal GmbH Studio,Print & signage,Noah Fischer,events483@supplier.example,Cologne,Not booked,2025-11-29,4.0
-SUP-0484,Paper Plane Print Partners,Photography,Mila Wolf,events484@supplier.example,Stockholm,Awaiting reply,2025-12-08,3.9
-SUP-0485,Urban Venue Co. Berlin,Travel,Elias Hoffmann,events485@supplier.example,Amsterdam,Not booked,2025-12-17,4.1
-SUP-0486,GoodDays Hospitality North,Event production,Zara Koch,events486@supplier.example,Remote — Germany,Awaiting reply,2025-12-26,4.0
-SUP-0487,Pixelhaus Creative Collective,Gifts & merchandise,Luca Weber,events487@supplier.example,Frankfurt,Awaiting reply,2025-01-04,4.4
-SUP-0488,Rail & Ride Studio,Venue,Freya Richter,events488@supplier.example,Berlin,Confirmed,2025-01-13,4.4
-SUP-0489,Clearview AV Partners,Catering,Theo Schmidt,events489@supplier.example,Munich,Confirmed,2025-01-22,4.5
-SUP-0490,Kindred Flowers Berlin,AV & staging,Nina Schulz,events490@supplier.example,Hamburg,Awaiting reply,2025-01-31,3.9
-SUP-0491,Loop Rental North,Print & signage,Ava Bauer,events491@supplier.example,Cologne,Awaiting reply,2025-02-09,3.8
-SUP-0492,Brightside Events Collective,Photography,Emil Meyer,events492@supplier.example,Stockholm,Awaiting reply,2025-02-18,4.7
-SUP-0493,Studio Norden Studio,Travel,Maya Keller,events493@supplier.example,Amsterdam,Confirmed,2025-02-27,4.0
-SUP-0494,Green Table Catering Partners,Event production,Felix Becker,events494@supplier.example,Remote — Germany,Not booked,2025-03-08,4.6
-SUP-0495,Sound & Signal GmbH Berlin,Gifts & merchandise,Ines Braun,events495@supplier.example,Frankfurt,Not booked,2025-03-17,4.2
-SUP-0496,Paper Plane Print North,Venue,David Wagner,events496@supplier.example,Berlin,Not booked,2025-03-26,3.7
-SUP-0497,Urban Venue Co. Collective,Catering,Clara Neumann,events497@supplier.example,Munich,Awaiting reply,2025-04-04,4.2
-SUP-0498,GoodDays Hospitality Studio,AV & staging,Amira Fischer,events498@supplier.example,Hamburg,Awaiting reply,2025-04-13,4.9
-SUP-0499,Pixelhaus Creative Partners,Print & signage,Jonas Wolf,events499@supplier.example,Cologne,Confirmed,2025-04-22,4.9
-SUP-0500,Rail & Ride Berlin,Photography,Lea Hoffmann,events500@supplier.example,Stockholm,Confirmed,2025-05-01,4.6
-SUP-0501,Clearview AV North,Travel,Mateo Koch,events501@supplier.example,Amsterdam,Confirmed,2025-05-10,3.8
-SUP-0502,Kindred Flowers Collective,Event production,Sofia Weber,events502@supplier.example,Remote — Germany,Not booked,2025-05-19,4.3
-SUP-0503,Loop Rental Studio,Gifts & merchandise,Noah Richter,events503@supplier.example,Frankfurt,Awaiting reply,2025-05-28,4.4
-SUP-0504,Brightside Events Partners,Venue,Mila Schmidt,events504@supplier.example,Berlin,Awaiting reply,2025-06-06,3.7
-SUP-0505,Studio Norden Berlin,Catering,Elias Schulz,events505@supplier.example,Munich,Confirmed,2025-06-15,3.9
-SUP-0506,Green Table Catering North,AV & staging,Zara Bauer,events506@supplier.example,Hamburg,Confirmed,2025-06-24,4.4
-SUP-0507,Sound & Signal GmbH Collective,Print & signage,Luca Meyer,events507@supplier.example,Cologne,Not booked,2025-07-03,3.8
-SUP-0508,Paper Plane Print Studio,Photography,Freya Keller,events508@supplier.example,Stockholm,Confirmed,2025-07-12,3.6
-SUP-0509,Urban Venue Co. Partners,Travel,Theo Becker,events509@supplier.example,Amsterdam,Confirmed,2025-07-21,4.1
-SUP-0510,GoodDays Hospitality Berlin,Event production,Nina Braun,events510@supplier.example,Remote — Germany,Confirmed,2025-07-30,3.6
-SUP-0511,Pixelhaus Creative North,Gifts & merchandise,Ava Wagner,events511@supplier.example,Frankfurt,Confirmed,2025-08-08,4.2
-SUP-0512,Rail & Ride Collective,Venue,Emil Neumann,events512@supplier.example,Berlin,Not booked,2025-08-17,3.8
-SUP-0513,Clearview AV Studio,Catering,Maya Fischer,events513@supplier.example,Munich,Awaiting reply,2025-08-26,4.6
-SUP-0514,Kindred Flowers Partners,AV & staging,Felix Wolf,events514@supplier.example,Hamburg,Confirmed,2025-09-04,3.8
-SUP-0515,Loop Rental Berlin,Print & signage,Ines Hoffmann,events515@supplier.example,Cologne,Not booked,2025-09-13,3.6
-SUP-0516,Brightside Events North,Photography,David Koch,events516@supplier.example,Stockholm,Not booked,2025-09-22,3.9
-SUP-0517,Studio Norden Collective,Travel,Clara Weber,events517@supplier.example,Amsterdam,Not booked,2025-10-01,3.6
-SUP-0518,Green Table Catering Studio,Event production,Amira Richter,events518@supplier.example,Remote — Germany,Not booked,2025-10-10,4.1
-SUP-0519,Sound & Signal GmbH Partners,Gifts & merchandise,Jonas Schmidt,events519@supplier.example,Frankfurt,Confirmed,2025-10-19,3.8
-SUP-0520,Paper Plane Print Berlin,Venue,Lea Schulz,events520@supplier.example,Berlin,Confirmed,2025-10-28,4.0
-SUP-0521,Urban Venue Co. North,Catering,Mateo Bauer,events521@supplier.example,Munich,Confirmed,2025-11-06,4.8
-SUP-0522,GoodDays Hospitality Collective,AV & staging,Sofia Meyer,events522@supplier.example,Hamburg,Awaiting reply,2025-11-15,4.6
-SUP-0523,Pixelhaus Creative Studio,Print & signage,Noah Keller,events523@supplier.example,Cologne,Awaiting reply,2025-11-24,4.5
-SUP-0524,Rail & Ride Partners,Photography,Mila Becker,events524@supplier.example,Stockholm,Not booked,2025-12-03,4.1
-SUP-0525,Clearview AV Berlin,Travel,Elias Braun,events525@supplier.example,Amsterdam,Not booked,2025-12-12,4.2
-SUP-0526,Kindred Flowers North,Event production,Zara Wagner,events526@supplier.example,Remote — Germany,Not booked,2025-12-21,4.8
-SUP-0527,Loop Rental Collective,Gifts & merchandise,Luca Neumann,events527@supplier.example,Frankfurt,Confirmed,2025-12-30,4.6
-SUP-0528,Brightside Events Studio,Venue,Freya Fischer,events528@supplier.example,Berlin,Not booked,2025-01-08,4.4
-SUP-0529,Studio Norden Partners,Catering,Theo Wolf,events529@supplier.example,Munich,Confirmed,2025-01-17,4.0
-SUP-0530,Green Table Catering Berlin,AV & staging,Nina Hoffmann,events530@supplier.example,Hamburg,Confirmed,2025-01-26,4.9
-SUP-0531,Sound & Signal GmbH North,Print & signage,Ava Koch,events531@supplier.example,Cologne,Confirmed,2025-02-04,4.4
-SUP-0532,Paper Plane Print Collective,Photography,Emil Weber,events532@supplier.example,Stockholm,Confirmed,2025-02-13,4.3
-SUP-0533,Urban Venue Co. Studio,Travel,Maya Richter,events533@supplier.example,Amsterdam,Confirmed,2025-02-22,4.2
-SUP-0534,GoodDays Hospitality Partners,Event production,Felix Schmidt,events534@supplier.example,Remote — Germany,Not booked,2025-03-03,3.7
-SUP-0535,Pixelhaus Creative Berlin,Gifts & merchandise,Ines Schulz,events535@supplier.example,Frankfurt,Awaiting reply,2025-03-12,4.9
-SUP-0536,Rail & Ride North,Venue,David Bauer,events536@supplier.example,Berlin,Not booked,2025-03-21,5.0
-SUP-0537,Clearview AV Collective,Catering,Clara Meyer,events537@supplier.example,Munich,Awaiting reply,2025-03-30,4.6
-SUP-0538,Kindred Flowers Studio,AV & staging,Amira Keller,events538@supplier.example,Hamburg,Confirmed,2025-04-08,3.7
-SUP-0539,Loop Rental Partners,Print & signage,Jonas Becker,events539@supplier.example,Cologne,Confirmed,2025-04-17,3.9
-SUP-0540,Brightside Events Berlin,Photography,Lea Braun,events540@supplier.example,Stockholm,Confirmed,2025-04-26,4.9
-SUP-0541,Studio Norden North,Travel,Mateo Wagner,events541@supplier.example,Amsterdam,Not booked,2025-05-05,4.6
-SUP-0542,Green Table Catering Collective,Event production,Sofia Neumann,events542@supplier.example,Remote — Germany,Not booked,2025-05-14,4.7
-SUP-0543,Sound & Signal GmbH Studio,Gifts & merchandise,Noah Fischer,events543@supplier.example,Frankfurt,Confirmed,2025-05-23,5.0
-SUP-0544,Paper Plane Print Partners,Venue,Mila Wolf,events544@supplier.example,Berlin,Confirmed,2025-06-01,4.7
-SUP-0545,Urban Venue Co. Berlin,Catering,Elias Hoffmann,events545@supplier.example,Munich,Confirmed,2025-06-10,4.4
-SUP-0546,GoodDays Hospitality North,AV & staging,Zara Koch,events546@supplier.example,Hamburg,Awaiting reply,2025-06-19,4.7
-SUP-0547,Pixelhaus Creative Collective,Print & signage,Luca Weber,events547@supplier.example,Cologne,Not booked,2025-06-28,3.6
-SUP-0548,Rail & Ride Studio,Photography,Freya Richter,events548@supplier.example,Stockholm,Awaiting reply,2025-07-07,4.0
-SUP-0549,Clearview AV Partners,Travel,Theo Schmidt,events549@supplier.example,Amsterdam,Awaiting reply,2025-07-16,3.9
-SUP-0550,Kindred Flowers Berlin,Event production,Nina Schulz,events550@supplier.example,Remote — Germany,Not booked,2025-07-25,5.0
-SUP-0551,Loop Rental North,Gifts & merchandise,Ava Bauer,events551@supplier.example,Frankfurt,Confirmed,2025-08-03,4.2
-SUP-0552,Brightside Events Collective,Venue,Emil Meyer,events552@supplier.example,Berlin,Not booked,2025-08-12,5.0
-SUP-0553,Studio Norden Studio,Catering,Maya Keller,events553@supplier.example,Munich,Confirmed,2025-08-21,3.8
-SUP-0554,Green Table Catering Partners,AV & staging,Felix Becker,events554@supplier.example,Hamburg,Confirmed,2025-08-30,4.7
-SUP-0555,Sound & Signal GmbH Berlin,Print & signage,Ines Braun,events555@supplier.example,Cologne,Not booked,2025-09-08,4.8
-SUP-0556,Paper Plane Print North,Photography,David Wagner,events556@supplier.example,Stockholm,Confirmed,2025-09-17,4.4
-SUP-0557,Urban Venue Co. Collective,Travel,Clara Neumann,events557@supplier.example,Amsterdam,Not booked,2025-09-26,5.0
-SUP-0558,GoodDays Hospitality Studio,Event production,Amira Fischer,events558@supplier.example,Remote — Germany,Awaiting reply,2025-10-05,4.3
-SUP-0559,Pixelhaus Creative Partners,Gifts & merchandise,Jonas Wolf,events559@supplier.example,Frankfurt,Confirmed,2025-10-14,4.4
-SUP-0560,Rail & Ride Berlin,Venue,Lea Hoffmann,events560@supplier.example,Berlin,Not booked,2025-10-23,4.0
-SUP-0561,Clearview AV North,Catering,Mateo Koch,events561@supplier.example,Munich,Confirmed,2025-11-01,4.5
-SUP-0562,Kindred Flowers Collective,AV & staging,Sofia Weber,events562@supplier.example,Hamburg,Confirmed,2025-11-10,4.6
-SUP-0563,Loop Rental Studio,Print & signage,Noah Richter,events563@supplier.example,Cologne,Awaiting reply,2025-11-19,3.8
-SUP-0564,Brightside Events Partners,Photography,Mila Schmidt,events564@supplier.example,Stockholm,Confirmed,2025-11-28,4.5
-SUP-0565,Studio Norden Berlin,Travel,Elias Schulz,events565@supplier.example,Amsterdam,Confirmed,2025-12-07,4.5
-SUP-0566,Green Table Catering North,Event production,Zara Bauer,events566@supplier.example,Remote — Germany,Confirmed,2025-12-16,4.1
-SUP-0567,Sound & Signal GmbH Collective,Gifts & merchandise,Luca Meyer,events567@supplier.example,Frankfurt,Not booked,2025-12-25,3.8
-SUP-0568,Paper Plane Print Studio,Venue,Freya Keller,events568@supplier.example,Berlin,Awaiting reply,2025-01-03,4.5
-SUP-0569,Urban Venue Co. Partners,Catering,Theo Becker,events569@supplier.example,Munich,Confirmed,2025-01-12,4.0
-SUP-0570,GoodDays Hospitality Berlin,AV & staging,Nina Braun,events570@supplier.example,Hamburg,Awaiting reply,2025-01-21,4.4
-SUP-0571,Pixelhaus Creative North,Print & signage,Ava Wagner,events571@supplier.example,Cologne,Confirmed,2025-01-30,4.3
-SUP-0572,Rail & Ride Collective,Photography,Emil Neumann,events572@supplier.example,Stockholm,Not booked,2025-02-08,4.8
-SUP-0573,Clearview AV Studio,Travel,Maya Fischer,events573@supplier.example,Amsterdam,Not booked,2025-02-17,4.3
-SUP-0574,Kindred Flowers Partners,Event production,Felix Wolf,events574@supplier.example,Remote — Germany,Confirmed,2025-02-26,4.0
-SUP-0575,Loop Rental Berlin,Gifts & merchandise,Ines Hoffmann,events575@supplier.example,Frankfurt,Awaiting reply,2025-03-07,4.3
-SUP-0576,Brightside Events North,Venue,David Koch,events576@supplier.example,Berlin,Not booked,2025-03-16,4.1
-SUP-0577,Studio Norden Collective,Catering,Clara Weber,events577@supplier.example,Munich,Confirmed,2025-03-25,4.4
-SUP-0578,Green Table Catering Studio,AV & staging,Amira Richter,events578@supplier.example,Hamburg,Confirmed,2025-04-03,3.6
-SUP-0579,Sound & Signal GmbH Partners,Print & signage,Jonas Schmidt,events579@supplier.example,Cologne,Not booked,2025-04-12,4.1
-SUP-0580,Paper Plane Print Berlin,Photography,Lea Schulz,events580@supplier.example,Stockholm,Confirmed,2025-04-21,4.4
-SUP-0581,Urban Venue Co. North,Travel,Mateo Bauer,events581@supplier.example,Amsterdam,Not booked,2025-04-30,3.7
-SUP-0582,GoodDays Hospitality Collective,Event production,Sofia Meyer,events582@supplier.example,Remote — Germany,Confirmed,2025-05-09,4.4
-SUP-0583,Pixelhaus Creative Studio,Gifts & merchandise,Noah Keller,events583@supplier.example,Frankfurt,Confirmed,2025-05-18,3.7
-SUP-0584,Rail & Ride Partners,Venue,Mila Becker,events584@supplier.example,Berlin,Confirmed,2025-05-27,3.8
-SUP-0585,Clearview AV Berlin,Catering,Elias Braun,events585@supplier.example,Munich,Awaiting reply,2025-06-05,4.9
-SUP-0586,Kindred Flowers North,AV & staging,Zara Wagner,events586@supplier.example,Hamburg,Not booked,2025-06-14,4.7
-SUP-0587,Loop Rental Collective,Print & signage,Luca Neumann,events587@supplier.example,Cologne,Confirmed,2025-06-23,4.5
-SUP-0588,Brightside Events Studio,Photography,Freya Fischer,events588@supplier.example,Stockholm,Not booked,2025-07-02,4.9
-SUP-0589,Studio Norden Partners,Travel,Theo Wolf,events589@supplier.example,Amsterdam,Not booked,2025-07-11,4.1
-SUP-0590,Green Table Catering Berlin,Event production,Nina Hoffmann,events590@supplier.example,Remote — Germany,Confirmed,2025-07-20,4.1
-SUP-0591,Sound & Signal GmbH North,Gifts & merchandise,Ava Koch,events591@supplier.example,Frankfurt,Awaiting reply,2025-07-29,5.0
-SUP-0592,Paper Plane Print Collective,Venue,Emil Weber,events592@supplier.example,Berlin,Confirmed,2025-08-07,4.1
-SUP-0593,Urban Venue Co. Studio,Catering,Maya Richter,events593@supplier.example,Munich,Confirmed,2025-08-16,3.9
-SUP-0594,GoodDays Hospitality Partners,AV & staging,Felix Schmidt,events594@supplier.example,Hamburg,Confirmed,2025-08-25,4.3
-SUP-0595,Pixelhaus Creative Berlin,Print & signage,Ines Schulz,events595@supplier.example,Cologne,Not booked,2025-09-03,4.0
-SUP-0596,Rail & Ride North,Photography,David Bauer,events596@supplier.example,Stockholm,Not booked,2025-09-12,4.4
-SUP-0597,Clearview AV Collective,Travel,Clara Meyer,events597@supplier.example,Amsterdam,Not booked,2025-09-21,4.7
-SUP-0598,Kindred Flowers Studio,Event production,Amira Keller,events598@supplier.example,Remote — Germany,Confirmed,2025-09-30,3.8
-SUP-0599,Loop Rental Partners,Gifts & merchandise,Jonas Becker,events599@supplier.example,Frankfurt,Not booked,2025-10-09,3.9
-SUP-0600,Brightside Events Berlin,Venue,Lea Braun,events600@supplier.example,Berlin,Confirmed,2025-10-18,3.6
+﻿Supplier_ID,Supplier_Name,Service_Category,Contact_Name,Contact_Email,Phone,Quote_EUR,Confirmation_Status,Insurance_Received,Accessibility_Notes,Rating_1_to_5,Last_Contact_Date
+SUP-0001,Urban Audio visual Services 001,Audio visual,Jonas Weber,events.0001@supplier.example,+49 30 1737782,600,Quoted,Yes,No special requirements noted,4,2026-04-28
+SUP-0002,Silver Birch Venue Services 002,Venue,Noah Becker,events.0002@supplier.example,+49 30 7907458,2400,Declined,No,Accessible restroom available,3,2026-04-09
+SUP-0003,Brightline Audio visual Services 003,Audio visual,Nina Krüger,events.0003@supplier.example,+49 30 9530426,2400,Declined,Not applicable,Accessible restroom available,3,2026-02-09
+SUP-0004,Brightline Accessibility Services 004,Accessibility,Felix Braun,events.0004@supplier.example,+49 30 6085088,9800,Under review,Not applicable,Ask about hearing support,3,2026-11-13
+SUP-0005,Fieldstone Photography Services 005,Photography,Lea Schneider,events.0005@supplier.example,+49 30 3979853,3500,Confirmed,Not applicable,Step-free access confirmed,3,2026-10-25
+SUP-0006,Brightline Floral Services 006,Floral,Elena Richter,events.0006@supplier.example,+49 30 6482927,6200,Declined,No,Ask about hearing support,5,2026-06-02
+SUP-0007,Fieldstone Floral Services 007,Floral,Paul Wolf,events.0007@supplier.example,+49 30 2714939,600,Quoted,No,Ask about hearing support,3,2026-10-02
+SUP-0008,Silver Birch Floral Services 008,Floral,Adam Nowak,events.0008@supplier.example,+49 30 6472161,600,Quoted,No,Step-free access confirmed,5,2026-08-30
+SUP-0009,Silver Birch Audio visual Services 009,Audio visual,Emil Hoffmann,events.0009@supplier.example,+49 30 2557650,6200,Confirmed,Not applicable,Step-free access confirmed,4,2026-05-17
+SUP-0010,Fieldstone Accessibility Services 010,Accessibility,Emil Hoffmann,events.0010@supplier.example,+49 30 6953708,600,Quoted,Not applicable,No special requirements noted,5,2026-02-06
+SUP-0011,Urban Furniture Services 011,Furniture,Mia Schulz,events.0011@supplier.example,+49 30 2146106,6200,Quoted,No,Confirm ramp dimensions,5,2026-06-06
+SUP-0012,Silver Birch Catering Services 012,Catering,Noah Becker,events.0012@supplier.example,+49 30 5132115,2400,Quoted,Not applicable,Confirm ramp dimensions,5,2026-06-04
+SUP-0013,Blue Oak Catering Services 013,Catering,Clara Schmitt,events.0013@supplier.example,+49 30 9575032,950,Requested,Yes,Step-free access confirmed,5,2026-07-03
+SUP-0014,Silver Birch Venue Services 014,Venue,Jonas Weber,events.0014@supplier.example,+49 30 6258862,600,Requested,Yes,Accessible restroom available,5,2026-05-29
+SUP-0015,Silver Birch Furniture Services 015,Furniture,Sara Özdemir,events.0015@supplier.example,+49 30 2300716,600,Quoted,Not applicable,No special requirements noted,3,2026-07-25
+SUP-0016,Brightline Audio visual Services 016,Audio visual,David Neumann,events.0016@supplier.example,+49 30 6905607,600,Under review,No,Confirm ramp dimensions,5,2026-05-23
+SUP-0017,Fieldstone Floral Services 017,Floral,Omar Haddad,events.0017@supplier.example,+49 30 1972463,250,Quoted,No,Step-free access confirmed,4,2026-04-03
+SUP-0018,Silver Birch Photography Services 018,Photography,Sofia Wagner,events.0018@supplier.example,+49 30 5836666,1500,Declined,Yes,Confirm ramp dimensions,4,2026-08-31
+SUP-0019,Brightline Transport Services 019,Transport,Paul Wolf,events.0019@supplier.example,+49 30 8734883,600,Under review,No,Step-free access confirmed,4,2026-08-15
+SUP-0020,Cedar Printing Services 020,Printing,Mila Fischer,events.0020@supplier.example,+49 30 8504661,1500,Confirmed,No,Step-free access confirmed,4,2026-09-17
+SUP-0021,Northstar Audio visual Services 021,Audio visual,Paul Wolf,events.0021@supplier.example,+49 30 6196280,600,Declined,Yes,Confirm ramp dimensions,5,2026-03-22
+SUP-0022,Northstar Floral Services 022,Floral,Omar Haddad,events.0022@supplier.example,+49 30 3321735,2400,Declined,Not applicable,Ask about hearing support,3,2026-06-30
+SUP-0023,Northstar Photography Services 023,Photography,Adam Nowak,events.0023@supplier.example,+49 30 3151186,250,Under review,Not applicable,Confirm ramp dimensions,5,2026-03-10
+SUP-0024,Open Door Photography Services 024,Photography,David Neumann,events.0024@supplier.example,+49 30 7050997,9800,Declined,No,No special requirements noted,3,2026-10-07
+SUP-0025,Blue Oak Floral Services 025,Floral,Mia Schulz,events.0025@supplier.example,+49 30 5483193,600,Under review,No,Step-free access confirmed,4,2026-01-18
+SUP-0026,Fieldstone Furniture Services 026,Furniture,Nina Krüger,events.0026@supplier.example,+49 30 8952704,6200,Requested,Not applicable,Step-free access confirmed,5,2026-09-09
+SUP-0027,Fieldstone Audio visual Services 027,Audio visual,David Neumann,events.0027@supplier.example,+49 30 8176111,1500,Under review,Not applicable,Ask about hearing support,3,2026-07-07
+SUP-0028,Urban Audio visual Services 028,Audio visual,Elena Richter,events.0028@supplier.example,+49 30 9004245,3500,Under review,Yes,Step-free access confirmed,5,2026-03-07
+SUP-0029,Brightline Venue Services 029,Venue,Nina Krüger,events.0029@supplier.example,+49 30 3160895,600,Confirmed,No,Ask about hearing support,3,2026-10-03
+SUP-0030,Open Door Security Services 030,Security,Sofia Wagner,events.0030@supplier.example,+49 30 1315366,2400,Requested,Yes,Step-free access confirmed,4,2026-08-23
+SUP-0031,Silver Birch Furniture Services 031,Furniture,Emil Hoffmann,events.0031@supplier.example,+49 30 5461618,600,Requested,Yes,Ask about hearing support,3,2026-10-23
+SUP-0032,Urban Audio visual Services 032,Audio visual,Mila Fischer,events.0032@supplier.example,+49 30 8129177,1500,Confirmed,Yes,No special requirements noted,4,2026-03-15
+SUP-0033,Fieldstone Floral Services 033,Floral,Mila Fischer,events.0033@supplier.example,+49 30 5744810,950,Requested,No,Accessible restroom available,3,2026-09-15
+SUP-0034,Blue Oak Floral Services 034,Floral,Luca Hartmann,events.0034@supplier.example,+49 30 6252572,250,Requested,Not applicable,Confirm ramp dimensions,5,2026-10-27
+SUP-0035,Northstar Furniture Services 035,Furniture,David Neumann,events.0035@supplier.example,+49 30 3953031,6200,Under review,Yes,No special requirements noted,4,2026-06-01
+SUP-0036,Urban Floral Services 036,Floral,Leon Koch,events.0036@supplier.example,+49 30 7062529,600,Requested,Not applicable,Confirm ramp dimensions,5,2026-02-26
+SUP-0037,Blue Oak Floral Services 037,Floral,Omar Haddad,events.0037@supplier.example,+49 30 6318587,6200,Quoted,Not applicable,Confirm ramp dimensions,3,2026-02-23
+SUP-0038,Northstar Furniture Services 038,Furniture,Felix Braun,events.0038@supplier.example,+49 30 9965539,6200,Requested,Not applicable,Ask about hearing support,4,2026-06-21
+SUP-0039,Cedar Photography Services 039,Photography,Mia Schulz,events.0039@supplier.example,+49 30 1799187,950,Confirmed,Yes,Step-free access confirmed,5,2026-07-03
+SUP-0040,Brightline Venue Services 040,Venue,Jonas Weber,events.0040@supplier.example,+49 30 8664929,2400,Under review,Not applicable,Ask about hearing support,4,2026-01-09
+SUP-0041,Cedar Catering Services 041,Catering,Lea Schneider,events.0041@supplier.example,+49 30 4082873,600,Under review,Not applicable,No special requirements noted,5,2026-09-03
+SUP-0042,Blue Oak Printing Services 042,Printing,Leon Koch,events.0042@supplier.example,+49 30 2307302,950,Quoted,No,Confirm ramp dimensions,5,2026-03-24
+SUP-0043,Silver Birch Venue Services 043,Venue,Sofia Wagner,events.0043@supplier.example,+49 30 4747596,950,Declined,No,No special requirements noted,3,2026-06-17
+SUP-0044,Fieldstone Floral Services 044,Floral,Luca Hartmann,events.0044@supplier.example,+49 30 4032988,3500,Confirmed,Yes,Ask about hearing support,3,2026-06-14
+SUP-0045,Brightline Printing Services 045,Printing,Leon Koch,events.0045@supplier.example,+49 30 7232552,600,Under review,Yes,Accessible restroom available,4,2026-01-28
+SUP-0046,Blue Oak Transport Services 046,Transport,Sofia Wagner,events.0046@supplier.example,+49 30 9704855,1500,Under review,Not applicable,No special requirements noted,5,2026-03-08
+SUP-0047,Fieldstone Security Services 047,Security,Omar Haddad,events.0047@supplier.example,+49 30 9861254,600,Requested,No,Confirm ramp dimensions,4,2026-03-31
+SUP-0048,Cedar Accessibility Services 048,Accessibility,Sara Özdemir,events.0048@supplier.example,+49 30 8325642,9800,Requested,No,Accessible restroom available,5,2026-09-10
+SUP-0049,Urban Accessibility Services 049,Accessibility,Omar Haddad,events.0049@supplier.example,+49 30 1719580,600,Under review,Not applicable,No special requirements noted,3,2026-10-27
+SUP-0050,Fieldstone Furniture Services 050,Furniture,Mila Fischer,events.0050@supplier.example,+49 30 8946918,6200,Quoted,No,Step-free access confirmed,5,2026-09-06
+SUP-0051,Cedar Printing Services 051,Printing,Felix Braun,events.0051@supplier.example,+49 30 2820607,950,Confirmed,Yes,Step-free access confirmed,4,2026-03-22
+SUP-0052,Blue Oak Photography Services 052,Photography,Paul Wolf,events.0052@supplier.example,+49 30 7086570,250,Under review,Yes,No special requirements noted,4,2026-05-12
+SUP-0053,Blue Oak Furniture Services 053,Furniture,Nina Krüger,events.0053@supplier.example,+49 30 6257020,2400,Under review,Not applicable,Ask about hearing support,4,2026-11-24
+SUP-0054,Cedar Security Services 054,Security,Mila Fischer,events.0054@supplier.example,+49 30 2850559,6200,Under review,Yes,Accessible restroom available,4,2026-06-15
+SUP-0055,Cedar Security Services 055,Security,Elena Richter,events.0055@supplier.example,+49 30 7107192,600,Quoted,Not applicable,Ask about hearing support,4,2026-10-22
+SUP-0056,Cedar Furniture Services 056,Furniture,Emil Hoffmann,events.0056@supplier.example,+49 30 6774402,950,Declined,No,No special requirements noted,4,2026-03-09
+SUP-0057,Cedar Catering Services 057,Catering,Paul Wolf,events.0057@supplier.example,+49 30 5654113,1500,Under review,Not applicable,Confirm ramp dimensions,5,2026-01-08
+SUP-0058,Cedar Furniture Services 058,Furniture,Leon Koch,events.0058@supplier.example,+49 30 1343267,1500,Requested,Yes,Accessible restroom available,3,2026-10-13
+SUP-0059,Open Door Transport Services 059,Transport,Elena Richter,events.0059@supplier.example,+49 30 8026960,3500,Declined,No,No special requirements noted,5,2026-06-07
+SUP-0060,Silver Birch Floral Services 060,Floral,Mila Fischer,events.0060@supplier.example,+49 30 6154645,600,Confirmed,Yes,Accessible restroom available,3,2026-11-21
+SUP-0061,Urban Audio visual Services 061,Audio visual,Clara Schmitt,events.0061@supplier.example,+49 30 1090173,9800,Requested,Yes,Confirm ramp dimensions,3,2026-05-03
+SUP-0062,Open Door Printing Services 062,Printing,Lea Schneider,events.0062@supplier.example,+49 30 8042782,3500,Declined,Yes,Step-free access confirmed,3,2026-10-15
+SUP-0063,Northstar Accessibility Services 063,Accessibility,Mila Fischer,events.0063@supplier.example,+49 30 2978352,2400,Requested,Not applicable,No special requirements noted,5,2026-11-05
+SUP-0064,Cedar Venue Services 064,Venue,Noah Becker,events.0064@supplier.example,+49 30 2737605,250,Confirmed,Not applicable,Step-free access confirmed,3,2026-11-25
+SUP-0065,Cedar Photography Services 065,Photography,Lea Schneider,events.0065@supplier.example,+49 30 9714458,6200,Requested,Yes,Ask about hearing support,4,2026-06-26
+SUP-0066,Blue Oak Printing Services 066,Printing,Felix Braun,events.0066@supplier.example,+49 30 9583972,3500,Quoted,Yes,Confirm ramp dimensions,3,2026-06-01
+SUP-0067,Urban Security Services 067,Security,Leon Koch,events.0067@supplier.example,+49 30 1989802,2400,Under review,No,Confirm ramp dimensions,4,2026-05-26
+SUP-0068,Northstar Venue Services 068,Venue,Mia Schulz,events.0068@supplier.example,+49 30 6835765,2400,Confirmed,Not applicable,No special requirements noted,5,2026-03-11
+SUP-0069,Cedar Security Services 069,Security,Paul Wolf,events.0069@supplier.example,+49 30 2852022,3500,Requested,No,Confirm ramp dimensions,4,2026-03-13
+SUP-0070,Blue Oak Photography Services 070,Photography,David Neumann,events.0070@supplier.example,+49 30 8795192,950,Confirmed,Not applicable,Step-free access confirmed,4,2026-02-20
+SUP-0071,Brightline Audio visual Services 071,Audio visual,Luca Hartmann,events.0071@supplier.example,+49 30 4496972,3500,Declined,Not applicable,Ask about hearing support,3,2026-08-15
+SUP-0072,Open Door Security Services 072,Security,Paul Wolf,events.0072@supplier.example,+49 30 8201223,600,Under review,Not applicable,Confirm ramp dimensions,3,2026-07-12
+SUP-0073,Brightline Accessibility Services 073,Accessibility,Nina Krüger,events.0073@supplier.example,+49 30 4074432,1500,Under review,No,Confirm ramp dimensions,5,2026-08-26
+SUP-0074,Brightline Furniture Services 074,Furniture,David Neumann,events.0074@supplier.example,+49 30 6466392,600,Quoted,Yes,Ask about hearing support,3,2026-01-31
+SUP-0075,Fieldstone Audio visual Services 075,Audio visual,Elena Richter,events.0075@supplier.example,+49 30 8955466,9800,Quoted,No,Accessible restroom available,4,2026-10-10
+SUP-0076,Cedar Accessibility Services 076,Accessibility,Paul Wolf,events.0076@supplier.example,+49 30 5560547,250,Quoted,Not applicable,Step-free access confirmed,5,2026-08-10
+SUP-0077,Silver Birch Accessibility Services 077,Accessibility,Emil Hoffmann,events.0077@supplier.example,+49 30 4291373,3500,Requested,No,Confirm ramp dimensions,5,2026-05-28
+SUP-0078,Fieldstone Floral Services 078,Floral,Noah Becker,events.0078@supplier.example,+49 30 7288241,1500,Confirmed,Yes,Ask about hearing support,3,2026-04-20
+SUP-0079,Brightline Venue Services 079,Venue,Leon Koch,events.0079@supplier.example,+49 30 8872423,6200,Requested,Yes,Ask about hearing support,3,2026-09-22
+SUP-0080,Northstar Floral Services 080,Floral,Lea Schneider,events.0080@supplier.example,+49 30 1816866,2400,Requested,Yes,Accessible restroom available,3,2026-09-13
+SUP-0081,Blue Oak Accessibility Services 081,Accessibility,Emil Hoffmann,events.0081@supplier.example,+49 30 3914155,6200,Quoted,Yes,Confirm ramp dimensions,5,2026-04-07
+SUP-0082,Cedar Security Services 082,Security,Luca Hartmann,events.0082@supplier.example,+49 30 9022974,1500,Quoted,Yes,No special requirements noted,4,2026-03-12
+SUP-0083,Urban Furniture Services 083,Furniture,Felix Braun,events.0083@supplier.example,+49 30 1594906,2400,Declined,No,No special requirements noted,5,2026-06-03
+SUP-0084,Northstar Transport Services 084,Transport,Amira Yilmaz,events.0084@supplier.example,+49 30 3177987,9800,Declined,Yes,No special requirements noted,4,2026-09-24
+SUP-0085,Northstar Printing Services 085,Printing,Lea Schneider,events.0085@supplier.example,+49 30 9197714,950,Declined,No,Confirm ramp dimensions,3,2026-09-30
+SUP-0086,Silver Birch Furniture Services 086,Furniture,Nina Krüger,events.0086@supplier.example,+49 30 4050510,2400,Quoted,Not applicable,No special requirements noted,3,2026-11-11
+SUP-0087,Silver Birch Security Services 087,Security,Felix Braun,events.0087@supplier.example,+49 30 1994148,250,Under review,No,Accessible restroom available,4,2026-06-16
+SUP-0088,Brightline Accessibility Services 088,Accessibility,Sofia Wagner,events.0088@supplier.example,+49 30 8462995,1500,Quoted,Not applicable,Confirm ramp dimensions,5,2026-05-11
+SUP-0089,Silver Birch Security Services 089,Security,Clara Schmitt,events.0089@supplier.example,+49 30 1314364,600,Quoted,Yes,Step-free access confirmed,3,2026-11-17
+SUP-0090,Brightline Printing Services 090,Printing,Paul Wolf,events.0090@supplier.example,+49 30 2841469,3500,Under review,No,Confirm ramp dimensions,5,2026-03-07
+SUP-0091,Silver Birch Security Services 091,Security,David Neumann,events.0091@supplier.example,+49 30 5312456,1500,Requested,Yes,No special requirements noted,3,2026-02-16
+SUP-0092,Urban Furniture Services 092,Furniture,Sofia Wagner,events.0092@supplier.example,+49 30 2030498,600,Quoted,No,Confirm ramp dimensions,3,2026-01-16
+SUP-0093,Blue Oak Venue Services 093,Venue,Mia Schulz,events.0093@supplier.example,+49 30 1942066,3500,Confirmed,No,Accessible restroom available,3,2026-09-04
+SUP-0094,Blue Oak Transport Services 094,Transport,Omar Haddad,events.0094@supplier.example,+49 30 5480336,2400,Quoted,Not applicable,Confirm ramp dimensions,4,2026-09-28
+SUP-0095,Urban Photography Services 095,Photography,Sofia Wagner,events.0095@supplier.example,+49 30 6246751,600,Quoted,Yes,Ask about hearing support,4,2026-01-19
+SUP-0096,Cedar Venue Services 096,Venue,Noah Becker,events.0096@supplier.example,+49 30 6843096,9800,Under review,Yes,Accessible restroom available,4,2026-02-22
+SUP-0097,Brightline Catering Services 097,Catering,Luca Hartmann,events.0097@supplier.example,+49 30 3542336,6200,Declined,Yes,Ask about hearing support,4,2026-10-17
+SUP-0098,Silver Birch Security Services 098,Security,Mia Schulz,events.0098@supplier.example,+49 30 9792318,1500,Under review,Yes,Step-free access confirmed,5,2026-06-19
+SUP-0099,Cedar Printing Services 099,Printing,Amira Yilmaz,events.0099@supplier.example,+49 30 6386033,250,Quoted,No,Ask about hearing support,4,2026-03-19
+SUP-0100,Silver Birch Photography Services 100,Photography,Nina Krüger,events.0100@supplier.example,+49 30 1587201,3500,Quoted,Yes,Ask about hearing support,4,2026-09-27
+SUP-0101,Cedar Audio visual Services 101,Audio visual,Adam Nowak,events.0101@supplier.example,+49 30 8828248,250,Confirmed,Not applicable,No special requirements noted,4,2026-08-14
+SUP-0102,Fieldstone Audio visual Services 102,Audio visual,Adam Nowak,events.0102@supplier.example,+49 30 5166191,600,Declined,Not applicable,No special requirements noted,3,2026-10-29
+SUP-0103,Brightline Venue Services 103,Venue,Felix Braun,events.0103@supplier.example,+49 30 8704781,9800,Declined,No,Step-free access confirmed,3,2026-05-15
+SUP-0104,Urban Printing Services 104,Printing,Hannah Lange,events.0104@supplier.example,+49 30 5001346,250,Confirmed,Not applicable,Accessible restroom available,3,2026-09-21
+SUP-0105,Silver Birch Transport Services 105,Transport,David Neumann,events.0105@supplier.example,+49 30 4113987,6200,Requested,Not applicable,Ask about hearing support,5,2026-08-01
+SUP-0106,Fieldstone Transport Services 106,Transport,Nina Krüger,events.0106@supplier.example,+49 30 9740368,1500,Under review,Not applicable,Step-free access confirmed,3,2026-08-30
+SUP-0107,Cedar Accessibility Services 107,Accessibility,Hannah Lange,events.0107@supplier.example,+49 30 5308799,2400,Under review,Yes,Step-free access confirmed,4,2026-06-21
+SUP-0108,Northstar Transport Services 108,Transport,Mila Fischer,events.0108@supplier.example,+49 30 5274501,250,Confirmed,Not applicable,Confirm ramp dimensions,4,2026-07-26
+SUP-0109,Northstar Accessibility Services 109,Accessibility,Jonas Weber,events.0109@supplier.example,+49 30 8637692,9800,Declined,No,Ask about hearing support,4,2026-11-03
+SUP-0110,Open Door Catering Services 110,Catering,Luca Hartmann,events.0110@supplier.example,+49 30 3739585,250,Requested,Yes,Ask about hearing support,4,2026-07-25
+SUP-0111,Brightline Photography Services 111,Photography,Emil Hoffmann,events.0111@supplier.example,+49 30 5987772,250,Confirmed,No,Confirm ramp dimensions,5,2026-05-28
+SUP-0112,Open Door Printing Services 112,Printing,Clara Schmitt,events.0112@supplier.example,+49 30 1389621,2400,Under review,Yes,Accessible restroom available,3,2026-04-24
+SUP-0113,Silver Birch Catering Services 113,Catering,Mila Fischer,events.0113@supplier.example,+49 30 4042814,3500,Under review,Yes,Ask about hearing support,4,2026-04-02
+SUP-0114,Fieldstone Photography Services 114,Photography,Clara Schmitt,events.0114@supplier.example,+49 30 4430581,1500,Quoted,No,Accessible restroom available,4,2026-10-30
+SUP-0115,Open Door Floral Services 115,Floral,Noah Becker,events.0115@supplier.example,+49 30 1505879,2400,Confirmed,No,Confirm ramp dimensions,5,2026-10-24
+SUP-0116,Brightline Transport Services 116,Transport,Paul Wolf,events.0116@supplier.example,+49 30 8282030,250,Confirmed,Yes,Confirm ramp dimensions,5,2026-10-01
+SUP-0117,Fieldstone Catering Services 117,Catering,Sofia Wagner,events.0117@supplier.example,+49 30 6257080,9800,Declined,No,Confirm ramp dimensions,5,2026-01-30
+SUP-0118,Blue Oak Floral Services 118,Floral,Jonas Weber,events.0118@supplier.example,+49 30 8465549,950,Confirmed,Yes,Ask about hearing support,4,2026-01-27
+SUP-0119,Cedar Printing Services 119,Printing,Paul Wolf,events.0119@supplier.example,+49 30 9498946,950,Confirmed,Yes,No special requirements noted,3,2026-01-20
+SUP-0120,Silver Birch Venue Services 120,Venue,Omar Haddad,events.0120@supplier.example,+49 30 5864516,950,Confirmed,Yes,Ask about hearing support,5,2026-07-15
+SUP-0121,Blue Oak Furniture Services 121,Furniture,Emil Hoffmann,events.0121@supplier.example,+49 30 4628350,2400,Under review,Not applicable,Accessible restroom available,3,2026-07-31
+SUP-0122,Cedar Security Services 122,Security,Clara Schmitt,events.0122@supplier.example,+49 30 3472079,600,Declined,Yes,Accessible restroom available,3,2026-07-09
+SUP-0123,Fieldstone Security Services 123,Security,Omar Haddad,events.0123@supplier.example,+49 30 2774797,250,Declined,Not applicable,Confirm ramp dimensions,5,2026-07-15
+SUP-0124,Brightline Photography Services 124,Photography,Luca Hartmann,events.0124@supplier.example,+49 30 8770562,3500,Requested,Yes,Ask about hearing support,4,2026-04-02
+SUP-0125,Urban Venue Services 125,Venue,Sara Özdemir,events.0125@supplier.example,+49 30 6796346,250,Declined,Not applicable,Step-free access confirmed,5,2026-01-11
+SUP-0126,Silver Birch Printing Services 126,Printing,Elena Richter,events.0126@supplier.example,+49 30 9756292,9800,Requested,Yes,Step-free access confirmed,3,2026-06-18
+SUP-0127,Blue Oak Floral Services 127,Floral,Clara Schmitt,events.0127@supplier.example,+49 30 5346884,2400,Declined,Not applicable,Accessible restroom available,3,2026-05-04
+SUP-0128,Blue Oak Printing Services 128,Printing,Noah Becker,events.0128@supplier.example,+49 30 9848728,9800,Requested,Yes,Step-free access confirmed,5,2026-11-16
+SUP-0129,Open Door Security Services 129,Security,Felix Braun,events.0129@supplier.example,+49 30 5258176,2400,Declined,Not applicable,Accessible restroom available,5,2026-07-20
+SUP-0130,Brightline Photography Services 130,Photography,Felix Braun,events.0130@supplier.example,+49 30 2312943,950,Quoted,Yes,Ask about hearing support,3,2026-11-19
+SUP-0131,Blue Oak Accessibility Services 131,Accessibility,Amira Yilmaz,events.0131@supplier.example,+49 30 8666731,9800,Declined,No,Ask about hearing support,5,2026-04-06
+SUP-0132,Urban Venue Services 132,Venue,Felix Braun,events.0132@supplier.example,+49 30 4135607,950,Confirmed,Not applicable,Ask about hearing support,3,2026-08-18
+SUP-0133,Northstar Catering Services 133,Catering,Omar Haddad,events.0133@supplier.example,+49 30 1284764,6200,Confirmed,Not applicable,Ask about hearing support,3,2026-06-12
+SUP-0134,Northstar Accessibility Services 134,Accessibility,Emil Hoffmann,events.0134@supplier.example,+49 30 1990886,6200,Confirmed,Yes,Ask about hearing support,5,2026-10-24
+SUP-0135,Silver Birch Audio visual Services 135,Audio visual,Omar Haddad,events.0135@supplier.example,+49 30 6182761,1500,Confirmed,No,Step-free access confirmed,4,2026-01-09
+SUP-0136,Cedar Furniture Services 136,Furniture,Paul Wolf,events.0136@supplier.example,+49 30 6836959,950,Quoted,Yes,Step-free access confirmed,5,2026-04-12
+SUP-0137,Northstar Catering Services 137,Catering,David Neumann,events.0137@supplier.example,+49 30 5578985,6200,Requested,No,Step-free access confirmed,5,2026-04-18
+SUP-0138,Cedar Printing Services 138,Printing,Amira Yilmaz,events.0138@supplier.example,+49 30 5656796,950,Declined,Yes,Confirm ramp dimensions,4,2026-04-28
+SUP-0139,Blue Oak Transport Services 139,Transport,Elena Richter,events.0139@supplier.example,+49 30 4176810,6200,Quoted,Not applicable,Confirm ramp dimensions,4,2026-08-13
+SUP-0140,Cedar Furniture Services 140,Furniture,Jonas Weber,events.0140@supplier.example,+49 30 7833825,2400,Quoted,Not applicable,Accessible restroom available,5,2026-05-06
+SUP-0141,Brightline Printing Services 141,Printing,Omar Haddad,events.0141@supplier.example,+49 30 5310503,250,Under review,Yes,No special requirements noted,5,2026-07-29
+SUP-0142,Blue Oak Transport Services 142,Transport,Paul Wolf,events.0142@supplier.example,+49 30 6784424,600,Quoted,Not applicable,Accessible restroom available,4,2026-10-09
+SUP-0143,Brightline Accessibility Services 143,Accessibility,Felix Braun,events.0143@supplier.example,+49 30 7711473,9800,Quoted,Yes,Step-free access confirmed,5,2026-08-25
+SUP-0144,Fieldstone Accessibility Services 144,Accessibility,Leon Koch,events.0144@supplier.example,+49 30 3432374,9800,Declined,Yes,No special requirements noted,3,2026-11-25
+SUP-0145,Cedar Security Services 145,Security,Adam Nowak,events.0145@supplier.example,+49 30 8931285,9800,Requested,No,Confirm ramp dimensions,5,2026-10-18
+SUP-0146,Blue Oak Photography Services 146,Photography,Leon Koch,events.0146@supplier.example,+49 30 4579886,250,Requested,No,Accessible restroom available,4,2026-10-24
+SUP-0147,Fieldstone Audio visual Services 147,Audio visual,Paul Wolf,events.0147@supplier.example,+49 30 1580918,3500,Requested,Not applicable,Step-free access confirmed,3,2026-06-14
+SUP-0148,Urban Security Services 148,Security,Elena Richter,events.0148@supplier.example,+49 30 1703086,9800,Declined,No,Step-free access confirmed,3,2026-09-29
+SUP-0149,Northstar Furniture Services 149,Furniture,Mila Fischer,events.0149@supplier.example,+49 30 8595940,1500,Quoted,Not applicable,Accessible restroom available,4,2026-04-21
+SUP-0150,Urban Accessibility Services 150,Accessibility,Emil Hoffmann,events.0150@supplier.example,+49 30 3610372,250,Requested,No,Step-free access confirmed,4,2026-04-17
+SUP-0151,Open Door Venue Services 151,Venue,Adam Nowak,events.0151@supplier.example,+49 30 7190711,1500,Under review,No,Ask about hearing support,5,2026-09-18
+SUP-0152,Silver Birch Audio visual Services 152,Audio visual,Mia Schulz,events.0152@supplier.example,+49 30 9781059,2400,Requested,Not applicable,Confirm ramp dimensions,3,2026-05-07
+SUP-0153,Blue Oak Venue Services 153,Venue,David Neumann,events.0153@supplier.example,+49 30 1335966,250,Confirmed,No,Step-free access confirmed,5,2026-11-10
+SUP-0154,Open Door Audio visual Services 154,Audio visual,Emil Hoffmann,events.0154@supplier.example,+49 30 3349213,1500,Confirmed,Not applicable,No special requirements noted,3,2026-08-02
+SUP-0155,Blue Oak Audio visual Services 155,Audio visual,Omar Haddad,events.0155@supplier.example,+49 30 1507643,2400,Under review,Yes,Confirm ramp dimensions,4,2026-09-07
+SUP-0156,Fieldstone Accessibility Services 156,Accessibility,Luca Hartmann,events.0156@supplier.example,+49 30 1451339,6200,Quoted,Not applicable,Accessible restroom available,4,2026-04-20
+SUP-0157,Open Door Photography Services 157,Photography,Paul Wolf,events.0157@supplier.example,+49 30 2730181,600,Requested,No,Confirm ramp dimensions,4,2026-11-16
+SUP-0158,Cedar Audio visual Services 158,Audio visual,Emil Hoffmann,events.0158@supplier.example,+49 30 5278287,2400,Declined,Yes,No special requirements noted,5,2026-02-21
+SUP-0159,Urban Photography Services 159,Photography,Elena Richter,events.0159@supplier.example,+49 30 6019585,950,Confirmed,Not applicable,Step-free access confirmed,4,2026-09-19
+SUP-0160,Brightline Transport Services 160,Transport,Mia Schulz,events.0160@supplier.example,+49 30 4534202,6200,Requested,Not applicable,Accessible restroom available,5,2026-08-18
+SUP-0161,Brightline Security Services 161,Security,Amira Yilmaz,events.0161@supplier.example,+49 30 2579748,600,Under review,No,Ask about hearing support,4,2026-11-03
+SUP-0162,Brightline Venue Services 162,Venue,Sara Özdemir,events.0162@supplier.example,+49 30 9242137,6200,Requested,Yes,No special requirements noted,4,2026-04-08
+SUP-0163,Cedar Furniture Services 163,Furniture,Mila Fischer,events.0163@supplier.example,+49 30 6312911,9800,Confirmed,No,Confirm ramp dimensions,3,2026-11-17
+SUP-0164,Fieldstone Transport Services 164,Transport,Adam Nowak,events.0164@supplier.example,+49 30 1260921,600,Declined,Not applicable,Ask about hearing support,4,2026-04-06
+SUP-0165,Blue Oak Furniture Services 165,Furniture,Nina Krüger,events.0165@supplier.example,+49 30 6847417,6200,Requested,No,Step-free access confirmed,4,2026-07-31
+SUP-0166,Urban Accessibility Services 166,Accessibility,Emil Hoffmann,events.0166@supplier.example,+49 30 4947314,600,Under review,Yes,Step-free access confirmed,3,2026-05-04
+SUP-0167,Northstar Accessibility Services 167,Accessibility,Jonas Weber,events.0167@supplier.example,+49 30 2943297,1500,Declined,Not applicable,Step-free access confirmed,5,2026-09-21
+SUP-0168,Urban Transport Services 168,Transport,Paul Wolf,events.0168@supplier.example,+49 30 3390815,9800,Under review,No,Ask about hearing support,4,2026-07-02
+SUP-0169,Urban Transport Services 169,Transport,Mia Schulz,events.0169@supplier.example,+49 30 2393797,950,Confirmed,Yes,No special requirements noted,5,2026-07-26
+SUP-0170,Brightline Accessibility Services 170,Accessibility,Mila Fischer,events.0170@supplier.example,+49 30 6608004,6200,Requested,No,Ask about hearing support,4,2026-10-11
+SUP-0171,Silver Birch Photography Services 171,Photography,Hannah Lange,events.0171@supplier.example,+49 30 7609110,1500,Quoted,Not applicable,Ask about hearing support,4,2026-01-31
+SUP-0172,Urban Floral Services 172,Floral,Adam Nowak,events.0172@supplier.example,+49 30 7570462,6200,Quoted,Yes,No special requirements noted,5,2026-07-04
+SUP-0173,Silver Birch Floral Services 173,Floral,Mia Schulz,events.0173@supplier.example,+49 30 9795186,250,Under review,Yes,Ask about hearing support,3,2026-10-28
+SUP-0174,Brightline Printing Services 174,Printing,Noah Becker,events.0174@supplier.example,+49 30 6429565,250,Under review,Yes,Step-free access confirmed,3,2026-04-09
+SUP-0175,Blue Oak Floral Services 175,Floral,Clara Schmitt,events.0175@supplier.example,+49 30 2510748,1500,Requested,Not applicable,Ask about hearing support,4,2026-01-10
+SUP-0176,Northstar Transport Services 176,Transport,Paul Wolf,events.0176@supplier.example,+49 30 5913979,3500,Declined,No,Ask about hearing support,3,2026-07-22
+SUP-0177,Cedar Transport Services 177,Transport,Clara Schmitt,events.0177@supplier.example,+49 30 2589554,1500,Confirmed,No,No special requirements noted,4,2026-02-17
+SUP-0178,Urban Transport Services 178,Transport,Jonas Weber,events.0178@supplier.example,+49 30 7356548,950,Declined,No,Step-free access confirmed,4,2026-05-08
+SUP-0179,Northstar Transport Services 179,Transport,Adam Nowak,events.0179@supplier.example,+49 30 8578936,1500,Requested,Not applicable,Step-free access confirmed,3,2026-11-16
+SUP-0180,Northstar Transport Services 180,Transport,Felix Braun,events.0180@supplier.example,+49 30 7767501,3500,Requested,Not applicable,Accessible restroom available,3,2026-09-14
+SUP-0181,Brightline Accessibility Services 181,Accessibility,Jonas Weber,events.0181@supplier.example,+49 30 6792298,1500,Quoted,No,Confirm ramp dimensions,3,2026-10-28
+SUP-0182,Cedar Accessibility Services 182,Accessibility,Adam Nowak,events.0182@supplier.example,+49 30 3892137,600,Confirmed,Yes,No special requirements noted,4,2026-08-24
+SUP-0183,Blue Oak Printing Services 183,Printing,Felix Braun,events.0183@supplier.example,+49 30 6881608,6200,Quoted,No,Accessible restroom available,4,2026-06-10
+SUP-0184,Cedar Audio visual Services 184,Audio visual,Nina Krüger,events.0184@supplier.example,+49 30 4550397,2400,Requested,Not applicable,No special requirements noted,5,2026-07-04
+SUP-0185,Brightline Floral Services 185,Floral,Sofia Wagner,events.0185@supplier.example,+49 30 6114952,950,Under review,Yes,No special requirements noted,5,2026-03-26
+SUP-0186,Cedar Audio visual Services 186,Audio visual,Adam Nowak,events.0186@supplier.example,+49 30 2152702,2400,Confirmed,No,Confirm ramp dimensions,5,2026-06-10
+SUP-0187,Northstar Audio visual Services 187,Audio visual,Noah Becker,events.0187@supplier.example,+49 30 5330330,600,Requested,Not applicable,No special requirements noted,4,2026-06-13
+SUP-0188,Brightline Transport Services 188,Transport,Elena Richter,events.0188@supplier.example,+49 30 5323662,1500,Under review,No,Step-free access confirmed,5,2026-09-05
+SUP-0189,Brightline Venue Services 189,Venue,Nina Krüger,events.0189@supplier.example,+49 30 6916004,6200,Under review,Not applicable,Accessible restroom available,4,2026-08-10
+SUP-0190,Open Door Venue Services 190,Venue,Emil Hoffmann,events.0190@supplier.example,+49 30 2103736,950,Requested,Not applicable,Confirm ramp dimensions,4,2026-06-01
+SUP-0191,Fieldstone Audio visual Services 191,Audio visual,Sara Özdemir,events.0191@supplier.example,+49 30 3307074,950,Declined,Not applicable,No special requirements noted,3,2026-04-11
+SUP-0192,Urban Accessibility Services 192,Accessibility,Clara Schmitt,events.0192@supplier.example,+49 30 8857925,6200,Under review,Not applicable,Confirm ramp dimensions,4,2026-03-03
+SUP-0193,Cedar Audio visual Services 193,Audio visual,Mila Fischer,events.0193@supplier.example,+49 30 5892407,1500,Confirmed,Not applicable,Accessible restroom available,3,2026-06-11
+SUP-0194,Cedar Photography Services 194,Photography,Noah Becker,events.0194@supplier.example,+49 30 4486584,3500,Requested,No,Ask about hearing support,3,2026-11-25
+SUP-0195,Open Door Security Services 195,Security,Omar Haddad,events.0195@supplier.example,+49 30 7890340,1500,Declined,No,No special requirements noted,4,2026-01-28
+SUP-0196,Brightline Transport Services 196,Transport,Mia Schulz,events.0196@supplier.example,+49 30 2299785,2400,Requested,No,No special requirements noted,5,2026-04-19
+SUP-0197,Open Door Accessibility Services 197,Accessibility,Mila Fischer,events.0197@supplier.example,+49 30 8672773,2400,Quoted,No,Accessible restroom available,4,2026-09-15
+SUP-0198,Silver Birch Catering Services 198,Catering,Leon Koch,events.0198@supplier.example,+49 30 8922910,950,Declined,No,Accessible restroom available,3,2026-10-26
+SUP-0199,Cedar Accessibility Services 199,Accessibility,Hannah Lange,events.0199@supplier.example,+49 30 5527914,1500,Confirmed,No,Accessible restroom available,5,2026-09-15
+SUP-0200,Blue Oak Transport Services 200,Transport,Elena Richter,events.0200@supplier.example,+49 30 8716455,6200,Quoted,Not applicable,Confirm ramp dimensions,4,2026-03-23
+SUP-0201,Brightline Accessibility Services 201,Accessibility,Noah Becker,events.0201@supplier.example,+49 30 7662791,3500,Quoted,Yes,Confirm ramp dimensions,5,2026-01-30
+SUP-0202,Cedar Accessibility Services 202,Accessibility,Mila Fischer,events.0202@supplier.example,+49 30 7015541,1500,Declined,No,Ask about hearing support,4,2026-09-15
+SUP-0203,Northstar Transport Services 203,Transport,Hannah Lange,events.0203@supplier.example,+49 30 4598353,6200,Declined,Yes,No special requirements noted,4,2026-09-02
+SUP-0204,Urban Audio visual Services 204,Audio visual,Paul Wolf,events.0204@supplier.example,+49 30 9948093,950,Declined,Not applicable,Confirm ramp dimensions,5,2026-10-24
+SUP-0205,Blue Oak Audio visual Services 205,Audio visual,Sara Özdemir,events.0205@supplier.example,+49 30 8446180,3500,Confirmed,No,Confirm ramp dimensions,5,2026-06-29
+SUP-0206,Northstar Venue Services 206,Venue,Lea Schneider,events.0206@supplier.example,+49 30 4774064,950,Quoted,Yes,Step-free access confirmed,5,2026-09-17
+SUP-0207,Brightline Floral Services 207,Floral,Omar Haddad,events.0207@supplier.example,+49 30 1111136,1500,Requested,Yes,Step-free access confirmed,3,2026-04-16
+SUP-0208,Silver Birch Furniture Services 208,Furniture,Leon Koch,events.0208@supplier.example,+49 30 8193490,950,Requested,No,Accessible restroom available,5,2026-10-07
+SUP-0209,Silver Birch Transport Services 209,Transport,Mia Schulz,events.0209@supplier.example,+49 30 9338798,950,Declined,No,Confirm ramp dimensions,4,2026-07-04
+SUP-0210,Brightline Catering Services 210,Catering,Elena Richter,events.0210@supplier.example,+49 30 9564166,250,Confirmed,Not applicable,No special requirements noted,5,2026-10-23
+SUP-0211,Blue Oak Audio visual Services 211,Audio visual,Sara Özdemir,events.0211@supplier.example,+49 30 2233251,9800,Under review,Yes,Step-free access confirmed,3,2026-09-09
+SUP-0212,Blue Oak Printing Services 212,Printing,Amira Yilmaz,events.0212@supplier.example,+49 30 6246584,6200,Confirmed,No,No special requirements noted,5,2026-01-30
+SUP-0213,Silver Birch Accessibility Services 213,Accessibility,Adam Nowak,events.0213@supplier.example,+49 30 1437495,950,Quoted,Yes,Ask about hearing support,5,2026-02-12
+SUP-0214,Silver Birch Printing Services 214,Printing,Adam Nowak,events.0214@supplier.example,+49 30 8348871,9800,Confirmed,No,Accessible restroom available,5,2026-11-18
+SUP-0215,Fieldstone Security Services 215,Security,Elena Richter,events.0215@supplier.example,+49 30 7528633,600,Declined,Yes,Ask about hearing support,5,2026-09-18
+SUP-0216,Brightline Venue Services 216,Venue,Jonas Weber,events.0216@supplier.example,+49 30 2651774,1500,Quoted,Not applicable,Step-free access confirmed,4,2026-08-08
+SUP-0217,Blue Oak Catering Services 217,Catering,Clara Schmitt,events.0217@supplier.example,+49 30 2870381,250,Declined,Yes,No special requirements noted,4,2026-01-02
+SUP-0218,Brightline Catering Services 218,Catering,Elena Richter,events.0218@supplier.example,+49 30 5471940,250,Under review,No,Ask about hearing support,5,2026-05-02
+SUP-0219,Silver Birch Furniture Services 219,Furniture,Mila Fischer,events.0219@supplier.example,+49 30 4800350,3500,Confirmed,No,Confirm ramp dimensions,4,2026-02-23
+SUP-0220,Brightline Audio visual Services 220,Audio visual,Hannah Lange,events.0220@supplier.example,+49 30 6398652,3500,Declined,Not applicable,Ask about hearing support,4,2026-06-16
+SUP-0221,Silver Birch Security Services 221,Security,Adam Nowak,events.0221@supplier.example,+49 30 7485789,250,Under review,Yes,Accessible restroom available,4,2026-05-28
+SUP-0222,Cedar Accessibility Services 222,Accessibility,Paul Wolf,events.0222@supplier.example,+49 30 1874456,2400,Requested,Yes,Step-free access confirmed,3,2026-07-05
+SUP-0223,Silver Birch Floral Services 223,Floral,Mila Fischer,events.0223@supplier.example,+49 30 9298063,950,Confirmed,Yes,Ask about hearing support,4,2026-02-02
+SUP-0224,Open Door Transport Services 224,Transport,Emil Hoffmann,events.0224@supplier.example,+49 30 4254549,950,Confirmed,Yes,Step-free access confirmed,4,2026-01-26
+SUP-0225,Silver Birch Audio visual Services 225,Audio visual,Jonas Weber,events.0225@supplier.example,+49 30 1664736,6200,Under review,Not applicable,No special requirements noted,4,2026-10-30
+SUP-0226,Urban Security Services 226,Security,Emil Hoffmann,events.0226@supplier.example,+49 30 6730834,6200,Declined,No,Confirm ramp dimensions,4,2026-04-18
+SUP-0227,Northstar Venue Services 227,Venue,Amira Yilmaz,events.0227@supplier.example,+49 30 7956746,250,Requested,Yes,Step-free access confirmed,5,2026-07-03
+SUP-0228,Brightline Audio visual Services 228,Audio visual,Luca Hartmann,events.0228@supplier.example,+49 30 9264268,6200,Requested,Yes,Ask about hearing support,4,2026-06-27
+SUP-0229,Cedar Security Services 229,Security,Elena Richter,events.0229@supplier.example,+49 30 8893848,2400,Confirmed,Not applicable,No special requirements noted,5,2026-10-26
+SUP-0230,Silver Birch Security Services 230,Security,Leon Koch,events.0230@supplier.example,+49 30 3937709,2400,Requested,Yes,Confirm ramp dimensions,4,2026-07-10
+SUP-0231,Blue Oak Transport Services 231,Transport,Nina Krüger,events.0231@supplier.example,+49 30 2946477,3500,Declined,No,Ask about hearing support,3,2026-07-03
+SUP-0232,Fieldstone Security Services 232,Security,Mila Fischer,events.0232@supplier.example,+49 30 8710118,2400,Quoted,No,Step-free access confirmed,3,2026-06-06
+SUP-0233,Brightline Security Services 233,Security,Mia Schulz,events.0233@supplier.example,+49 30 9637537,600,Declined,No,Confirm ramp dimensions,5,2026-01-17
+SUP-0234,Fieldstone Security Services 234,Security,Emil Hoffmann,events.0234@supplier.example,+49 30 6341904,2400,Under review,Yes,Step-free access confirmed,4,2026-07-08
+SUP-0235,Blue Oak Security Services 235,Security,Sofia Wagner,events.0235@supplier.example,+49 30 7292361,9800,Confirmed,Not applicable,Step-free access confirmed,3,2026-07-03
+SUP-0236,Silver Birch Printing Services 236,Printing,Luca Hartmann,events.0236@supplier.example,+49 30 7555227,950,Confirmed,Yes,Confirm ramp dimensions,4,2026-10-07
+SUP-0237,Blue Oak Furniture Services 237,Furniture,Mila Fischer,events.0237@supplier.example,+49 30 6595966,950,Requested,Yes,Confirm ramp dimensions,4,2026-02-17
+SUP-0238,Urban Catering Services 238,Catering,Jonas Weber,events.0238@supplier.example,+49 30 4587886,3500,Quoted,Not applicable,Accessible restroom available,3,2026-11-22
+SUP-0239,Blue Oak Photography Services 239,Photography,David Neumann,events.0239@supplier.example,+49 30 3761400,1500,Under review,Not applicable,Accessible restroom available,3,2026-02-06
+SUP-0240,Fieldstone Accessibility Services 240,Accessibility,Sofia Wagner,events.0240@supplier.example,+49 30 9199888,3500,Confirmed,No,Accessible restroom available,4,2026-08-31
+SUP-0241,Urban Catering Services 241,Catering,Emil Hoffmann,events.0241@supplier.example,+49 30 9538219,6200,Confirmed,Yes,No special requirements noted,5,2026-05-15
+SUP-0242,Silver Birch Catering Services 242,Catering,Emil Hoffmann,events.0242@supplier.example,+49 30 5281027,2400,Requested,Not applicable,Accessible restroom available,4,2026-11-16
+SUP-0243,Northstar Security Services 243,Security,Sofia Wagner,events.0243@supplier.example,+49 30 6786813,600,Quoted,Yes,Ask about hearing support,3,2026-09-29
+SUP-0244,Blue Oak Venue Services 244,Venue,Adam Nowak,events.0244@supplier.example,+49 30 4088460,250,Quoted,Not applicable,Confirm ramp dimensions,4,2026-07-14
+SUP-0245,Urban Catering Services 245,Catering,Adam Nowak,events.0245@supplier.example,+49 30 4943230,600,Requested,No,Step-free access confirmed,4,2026-01-26
+SUP-0246,Cedar Furniture Services 246,Furniture,Hannah Lange,events.0246@supplier.example,+49 30 5147827,2400,Under review,Not applicable,Step-free access confirmed,5,2026-06-18
+SUP-0247,Northstar Transport Services 247,Transport,Hannah Lange,events.0247@supplier.example,+49 30 5713658,1500,Declined,No,Ask about hearing support,4,2026-07-13
+SUP-0248,Brightline Photography Services 248,Photography,Paul Wolf,events.0248@supplier.example,+49 30 7464211,3500,Quoted,Yes,Step-free access confirmed,4,2026-03-05
+SUP-0249,Open Door Security Services 249,Security,Clara Schmitt,events.0249@supplier.example,+49 30 3594039,250,Quoted,No,Confirm ramp dimensions,5,2026-01-25
+SUP-0250,Blue Oak Catering Services 250,Catering,Leon Koch,events.0250@supplier.example,+49 30 1846159,9800,Quoted,Yes,Ask about hearing support,5,2026-06-10
+SUP-0251,Fieldstone Security Services 251,Security,Felix Braun,events.0251@supplier.example,+49 30 4817981,3500,Declined,Yes,Confirm ramp dimensions,5,2026-04-16
+SUP-0252,Open Door Accessibility Services 252,Accessibility,Mila Fischer,events.0252@supplier.example,+49 30 3042911,3500,Requested,No,Step-free access confirmed,3,2026-05-12
+SUP-0253,Urban Catering Services 253,Catering,Sofia Wagner,events.0253@supplier.example,+49 30 9494556,600,Confirmed,Not applicable,Confirm ramp dimensions,3,2026-11-24
+SUP-0254,Brightline Audio visual Services 254,Audio visual,Paul Wolf,events.0254@supplier.example,+49 30 1830758,6200,Confirmed,Not applicable,Accessible restroom available,5,2026-10-17
+SUP-0255,Blue Oak Floral Services 255,Floral,Jonas Weber,events.0255@supplier.example,+49 30 7476718,6200,Under review,Not applicable,Ask about hearing support,5,2026-01-10
+SUP-0256,Urban Catering Services 256,Catering,David Neumann,events.0256@supplier.example,+49 30 5640446,9800,Quoted,No,Ask about hearing support,3,2026-03-13
+SUP-0257,Cedar Floral Services 257,Floral,Leon Koch,events.0257@supplier.example,+49 30 5975352,250,Requested,Yes,Step-free access confirmed,3,2026-11-07
+SUP-0258,Cedar Transport Services 258,Transport,Paul Wolf,events.0258@supplier.example,+49 30 1512220,950,Quoted,No,Step-free access confirmed,5,2026-07-20
+SUP-0259,Blue Oak Transport Services 259,Transport,Leon Koch,events.0259@supplier.example,+49 30 7008757,3500,Requested,Yes,No special requirements noted,4,2026-07-22
+SUP-0260,Urban Floral Services 260,Floral,Leon Koch,events.0260@supplier.example,+49 30 8426700,6200,Requested,Not applicable,Accessible restroom available,3,2026-10-04
+SUP-0261,Open Door Transport Services 261,Transport,Lea Schneider,events.0261@supplier.example,+49 30 5033258,250,Quoted,Yes,Accessible restroom available,4,2026-03-10
+SUP-0262,Northstar Security Services 262,Security,Lea Schneider,events.0262@supplier.example,+49 30 6527774,1500,Declined,Not applicable,Ask about hearing support,4,2026-01-24
+SUP-0263,Fieldstone Printing Services 263,Printing,Amira Yilmaz,events.0263@supplier.example,+49 30 1543679,9800,Under review,No,Accessible restroom available,3,2026-02-07
+SUP-0264,Urban Photography Services 264,Photography,Mia Schulz,events.0264@supplier.example,+49 30 6233239,1500,Confirmed,Not applicable,No special requirements noted,5,2026-01-02
+SUP-0265,Open Door Venue Services 265,Venue,Luca Hartmann,events.0265@supplier.example,+49 30 2415837,250,Under review,Not applicable,No special requirements noted,4,2026-08-25
+SUP-0266,Cedar Furniture Services 266,Furniture,Adam Nowak,events.0266@supplier.example,+49 30 5748342,250,Confirmed,Yes,Confirm ramp dimensions,4,2026-04-07
+SUP-0267,Brightline Catering Services 267,Catering,Sofia Wagner,events.0267@supplier.example,+49 30 1983958,600,Confirmed,Yes,No special requirements noted,5,2026-02-17
+SUP-0268,Open Door Audio visual Services 268,Audio visual,Omar Haddad,events.0268@supplier.example,+49 30 3195217,2400,Requested,No,Step-free access confirmed,5,2026-07-01
+SUP-0269,Cedar Printing Services 269,Printing,Adam Nowak,events.0269@supplier.example,+49 30 3922519,950,Requested,Yes,Confirm ramp dimensions,4,2026-10-04
+SUP-0270,Silver Birch Furniture Services 270,Furniture,David Neumann,events.0270@supplier.example,+49 30 6536690,3500,Quoted,No,Confirm ramp dimensions,5,2026-10-05
+SUP-0271,Silver Birch Audio visual Services 271,Audio visual,Luca Hartmann,events.0271@supplier.example,+49 30 7551501,250,Declined,No,Accessible restroom available,3,2026-07-06
+SUP-0272,Cedar Transport Services 272,Transport,Mia Schulz,events.0272@supplier.example,+49 30 6454965,3500,Confirmed,Not applicable,Step-free access confirmed,3,2026-04-06
+SUP-0273,Silver Birch Printing Services 273,Printing,Hannah Lange,events.0273@supplier.example,+49 30 3382759,600,Quoted,No,Step-free access confirmed,5,2026-04-08
+SUP-0274,Urban Photography Services 274,Photography,Sara Özdemir,events.0274@supplier.example,+49 30 1906021,2400,Declined,Not applicable,No special requirements noted,4,2026-05-26
+SUP-0275,Urban Audio visual Services 275,Audio visual,Noah Becker,events.0275@supplier.example,+49 30 1646568,9800,Quoted,Yes,Confirm ramp dimensions,5,2026-04-04
+SUP-0276,Silver Birch Catering Services 276,Catering,Luca Hartmann,events.0276@supplier.example,+49 30 9708474,3500,Under review,No,Confirm ramp dimensions,5,2026-11-10
+SUP-0277,Silver Birch Security Services 277,Security,Luca Hartmann,events.0277@supplier.example,+49 30 6775971,6200,Confirmed,Not applicable,Ask about hearing support,4,2026-01-18
+SUP-0278,Silver Birch Security Services 278,Security,Hannah Lange,events.0278@supplier.example,+49 30 2106480,6200,Under review,Yes,No special requirements noted,5,2026-09-19
+SUP-0279,Fieldstone Audio visual Services 279,Audio visual,Felix Braun,events.0279@supplier.example,+49 30 9041945,3500,Declined,Not applicable,Ask about hearing support,3,2026-04-12
+SUP-0280,Cedar Transport Services 280,Transport,Nina Krüger,events.0280@supplier.example,+49 30 4042023,1500,Declined,Not applicable,Step-free access confirmed,3,2026-06-17
+SUP-0281,Open Door Furniture Services 281,Furniture,Lea Schneider,events.0281@supplier.example,+49 30 2639471,9800,Requested,Not applicable,Accessible restroom available,3,2026-11-06
+SUP-0282,Northstar Audio visual Services 282,Audio visual,Felix Braun,events.0282@supplier.example,+49 30 4775620,6200,Confirmed,Not applicable,Step-free access confirmed,5,2026-11-19
+SUP-0283,Cedar Furniture Services 283,Furniture,Emil Hoffmann,events.0283@supplier.example,+49 30 8939026,9800,Quoted,No,Step-free access confirmed,5,2026-07-06
+SUP-0284,Brightline Printing Services 284,Printing,Elena Richter,events.0284@supplier.example,+49 30 3227507,950,Declined,Not applicable,Accessible restroom available,4,2026-10-03
+SUP-0285,Open Door Accessibility Services 285,Accessibility,Noah Becker,events.0285@supplier.example,+49 30 2273288,3500,Requested,Not applicable,Confirm ramp dimensions,5,2026-03-02
+SUP-0286,Northstar Furniture Services 286,Furniture,Sara Özdemir,events.0286@supplier.example,+49 30 1469952,1500,Confirmed,No,Step-free access confirmed,4,2026-03-29
+SUP-0287,Fieldstone Venue Services 287,Venue,Omar Haddad,events.0287@supplier.example,+49 30 8867150,600,Declined,Not applicable,Confirm ramp dimensions,4,2026-10-15
+SUP-0288,Open Door Audio visual Services 288,Audio visual,Luca Hartmann,events.0288@supplier.example,+49 30 8793492,600,Declined,No,Confirm ramp dimensions,3,2026-11-23
+SUP-0289,Cedar Photography Services 289,Photography,Luca Hartmann,events.0289@supplier.example,+49 30 6960224,9800,Confirmed,Not applicable,Ask about hearing support,4,2026-03-13
+SUP-0290,Silver Birch Transport Services 290,Transport,Paul Wolf,events.0290@supplier.example,+49 30 8210857,600,Quoted,Yes,No special requirements noted,4,2026-06-27
+SUP-0291,Brightline Security Services 291,Security,Sofia Wagner,events.0291@supplier.example,+49 30 1004070,2400,Quoted,No,Ask about hearing support,5,2026-03-10
+SUP-0292,Northstar Transport Services 292,Transport,Sofia Wagner,events.0292@supplier.example,+49 30 3698065,950,Quoted,No,Confirm ramp dimensions,3,2026-04-21
+SUP-0293,Fieldstone Furniture Services 293,Furniture,Jonas Weber,events.0293@supplier.example,+49 30 8452113,9800,Confirmed,No,No special requirements noted,5,2026-07-25
+SUP-0294,Cedar Catering Services 294,Catering,Lea Schneider,events.0294@supplier.example,+49 30 5187852,950,Requested,Yes,Ask about hearing support,4,2026-02-01
+SUP-0295,Blue Oak Furniture Services 295,Furniture,Sofia Wagner,events.0295@supplier.example,+49 30 2881451,9800,Requested,No,Accessible restroom available,4,2026-05-01
+SUP-0296,Fieldstone Catering Services 296,Catering,Adam Nowak,events.0296@supplier.example,+49 30 4914578,3500,Under review,Yes,No special requirements noted,3,2026-02-20
+SUP-0297,Brightline Venue Services 297,Venue,Felix Braun,events.0297@supplier.example,+49 30 2570323,2400,Under review,Not applicable,Ask about hearing support,4,2026-02-23
+SUP-0298,Silver Birch Accessibility Services 298,Accessibility,Elena Richter,events.0298@supplier.example,+49 30 7198759,950,Requested,No,No special requirements noted,4,2026-04-02
+SUP-0299,Fieldstone Furniture Services 299,Furniture,Noah Becker,events.0299@supplier.example,+49 30 3887705,9800,Declined,Not applicable,Confirm ramp dimensions,5,2026-08-24
+SUP-0300,Cedar Photography Services 300,Photography,Hannah Lange,events.0300@supplier.example,+49 30 1834549,3500,Confirmed,Yes,No special requirements noted,4,2026-11-25
+SUP-0301,Urban Venue Services 301,Venue,Jonas Weber,events.0301@supplier.example,+49 30 9275762,2400,Declined,Yes,Ask about hearing support,5,2026-09-28
+SUP-0302,Fieldstone Accessibility Services 302,Accessibility,Nina Krüger,events.0302@supplier.example,+49 30 6639558,2400,Quoted,Not applicable,Ask about hearing support,3,2026-11-08
+SUP-0303,Blue Oak Furniture Services 303,Furniture,Lea Schneider,events.0303@supplier.example,+49 30 1558694,6200,Declined,Yes,Confirm ramp dimensions,3,2026-02-01
+SUP-0304,Blue Oak Printing Services 304,Printing,Emil Hoffmann,events.0304@supplier.example,+49 30 7523687,3500,Requested,No,Ask about hearing support,4,2026-11-14
+SUP-0305,Open Door Accessibility Services 305,Accessibility,Sara Özdemir,events.0305@supplier.example,+49 30 8482990,950,Requested,Not applicable,Confirm ramp dimensions,5,2026-03-08
+SUP-0306,Open Door Printing Services 306,Printing,Elena Richter,events.0306@supplier.example,+49 30 9239482,9800,Quoted,Not applicable,Accessible restroom available,5,2026-01-31
+SUP-0307,Blue Oak Printing Services 307,Printing,Sara Özdemir,events.0307@supplier.example,+49 30 1115999,250,Declined,No,Step-free access confirmed,3,2026-08-19
+SUP-0308,Fieldstone Photography Services 308,Photography,Elena Richter,events.0308@supplier.example,+49 30 1170124,9800,Requested,Yes,Ask about hearing support,3,2026-08-09
+SUP-0309,Open Door Floral Services 309,Floral,Paul Wolf,events.0309@supplier.example,+49 30 2991682,950,Confirmed,No,Ask about hearing support,3,2026-03-14
+SUP-0310,Silver Birch Venue Services 310,Venue,Luca Hartmann,events.0310@supplier.example,+49 30 8553632,9800,Quoted,Not applicable,Ask about hearing support,4,2026-04-24
+SUP-0311,Blue Oak Audio visual Services 311,Audio visual,Amira Yilmaz,events.0311@supplier.example,+49 30 2197192,9800,Confirmed,No,No special requirements noted,5,2026-06-02
+SUP-0312,Open Door Audio visual Services 312,Audio visual,Sofia Wagner,events.0312@supplier.example,+49 30 4643942,3500,Requested,Yes,Accessible restroom available,5,2026-11-02
+SUP-0313,Silver Birch Photography Services 313,Photography,Lea Schneider,events.0313@supplier.example,+49 30 3626910,2400,Requested,Not applicable,Accessible restroom available,3,2026-06-25
+SUP-0314,Open Door Security Services 314,Security,Hannah Lange,events.0314@supplier.example,+49 30 1380771,9800,Under review,Yes,Confirm ramp dimensions,4,2026-06-13
+SUP-0315,Cedar Floral Services 315,Floral,Luca Hartmann,events.0315@supplier.example,+49 30 4382440,250,Declined,No,Accessible restroom available,5,2026-04-08
+SUP-0316,Open Door Furniture Services 316,Furniture,Mila Fischer,events.0316@supplier.example,+49 30 5427045,250,Quoted,No,Confirm ramp dimensions,5,2026-05-30
+SUP-0317,Fieldstone Catering Services 317,Catering,Nina Krüger,events.0317@supplier.example,+49 30 2475254,600,Quoted,Yes,Step-free access confirmed,4,2026-07-30
+SUP-0318,Urban Photography Services 318,Photography,Felix Braun,events.0318@supplier.example,+49 30 8373354,3500,Requested,No,Accessible restroom available,3,2026-11-13
+SUP-0319,Urban Printing Services 319,Printing,Lea Schneider,events.0319@supplier.example,+49 30 7755882,250,Under review,Yes,Confirm ramp dimensions,4,2026-03-06
+SUP-0320,Cedar Audio visual Services 320,Audio visual,Elena Richter,events.0320@supplier.example,+49 30 2772009,2400,Confirmed,Not applicable,Step-free access confirmed,3,2026-02-15
+SUP-0321,Blue Oak Security Services 321,Security,Adam Nowak,events.0321@supplier.example,+49 30 4338122,1500,Quoted,Not applicable,No special requirements noted,5,2026-02-05
+SUP-0322,Northstar Floral Services 322,Floral,Mia Schulz,events.0322@supplier.example,+49 30 2936919,9800,Confirmed,Not applicable,Confirm ramp dimensions,5,2026-09-27
+SUP-0323,Open Door Printing Services 323,Printing,Omar Haddad,events.0323@supplier.example,+49 30 3593636,2400,Confirmed,Not applicable,Ask about hearing support,5,2026-03-07
+SUP-0324,Northstar Accessibility Services 324,Accessibility,Mila Fischer,events.0324@supplier.example,+49 30 3224927,600,Requested,No,Accessible restroom available,3,2026-06-11
+SUP-0325,Silver Birch Floral Services 325,Floral,Elena Richter,events.0325@supplier.example,+49 30 3446946,2400,Declined,Yes,Confirm ramp dimensions,4,2026-08-17
+SUP-0326,Open Door Photography Services 326,Photography,Jonas Weber,events.0326@supplier.example,+49 30 7375985,1500,Requested,Yes,Ask about hearing support,4,2026-01-28
+SUP-0327,Brightline Accessibility Services 327,Accessibility,Luca Hartmann,events.0327@supplier.example,+49 30 8023871,950,Confirmed,Not applicable,Ask about hearing support,4,2026-09-27
+SUP-0328,Urban Accessibility Services 328,Accessibility,Clara Schmitt,events.0328@supplier.example,+49 30 7531923,950,Requested,Not applicable,Accessible restroom available,4,2026-02-24
+SUP-0329,Urban Floral Services 329,Floral,Luca Hartmann,events.0329@supplier.example,+49 30 5861410,3500,Requested,No,No special requirements noted,5,2026-05-23
+SUP-0330,Silver Birch Furniture Services 330,Furniture,Luca Hartmann,events.0330@supplier.example,+49 30 7351230,6200,Under review,No,Step-free access confirmed,4,2026-07-07
+SUP-0331,Brightline Security Services 331,Security,Mila Fischer,events.0331@supplier.example,+49 30 5208698,9800,Under review,No,Confirm ramp dimensions,3,2026-08-06
+SUP-0332,Northstar Furniture Services 332,Furniture,Omar Haddad,events.0332@supplier.example,+49 30 3654740,6200,Quoted,No,Confirm ramp dimensions,4,2026-09-17
+SUP-0333,Brightline Furniture Services 333,Furniture,Omar Haddad,events.0333@supplier.example,+49 30 5433864,250,Quoted,Not applicable,Step-free access confirmed,4,2026-01-18
+SUP-0334,Blue Oak Accessibility Services 334,Accessibility,Emil Hoffmann,events.0334@supplier.example,+49 30 5043316,950,Confirmed,Yes,Step-free access confirmed,4,2026-09-24
+SUP-0335,Urban Floral Services 335,Floral,Paul Wolf,events.0335@supplier.example,+49 30 8204513,9800,Declined,No,Ask about hearing support,4,2026-01-03
+SUP-0336,Silver Birch Furniture Services 336,Furniture,David Neumann,events.0336@supplier.example,+49 30 3037403,950,Quoted,Not applicable,No special requirements noted,3,2026-07-06
+SUP-0337,Open Door Transport Services 337,Transport,David Neumann,events.0337@supplier.example,+49 30 1015739,600,Quoted,Not applicable,No special requirements noted,3,2026-10-24
+SUP-0338,Silver Birch Printing Services 338,Printing,Noah Becker,events.0338@supplier.example,+49 30 1826170,6200,Requested,Not applicable,Step-free access confirmed,4,2026-05-29
+SUP-0339,Open Door Accessibility Services 339,Accessibility,Hannah Lange,events.0339@supplier.example,+49 30 1025736,9800,Quoted,Not applicable,Step-free access confirmed,4,2026-10-24
+SUP-0340,Silver Birch Photography Services 340,Photography,Amira Yilmaz,events.0340@supplier.example,+49 30 3646993,950,Confirmed,Not applicable,Confirm ramp dimensions,3,2026-02-02
+SUP-0341,Blue Oak Transport Services 341,Transport,Omar Haddad,events.0341@supplier.example,+49 30 7899588,600,Confirmed,Yes,Confirm ramp dimensions,5,2026-03-17
+SUP-0342,Blue Oak Venue Services 342,Venue,Hannah Lange,events.0342@supplier.example,+49 30 5361198,9800,Declined,No,Ask about hearing support,4,2026-01-20
+SUP-0343,Open Door Furniture Services 343,Furniture,Nina Krüger,events.0343@supplier.example,+49 30 3366872,2400,Requested,Not applicable,Ask about hearing support,4,2026-03-04
+SUP-0344,Brightline Transport Services 344,Transport,Sofia Wagner,events.0344@supplier.example,+49 30 5709636,1500,Confirmed,Yes,Accessible restroom available,4,2026-09-09
+SUP-0345,Urban Transport Services 345,Transport,Felix Braun,events.0345@supplier.example,+49 30 6767112,9800,Under review,No,Step-free access confirmed,5,2026-09-08
+SUP-0346,Cedar Security Services 346,Security,Amira Yilmaz,events.0346@supplier.example,+49 30 8276899,600,Quoted,Yes,Ask about hearing support,4,2026-02-01
+SUP-0347,Urban Accessibility Services 347,Accessibility,Clara Schmitt,events.0347@supplier.example,+49 30 3852624,1500,Confirmed,Not applicable,Confirm ramp dimensions,5,2026-04-26
+SUP-0348,Northstar Transport Services 348,Transport,Felix Braun,events.0348@supplier.example,+49 30 7948830,1500,Requested,No,Ask about hearing support,3,2026-08-19
+SUP-0349,Northstar Audio visual Services 349,Audio visual,Mia Schulz,events.0349@supplier.example,+49 30 2870333,9800,Declined,Not applicable,Step-free access confirmed,4,2026-06-17
+SUP-0350,Brightline Audio visual Services 350,Audio visual,Clara Schmitt,events.0350@supplier.example,+49 30 2926042,250,Under review,Not applicable,Confirm ramp dimensions,3,2026-09-17
+SUP-0351,Brightline Transport Services 351,Transport,Elena Richter,events.0351@supplier.example,+49 30 3277225,950,Requested,Yes,Ask about hearing support,4,2026-04-16
+SUP-0352,Northstar Venue Services 352,Venue,Nina Krüger,events.0352@supplier.example,+49 30 2675915,1500,Declined,Yes,Step-free access confirmed,3,2026-02-21
+SUP-0353,Fieldstone Security Services 353,Security,Clara Schmitt,events.0353@supplier.example,+49 30 2117896,6200,Confirmed,No,Accessible restroom available,4,2026-02-04
+SUP-0354,Urban Venue Services 354,Venue,Noah Becker,events.0354@supplier.example,+49 30 5668274,1500,Quoted,No,Confirm ramp dimensions,4,2026-09-26
+SUP-0355,Cedar Audio visual Services 355,Audio visual,Adam Nowak,events.0355@supplier.example,+49 30 6911874,9800,Quoted,Not applicable,Accessible restroom available,4,2026-11-14
+SUP-0356,Silver Birch Transport Services 356,Transport,Adam Nowak,events.0356@supplier.example,+49 30 5856217,1500,Confirmed,No,Accessible restroom available,4,2026-03-24
+SUP-0357,Urban Catering Services 357,Catering,Mila Fischer,events.0357@supplier.example,+49 30 6555411,9800,Declined,Not applicable,No special requirements noted,3,2026-04-23
+SUP-0358,Fieldstone Accessibility Services 358,Accessibility,Luca Hartmann,events.0358@supplier.example,+49 30 9402402,2400,Declined,Not applicable,No special requirements noted,3,2026-02-01
+SUP-0359,Urban Photography Services 359,Photography,Emil Hoffmann,events.0359@supplier.example,+49 30 4366296,2400,Confirmed,Not applicable,No special requirements noted,3,2026-10-12
+SUP-0360,Blue Oak Floral Services 360,Floral,David Neumann,events.0360@supplier.example,+49 30 5311784,250,Under review,Not applicable,Step-free access confirmed,3,2026-08-01
+SUP-0361,Fieldstone Printing Services 361,Printing,Nina Krüger,events.0361@supplier.example,+49 30 1825148,950,Declined,Yes,Accessible restroom available,3,2026-02-26
+SUP-0362,Blue Oak Accessibility Services 362,Accessibility,Adam Nowak,events.0362@supplier.example,+49 30 2147364,9800,Declined,Yes,Accessible restroom available,4,2026-06-30
+SUP-0363,Urban Furniture Services 363,Furniture,Luca Hartmann,events.0363@supplier.example,+49 30 3578843,600,Quoted,No,Accessible restroom available,4,2026-06-15
+SUP-0364,Brightline Security Services 364,Security,Adam Nowak,events.0364@supplier.example,+49 30 9861893,2400,Declined,Yes,No special requirements noted,5,2026-02-24
+SUP-0365,Blue Oak Security Services 365,Security,David Neumann,events.0365@supplier.example,+49 30 9694921,950,Under review,Yes,Ask about hearing support,5,2026-09-26
+SUP-0366,Cedar Accessibility Services 366,Accessibility,Leon Koch,events.0366@supplier.example,+49 30 5611983,9800,Quoted,No,No special requirements noted,3,2026-05-18
+SUP-0367,Fieldstone Printing Services 367,Printing,Amira Yilmaz,events.0367@supplier.example,+49 30 5531644,6200,Confirmed,Yes,Accessible restroom available,4,2026-05-18
+SUP-0368,Fieldstone Furniture Services 368,Furniture,Clara Schmitt,events.0368@supplier.example,+49 30 8641835,250,Declined,Not applicable,Ask about hearing support,3,2026-01-22
+SUP-0369,Open Door Accessibility Services 369,Accessibility,Felix Braun,events.0369@supplier.example,+49 30 5159422,950,Confirmed,Not applicable,Ask about hearing support,4,2026-09-21
+SUP-0370,Open Door Security Services 370,Security,Emil Hoffmann,events.0370@supplier.example,+49 30 9939586,250,Declined,Yes,Confirm ramp dimensions,4,2026-09-21
+SUP-0371,Urban Furniture Services 371,Furniture,David Neumann,events.0371@supplier.example,+49 30 1439452,9800,Quoted,Yes,Confirm ramp dimensions,4,2026-06-16
+SUP-0372,Urban Venue Services 372,Venue,David Neumann,events.0372@supplier.example,+49 30 3971700,9800,Quoted,Not applicable,Accessible restroom available,4,2026-02-19
+SUP-0373,Cedar Floral Services 373,Floral,Sara Özdemir,events.0373@supplier.example,+49 30 5120187,1500,Confirmed,Not applicable,Confirm ramp dimensions,4,2026-10-17
+SUP-0374,Open Door Printing Services 374,Printing,Hannah Lange,events.0374@supplier.example,+49 30 3369968,9800,Requested,Yes,Accessible restroom available,4,2026-06-22
+SUP-0375,Cedar Security Services 375,Security,Noah Becker,events.0375@supplier.example,+49 30 4112964,600,Quoted,Not applicable,Step-free access confirmed,3,2026-04-12
+SUP-0376,Brightline Security Services 376,Security,Emil Hoffmann,events.0376@supplier.example,+49 30 9367197,9800,Quoted,No,Ask about hearing support,5,2026-01-16
+SUP-0377,Brightline Floral Services 377,Floral,Paul Wolf,events.0377@supplier.example,+49 30 7679723,950,Declined,Yes,Ask about hearing support,5,2026-11-16
+SUP-0378,Fieldstone Security Services 378,Security,David Neumann,events.0378@supplier.example,+49 30 9196512,600,Declined,No,Step-free access confirmed,4,2026-02-13
+SUP-0379,Urban Catering Services 379,Catering,Jonas Weber,events.0379@supplier.example,+49 30 2131207,600,Requested,Yes,Confirm ramp dimensions,3,2026-02-16
+SUP-0380,Silver Birch Audio visual Services 380,Audio visual,Elena Richter,events.0380@supplier.example,+49 30 6525375,250,Under review,No,Step-free access confirmed,4,2026-05-27
+SUP-0381,Silver Birch Printing Services 381,Printing,Omar Haddad,events.0381@supplier.example,+49 30 5267416,600,Requested,Yes,Confirm ramp dimensions,3,2026-06-06
+SUP-0382,Fieldstone Transport Services 382,Transport,David Neumann,events.0382@supplier.example,+49 30 3356498,950,Under review,Yes,No special requirements noted,5,2026-07-24
+SUP-0383,Northstar Venue Services 383,Venue,David Neumann,events.0383@supplier.example,+49 30 7170946,9800,Quoted,Yes,Ask about hearing support,5,2026-04-24
+SUP-0384,Silver Birch Audio visual Services 384,Audio visual,Amira Yilmaz,events.0384@supplier.example,+49 30 8373210,9800,Requested,No,Ask about hearing support,4,2026-02-07
+SUP-0385,Blue Oak Venue Services 385,Venue,Felix Braun,events.0385@supplier.example,+49 30 3886694,1500,Confirmed,Not applicable,Step-free access confirmed,5,2026-06-13
+SUP-0386,Open Door Accessibility Services 386,Accessibility,Lea Schneider,events.0386@supplier.example,+49 30 5806128,1500,Under review,No,No special requirements noted,3,2026-01-23
+SUP-0387,Cedar Catering Services 387,Catering,Paul Wolf,events.0387@supplier.example,+49 30 7248740,9800,Confirmed,No,Accessible restroom available,4,2026-11-27
+SUP-0388,Cedar Accessibility Services 388,Accessibility,David Neumann,events.0388@supplier.example,+49 30 5414472,950,Confirmed,No,No special requirements noted,3,2026-09-12
+SUP-0389,Urban Security Services 389,Security,Jonas Weber,events.0389@supplier.example,+49 30 7871785,9800,Confirmed,No,No special requirements noted,5,2026-09-12
+SUP-0390,Cedar Catering Services 390,Catering,Omar Haddad,events.0390@supplier.example,+49 30 6484836,1500,Confirmed,Yes,Accessible restroom available,5,2026-02-12
+SUP-0391,Open Door Furniture Services 391,Furniture,Nina Krüger,events.0391@supplier.example,+49 30 7268911,2400,Under review,Not applicable,Step-free access confirmed,5,2026-09-21
+SUP-0392,Northstar Floral Services 392,Floral,Luca Hartmann,events.0392@supplier.example,+49 30 4206984,250,Requested,Not applicable,Ask about hearing support,3,2026-10-23
+SUP-0393,Fieldstone Accessibility Services 393,Accessibility,Omar Haddad,events.0393@supplier.example,+49 30 4287136,2400,Requested,No,Ask about hearing support,5,2026-08-18
+SUP-0394,Cedar Catering Services 394,Catering,Jonas Weber,events.0394@supplier.example,+49 30 7155812,950,Requested,Not applicable,Ask about hearing support,5,2026-08-13
+SUP-0395,Brightline Printing Services 395,Printing,Adam Nowak,events.0395@supplier.example,+49 30 1681350,250,Requested,Yes,Step-free access confirmed,3,2026-11-14
+SUP-0396,Brightline Furniture Services 396,Furniture,Clara Schmitt,events.0396@supplier.example,+49 30 9806630,2400,Declined,Yes,Ask about hearing support,5,2026-08-01
+SUP-0397,Cedar Venue Services 397,Venue,David Neumann,events.0397@supplier.example,+49 30 8882937,3500,Quoted,Yes,Ask about hearing support,4,2026-10-22
+SUP-0398,Brightline Printing Services 398,Printing,Emil Hoffmann,events.0398@supplier.example,+49 30 8203772,950,Declined,No,No special requirements noted,3,2026-10-22
+SUP-0399,Northstar Floral Services 399,Floral,Sofia Wagner,events.0399@supplier.example,+49 30 7398104,6200,Requested,Yes,Ask about hearing support,3,2026-01-06
+SUP-0400,Northstar Audio visual Services 400,Audio visual,Clara Schmitt,events.0400@supplier.example,+49 30 4141161,950,Confirmed,Yes,Confirm ramp dimensions,3,2026-11-17
+SUP-0401,Cedar Furniture Services 401,Furniture,Mia Schulz,events.0401@supplier.example,+49 30 5766000,9800,Under review,Yes,Accessible restroom available,5,2026-02-04
+SUP-0402,Silver Birch Audio visual Services 402,Audio visual,Amira Yilmaz,events.0402@supplier.example,+49 30 5022695,250,Quoted,Yes,No special requirements noted,5,2026-05-13
+SUP-0403,Open Door Transport Services 403,Transport,Nina Krüger,events.0403@supplier.example,+49 30 8866332,6200,Requested,No,Confirm ramp dimensions,4,2026-04-03
+SUP-0404,Open Door Catering Services 404,Catering,Mia Schulz,events.0404@supplier.example,+49 30 3588629,3500,Under review,Yes,No special requirements noted,4,2026-08-19
+SUP-0405,Open Door Accessibility Services 405,Accessibility,Lea Schneider,events.0405@supplier.example,+49 30 3157820,950,Requested,Yes,Step-free access confirmed,4,2026-08-18
+SUP-0406,Northstar Floral Services 406,Floral,Leon Koch,events.0406@supplier.example,+49 30 3614653,9800,Declined,Yes,Confirm ramp dimensions,5,2026-10-25
+SUP-0407,Silver Birch Audio visual Services 407,Audio visual,Leon Koch,events.0407@supplier.example,+49 30 9637397,600,Requested,Not applicable,Ask about hearing support,4,2026-04-15
+SUP-0408,Fieldstone Audio visual Services 408,Audio visual,Emil Hoffmann,events.0408@supplier.example,+49 30 1574340,600,Requested,No,Ask about hearing support,3,2026-08-15
+SUP-0409,Silver Birch Venue Services 409,Venue,David Neumann,events.0409@supplier.example,+49 30 2667458,250,Under review,Not applicable,Step-free access confirmed,3,2026-05-15
+SUP-0410,Open Door Security Services 410,Security,Elena Richter,events.0410@supplier.example,+49 30 4303026,3500,Confirmed,Yes,No special requirements noted,4,2026-02-09
+SUP-0411,Cedar Floral Services 411,Floral,Felix Braun,events.0411@supplier.example,+49 30 7617856,6200,Confirmed,No,Confirm ramp dimensions,3,2026-10-24
+SUP-0412,Fieldstone Printing Services 412,Printing,Omar Haddad,events.0412@supplier.example,+49 30 3021909,250,Under review,Not applicable,Step-free access confirmed,4,2026-09-16
+SUP-0413,Northstar Transport Services 413,Transport,Mia Schulz,events.0413@supplier.example,+49 30 8563921,1500,Requested,Yes,No special requirements noted,3,2026-10-17
+SUP-0414,Urban Audio visual Services 414,Audio visual,Adam Nowak,events.0414@supplier.example,+49 30 1473430,950,Confirmed,Not applicable,Ask about hearing support,3,2026-01-29
+SUP-0415,Silver Birch Photography Services 415,Photography,Luca Hartmann,events.0415@supplier.example,+49 30 9916168,600,Declined,No,No special requirements noted,5,2026-05-11
+SUP-0416,Cedar Accessibility Services 416,Accessibility,Emil Hoffmann,events.0416@supplier.example,+49 30 5937068,6200,Quoted,No,Accessible restroom available,3,2026-01-08
+SUP-0417,Open Door Floral Services 417,Floral,Mila Fischer,events.0417@supplier.example,+49 30 8062196,2400,Under review,Yes,Accessible restroom available,5,2026-01-17
+SUP-0418,Silver Birch Printing Services 418,Printing,Mia Schulz,events.0418@supplier.example,+49 30 4737009,250,Declined,Not applicable,Ask about hearing support,4,2026-05-10
+SUP-0419,Brightline Floral Services 419,Floral,Elena Richter,events.0419@supplier.example,+49 30 6907810,250,Quoted,Yes,No special requirements noted,4,2026-01-03
+SUP-0420,Urban Accessibility Services 420,Accessibility,Emil Hoffmann,events.0420@supplier.example,+49 30 5491122,3500,Requested,Yes,No special requirements noted,5,2026-06-28
+SUP-0421,Cedar Venue Services 421,Venue,Paul Wolf,events.0421@supplier.example,+49 30 7277791,250,Requested,Not applicable,No special requirements noted,3,2026-04-01
+SUP-0422,Open Door Photography Services 422,Photography,Adam Nowak,events.0422@supplier.example,+49 30 5821157,9800,Confirmed,Yes,Confirm ramp dimensions,5,2026-03-09
+SUP-0423,Brightline Security Services 423,Security,Felix Braun,events.0423@supplier.example,+49 30 3479308,3500,Confirmed,No,Ask about hearing support,4,2026-02-08
+SUP-0424,Northstar Floral Services 424,Floral,Mila Fischer,events.0424@supplier.example,+49 30 3900497,950,Under review,No,Accessible restroom available,4,2026-10-13
+SUP-0425,Cedar Audio visual Services 425,Audio visual,Hannah Lange,events.0425@supplier.example,+49 30 2573833,6200,Under review,Not applicable,Confirm ramp dimensions,3,2026-05-05
+SUP-0426,Blue Oak Floral Services 426,Floral,Luca Hartmann,events.0426@supplier.example,+49 30 1820603,3500,Requested,Yes,No special requirements noted,5,2026-10-04
+SUP-0427,Fieldstone Venue Services 427,Venue,Nina Krüger,events.0427@supplier.example,+49 30 7949272,2400,Quoted,No,Accessible restroom available,3,2026-06-26
+SUP-0428,Northstar Printing Services 428,Printing,Leon Koch,events.0428@supplier.example,+49 30 5622407,1500,Declined,No,Accessible restroom available,3,2026-05-05
+SUP-0429,Blue Oak Photography Services 429,Photography,Mia Schulz,events.0429@supplier.example,+49 30 1199778,9800,Declined,Not applicable,Accessible restroom available,4,2026-09-28
+SUP-0430,Urban Venue Services 430,Venue,Omar Haddad,events.0430@supplier.example,+49 30 7120441,600,Requested,No,No special requirements noted,5,2026-03-28
+SUP-0431,Open Door Accessibility Services 431,Accessibility,Felix Braun,events.0431@supplier.example,+49 30 9087197,2400,Declined,No,No special requirements noted,5,2026-09-10
+SUP-0432,Blue Oak Transport Services 432,Transport,Clara Schmitt,events.0432@supplier.example,+49 30 1134294,250,Declined,No,No special requirements noted,4,2026-09-19
+SUP-0433,Silver Birch Accessibility Services 433,Accessibility,Mila Fischer,events.0433@supplier.example,+49 30 3121064,250,Under review,No,Step-free access confirmed,3,2026-11-25
+SUP-0434,Northstar Security Services 434,Security,Sofia Wagner,events.0434@supplier.example,+49 30 1231321,950,Requested,No,No special requirements noted,3,2026-08-21
+SUP-0435,Silver Birch Accessibility Services 435,Accessibility,Omar Haddad,events.0435@supplier.example,+49 30 9990682,9800,Requested,Not applicable,Confirm ramp dimensions,5,2026-04-29
+SUP-0436,Silver Birch Catering Services 436,Catering,Hannah Lange,events.0436@supplier.example,+49 30 7255003,6200,Quoted,No,Step-free access confirmed,5,2026-09-19
+SUP-0437,Blue Oak Photography Services 437,Photography,Elena Richter,events.0437@supplier.example,+49 30 4760341,1500,Confirmed,No,Confirm ramp dimensions,4,2026-10-14
+SUP-0438,Urban Printing Services 438,Printing,Elena Richter,events.0438@supplier.example,+49 30 4080816,950,Requested,Not applicable,No special requirements noted,5,2026-02-25
+SUP-0439,Silver Birch Transport Services 439,Transport,Felix Braun,events.0439@supplier.example,+49 30 7478964,600,Quoted,Yes,Confirm ramp dimensions,5,2026-01-15
+SUP-0440,Fieldstone Catering Services 440,Catering,David Neumann,events.0440@supplier.example,+49 30 6253705,1500,Declined,No,Accessible restroom available,5,2026-10-28
+SUP-0441,Fieldstone Audio visual Services 441,Audio visual,Lea Schneider,events.0441@supplier.example,+49 30 7702219,3500,Under review,Not applicable,Ask about hearing support,5,2026-04-04
+SUP-0442,Blue Oak Audio visual Services 442,Audio visual,Nina Krüger,events.0442@supplier.example,+49 30 1376059,250,Under review,Yes,Accessible restroom available,5,2026-04-10
+SUP-0443,Open Door Photography Services 443,Photography,Mila Fischer,events.0443@supplier.example,+49 30 8913762,600,Confirmed,No,Confirm ramp dimensions,3,2026-08-24
+SUP-0444,Cedar Transport Services 444,Transport,Adam Nowak,events.0444@supplier.example,+49 30 2677087,600,Quoted,No,Ask about hearing support,5,2026-10-11
+SUP-0445,Urban Floral Services 445,Floral,Sofia Wagner,events.0445@supplier.example,+49 30 2445790,1500,Quoted,Yes,Ask about hearing support,3,2026-07-29
+SUP-0446,Cedar Accessibility Services 446,Accessibility,Lea Schneider,events.0446@supplier.example,+49 30 9438066,6200,Confirmed,Not applicable,Step-free access confirmed,3,2026-08-24
+SUP-0447,Fieldstone Venue Services 447,Venue,Leon Koch,events.0447@supplier.example,+49 30 6176833,6200,Requested,Yes,Ask about hearing support,4,2026-02-09
+SUP-0448,Fieldstone Furniture Services 448,Furniture,Sara Özdemir,events.0448@supplier.example,+49 30 8312824,950,Quoted,Yes,Confirm ramp dimensions,5,2026-05-28
+SUP-0449,Silver Birch Transport Services 449,Transport,Mila Fischer,events.0449@supplier.example,+49 30 2698497,600,Under review,No,Step-free access confirmed,5,2026-05-09
+SUP-0450,Fieldstone Printing Services 450,Printing,Mila Fischer,events.0450@supplier.example,+49 30 5933797,1500,Confirmed,Yes,Confirm ramp dimensions,5,2026-01-21
+SUP-0451,Fieldstone Catering Services 451,Catering,Lea Schneider,events.0451@supplier.example,+49 30 3379914,1500,Declined,Not applicable,Accessible restroom available,3,2026-02-25
+SUP-0452,Silver Birch Furniture Services 452,Furniture,Hannah Lange,events.0452@supplier.example,+49 30 6219525,1500,Quoted,Not applicable,Ask about hearing support,3,2026-01-12
+SUP-0453,Brightline Venue Services 453,Venue,David Neumann,events.0453@supplier.example,+49 30 6371560,1500,Confirmed,Not applicable,No special requirements noted,5,2026-11-02
+SUP-0454,Northstar Furniture Services 454,Furniture,Felix Braun,events.0454@supplier.example,+49 30 3255562,2400,Quoted,No,Ask about hearing support,4,2026-08-08
+SUP-0455,Urban Printing Services 455,Printing,Noah Becker,events.0455@supplier.example,+49 30 2613133,2400,Declined,No,Accessible restroom available,5,2026-02-17
+SUP-0456,Open Door Photography Services 456,Photography,Emil Hoffmann,events.0456@supplier.example,+49 30 3209109,600,Confirmed,Yes,Ask about hearing support,5,2026-09-02
+SUP-0457,Silver Birch Accessibility Services 457,Accessibility,Hannah Lange,events.0457@supplier.example,+49 30 2146171,950,Confirmed,Yes,Ask about hearing support,4,2026-06-17
+SUP-0458,Open Door Catering Services 458,Catering,Adam Nowak,events.0458@supplier.example,+49 30 1578070,600,Quoted,Not applicable,No special requirements noted,3,2026-07-26
+SUP-0459,Fieldstone Accessibility Services 459,Accessibility,Leon Koch,events.0459@supplier.example,+49 30 6151290,600,Declined,No,No special requirements noted,5,2026-09-16
+SUP-0460,Urban Transport Services 460,Transport,Emil Hoffmann,events.0460@supplier.example,+49 30 9870357,950,Under review,No,Step-free access confirmed,4,2026-05-26
+SUP-0461,Open Door Transport Services 461,Transport,Clara Schmitt,events.0461@supplier.example,+49 30 6787479,250,Requested,No,No special requirements noted,3,2026-03-17
+SUP-0462,Brightline Security Services 462,Security,Mia Schulz,events.0462@supplier.example,+49 30 8709326,950,Quoted,Yes,No special requirements noted,4,2026-01-14
+SUP-0463,Open Door Printing Services 463,Printing,Nina Krüger,events.0463@supplier.example,+49 30 9597453,1500,Confirmed,Yes,Confirm ramp dimensions,5,2026-11-24
+SUP-0464,Fieldstone Accessibility Services 464,Accessibility,Hannah Lange,events.0464@supplier.example,+49 30 2298835,3500,Requested,Yes,Step-free access confirmed,4,2026-05-01
+SUP-0465,Northstar Printing Services 465,Printing,Elena Richter,events.0465@supplier.example,+49 30 5809893,9800,Confirmed,Not applicable,Ask about hearing support,4,2026-08-22
+SUP-0466,Blue Oak Printing Services 466,Printing,Nina Krüger,events.0466@supplier.example,+49 30 5372234,250,Requested,Yes,No special requirements noted,5,2026-04-24
+SUP-0467,Silver Birch Printing Services 467,Printing,Sofia Wagner,events.0467@supplier.example,+49 30 1035235,6200,Quoted,Yes,No special requirements noted,5,2026-05-05
+SUP-0468,Northstar Floral Services 468,Floral,Sara Özdemir,events.0468@supplier.example,+49 30 8909486,600,Confirmed,Yes,Ask about hearing support,4,2026-02-16
+SUP-0469,Blue Oak Photography Services 469,Photography,Hannah Lange,events.0469@supplier.example,+49 30 7879446,250,Requested,No,Ask about hearing support,3,2026-11-12
+SUP-0470,Brightline Venue Services 470,Venue,Mila Fischer,events.0470@supplier.example,+49 30 7711650,950,Requested,Yes,Confirm ramp dimensions,4,2026-02-01
+SUP-0471,Northstar Security Services 471,Security,David Neumann,events.0471@supplier.example,+49 30 2416479,950,Declined,Yes,Step-free access confirmed,5,2026-06-08
+SUP-0472,Blue Oak Security Services 472,Security,Amira Yilmaz,events.0472@supplier.example,+49 30 2382909,9800,Confirmed,Yes,Step-free access confirmed,4,2026-10-25
+SUP-0473,Silver Birch Accessibility Services 473,Accessibility,Jonas Weber,events.0473@supplier.example,+49 30 8445244,600,Declined,No,Ask about hearing support,5,2026-02-20
+SUP-0474,Blue Oak Transport Services 474,Transport,Adam Nowak,events.0474@supplier.example,+49 30 8728075,250,Confirmed,Not applicable,No special requirements noted,4,2026-11-25
+SUP-0475,Brightline Security Services 475,Security,Felix Braun,events.0475@supplier.example,+49 30 9288202,950,Quoted,Yes,Accessible restroom available,3,2026-02-20
+SUP-0476,Brightline Photography Services 476,Photography,Sofia Wagner,events.0476@supplier.example,+49 30 7563521,6200,Requested,No,Step-free access confirmed,5,2026-08-23
+SUP-0477,Urban Security Services 477,Security,David Neumann,events.0477@supplier.example,+49 30 1622470,600,Declined,No,Step-free access confirmed,3,2026-05-14
+SUP-0478,Fieldstone Catering Services 478,Catering,Emil Hoffmann,events.0478@supplier.example,+49 30 1258864,2400,Under review,No,Ask about hearing support,5,2026-03-28
+SUP-0479,Fieldstone Audio visual Services 479,Audio visual,Sara Özdemir,events.0479@supplier.example,+49 30 5936025,600,Requested,No,Accessible restroom available,5,2026-01-28
+SUP-0480,Urban Transport Services 480,Transport,Nina Krüger,events.0480@supplier.example,+49 30 1407330,3500,Declined,Not applicable,Step-free access confirmed,3,2026-04-08
+SUP-0481,Silver Birch Audio visual Services 481,Audio visual,Mila Fischer,events.0481@supplier.example,+49 30 6368974,9800,Declined,No,No special requirements noted,4,2026-02-14
+SUP-0482,Urban Furniture Services 482,Furniture,Sofia Wagner,events.0482@supplier.example,+49 30 3110606,3500,Declined,Not applicable,Ask about hearing support,3,2026-05-09
+SUP-0483,Open Door Photography Services 483,Photography,Clara Schmitt,events.0483@supplier.example,+49 30 9060289,600,Under review,Yes,Accessible restroom available,3,2026-02-10
+SUP-0484,Blue Oak Photography Services 484,Photography,Clara Schmitt,events.0484@supplier.example,+49 30 3500663,600,Under review,Yes,No special requirements noted,5,2026-01-11
+SUP-0485,Northstar Security Services 485,Security,Paul Wolf,events.0485@supplier.example,+49 30 4933470,250,Declined,Not applicable,Accessible restroom available,3,2026-08-19
+SUP-0486,Silver Birch Accessibility Services 486,Accessibility,Noah Becker,events.0486@supplier.example,+49 30 9074405,6200,Quoted,Not applicable,Step-free access confirmed,3,2026-11-23
+SUP-0487,Blue Oak Security Services 487,Security,Clara Schmitt,events.0487@supplier.example,+49 30 3896356,1500,Under review,Not applicable,Confirm ramp dimensions,3,2026-02-11
+SUP-0488,Northstar Furniture Services 488,Furniture,Elena Richter,events.0488@supplier.example,+49 30 2171181,6200,Confirmed,No,No special requirements noted,5,2026-02-06
+SUP-0489,Blue Oak Catering Services 489,Catering,Omar Haddad,events.0489@supplier.example,+49 30 5839944,950,Under review,Not applicable,No special requirements noted,3,2026-06-24
+SUP-0490,Urban Accessibility Services 490,Accessibility,Amira Yilmaz,events.0490@supplier.example,+49 30 2998264,2400,Declined,Yes,No special requirements noted,4,2026-05-04
+SUP-0491,Open Door Catering Services 491,Catering,Hannah Lange,events.0491@supplier.example,+49 30 9833630,250,Confirmed,Not applicable,Step-free access confirmed,3,2026-03-07
+SUP-0492,Brightline Accessibility Services 492,Accessibility,Omar Haddad,events.0492@supplier.example,+49 30 1821859,250,Confirmed,Yes,Ask about hearing support,5,2026-03-01
+SUP-0493,Open Door Printing Services 493,Printing,Sara Özdemir,events.0493@supplier.example,+49 30 4634177,600,Declined,No,Ask about hearing support,4,2026-10-04
+SUP-0494,Cedar Transport Services 494,Transport,Noah Becker,events.0494@supplier.example,+49 30 6346970,1500,Declined,Yes,Confirm ramp dimensions,3,2026-06-09
+SUP-0495,Cedar Venue Services 495,Venue,Mia Schulz,events.0495@supplier.example,+49 30 1668663,3500,Confirmed,Not applicable,No special requirements noted,4,2026-01-24
+SUP-0496,Cedar Floral Services 496,Floral,Nina Krüger,events.0496@supplier.example,+49 30 2257537,600,Quoted,No,Ask about hearing support,5,2026-01-08
+SUP-0497,Northstar Floral Services 497,Floral,Emil Hoffmann,events.0497@supplier.example,+49 30 2020643,600,Requested,Not applicable,No special requirements noted,3,2026-04-02
+SUP-0498,Open Door Floral Services 498,Floral,Noah Becker,events.0498@supplier.example,+49 30 5591150,250,Requested,Yes,Step-free access confirmed,3,2026-07-26
+SUP-0499,Brightline Security Services 499,Security,Noah Becker,events.0499@supplier.example,+49 30 2938814,250,Quoted,Not applicable,Step-free access confirmed,3,2026-09-29
+SUP-0500,Northstar Floral Services 500,Floral,Mila Fischer,events.0500@supplier.example,+49 30 4378100,9800,Under review,Not applicable,No special requirements noted,5,2026-09-14
+SUP-0501,Urban Security Services 501,Security,Luca Hartmann,events.0501@supplier.example,+49 30 5110154,2400,Declined,Yes,Ask about hearing support,3,2026-04-29
+SUP-0502,Brightline Venue Services 502,Venue,Luca Hartmann,events.0502@supplier.example,+49 30 4475051,950,Quoted,Yes,Ask about hearing support,5,2026-01-02
+SUP-0503,Blue Oak Security Services 503,Security,Felix Braun,events.0503@supplier.example,+49 30 3019006,2400,Quoted,Not applicable,Confirm ramp dimensions,3,2026-04-02
+SUP-0504,Brightline Furniture Services 504,Furniture,Clara Schmitt,events.0504@supplier.example,+49 30 9952059,6200,Under review,Not applicable,No special requirements noted,3,2026-07-06
+SUP-0505,Northstar Floral Services 505,Floral,Paul Wolf,events.0505@supplier.example,+49 30 4407130,6200,Requested,Yes,No special requirements noted,5,2026-09-08
+SUP-0506,Blue Oak Transport Services 506,Transport,Leon Koch,events.0506@supplier.example,+49 30 4844193,6200,Requested,No,Accessible restroom available,5,2026-01-16
+SUP-0507,Fieldstone Audio visual Services 507,Audio visual,Sara Özdemir,events.0507@supplier.example,+49 30 3201565,1500,Under review,Yes,Accessible restroom available,5,2026-06-05
+SUP-0508,Silver Birch Printing Services 508,Printing,Emil Hoffmann,events.0508@supplier.example,+49 30 8618774,950,Under review,Yes,No special requirements noted,5,2026-08-21
+SUP-0509,Urban Catering Services 509,Catering,Lea Schneider,events.0509@supplier.example,+49 30 9163097,6200,Under review,No,No special requirements noted,3,2026-07-03
+SUP-0510,Blue Oak Printing Services 510,Printing,Mia Schulz,events.0510@supplier.example,+49 30 3795184,250,Requested,Not applicable,Ask about hearing support,5,2026-09-02
+SUP-0511,Brightline Transport Services 511,Transport,Leon Koch,events.0511@supplier.example,+49 30 4029811,3500,Quoted,Yes,No special requirements noted,4,2026-07-19
+SUP-0512,Cedar Furniture Services 512,Furniture,Sofia Wagner,events.0512@supplier.example,+49 30 2309341,9800,Declined,Not applicable,Step-free access confirmed,5,2026-11-10
+SUP-0513,Blue Oak Accessibility Services 513,Accessibility,Adam Nowak,events.0513@supplier.example,+49 30 7008876,2400,Confirmed,No,Accessible restroom available,3,2026-08-13
+SUP-0514,Northstar Transport Services 514,Transport,Noah Becker,events.0514@supplier.example,+49 30 4393307,600,Quoted,Not applicable,Step-free access confirmed,4,2026-04-04
+SUP-0515,Open Door Catering Services 515,Catering,Amira Yilmaz,events.0515@supplier.example,+49 30 9724704,9800,Under review,Yes,Ask about hearing support,5,2026-11-05
+SUP-0516,Fieldstone Furniture Services 516,Furniture,Omar Haddad,events.0516@supplier.example,+49 30 7862428,950,Requested,No,Ask about hearing support,4,2026-01-27
+SUP-0517,Silver Birch Floral Services 517,Floral,Noah Becker,events.0517@supplier.example,+49 30 1034610,250,Declined,No,Confirm ramp dimensions,5,2026-02-06
+SUP-0518,Fieldstone Venue Services 518,Venue,Clara Schmitt,events.0518@supplier.example,+49 30 6633517,600,Quoted,No,No special requirements noted,3,2026-02-02
+SUP-0519,Northstar Printing Services 519,Printing,Mila Fischer,events.0519@supplier.example,+49 30 3940245,950,Declined,Yes,Confirm ramp dimensions,4,2026-07-09
+SUP-0520,Cedar Printing Services 520,Printing,Felix Braun,events.0520@supplier.example,+49 30 9770553,2400,Declined,Not applicable,Ask about hearing support,3,2026-06-04
+SUP-0521,Cedar Audio visual Services 521,Audio visual,Sara Özdemir,events.0521@supplier.example,+49 30 9521479,2400,Declined,Not applicable,Confirm ramp dimensions,4,2026-05-25
+SUP-0522,Fieldstone Venue Services 522,Venue,Sara Özdemir,events.0522@supplier.example,+49 30 5027553,3500,Under review,No,Ask about hearing support,3,2026-08-26
+SUP-0523,Cedar Venue Services 523,Venue,Jonas Weber,events.0523@supplier.example,+49 30 6682087,9800,Quoted,Not applicable,Ask about hearing support,5,2026-09-29
+SUP-0524,Fieldstone Accessibility Services 524,Accessibility,Jonas Weber,events.0524@supplier.example,+49 30 7980039,600,Quoted,No,Confirm ramp dimensions,3,2026-09-19
+SUP-0525,Brightline Floral Services 525,Floral,Amira Yilmaz,events.0525@supplier.example,+49 30 2213101,600,Requested,No,Step-free access confirmed,3,2026-07-22
+SUP-0526,Northstar Accessibility Services 526,Accessibility,Leon Koch,events.0526@supplier.example,+49 30 7988362,600,Quoted,Not applicable,Step-free access confirmed,4,2026-09-20
+SUP-0527,Blue Oak Accessibility Services 527,Accessibility,Felix Braun,events.0527@supplier.example,+49 30 3967394,3500,Declined,Yes,Accessible restroom available,4,2026-05-25
+SUP-0528,Brightline Photography Services 528,Photography,Nina Krüger,events.0528@supplier.example,+49 30 2046075,250,Declined,Yes,Confirm ramp dimensions,5,2026-10-09
+SUP-0529,Cedar Furniture Services 529,Furniture,Mila Fischer,events.0529@supplier.example,+49 30 6050977,600,Confirmed,No,No special requirements noted,4,2026-10-31
+SUP-0530,Urban Furniture Services 530,Furniture,David Neumann,events.0530@supplier.example,+49 30 4764370,1500,Quoted,No,Ask about hearing support,3,2026-01-04
+SUP-0531,Blue Oak Photography Services 531,Photography,Mia Schulz,events.0531@supplier.example,+49 30 6594424,250,Requested,No,Step-free access confirmed,5,2026-06-24
+SUP-0532,Blue Oak Venue Services 532,Venue,Noah Becker,events.0532@supplier.example,+49 30 3028415,3500,Under review,No,Step-free access confirmed,4,2026-07-02
+SUP-0533,Silver Birch Security Services 533,Security,Lea Schneider,events.0533@supplier.example,+49 30 8510681,9800,Confirmed,Not applicable,Accessible restroom available,4,2026-08-27
+SUP-0534,Northstar Security Services 534,Security,Mia Schulz,events.0534@supplier.example,+49 30 9396848,6200,Confirmed,No,Confirm ramp dimensions,4,2026-03-01
+SUP-0535,Open Door Printing Services 535,Printing,Clara Schmitt,events.0535@supplier.example,+49 30 3096256,600,Quoted,No,No special requirements noted,4,2026-04-11
+SUP-0536,Open Door Catering Services 536,Catering,Elena Richter,events.0536@supplier.example,+49 30 7266761,9800,Declined,Yes,Step-free access confirmed,5,2026-06-11
+SUP-0537,Fieldstone Venue Services 537,Venue,Omar Haddad,events.0537@supplier.example,+49 30 9607506,6200,Declined,No,Confirm ramp dimensions,4,2026-01-18
+SUP-0538,Blue Oak Floral Services 538,Floral,Luca Hartmann,events.0538@supplier.example,+49 30 3675177,3500,Quoted,Not applicable,Accessible restroom available,4,2026-09-11
+SUP-0539,Urban Venue Services 539,Venue,Sofia Wagner,events.0539@supplier.example,+49 30 4296974,2400,Requested,Not applicable,Step-free access confirmed,3,2026-04-09
+SUP-0540,Fieldstone Furniture Services 540,Furniture,Adam Nowak,events.0540@supplier.example,+49 30 6712310,9800,Confirmed,No,Accessible restroom available,5,2026-01-17
+SUP-0541,Cedar Floral Services 541,Floral,Jonas Weber,events.0541@supplier.example,+49 30 9486084,1500,Under review,Yes,Step-free access confirmed,4,2026-11-01
+SUP-0542,Open Door Catering Services 542,Catering,Leon Koch,events.0542@supplier.example,+49 30 6840557,1500,Confirmed,Yes,Ask about hearing support,5,2026-07-01
+SUP-0543,Silver Birch Photography Services 543,Photography,Clara Schmitt,events.0543@supplier.example,+49 30 2748898,2400,Declined,Not applicable,Ask about hearing support,5,2026-04-12
+SUP-0544,Fieldstone Floral Services 544,Floral,Nina Krüger,events.0544@supplier.example,+49 30 3295234,250,Confirmed,No,Ask about hearing support,3,2026-05-21
+SUP-0545,Blue Oak Catering Services 545,Catering,Mia Schulz,events.0545@supplier.example,+49 30 4498841,1500,Quoted,Yes,Step-free access confirmed,3,2026-06-15
+SUP-0546,Blue Oak Security Services 546,Security,Omar Haddad,events.0546@supplier.example,+49 30 2891863,1500,Quoted,No,Confirm ramp dimensions,3,2026-07-03
+SUP-0547,Northstar Furniture Services 547,Furniture,Nina Krüger,events.0547@supplier.example,+49 30 6324836,600,Confirmed,No,Ask about hearing support,5,2026-06-05
+SUP-0548,Fieldstone Catering Services 548,Catering,Mila Fischer,events.0548@supplier.example,+49 30 3919408,950,Declined,Yes,Step-free access confirmed,4,2026-06-27
+SUP-0549,Silver Birch Floral Services 549,Floral,Omar Haddad,events.0549@supplier.example,+49 30 1438276,2400,Confirmed,No,Ask about hearing support,5,2026-08-24
+SUP-0550,Silver Birch Venue Services 550,Venue,Sofia Wagner,events.0550@supplier.example,+49 30 9425634,2400,Under review,No,No special requirements noted,5,2026-03-06
+SUP-0551,Cedar Printing Services 551,Printing,Luca Hartmann,events.0551@supplier.example,+49 30 9261397,600,Under review,Not applicable,No special requirements noted,4,2026-01-22
+SUP-0552,Brightline Catering Services 552,Catering,Leon Koch,events.0552@supplier.example,+49 30 7227646,950,Requested,Not applicable,Accessible restroom available,4,2026-01-04
+SUP-0553,Brightline Furniture Services 553,Furniture,David Neumann,events.0553@supplier.example,+49 30 1184291,2400,Under review,No,Confirm ramp dimensions,3,2026-10-04
+SUP-0554,Brightline Photography Services 554,Photography,Lea Schneider,events.0554@supplier.example,+49 30 3165549,1500,Requested,Yes,No special requirements noted,3,2026-11-13
+SUP-0555,Cedar Security Services 555,Security,Leon Koch,events.0555@supplier.example,+49 30 1133531,3500,Quoted,No,Ask about hearing support,4,2026-06-21
+SUP-0556,Open Door Catering Services 556,Catering,Clara Schmitt,events.0556@supplier.example,+49 30 7141028,600,Under review,No,Ask about hearing support,3,2026-03-12
+SUP-0557,Fieldstone Photography Services 557,Photography,Sofia Wagner,events.0557@supplier.example,+49 30 6520578,2400,Requested,Not applicable,Confirm ramp dimensions,5,2026-08-10
+SUP-0558,Open Door Photography Services 558,Photography,Mila Fischer,events.0558@supplier.example,+49 30 4019717,2400,Confirmed,No,Ask about hearing support,5,2026-04-26
+SUP-0559,Silver Birch Transport Services 559,Transport,Lea Schneider,events.0559@supplier.example,+49 30 2843133,1500,Under review,Yes,Step-free access confirmed,5,2026-08-17
+SUP-0560,Cedar Venue Services 560,Venue,Omar Haddad,events.0560@supplier.example,+49 30 2638855,6200,Declined,Not applicable,Step-free access confirmed,4,2026-11-13
+SUP-0561,Urban Photography Services 561,Photography,Luca Hartmann,events.0561@supplier.example,+49 30 4397305,9800,Under review,Not applicable,No special requirements noted,3,2026-01-01
+SUP-0562,Silver Birch Venue Services 562,Venue,Emil Hoffmann,events.0562@supplier.example,+49 30 7307143,9800,Quoted,No,Confirm ramp dimensions,5,2026-07-13
+SUP-0563,Cedar Audio visual Services 563,Audio visual,Elena Richter,events.0563@supplier.example,+49 30 2003761,600,Declined,No,Confirm ramp dimensions,5,2026-10-01
+SUP-0564,Blue Oak Venue Services 564,Venue,Nina Krüger,events.0564@supplier.example,+49 30 5990618,950,Requested,Not applicable,No special requirements noted,4,2026-09-27
+SUP-0565,Northstar Furniture Services 565,Furniture,Luca Hartmann,events.0565@supplier.example,+49 30 8252068,950,Quoted,Not applicable,Accessible restroom available,4,2026-08-22
+SUP-0566,Brightline Audio visual Services 566,Audio visual,Lea Schneider,events.0566@supplier.example,+49 30 6205884,950,Requested,Not applicable,No special requirements noted,5,2026-04-17
+SUP-0567,Cedar Transport Services 567,Transport,Nina Krüger,events.0567@supplier.example,+49 30 8870433,3500,Requested,Yes,Ask about hearing support,5,2026-01-21
+SUP-0568,Blue Oak Venue Services 568,Venue,Noah Becker,events.0568@supplier.example,+49 30 5427142,9800,Requested,Not applicable,Accessible restroom available,5,2026-02-06
+SUP-0569,Fieldstone Floral Services 569,Floral,Nina Krüger,events.0569@supplier.example,+49 30 2616336,950,Requested,Yes,Step-free access confirmed,5,2026-06-07
+SUP-0570,Brightline Venue Services 570,Venue,David Neumann,events.0570@supplier.example,+49 30 6082966,2400,Under review,No,Ask about hearing support,5,2026-07-27
+SUP-0571,Urban Catering Services 571,Catering,Paul Wolf,events.0571@supplier.example,+49 30 9592251,250,Requested,Not applicable,Confirm ramp dimensions,3,2026-03-05
+SUP-0572,Cedar Furniture Services 572,Furniture,Paul Wolf,events.0572@supplier.example,+49 30 5194366,600,Under review,Not applicable,Confirm ramp dimensions,5,2026-04-19
+SUP-0573,Cedar Photography Services 573,Photography,Leon Koch,events.0573@supplier.example,+49 30 9990095,3500,Under review,Not applicable,Ask about hearing support,4,2026-11-15
+SUP-0574,Cedar Accessibility Services 574,Accessibility,Clara Schmitt,events.0574@supplier.example,+49 30 8659165,6200,Requested,No,Step-free access confirmed,5,2026-05-05
+SUP-0575,Open Door Printing Services 575,Printing,Elena Richter,events.0575@supplier.example,+49 30 5038532,3500,Requested,Not applicable,No special requirements noted,3,2026-03-16
+SUP-0576,Northstar Floral Services 576,Floral,Mia Schulz,events.0576@supplier.example,+49 30 5338497,950,Confirmed,Not applicable,Ask about hearing support,5,2026-10-15
+SUP-0577,Brightline Transport Services 577,Transport,Omar Haddad,events.0577@supplier.example,+49 30 1024826,1500,Under review,Not applicable,No special requirements noted,3,2026-05-29
+SUP-0578,Fieldstone Security Services 578,Security,Hannah Lange,events.0578@supplier.example,+49 30 8077941,9800,Requested,No,Accessible restroom available,4,2026-01-25
+SUP-0579,Urban Printing Services 579,Printing,Hannah Lange,events.0579@supplier.example,+49 30 5964038,9800,Under review,No,Confirm ramp dimensions,4,2026-11-12
+SUP-0580,Silver Birch Transport Services 580,Transport,Luca Hartmann,events.0580@supplier.example,+49 30 1520931,1500,Declined,No,Accessible restroom available,4,2026-08-06
+SUP-0581,Urban Catering Services 581,Catering,Omar Haddad,events.0581@supplier.example,+49 30 6283890,950,Quoted,No,Accessible restroom available,3,2026-05-14
+SUP-0582,Brightline Catering Services 582,Catering,Mila Fischer,events.0582@supplier.example,+49 30 7786203,600,Declined,Not applicable,Step-free access confirmed,4,2026-09-21
+SUP-0583,Brightline Transport Services 583,Transport,Elena Richter,events.0583@supplier.example,+49 30 6059347,950,Requested,Not applicable,Accessible restroom available,5,2026-04-23
+SUP-0584,Cedar Photography Services 584,Photography,Hannah Lange,events.0584@supplier.example,+49 30 2723938,250,Quoted,No,Step-free access confirmed,5,2026-07-07
+SUP-0585,Northstar Photography Services 585,Photography,Felix Braun,events.0585@supplier.example,+49 30 3293452,9800,Declined,Yes,No special requirements noted,5,2026-02-16
+SUP-0586,Cedar Security Services 586,Security,Leon Koch,events.0586@supplier.example,+49 30 3774748,3500,Declined,No,Confirm ramp dimensions,4,2026-08-30
+SUP-0587,Silver Birch Transport Services 587,Transport,Jonas Weber,events.0587@supplier.example,+49 30 2664991,9800,Requested,No,Confirm ramp dimensions,3,2026-03-26
+SUP-0588,Brightline Furniture Services 588,Furniture,Jonas Weber,events.0588@supplier.example,+49 30 3598137,6200,Declined,Yes,Confirm ramp dimensions,3,2026-10-12
+SUP-0589,Fieldstone Security Services 589,Security,Luca Hartmann,events.0589@supplier.example,+49 30 2498998,950,Under review,Yes,No special requirements noted,3,2026-07-06
+SUP-0590,Open Door Printing Services 590,Printing,Nina Krüger,events.0590@supplier.example,+49 30 5507315,250,Declined,No,No special requirements noted,5,2026-06-10
+SUP-0591,Blue Oak Accessibility Services 591,Accessibility,Sofia Wagner,events.0591@supplier.example,+49 30 2474475,1500,Under review,Yes,No special requirements noted,3,2026-08-16
+SUP-0592,Open Door Accessibility Services 592,Accessibility,Amira Yilmaz,events.0592@supplier.example,+49 30 2082638,1500,Requested,Yes,Ask about hearing support,5,2026-06-21
+SUP-0593,Urban Security Services 593,Security,Paul Wolf,events.0593@supplier.example,+49 30 1327311,250,Requested,Not applicable,No special requirements noted,5,2026-10-22
+SUP-0594,Blue Oak Photography Services 594,Photography,Leon Koch,events.0594@supplier.example,+49 30 4893374,9800,Quoted,No,Confirm ramp dimensions,5,2026-05-02
+SUP-0595,Fieldstone Catering Services 595,Catering,Clara Schmitt,events.0595@supplier.example,+49 30 6790026,250,Requested,Not applicable,Accessible restroom available,3,2026-08-04
+SUP-0596,Urban Transport Services 596,Transport,Adam Nowak,events.0596@supplier.example,+49 30 3173295,2400,Under review,Yes,Ask about hearing support,3,2026-03-18
+SUP-0597,Fieldstone Security Services 597,Security,Omar Haddad,events.0597@supplier.example,+49 30 9959717,6200,Requested,Yes,Accessible restroom available,4,2026-05-06
+SUP-0598,Blue Oak Venue Services 598,Venue,David Neumann,events.0598@supplier.example,+49 30 5742498,6200,Declined,Not applicable,No special requirements noted,4,2026-03-17
+SUP-0599,Northstar Accessibility Services 599,Accessibility,Sofia Wagner,events.0599@supplier.example,+49 30 9140234,950,Under review,Not applicable,Accessible restroom available,3,2026-01-01
+SUP-0600,Urban Venue Services 600,Venue,Nina Krüger,events.0600@supplier.example,+49 30 7139947,9800,Confirmed,Not applicable,Confirm ramp dimensions,4,2026-02-18

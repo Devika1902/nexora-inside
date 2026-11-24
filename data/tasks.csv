@@ -1,651 +1,651 @@
-﻿id,task,workstream,owner,due_date,priority,status,related_id
-TASK-0001,Review newsletter draft,HR marketing,Mila Wolf,2026-01-06,Normal,Waiting,EVT-0002
-TASK-0002,Collect department highlights,Newsletter,Elias Hoffmann,2026-01-11,Normal,Done,EVT-0003
-TASK-0003,Approve event invitation,Intranet,Zara Koch,2026-01-16,High,To do,EVT-0004
-TASK-0004,Reconcile supplier invoice,Governance,Luca Weber,2026-01-21,Normal,Done,EVT-0005
-TASK-0005,Publish intranet announcement,HR marketing,Freya Richter,2026-01-26,High,Done,EVT-0006
-TASK-0006,Prepare registration form,HR marketing,Theo Schmidt,2026-01-31,Low,In progress,EVT-0007
-TASK-0007,Confirm catering numbers,Intranet,Nina Schulz,2026-02-05,Normal,To do,EVT-0008
-TASK-0008,Share post-event survey,Newsletter,Ava Bauer,2026-02-10,Normal,In progress,EVT-0009
-TASK-0009,Update HR information page,HR marketing,Emil Meyer,2026-02-15,Normal,In progress,EVT-0010
-TASK-0010,Check AV equipment,HR marketing,Maya Keller,2026-02-20,Normal,Waiting,EVT-0011
-TASK-0011,Prepare leadership talking points,Newsletter,Felix Becker,2026-02-25,Normal,To do,EVT-0012
-TASK-0012,Send calendar hold,Newsletter,Ines Braun,2026-03-02,Normal,To do,EVT-0013
-TASK-0013,Review careers brochure,Intranet,David Wagner,2026-03-07,Low,In progress,EVT-0014
-TASK-0014,Request accessibility requirements,HR marketing,Clara Neumann,2026-03-12,Normal,In progress,EVT-0015
-TASK-0015,Archive approved assets,Intranet,Amira Fischer,2026-03-17,Low,In progress,EVT-0016
-TASK-0016,Confirm venue availability,Newsletter,Jonas Wolf,2026-03-22,Low,Done,EVT-0017
-TASK-0017,Review newsletter draft,Newsletter,Lea Hoffmann,2026-03-27,High,Waiting,EVT-0018
-TASK-0018,Collect department highlights,Newsletter,Mateo Koch,2026-04-01,Low,In progress,EVT-0019
-TASK-0019,Approve event invitation,HR marketing,Sofia Weber,2026-04-06,Normal,In progress,EVT-0020
-TASK-0020,Reconcile supplier invoice,Governance,Noah Richter,2026-04-11,Normal,To do,EVT-0021
-TASK-0021,Publish intranet announcement,HR marketing,Mila Schmidt,2026-04-16,Low,In progress,EVT-0022
-TASK-0022,Prepare registration form,Newsletter,Elias Schulz,2026-04-21,Low,In progress,EVT-0023
-TASK-0023,Confirm catering numbers,Newsletter,Zara Bauer,2026-04-26,Normal,Waiting,EVT-0024
-TASK-0024,Share post-event survey,Intranet,Luca Meyer,2026-05-01,High,Done,EVT-0025
-TASK-0025,Update HR information page,HR marketing,Freya Keller,2026-05-06,High,Waiting,EVT-0026
-TASK-0026,Check AV equipment,HR marketing,Theo Becker,2026-05-11,High,Done,EVT-0027
-TASK-0027,Prepare leadership talking points,Governance,Nina Braun,2026-05-16,Normal,To do,EVT-0028
-TASK-0028,Send calendar hold,Internal event,Ava Wagner,2026-05-21,Low,Done,EVT-0029
-TASK-0029,Review careers brochure,Internal event,Emil Neumann,2026-05-26,Normal,In progress,EVT-0030
-TASK-0030,Request accessibility requirements,Internal event,Maya Fischer,2026-05-31,High,To do,EVT-0031
-TASK-0031,Archive approved assets,HR marketing,Felix Wolf,2026-06-05,Normal,To do,EVT-0032
-TASK-0032,Confirm venue availability,HR marketing,Ines Hoffmann,2026-06-10,Normal,Waiting,EVT-0033
-TASK-0033,Review newsletter draft,Intranet,David Koch,2026-06-15,High,Waiting,EVT-0034
-TASK-0034,Collect department highlights,Governance,Clara Weber,2026-06-20,High,In progress,EVT-0035
-TASK-0035,Approve event invitation,Intranet,Amira Richter,2026-06-25,Normal,Waiting,EVT-0036
-TASK-0036,Reconcile supplier invoice,Internal event,Jonas Schmidt,2026-06-30,Normal,To do,EVT-0037
-TASK-0037,Publish intranet announcement,Governance,Lea Schulz,2026-07-05,Low,Done,EVT-0038
-TASK-0038,Prepare registration form,Intranet,Mateo Bauer,2026-07-10,High,Waiting,EVT-0039
-TASK-0039,Confirm catering numbers,Governance,Sofia Meyer,2026-07-15,High,Done,EVT-0040
-TASK-0040,Share post-event survey,Newsletter,Noah Keller,2026-07-20,High,Done,EVT-0041
-TASK-0041,Update HR information page,Internal event,Mila Becker,2026-07-25,Normal,Waiting,EVT-0042
-TASK-0042,Check AV equipment,Newsletter,Elias Braun,2026-07-30,High,Done,EVT-0043
-TASK-0043,Prepare leadership talking points,Governance,Zara Wagner,2026-08-04,Low,In progress,EVT-0044
-TASK-0044,Send calendar hold,Newsletter,Luca Neumann,2026-08-09,Normal,In progress,EVT-0045
-TASK-0045,Review careers brochure,Internal event,Freya Fischer,2026-08-14,Low,Done,EVT-0046
-TASK-0046,Request accessibility requirements,Intranet,Theo Wolf,2026-08-19,Low,In progress,EVT-0047
-TASK-0047,Archive approved assets,Governance,Nina Hoffmann,2026-08-24,Normal,Done,EVT-0048
-TASK-0048,Confirm venue availability,Governance,Ava Koch,2026-08-29,Normal,In progress,EVT-0049
-TASK-0049,Review newsletter draft,Internal event,Emil Weber,2026-09-03,Low,To do,EVT-0050
-TASK-0050,Collect department highlights,Governance,Maya Richter,2026-09-08,Low,To do,EVT-0051
-TASK-0051,Approve event invitation,HR marketing,Felix Schmidt,2026-09-13,Low,To do,EVT-0052
-TASK-0052,Reconcile supplier invoice,Internal event,Ines Schulz,2026-09-18,Normal,In progress,EVT-0053
-TASK-0053,Publish intranet announcement,Internal event,David Bauer,2026-09-23,Normal,Done,EVT-0054
-TASK-0054,Prepare registration form,Internal event,Clara Meyer,2026-09-28,Normal,To do,EVT-0055
-TASK-0055,Confirm catering numbers,Governance,Amira Keller,2026-10-03,Low,Done,EVT-0056
-TASK-0056,Share post-event survey,HR marketing,Jonas Becker,2026-10-08,Normal,Done,EVT-0057
-TASK-0057,Update HR information page,Intranet,Lea Braun,2026-10-13,High,Waiting,EVT-0058
-TASK-0058,Check AV equipment,Internal event,Mateo Wagner,2026-10-18,Normal,To do,EVT-0059
-TASK-0059,Prepare leadership talking points,Internal event,Sofia Neumann,2026-10-23,High,In progress,EVT-0060
-TASK-0060,Send calendar hold,Internal event,Noah Fischer,2026-10-28,Low,In progress,EVT-0061
-TASK-0061,Review careers brochure,HR marketing,Mila Wolf,2026-11-02,Normal,Waiting,EVT-0062
-TASK-0062,Request accessibility requirements,Internal event,Elias Hoffmann,2026-11-07,Low,Done,EVT-0063
-TASK-0063,Archive approved assets,Intranet,Zara Koch,2026-11-12,Low,Done,EVT-0064
-TASK-0064,Confirm venue availability,HR marketing,Luca Weber,2026-11-17,Low,In progress,EVT-0065
-TASK-0065,Review newsletter draft,Governance,Freya Richter,2026-11-22,Normal,Waiting,EVT-0066
-TASK-0066,Collect department highlights,Internal event,Theo Schmidt,2026-11-27,Normal,To do,EVT-0067
-TASK-0067,Approve event invitation,Governance,Nina Schulz,2026-12-02,Normal,To do,EVT-0068
-TASK-0068,Reconcile supplier invoice,HR marketing,Ava Bauer,2026-12-07,Normal,Waiting,EVT-0069
-TASK-0069,Publish intranet announcement,Governance,Emil Meyer,2026-12-12,Normal,In progress,EVT-0070
-TASK-0070,Prepare registration form,Internal event,Maya Keller,2026-12-17,Normal,In progress,EVT-0071
-TASK-0071,Confirm catering numbers,Internal event,Felix Becker,2026-12-22,Normal,Waiting,EVT-0072
-TASK-0072,Share post-event survey,Intranet,Ines Braun,2026-12-27,Normal,In progress,EVT-0073
-TASK-0073,Update HR information page,Newsletter,David Wagner,2026-01-01,High,To do,EVT-0074
-TASK-0074,Check AV equipment,Newsletter,Clara Neumann,2026-01-06,Normal,To do,EVT-0075
-TASK-0075,Prepare leadership talking points,Governance,Amira Fischer,2026-01-11,Normal,Waiting,EVT-0076
-TASK-0076,Send calendar hold,Newsletter,Jonas Wolf,2026-01-16,Normal,Waiting,EVT-0077
-TASK-0077,Review careers brochure,Newsletter,Lea Hoffmann,2026-01-21,Normal,To do,EVT-0078
-TASK-0078,Request accessibility requirements,Newsletter,Mateo Koch,2026-01-26,Normal,Waiting,EVT-0079
-TASK-0079,Archive approved assets,Intranet,Sofia Weber,2026-01-31,Normal,To do,EVT-0080
-TASK-0080,Confirm venue availability,Intranet,Noah Richter,2026-02-05,Normal,To do,EVT-0081
-TASK-0081,Review newsletter draft,Governance,Mila Schmidt,2026-02-10,Normal,Waiting,EVT-0082
-TASK-0082,Collect department highlights,HR marketing,Elias Schulz,2026-02-15,Low,In progress,EVT-0083
-TASK-0083,Approve event invitation,HR marketing,Zara Bauer,2026-02-20,Low,To do,EVT-0084
-TASK-0084,Reconcile supplier invoice,HR marketing,Luca Meyer,2026-02-25,High,In progress,EVT-0085
-TASK-0085,Publish intranet announcement,Newsletter,Freya Keller,2026-03-02,High,In progress,EVT-0086
-TASK-0086,Prepare registration form,HR marketing,Theo Becker,2026-03-07,Normal,Waiting,EVT-0087
-TASK-0087,Confirm catering numbers,Newsletter,Nina Braun,2026-03-12,Normal,In progress,EVT-0088
-TASK-0088,Share post-event survey,Newsletter,Ava Wagner,2026-03-17,Low,In progress,EVT-0089
-TASK-0089,Update HR information page,Governance,Emil Neumann,2026-03-22,Normal,Done,EVT-0090
-TASK-0090,Check AV equipment,HR marketing,Maya Fischer,2026-03-27,Low,Done,EVT-0091
-TASK-0091,Prepare leadership talking points,Intranet,Felix Wolf,2026-04-01,Normal,Waiting,EVT-0092
-TASK-0092,Send calendar hold,Newsletter,Ines Hoffmann,2026-04-06,High,In progress,EVT-0093
-TASK-0093,Review careers brochure,Governance,David Koch,2026-04-11,Normal,In progress,EVT-0094
-TASK-0094,Request accessibility requirements,Governance,Clara Weber,2026-04-16,High,To do,EVT-0095
-TASK-0095,Archive approved assets,Intranet,Amira Richter,2026-04-21,Normal,To do,EVT-0096
-TASK-0096,Confirm venue availability,Newsletter,Jonas Schmidt,2026-04-26,Normal,To do,EVT-0097
-TASK-0097,Review newsletter draft,HR marketing,Lea Schulz,2026-05-01,Low,Done,EVT-0098
-TASK-0098,Collect department highlights,Governance,Mateo Bauer,2026-05-06,Low,In progress,EVT-0099
-TASK-0099,Approve event invitation,Newsletter,Sofia Meyer,2026-05-11,High,Done,EVT-0100
-TASK-0100,Reconcile supplier invoice,Internal event,Noah Keller,2026-05-16,High,Done,EVT-0101
-TASK-0101,Publish intranet announcement,HR marketing,Mila Becker,2026-05-21,Normal,In progress,EVT-0102
-TASK-0102,Prepare registration form,Intranet,Elias Braun,2026-05-26,Normal,Waiting,EVT-0103
-TASK-0103,Confirm catering numbers,Intranet,Zara Wagner,2026-05-31,Low,To do,EVT-0104
-TASK-0104,Share post-event survey,Intranet,Luca Neumann,2026-06-05,Normal,In progress,EVT-0105
-TASK-0105,Update HR information page,Governance,Freya Fischer,2026-06-10,Normal,Done,EVT-0106
-TASK-0106,Check AV equipment,Newsletter,Theo Wolf,2026-06-15,High,In progress,EVT-0107
-TASK-0107,Prepare leadership talking points,Intranet,Nina Hoffmann,2026-06-20,Normal,Waiting,EVT-0108
-TASK-0108,Send calendar hold,Newsletter,Ava Koch,2026-06-25,High,Waiting,EVT-0109
-TASK-0109,Review careers brochure,Newsletter,Emil Weber,2026-06-30,Normal,To do,EVT-0110
-TASK-0110,Request accessibility requirements,HR marketing,Maya Richter,2026-07-05,Normal,In progress,EVT-0111
-TASK-0111,Archive approved assets,HR marketing,Felix Schmidt,2026-07-10,Normal,Waiting,EVT-0112
-TASK-0112,Confirm venue availability,Governance,Ines Schulz,2026-07-15,High,In progress,EVT-0113
-TASK-0113,Review newsletter draft,Newsletter,David Bauer,2026-07-20,Normal,In progress,EVT-0114
-TASK-0114,Collect department highlights,Newsletter,Clara Meyer,2026-07-25,Normal,Waiting,EVT-0115
-TASK-0115,Approve event invitation,HR marketing,Amira Keller,2026-07-30,Normal,Done,EVT-0116
-TASK-0116,Reconcile supplier invoice,HR marketing,Jonas Becker,2026-08-04,Normal,In progress,EVT-0117
-TASK-0117,Publish intranet announcement,Newsletter,Lea Braun,2026-08-09,High,In progress,EVT-0118
-TASK-0118,Prepare registration form,Governance,Mateo Wagner,2026-08-14,Normal,Waiting,EVT-0119
-TASK-0119,Confirm catering numbers,Governance,Sofia Neumann,2026-08-19,Low,In progress,EVT-0120
-TASK-0120,Share post-event survey,Intranet,Noah Fischer,2026-08-24,High,Done,EVT-0121
-TASK-0121,Update HR information page,Newsletter,Mila Wolf,2026-08-29,Normal,In progress,EVT-0122
-TASK-0122,Check AV equipment,Intranet,Elias Hoffmann,2026-09-03,Normal,Done,EVT-0123
-TASK-0123,Prepare leadership talking points,HR marketing,Zara Koch,2026-09-08,Normal,To do,EVT-0124
-TASK-0124,Send calendar hold,HR marketing,Luca Weber,2026-09-13,Normal,To do,EVT-0125
-TASK-0125,Review careers brochure,Governance,Freya Richter,2026-09-18,Normal,Done,EVT-0126
-TASK-0126,Request accessibility requirements,Governance,Theo Schmidt,2026-09-23,Normal,Done,EVT-0127
-TASK-0127,Archive approved assets,HR marketing,Nina Schulz,2026-09-28,Normal,Done,EVT-0128
-TASK-0128,Confirm venue availability,Internal event,Ava Bauer,2026-10-03,Normal,In progress,EVT-0129
-TASK-0129,Review newsletter draft,Intranet,Emil Meyer,2026-10-08,Normal,In progress,EVT-0130
-TASK-0130,Collect department highlights,Internal event,Maya Keller,2026-10-13,Normal,In progress,EVT-0131
-TASK-0131,Approve event invitation,HR marketing,Felix Becker,2026-10-18,Normal,In progress,EVT-0132
-TASK-0132,Reconcile supplier invoice,Internal event,Ines Braun,2026-10-23,High,In progress,EVT-0133
-TASK-0133,Publish intranet announcement,Internal event,David Wagner,2026-10-28,Normal,To do,EVT-0134
-TASK-0134,Prepare registration form,Intranet,Clara Neumann,2026-11-02,Normal,Waiting,EVT-0135
-TASK-0135,Confirm catering numbers,HR marketing,Amira Fischer,2026-11-07,Normal,In progress,EVT-0136
-TASK-0136,Share post-event survey,Internal event,Jonas Wolf,2026-11-12,Normal,In progress,EVT-0137
-TASK-0137,Update HR information page,HR marketing,Lea Hoffmann,2026-11-17,Normal,Done,EVT-0138
-TASK-0138,Check AV equipment,Intranet,Mateo Koch,2026-11-22,Normal,Done,EVT-0139
-TASK-0139,Prepare leadership talking points,Intranet,Sofia Weber,2026-11-27,Low,Done,EVT-0140
-TASK-0140,Send calendar hold,Governance,Noah Richter,2026-12-02,Low,Done,EVT-0141
-TASK-0141,Review careers brochure,HR marketing,Mila Schmidt,2026-12-07,Low,In progress,EVT-0142
-TASK-0142,Request accessibility requirements,Newsletter,Elias Schulz,2026-12-12,Normal,In progress,EVT-0143
-TASK-0143,Archive approved assets,Governance,Zara Bauer,2026-12-17,Normal,In progress,EVT-0144
-TASK-0144,Confirm venue availability,Intranet,Luca Meyer,2026-12-22,Normal,In progress,EVT-0145
-TASK-0145,Review newsletter draft,Intranet,Freya Keller,2026-12-27,High,In progress,EVT-0146
-TASK-0146,Collect department highlights,Governance,Theo Becker,2026-01-01,Normal,In progress,EVT-0147
-TASK-0147,Approve event invitation,Governance,Nina Braun,2026-01-06,Normal,In progress,EVT-0148
-TASK-0148,Reconcile supplier invoice,Newsletter,Ava Wagner,2026-01-11,Normal,In progress,EVT-0149
-TASK-0149,Publish intranet announcement,Internal event,Emil Neumann,2026-01-16,Normal,Waiting,EVT-0150
-TASK-0150,Prepare registration form,Newsletter,Maya Fischer,2026-01-21,Normal,To do,EVT-0151
-TASK-0151,Confirm catering numbers,Internal event,Felix Wolf,2026-01-26,Low,In progress,EVT-0152
-TASK-0152,Share post-event survey,Intranet,Ines Hoffmann,2026-01-31,High,In progress,EVT-0153
-TASK-0153,Update HR information page,Internal event,David Koch,2026-02-05,High,In progress,EVT-0154
-TASK-0154,Check AV equipment,Internal event,Clara Weber,2026-02-10,High,Waiting,EVT-0155
-TASK-0155,Prepare leadership talking points,HR marketing,Amira Richter,2026-02-15,High,Waiting,EVT-0156
-TASK-0156,Send calendar hold,Internal event,Jonas Schmidt,2026-02-20,High,Waiting,EVT-0157
-TASK-0157,Review careers brochure,Intranet,Lea Schulz,2026-02-25,Normal,Waiting,EVT-0158
-TASK-0158,Request accessibility requirements,Newsletter,Mateo Bauer,2026-03-02,High,Done,EVT-0159
-TASK-0159,Archive approved assets,Internal event,Sofia Meyer,2026-03-07,Normal,In progress,EVT-0160
-TASK-0160,Confirm venue availability,HR marketing,Noah Keller,2026-03-12,High,To do,EVT-0161
-TASK-0161,Review newsletter draft,Newsletter,Mila Becker,2026-03-17,Low,In progress,EVT-0162
-TASK-0162,Collect department highlights,Internal event,Elias Braun,2026-03-22,Normal,In progress,EVT-0163
-TASK-0163,Approve event invitation,Newsletter,Zara Wagner,2026-03-27,Normal,Waiting,EVT-0164
-TASK-0164,Reconcile supplier invoice,Newsletter,Luca Neumann,2026-04-01,Normal,To do,EVT-0165
-TASK-0165,Publish intranet announcement,Intranet,Freya Fischer,2026-04-06,Normal,To do,EVT-0166
-TASK-0166,Prepare registration form,Governance,Theo Wolf,2026-04-11,Normal,To do,EVT-0167
-TASK-0167,Confirm catering numbers,Intranet,Nina Hoffmann,2026-04-16,Low,Done,EVT-0168
-TASK-0168,Share post-event survey,Newsletter,Ava Koch,2026-04-21,Normal,In progress,EVT-0169
-TASK-0169,Update HR information page,Internal event,Emil Weber,2026-04-26,High,In progress,EVT-0170
-TASK-0170,Check AV equipment,Internal event,Maya Richter,2026-05-01,Normal,Done,EVT-0171
-TASK-0171,Prepare leadership talking points,HR marketing,Felix Schmidt,2026-05-06,Normal,To do,EVT-0172
-TASK-0172,Send calendar hold,HR marketing,Ines Schulz,2026-05-11,Normal,To do,EVT-0173
-TASK-0173,Review careers brochure,Internal event,David Bauer,2026-05-16,Normal,Waiting,EVT-0174
-TASK-0174,Request accessibility requirements,Intranet,Clara Meyer,2026-05-21,Low,In progress,EVT-0175
-TASK-0175,Archive approved assets,Governance,Amira Keller,2026-05-26,High,To do,EVT-0176
-TASK-0176,Confirm venue availability,HR marketing,Jonas Becker,2026-05-31,High,To do,EVT-0177
-TASK-0177,Review newsletter draft,HR marketing,Lea Braun,2026-06-05,High,Done,EVT-0178
-TASK-0178,Collect department highlights,Governance,Mateo Wagner,2026-06-10,Low,Done,EVT-0179
-TASK-0179,Approve event invitation,HR marketing,Sofia Neumann,2026-06-15,Normal,In progress,EVT-0180
-TASK-0180,Reconcile supplier invoice,Newsletter,Noah Fischer,2026-06-20,High,Waiting,EVT-0181
-TASK-0181,Publish intranet announcement,Newsletter,Mila Wolf,2026-06-25,Low,Done,EVT-0182
-TASK-0182,Prepare registration form,Governance,Elias Hoffmann,2026-06-30,High,Waiting,EVT-0183
-TASK-0183,Confirm catering numbers,HR marketing,Zara Koch,2026-07-05,Normal,Done,EVT-0184
-TASK-0184,Share post-event survey,Newsletter,Luca Weber,2026-07-10,High,In progress,EVT-0185
-TASK-0185,Update HR information page,Governance,Freya Richter,2026-07-15,Normal,Done,EVT-0186
-TASK-0186,Check AV equipment,HR marketing,Theo Schmidt,2026-07-20,Low,Waiting,EVT-0187
-TASK-0187,Prepare leadership talking points,Internal event,Nina Schulz,2026-07-25,Normal,Waiting,EVT-0188
-TASK-0188,Send calendar hold,Newsletter,Ava Bauer,2026-07-30,Low,Done,EVT-0189
-TASK-0189,Review careers brochure,Newsletter,Emil Meyer,2026-08-04,High,In progress,EVT-0190
-TASK-0190,Request accessibility requirements,Internal event,Maya Keller,2026-08-09,High,To do,EVT-0191
-TASK-0191,Archive approved assets,Newsletter,Felix Becker,2026-08-14,Normal,To do,EVT-0192
-TASK-0192,Confirm venue availability,Newsletter,Ines Braun,2026-08-19,Low,To do,EVT-0193
-TASK-0193,Review newsletter draft,Governance,David Wagner,2026-08-24,High,Done,EVT-0194
-TASK-0194,Collect department highlights,Newsletter,Clara Neumann,2026-08-29,High,Done,EVT-0195
-TASK-0195,Approve event invitation,HR marketing,Amira Fischer,2026-09-03,Low,In progress,EVT-0196
-TASK-0196,Reconcile supplier invoice,Internal event,Jonas Wolf,2026-09-08,Normal,To do,EVT-0197
-TASK-0197,Publish intranet announcement,Governance,Lea Hoffmann,2026-09-13,Low,Done,EVT-0198
-TASK-0198,Prepare registration form,Governance,Mateo Koch,2026-09-18,High,In progress,EVT-0199
-TASK-0199,Confirm catering numbers,HR marketing,Sofia Weber,2026-09-23,Normal,In progress,EVT-0200
-TASK-0200,Share post-event survey,Intranet,Noah Richter,2026-09-28,Low,Done,EVT-0201
-TASK-0201,Update HR information page,Intranet,Mila Schmidt,2026-10-03,High,Done,EVT-0202
-TASK-0202,Check AV equipment,Internal event,Elias Schulz,2026-10-08,Normal,To do,EVT-0203
-TASK-0203,Prepare leadership talking points,HR marketing,Zara Bauer,2026-10-13,Normal,Done,EVT-0204
-TASK-0204,Send calendar hold,Governance,Luca Meyer,2026-10-18,Low,To do,EVT-0205
-TASK-0205,Review careers brochure,Newsletter,Freya Keller,2026-10-23,Normal,In progress,EVT-0206
-TASK-0206,Request accessibility requirements,Governance,Theo Becker,2026-10-28,High,In progress,EVT-0207
-TASK-0207,Archive approved assets,Newsletter,Nina Braun,2026-11-02,Low,To do,EVT-0208
-TASK-0208,Confirm venue availability,Governance,Ava Wagner,2026-11-07,Low,Done,EVT-0209
-TASK-0209,Review newsletter draft,Intranet,Emil Neumann,2026-11-12,Normal,Done,EVT-0210
-TASK-0210,Collect department highlights,HR marketing,Maya Fischer,2026-11-17,High,In progress,EVT-0211
-TASK-0211,Approve event invitation,Intranet,Felix Wolf,2026-11-22,Normal,Waiting,EVT-0212
-TASK-0212,Reconcile supplier invoice,Internal event,Ines Hoffmann,2026-11-27,Normal,Waiting,EVT-0213
-TASK-0213,Publish intranet announcement,Newsletter,David Koch,2026-12-02,High,To do,EVT-0214
-TASK-0214,Prepare registration form,Intranet,Clara Weber,2026-12-07,High,In progress,EVT-0215
-TASK-0215,Confirm catering numbers,Internal event,Amira Richter,2026-12-12,Normal,Waiting,EVT-0216
-TASK-0216,Share post-event survey,Intranet,Jonas Schmidt,2026-12-17,Normal,In progress,EVT-0217
-TASK-0217,Update HR information page,HR marketing,Lea Schulz,2026-12-22,Low,In progress,EVT-0218
-TASK-0218,Check AV equipment,Newsletter,Mateo Bauer,2026-12-27,Low,To do,EVT-0219
-TASK-0219,Prepare leadership talking points,Governance,Sofia Meyer,2026-01-01,Low,In progress,EVT-0220
-TASK-0220,Send calendar hold,Governance,Noah Keller,2026-01-06,Low,Done,EVT-0221
-TASK-0221,Review careers brochure,Governance,Mila Becker,2026-01-11,Low,Done,EVT-0222
-TASK-0222,Request accessibility requirements,Newsletter,Elias Braun,2026-01-16,High,In progress,EVT-0223
-TASK-0223,Archive approved assets,Internal event,Zara Wagner,2026-01-21,Normal,Done,EVT-0224
-TASK-0224,Confirm venue availability,Internal event,Luca Neumann,2026-01-26,Low,In progress,EVT-0225
-TASK-0225,Review newsletter draft,HR marketing,Freya Fischer,2026-01-31,High,To do,EVT-0226
-TASK-0226,Collect department highlights,Newsletter,Theo Wolf,2026-02-05,Low,Waiting,EVT-0227
-TASK-0227,Approve event invitation,HR marketing,Nina Hoffmann,2026-02-10,Low,In progress,EVT-0228
-TASK-0228,Reconcile supplier invoice,Intranet,Ava Koch,2026-02-15,Normal,Waiting,EVT-0229
-TASK-0229,Publish intranet announcement,Intranet,Emil Weber,2026-02-20,Normal,Done,EVT-0230
-TASK-0230,Prepare registration form,Governance,Maya Richter,2026-02-25,Normal,To do,EVT-0231
-TASK-0231,Confirm catering numbers,HR marketing,Felix Schmidt,2026-03-02,Low,In progress,EVT-0232
-TASK-0232,Share post-event survey,Governance,Ines Schulz,2026-03-07,High,To do,EVT-0233
-TASK-0233,Update HR information page,Newsletter,David Bauer,2026-03-12,Low,In progress,EVT-0234
-TASK-0234,Check AV equipment,Internal event,Clara Meyer,2026-03-17,Low,Waiting,EVT-0235
-TASK-0235,Prepare leadership talking points,Newsletter,Amira Keller,2026-03-22,High,Waiting,EVT-0236
-TASK-0236,Send calendar hold,Governance,Jonas Becker,2026-03-27,High,To do,EVT-0237
-TASK-0237,Review careers brochure,Internal event,Lea Braun,2026-04-01,High,In progress,EVT-0238
-TASK-0238,Request accessibility requirements,Governance,Mateo Wagner,2026-04-06,Normal,Waiting,EVT-0239
-TASK-0239,Archive approved assets,Newsletter,Sofia Neumann,2026-04-11,Normal,In progress,EVT-0240
-TASK-0240,Confirm venue availability,Governance,Noah Fischer,2026-04-16,Low,Done,EVT-0241
-TASK-0241,Review newsletter draft,HR marketing,Mila Wolf,2026-04-21,Normal,Waiting,EVT-0242
-TASK-0242,Collect department highlights,Newsletter,Elias Hoffmann,2026-04-26,Low,Done,EVT-0243
-TASK-0243,Approve event invitation,Internal event,Zara Koch,2026-05-01,Normal,In progress,EVT-0244
-TASK-0244,Reconcile supplier invoice,Intranet,Luca Weber,2026-05-06,Low,Done,EVT-0245
-TASK-0245,Publish intranet announcement,Intranet,Freya Richter,2026-05-11,Normal,To do,EVT-0246
-TASK-0246,Prepare registration form,Newsletter,Theo Schmidt,2026-05-16,Low,In progress,EVT-0247
-TASK-0247,Confirm catering numbers,Newsletter,Nina Schulz,2026-05-21,Normal,Waiting,EVT-0248
-TASK-0248,Share post-event survey,Internal event,Ava Bauer,2026-05-26,Normal,Done,EVT-0249
-TASK-0249,Update HR information page,Intranet,Emil Meyer,2026-05-31,Normal,Done,EVT-0250
-TASK-0250,Check AV equipment,HR marketing,Maya Keller,2026-06-05,Normal,Waiting,EVT-0251
-TASK-0251,Prepare leadership talking points,HR marketing,Felix Becker,2026-06-10,Normal,To do,EVT-0252
-TASK-0252,Send calendar hold,Newsletter,Ines Braun,2026-06-15,Low,Done,EVT-0253
-TASK-0253,Review careers brochure,Internal event,David Wagner,2026-06-20,Normal,In progress,EVT-0254
-TASK-0254,Request accessibility requirements,Governance,Clara Neumann,2026-06-25,Normal,To do,EVT-0255
-TASK-0255,Archive approved assets,HR marketing,Amira Fischer,2026-06-30,Normal,In progress,EVT-0256
-TASK-0256,Confirm venue availability,Internal event,Jonas Wolf,2026-07-05,High,In progress,EVT-0257
-TASK-0257,Review newsletter draft,Governance,Lea Hoffmann,2026-07-10,Normal,To do,EVT-0258
-TASK-0258,Collect department highlights,Governance,Mateo Koch,2026-07-15,High,In progress,EVT-0259
-TASK-0259,Approve event invitation,HR marketing,Sofia Weber,2026-07-20,Normal,In progress,EVT-0260
-TASK-0260,Reconcile supplier invoice,HR marketing,Noah Richter,2026-07-25,Low,Waiting,EVT-0261
-TASK-0261,Publish intranet announcement,Newsletter,Mila Schmidt,2026-07-30,Low,In progress,EVT-0262
-TASK-0262,Prepare registration form,Newsletter,Elias Schulz,2026-08-04,Low,Waiting,EVT-0263
-TASK-0263,Confirm catering numbers,HR marketing,Zara Bauer,2026-08-09,Normal,In progress,EVT-0264
-TASK-0264,Share post-event survey,Newsletter,Luca Meyer,2026-08-14,High,To do,EVT-0265
-TASK-0265,Update HR information page,Newsletter,Freya Keller,2026-08-19,Normal,Waiting,EVT-0266
-TASK-0266,Check AV equipment,HR marketing,Theo Becker,2026-08-24,Normal,In progress,EVT-0267
-TASK-0267,Prepare leadership talking points,HR marketing,Nina Braun,2026-08-29,Low,In progress,EVT-0268
-TASK-0268,Send calendar hold,Internal event,Ava Wagner,2026-09-03,Normal,To do,EVT-0269
-TASK-0269,Review careers brochure,Governance,Emil Neumann,2026-09-08,Low,In progress,EVT-0270
-TASK-0270,Request accessibility requirements,Intranet,Maya Fischer,2026-09-13,Low,In progress,EVT-0271
-TASK-0271,Archive approved assets,Intranet,Felix Wolf,2026-09-18,High,In progress,EVT-0272
-TASK-0272,Confirm venue availability,Governance,Ines Hoffmann,2026-09-23,Normal,Waiting,EVT-0273
-TASK-0273,Review newsletter draft,HR marketing,David Koch,2026-09-28,Normal,In progress,EVT-0274
-TASK-0274,Collect department highlights,Internal event,Clara Weber,2026-10-03,High,Waiting,EVT-0275
-TASK-0275,Approve event invitation,Intranet,Amira Richter,2026-10-08,Low,Done,EVT-0276
-TASK-0276,Reconcile supplier invoice,Intranet,Jonas Schmidt,2026-10-13,Normal,Done,EVT-0277
-TASK-0277,Publish intranet announcement,Governance,Lea Schulz,2026-10-18,Normal,To do,EVT-0278
-TASK-0278,Prepare registration form,HR marketing,Mateo Bauer,2026-10-23,High,Done,EVT-0279
-TASK-0279,Confirm catering numbers,Internal event,Sofia Meyer,2026-10-28,Normal,Done,EVT-0280
-TASK-0280,Share post-event survey,Internal event,Noah Keller,2026-11-02,Normal,In progress,EVT-0281
-TASK-0281,Update HR information page,Newsletter,Mila Becker,2026-11-07,High,To do,EVT-0282
-TASK-0282,Check AV equipment,Governance,Elias Braun,2026-11-12,Normal,Waiting,EVT-0283
-TASK-0283,Prepare leadership talking points,Governance,Zara Wagner,2026-11-17,Normal,In progress,EVT-0284
-TASK-0284,Send calendar hold,Internal event,Luca Neumann,2026-11-22,Normal,Done,EVT-0285
-TASK-0285,Review careers brochure,HR marketing,Freya Fischer,2026-11-27,Normal,Done,EVT-0286
-TASK-0286,Request accessibility requirements,Governance,Theo Wolf,2026-12-02,High,Done,EVT-0287
-TASK-0287,Archive approved assets,Intranet,Nina Hoffmann,2026-12-07,Normal,Waiting,EVT-0288
-TASK-0288,Confirm venue availability,Internal event,Ava Koch,2026-12-12,High,To do,EVT-0289
-TASK-0289,Review newsletter draft,HR marketing,Emil Weber,2026-12-17,Low,In progress,EVT-0290
-TASK-0290,Collect department highlights,Internal event,Maya Richter,2026-12-22,Normal,In progress,EVT-0291
-TASK-0291,Approve event invitation,Newsletter,Felix Schmidt,2026-12-27,High,Waiting,EVT-0292
-TASK-0292,Reconcile supplier invoice,Governance,Ines Schulz,2026-01-01,Normal,To do,EVT-0293
-TASK-0293,Publish intranet announcement,HR marketing,David Bauer,2026-01-06,High,In progress,EVT-0294
-TASK-0294,Prepare registration form,Newsletter,Clara Meyer,2026-01-11,Normal,In progress,EVT-0295
-TASK-0295,Confirm catering numbers,Newsletter,Amira Keller,2026-01-16,Normal,Done,EVT-0296
-TASK-0296,Share post-event survey,HR marketing,Jonas Becker,2026-01-21,Low,In progress,EVT-0297
-TASK-0297,Update HR information page,Governance,Lea Braun,2026-01-26,Normal,Waiting,EVT-0298
-TASK-0298,Check AV equipment,Governance,Mateo Wagner,2026-01-31,Low,In progress,EVT-0299
-TASK-0299,Prepare leadership talking points,Governance,Sofia Neumann,2026-02-05,Low,In progress,EVT-0300
-TASK-0300,Send calendar hold,Internal event,Noah Fischer,2026-02-10,Normal,Done,EVT-0301
-TASK-0301,Review careers brochure,Intranet,Mila Wolf,2026-02-15,Normal,Done,EVT-0302
-TASK-0302,Request accessibility requirements,Newsletter,Elias Hoffmann,2026-02-20,Low,Done,EVT-0303
-TASK-0303,Archive approved assets,HR marketing,Zara Koch,2026-02-25,Low,Done,EVT-0304
-TASK-0304,Confirm venue availability,Internal event,Luca Weber,2026-03-02,High,In progress,EVT-0305
-TASK-0305,Review newsletter draft,Governance,Freya Richter,2026-03-07,Low,In progress,EVT-0306
-TASK-0306,Collect department highlights,Internal event,Theo Schmidt,2026-03-12,Low,To do,EVT-0307
-TASK-0307,Approve event invitation,HR marketing,Nina Schulz,2026-03-17,Low,Done,EVT-0308
-TASK-0308,Reconcile supplier invoice,Newsletter,Ava Bauer,2026-03-22,High,Done,EVT-0309
-TASK-0309,Publish intranet announcement,Newsletter,Emil Meyer,2026-03-27,Normal,Waiting,EVT-0310
-TASK-0310,Prepare registration form,Intranet,Maya Keller,2026-04-01,High,Done,EVT-0311
-TASK-0311,Confirm catering numbers,HR marketing,Felix Becker,2026-04-06,Low,Done,EVT-0312
-TASK-0312,Share post-event survey,Internal event,Ines Braun,2026-04-11,Low,Done,EVT-0313
-TASK-0313,Update HR information page,Internal event,David Wagner,2026-04-16,Normal,Done,EVT-0314
-TASK-0314,Check AV equipment,HR marketing,Clara Neumann,2026-04-21,Normal,Done,EVT-0315
-TASK-0315,Prepare leadership talking points,HR marketing,Amira Fischer,2026-04-26,High,Done,EVT-0316
-TASK-0316,Send calendar hold,HR marketing,Jonas Wolf,2026-05-01,High,Done,EVT-0317
-TASK-0317,Review careers brochure,HR marketing,Lea Hoffmann,2026-05-06,High,Waiting,EVT-0318
-TASK-0318,Request accessibility requirements,Governance,Mateo Koch,2026-05-11,Low,In progress,EVT-0319
-TASK-0319,Archive approved assets,HR marketing,Sofia Weber,2026-05-16,High,Waiting,EVT-0320
-TASK-0320,Confirm venue availability,HR marketing,Noah Richter,2026-05-21,Normal,To do,EVT-0321
-TASK-0321,Review newsletter draft,Newsletter,Mila Schmidt,2026-05-26,Low,To do,EVT-0322
-TASK-0322,Collect department highlights,Internal event,Elias Schulz,2026-05-31,Normal,In progress,EVT-0323
-TASK-0323,Approve event invitation,Intranet,Zara Bauer,2026-06-05,Normal,In progress,EVT-0324
-TASK-0324,Reconcile supplier invoice,HR marketing,Luca Meyer,2026-06-10,Normal,In progress,EVT-0325
-TASK-0325,Publish intranet announcement,Internal event,Freya Keller,2026-06-15,Normal,Waiting,EVT-0326
-TASK-0326,Prepare registration form,Newsletter,Theo Becker,2026-06-20,Low,Waiting,EVT-0327
-TASK-0327,Confirm catering numbers,Internal event,Nina Braun,2026-06-25,High,In progress,EVT-0328
-TASK-0328,Share post-event survey,Newsletter,Ava Wagner,2026-06-30,Normal,In progress,EVT-0329
-TASK-0329,Update HR information page,HR marketing,Emil Neumann,2026-07-05,Normal,In progress,EVT-0330
-TASK-0330,Check AV equipment,Governance,Maya Fischer,2026-07-10,High,In progress,EVT-0331
-TASK-0331,Prepare leadership talking points,Intranet,Felix Wolf,2026-07-15,Normal,Waiting,EVT-0332
-TASK-0332,Send calendar hold,Intranet,Ines Hoffmann,2026-07-20,High,In progress,EVT-0333
-TASK-0333,Review careers brochure,Newsletter,David Koch,2026-07-25,Normal,In progress,EVT-0334
-TASK-0334,Request accessibility requirements,Intranet,Clara Weber,2026-07-30,Normal,In progress,EVT-0335
-TASK-0335,Archive approved assets,Governance,Amira Richter,2026-08-04,Low,To do,EVT-0336
-TASK-0336,Confirm venue availability,Newsletter,Jonas Schmidt,2026-08-09,Low,In progress,EVT-0337
-TASK-0337,Review newsletter draft,HR marketing,Lea Schulz,2026-08-14,Normal,Waiting,EVT-0338
-TASK-0338,Collect department highlights,Governance,Mateo Bauer,2026-08-19,High,In progress,EVT-0339
-TASK-0339,Approve event invitation,Intranet,Sofia Meyer,2026-08-24,Low,Waiting,EVT-0340
-TASK-0340,Reconcile supplier invoice,Intranet,Noah Keller,2026-08-29,Normal,In progress,EVT-0341
-TASK-0341,Publish intranet announcement,Governance,Mila Becker,2026-09-03,Normal,In progress,EVT-0342
-TASK-0342,Prepare registration form,Internal event,Elias Braun,2026-09-08,Low,To do,EVT-0343
-TASK-0343,Confirm catering numbers,HR marketing,Zara Wagner,2026-09-13,Normal,In progress,EVT-0344
-TASK-0344,Share post-event survey,Newsletter,Luca Neumann,2026-09-18,Normal,In progress,EVT-0345
-TASK-0345,Update HR information page,Newsletter,Freya Fischer,2026-09-23,Normal,Done,EVT-0346
-TASK-0346,Check AV equipment,HR marketing,Theo Wolf,2026-09-28,Low,Waiting,EVT-0347
-TASK-0347,Prepare leadership talking points,Intranet,Nina Hoffmann,2026-10-03,Low,Done,EVT-0348
-TASK-0348,Send calendar hold,HR marketing,Ava Koch,2026-10-08,Normal,In progress,EVT-0349
-TASK-0349,Review careers brochure,Newsletter,Emil Weber,2026-10-13,Normal,In progress,EVT-0350
-TASK-0350,Request accessibility requirements,Internal event,Maya Richter,2026-10-18,High,To do,EVT-0351
-TASK-0351,Archive approved assets,Internal event,Felix Schmidt,2026-10-23,High,Waiting,EVT-0352
-TASK-0352,Confirm venue availability,Newsletter,Ines Schulz,2026-10-28,Low,In progress,EVT-0353
-TASK-0353,Review newsletter draft,Newsletter,David Bauer,2026-11-02,Low,Waiting,EVT-0354
-TASK-0354,Collect department highlights,Internal event,Clara Meyer,2026-11-07,High,In progress,EVT-0355
-TASK-0355,Approve event invitation,Internal event,Amira Keller,2026-11-12,High,In progress,EVT-0356
-TASK-0356,Reconcile supplier invoice,Internal event,Jonas Becker,2026-11-17,Normal,In progress,EVT-0357
-TASK-0357,Publish intranet announcement,Governance,Lea Braun,2026-11-22,Low,Done,EVT-0358
-TASK-0358,Prepare registration form,HR marketing,Mateo Wagner,2026-11-27,Low,In progress,EVT-0359
-TASK-0359,Confirm catering numbers,Newsletter,Sofia Neumann,2026-12-02,Low,Waiting,EVT-0360
-TASK-0360,Share post-event survey,Governance,Noah Fischer,2026-12-07,Low,In progress,EVT-0361
-TASK-0361,Update HR information page,Governance,Mila Wolf,2026-12-12,High,Done,EVT-0362
-TASK-0362,Check AV equipment,Governance,Elias Hoffmann,2026-12-17,Low,To do,EVT-0363
-TASK-0363,Prepare leadership talking points,Internal event,Zara Koch,2026-12-22,Low,Waiting,EVT-0364
-TASK-0364,Send calendar hold,Governance,Luca Weber,2026-12-27,Normal,To do,EVT-0365
-TASK-0365,Review careers brochure,Internal event,Freya Richter,2026-01-01,Normal,In progress,EVT-0366
-TASK-0366,Request accessibility requirements,Intranet,Theo Schmidt,2026-01-06,Low,Waiting,EVT-0367
-TASK-0367,Archive approved assets,Newsletter,Nina Schulz,2026-01-11,Normal,In progress,EVT-0368
-TASK-0368,Confirm venue availability,Internal event,Ava Bauer,2026-01-16,Normal,In progress,EVT-0369
-TASK-0369,Review newsletter draft,Intranet,Emil Meyer,2026-01-21,Normal,In progress,EVT-0370
-TASK-0370,Collect department highlights,Newsletter,Maya Keller,2026-01-26,Low,Waiting,EVT-0371
-TASK-0371,Approve event invitation,Intranet,Felix Becker,2026-01-31,Normal,Done,EVT-0372
-TASK-0372,Reconcile supplier invoice,Internal event,Ines Braun,2026-02-05,Normal,In progress,EVT-0373
-TASK-0373,Publish intranet announcement,HR marketing,David Wagner,2026-02-10,Normal,In progress,EVT-0374
-TASK-0374,Prepare registration form,Newsletter,Clara Neumann,2026-02-15,Normal,To do,EVT-0375
-TASK-0375,Confirm catering numbers,Internal event,Amira Fischer,2026-02-20,High,Done,EVT-0376
-TASK-0376,Share post-event survey,Governance,Jonas Wolf,2026-02-25,Low,Done,EVT-0377
-TASK-0377,Update HR information page,Internal event,Lea Hoffmann,2026-03-02,Normal,Done,EVT-0378
-TASK-0378,Check AV equipment,Internal event,Mateo Koch,2026-03-07,Normal,To do,EVT-0379
-TASK-0379,Prepare leadership talking points,Internal event,Sofia Weber,2026-03-12,Normal,In progress,EVT-0380
-TASK-0380,Send calendar hold,Intranet,Noah Richter,2026-03-17,Normal,To do,EVT-0381
-TASK-0381,Review careers brochure,Internal event,Mila Schmidt,2026-03-22,Normal,In progress,EVT-0382
-TASK-0382,Request accessibility requirements,Newsletter,Elias Schulz,2026-03-27,Normal,Waiting,EVT-0383
-TASK-0383,Archive approved assets,Intranet,Zara Bauer,2026-04-01,Low,In progress,EVT-0384
-TASK-0384,Confirm venue availability,Newsletter,Luca Meyer,2026-04-06,High,To do,EVT-0385
-TASK-0385,Review newsletter draft,HR marketing,Freya Keller,2026-04-11,Normal,In progress,EVT-0386
-TASK-0386,Collect department highlights,HR marketing,Theo Becker,2026-04-16,Normal,In progress,EVT-0387
-TASK-0387,Approve event invitation,Intranet,Nina Braun,2026-04-21,High,To do,EVT-0388
-TASK-0388,Reconcile supplier invoice,Internal event,Ava Wagner,2026-04-26,Normal,In progress,EVT-0389
-TASK-0389,Publish intranet announcement,HR marketing,Emil Neumann,2026-05-01,Normal,To do,EVT-0390
-TASK-0390,Prepare registration form,Governance,Maya Fischer,2026-05-06,Low,To do,EVT-0391
-TASK-0391,Confirm catering numbers,Newsletter,Felix Wolf,2026-05-11,Low,Done,EVT-0392
-TASK-0392,Share post-event survey,Internal event,Ines Hoffmann,2026-05-16,High,In progress,EVT-0393
-TASK-0393,Update HR information page,Newsletter,David Koch,2026-05-21,High,In progress,EVT-0394
-TASK-0394,Check AV equipment,Newsletter,Clara Weber,2026-05-26,Normal,Done,EVT-0395
-TASK-0395,Prepare leadership talking points,Internal event,Amira Richter,2026-05-31,High,Done,EVT-0396
-TASK-0396,Send calendar hold,Newsletter,Jonas Schmidt,2026-06-05,Normal,Waiting,EVT-0397
-TASK-0397,Review careers brochure,Newsletter,Lea Schulz,2026-06-10,Normal,In progress,EVT-0398
-TASK-0398,Request accessibility requirements,Governance,Mateo Bauer,2026-06-15,Normal,Done,EVT-0399
-TASK-0399,Archive approved assets,Intranet,Sofia Meyer,2026-06-20,Low,Waiting,EVT-0400
-TASK-0400,Confirm venue availability,HR marketing,Noah Keller,2026-06-25,High,In progress,EVT-0401
-TASK-0401,Review newsletter draft,Intranet,Mila Becker,2026-06-30,Low,In progress,EVT-0402
-TASK-0402,Collect department highlights,Internal event,Elias Braun,2026-07-05,High,In progress,EVT-0403
-TASK-0403,Approve event invitation,Internal event,Zara Wagner,2026-07-10,Normal,In progress,EVT-0404
-TASK-0404,Reconcile supplier invoice,HR marketing,Luca Neumann,2026-07-15,Normal,To do,EVT-0405
-TASK-0405,Publish intranet announcement,Internal event,Freya Fischer,2026-07-20,Normal,In progress,EVT-0406
-TASK-0406,Prepare registration form,Newsletter,Theo Wolf,2026-07-25,Normal,Done,EVT-0407
-TASK-0407,Confirm catering numbers,Newsletter,Nina Hoffmann,2026-07-30,Low,In progress,EVT-0408
-TASK-0408,Share post-event survey,Newsletter,Ava Koch,2026-08-04,Normal,Waiting,EVT-0409
-TASK-0409,Update HR information page,HR marketing,Emil Weber,2026-08-09,Normal,In progress,EVT-0410
-TASK-0410,Check AV equipment,Internal event,Maya Richter,2026-08-14,High,In progress,EVT-0411
-TASK-0411,Prepare leadership talking points,Governance,Felix Schmidt,2026-08-19,Low,In progress,EVT-0412
-TASK-0412,Send calendar hold,Internal event,Ines Schulz,2026-08-24,Normal,Done,EVT-0413
-TASK-0413,Review careers brochure,Newsletter,David Bauer,2026-08-29,Normal,Waiting,EVT-0414
-TASK-0414,Request accessibility requirements,Intranet,Clara Meyer,2026-09-03,High,To do,EVT-0415
-TASK-0415,Archive approved assets,HR marketing,Amira Keller,2026-09-08,Normal,In progress,EVT-0416
-TASK-0416,Confirm venue availability,Internal event,Jonas Becker,2026-09-13,Normal,To do,EVT-0417
-TASK-0417,Review newsletter draft,Newsletter,Lea Braun,2026-09-18,Normal,In progress,EVT-0418
-TASK-0418,Collect department highlights,Intranet,Mateo Wagner,2026-09-23,Normal,Done,EVT-0419
-TASK-0419,Approve event invitation,Internal event,Sofia Neumann,2026-09-28,Normal,Waiting,EVT-0420
-TASK-0420,Reconcile supplier invoice,Internal event,Noah Fischer,2026-10-03,Normal,In progress,EVT-0421
-TASK-0421,Publish intranet announcement,Internal event,Mila Wolf,2026-10-08,Normal,To do,EVT-0422
-TASK-0422,Prepare registration form,Internal event,Elias Hoffmann,2026-10-13,Low,To do,EVT-0423
-TASK-0423,Confirm catering numbers,Governance,Zara Koch,2026-10-18,High,Waiting,EVT-0424
-TASK-0424,Share post-event survey,Governance,Luca Weber,2026-10-23,Normal,Waiting,EVT-0425
-TASK-0425,Update HR information page,HR marketing,Freya Richter,2026-10-28,High,To do,EVT-0426
-TASK-0426,Check AV equipment,Governance,Theo Schmidt,2026-11-02,High,Waiting,EVT-0427
-TASK-0427,Prepare leadership talking points,Governance,Nina Schulz,2026-11-07,Normal,Done,EVT-0428
-TASK-0428,Send calendar hold,HR marketing,Ava Bauer,2026-11-12,Normal,In progress,EVT-0429
-TASK-0429,Review careers brochure,Internal event,Emil Meyer,2026-11-17,Normal,To do,EVT-0430
-TASK-0430,Request accessibility requirements,Governance,Maya Keller,2026-11-22,Normal,In progress,EVT-0431
-TASK-0431,Archive approved assets,Intranet,Felix Becker,2026-11-27,Normal,In progress,EVT-0432
-TASK-0432,Confirm venue availability,Newsletter,Ines Braun,2026-12-02,Normal,In progress,EVT-0433
-TASK-0433,Review newsletter draft,Internal event,David Wagner,2026-12-07,Normal,In progress,EVT-0434
-TASK-0434,Collect department highlights,Internal event,Clara Neumann,2026-12-12,Normal,In progress,EVT-0435
-TASK-0435,Approve event invitation,Governance,Amira Fischer,2026-12-17,Normal,Done,EVT-0436
-TASK-0436,Reconcile supplier invoice,HR marketing,Jonas Wolf,2026-12-22,Normal,In progress,EVT-0437
-TASK-0437,Publish intranet announcement,Internal event,Lea Hoffmann,2026-12-27,Low,Done,EVT-0438
-TASK-0438,Prepare registration form,Governance,Mateo Koch,2026-01-01,Low,In progress,EVT-0439
-TASK-0439,Confirm catering numbers,HR marketing,Sofia Weber,2026-01-06,Normal,Done,EVT-0440
-TASK-0440,Share post-event survey,Intranet,Noah Richter,2026-01-11,Normal,In progress,EVT-0441
-TASK-0441,Update HR information page,HR marketing,Mila Schmidt,2026-01-16,Normal,Waiting,EVT-0442
-TASK-0442,Check AV equipment,HR marketing,Elias Schulz,2026-01-21,High,In progress,EVT-0443
-TASK-0443,Prepare leadership talking points,Newsletter,Zara Bauer,2026-01-26,Low,Waiting,EVT-0444
-TASK-0444,Send calendar hold,Newsletter,Luca Meyer,2026-01-31,High,In progress,EVT-0445
-TASK-0445,Review careers brochure,Newsletter,Freya Keller,2026-02-05,Low,Done,EVT-0446
-TASK-0446,Request accessibility requirements,HR marketing,Theo Becker,2026-02-10,High,In progress,EVT-0447
-TASK-0447,Archive approved assets,Governance,Nina Braun,2026-02-15,Normal,In progress,EVT-0448
-TASK-0448,Confirm venue availability,Intranet,Ava Wagner,2026-02-20,Normal,To do,EVT-0449
-TASK-0449,Review newsletter draft,HR marketing,Emil Neumann,2026-02-25,High,In progress,EVT-0450
-TASK-0450,Collect department highlights,HR marketing,Maya Fischer,2026-03-02,High,In progress,EVT-0451
-TASK-0451,Approve event invitation,Newsletter,Felix Wolf,2026-03-07,Normal,To do,EVT-0452
-TASK-0452,Reconcile supplier invoice,Governance,Ines Hoffmann,2026-03-12,Normal,To do,EVT-0453
-TASK-0453,Publish intranet announcement,Intranet,David Koch,2026-03-17,Low,In progress,EVT-0454
-TASK-0454,Prepare registration form,Intranet,Clara Weber,2026-03-22,Normal,Done,EVT-0455
-TASK-0455,Confirm catering numbers,HR marketing,Amira Richter,2026-03-27,Low,In progress,EVT-0456
-TASK-0456,Share post-event survey,HR marketing,Jonas Schmidt,2026-04-01,Low,To do,EVT-0457
-TASK-0457,Update HR information page,Intranet,Lea Schulz,2026-04-06,Normal,In progress,EVT-0458
-TASK-0458,Check AV equipment,Newsletter,Mateo Bauer,2026-04-11,Low,To do,EVT-0459
-TASK-0459,Prepare leadership talking points,HR marketing,Sofia Meyer,2026-04-16,Low,In progress,EVT-0460
-TASK-0460,Send calendar hold,Intranet,Noah Keller,2026-04-21,Normal,In progress,EVT-0461
-TASK-0461,Review careers brochure,Newsletter,Mila Becker,2026-04-26,Low,To do,EVT-0462
-TASK-0462,Request accessibility requirements,HR marketing,Elias Braun,2026-05-01,High,Waiting,EVT-0463
-TASK-0463,Archive approved assets,Newsletter,Zara Wagner,2026-05-06,Normal,In progress,EVT-0464
-TASK-0464,Confirm venue availability,Intranet,Luca Neumann,2026-05-11,High,To do,EVT-0465
-TASK-0465,Review newsletter draft,Internal event,Freya Fischer,2026-05-16,High,To do,EVT-0466
-TASK-0466,Collect department highlights,Newsletter,Theo Wolf,2026-05-21,Normal,Waiting,EVT-0467
-TASK-0467,Approve event invitation,Newsletter,Nina Hoffmann,2026-05-26,Low,In progress,EVT-0468
-TASK-0468,Reconcile supplier invoice,Newsletter,Ava Koch,2026-05-31,Low,To do,EVT-0469
-TASK-0469,Publish intranet announcement,Intranet,Emil Weber,2026-06-05,Normal,To do,EVT-0470
-TASK-0470,Prepare registration form,Newsletter,Maya Richter,2026-06-10,Normal,To do,EVT-0471
-TASK-0471,Confirm catering numbers,Internal event,Felix Schmidt,2026-06-15,High,In progress,EVT-0472
-TASK-0472,Share post-event survey,HR marketing,Ines Schulz,2026-06-20,Normal,Done,EVT-0473
-TASK-0473,Update HR information page,Internal event,David Bauer,2026-06-25,High,Done,EVT-0474
-TASK-0474,Check AV equipment,Intranet,Clara Meyer,2026-06-30,Normal,Done,EVT-0475
-TASK-0475,Prepare leadership talking points,Newsletter,Amira Keller,2026-07-05,Low,In progress,EVT-0476
-TASK-0476,Send calendar hold,Governance,Jonas Becker,2026-07-10,Normal,Waiting,EVT-0477
-TASK-0477,Review careers brochure,Newsletter,Lea Braun,2026-07-15,Normal,To do,EVT-0478
-TASK-0478,Request accessibility requirements,Newsletter,Mateo Wagner,2026-07-20,Normal,In progress,EVT-0479
-TASK-0479,Archive approved assets,Internal event,Sofia Neumann,2026-07-25,Normal,Done,EVT-0480
-TASK-0480,Confirm venue availability,HR marketing,Noah Fischer,2026-07-30,Normal,Waiting,EVT-0481
-TASK-0481,Review newsletter draft,Governance,Mila Wolf,2026-08-04,Low,Waiting,EVT-0482
-TASK-0482,Collect department highlights,Governance,Elias Hoffmann,2026-08-09,Low,Done,EVT-0483
-TASK-0483,Approve event invitation,HR marketing,Zara Koch,2026-08-14,Low,Waiting,EVT-0484
-TASK-0484,Reconcile supplier invoice,Internal event,Luca Weber,2026-08-19,Low,In progress,EVT-0485
-TASK-0485,Publish intranet announcement,Intranet,Freya Richter,2026-08-24,Normal,Done,EVT-0486
-TASK-0486,Prepare registration form,HR marketing,Theo Schmidt,2026-08-29,Low,To do,EVT-0487
-TASK-0487,Confirm catering numbers,Internal event,Nina Schulz,2026-09-03,High,In progress,EVT-0488
-TASK-0488,Share post-event survey,HR marketing,Ava Bauer,2026-09-08,Normal,Done,EVT-0489
-TASK-0489,Update HR information page,Intranet,Emil Meyer,2026-09-13,High,In progress,EVT-0490
-TASK-0490,Check AV equipment,HR marketing,Maya Keller,2026-09-18,Normal,To do,EVT-0491
-TASK-0491,Prepare leadership talking points,Internal event,Felix Becker,2026-09-23,Low,To do,EVT-0492
-TASK-0492,Send calendar hold,Intranet,Ines Braun,2026-09-28,High,Done,EVT-0493
-TASK-0493,Review careers brochure,Newsletter,David Wagner,2026-10-03,High,In progress,EVT-0494
-TASK-0494,Request accessibility requirements,Governance,Clara Neumann,2026-10-08,Normal,In progress,EVT-0495
-TASK-0495,Archive approved assets,Internal event,Amira Fischer,2026-10-13,High,To do,EVT-0496
-TASK-0496,Confirm venue availability,Intranet,Jonas Wolf,2026-10-18,High,In progress,EVT-0497
-TASK-0497,Review newsletter draft,Newsletter,Lea Hoffmann,2026-10-23,Normal,In progress,EVT-0498
-TASK-0498,Collect department highlights,Internal event,Mateo Koch,2026-10-28,Low,In progress,EVT-0499
-TASK-0499,Approve event invitation,Newsletter,Sofia Weber,2026-11-02,Normal,Waiting,EVT-0500
-TASK-0500,Reconcile supplier invoice,HR marketing,Noah Richter,2026-11-07,High,In progress,EVT-0501
-TASK-0501,Publish intranet announcement,Newsletter,Mila Schmidt,2026-11-12,Low,In progress,EVT-0502
-TASK-0502,Prepare registration form,Newsletter,Elias Schulz,2026-11-17,Normal,Done,EVT-0503
-TASK-0503,Confirm catering numbers,Internal event,Zara Bauer,2026-11-22,High,In progress,EVT-0504
-TASK-0504,Share post-event survey,Newsletter,Luca Meyer,2026-11-27,High,Done,EVT-0505
-TASK-0505,Update HR information page,Governance,Freya Keller,2026-12-02,Low,To do,EVT-0506
-TASK-0506,Check AV equipment,Newsletter,Theo Becker,2026-12-07,High,Waiting,EVT-0507
-TASK-0507,Prepare leadership talking points,Internal event,Nina Braun,2026-12-12,Low,Waiting,EVT-0508
-TASK-0508,Send calendar hold,Internal event,Ava Wagner,2026-12-17,Normal,To do,EVT-0509
-TASK-0509,Review careers brochure,Newsletter,Emil Neumann,2026-12-22,Low,In progress,EVT-0510
-TASK-0510,Request accessibility requirements,HR marketing,Maya Fischer,2026-12-27,High,In progress,EVT-0511
-TASK-0511,Archive approved assets,Intranet,Felix Wolf,2026-01-01,Normal,To do,EVT-0512
-TASK-0512,Confirm venue availability,Intranet,Ines Hoffmann,2026-01-06,Low,Waiting,EVT-0513
-TASK-0513,Review newsletter draft,HR marketing,David Koch,2026-01-11,High,In progress,EVT-0514
-TASK-0514,Collect department highlights,Newsletter,Clara Weber,2026-01-16,Low,In progress,EVT-0515
-TASK-0515,Approve event invitation,HR marketing,Amira Richter,2026-01-21,High,In progress,EVT-0516
-TASK-0516,Reconcile supplier invoice,Newsletter,Jonas Schmidt,2026-01-26,Low,Done,EVT-0517
-TASK-0517,Publish intranet announcement,Intranet,Lea Schulz,2026-01-31,Low,Done,EVT-0518
-TASK-0518,Prepare registration form,Intranet,Mateo Bauer,2026-02-05,High,To do,EVT-0519
-TASK-0519,Confirm catering numbers,HR marketing,Sofia Meyer,2026-02-10,Low,Done,EVT-0520
-TASK-0520,Share post-event survey,Newsletter,Noah Keller,2026-02-15,Low,In progress,EVT-0521
-TASK-0521,Update HR information page,Intranet,Mila Becker,2026-02-20,Normal,To do,EVT-0522
-TASK-0522,Check AV equipment,HR marketing,Elias Braun,2026-02-25,Normal,In progress,EVT-0523
-TASK-0523,Prepare leadership talking points,Internal event,Zara Wagner,2026-03-02,Normal,In progress,EVT-0524
-TASK-0524,Send calendar hold,Newsletter,Luca Neumann,2026-03-07,Normal,In progress,EVT-0525
-TASK-0525,Review careers brochure,Intranet,Freya Fischer,2026-03-12,Normal,Done,EVT-0526
-TASK-0526,Request accessibility requirements,Governance,Theo Wolf,2026-03-17,High,In progress,EVT-0527
-TASK-0527,Archive approved assets,Internal event,Nina Hoffmann,2026-03-22,Normal,In progress,EVT-0528
-TASK-0528,Confirm venue availability,Newsletter,Ava Koch,2026-03-27,Normal,Done,EVT-0529
-TASK-0529,Review newsletter draft,Newsletter,Emil Weber,2026-04-01,High,In progress,EVT-0530
-TASK-0530,Collect department highlights,Intranet,Maya Richter,2026-04-06,High,To do,EVT-0531
-TASK-0531,Approve event invitation,Internal event,Felix Schmidt,2026-04-11,Normal,In progress,EVT-0532
-TASK-0532,Reconcile supplier invoice,Intranet,Ines Schulz,2026-04-16,Low,In progress,EVT-0533
-TASK-0533,Publish intranet announcement,Internal event,David Bauer,2026-04-21,Normal,To do,EVT-0534
-TASK-0534,Prepare registration form,Newsletter,Clara Meyer,2026-04-26,Normal,To do,EVT-0535
-TASK-0535,Confirm catering numbers,Newsletter,Amira Keller,2026-05-01,Low,In progress,EVT-0536
-TASK-0536,Share post-event survey,Internal event,Jonas Becker,2026-05-06,Normal,Done,EVT-0537
-TASK-0537,Update HR information page,Newsletter,Lea Braun,2026-05-11,High,Done,EVT-0538
-TASK-0538,Check AV equipment,Internal event,Mateo Wagner,2026-05-16,Normal,Waiting,EVT-0539
-TASK-0539,Prepare leadership talking points,HR marketing,Sofia Neumann,2026-05-21,Normal,In progress,EVT-0540
-TASK-0540,Send calendar hold,Internal event,Noah Fischer,2026-05-26,Low,Done,EVT-0541
-TASK-0541,Review careers brochure,Intranet,Mila Wolf,2026-05-31,Normal,Done,EVT-0542
-TASK-0542,Request accessibility requirements,HR marketing,Elias Hoffmann,2026-06-05,Normal,Done,EVT-0543
-TASK-0543,Archive approved assets,Internal event,Zara Koch,2026-06-10,Normal,Done,EVT-0544
-TASK-0544,Confirm venue availability,Internal event,Luca Weber,2026-06-15,Low,To do,EVT-0545
-TASK-0545,Review newsletter draft,Newsletter,Freya Richter,2026-06-20,Low,In progress,EVT-0546
-TASK-0546,Collect department highlights,Governance,Theo Schmidt,2026-06-25,High,In progress,EVT-0547
-TASK-0547,Approve event invitation,Intranet,Nina Schulz,2026-06-30,Low,Waiting,EVT-0548
-TASK-0548,Reconcile supplier invoice,Intranet,Ava Bauer,2026-07-05,Normal,Waiting,EVT-0549
-TASK-0549,Publish intranet announcement,Governance,Emil Meyer,2026-07-10,Normal,Done,EVT-0550
-TASK-0550,Prepare registration form,Internal event,Maya Keller,2026-07-15,Normal,Done,EVT-0551
-TASK-0551,Confirm catering numbers,Intranet,Felix Becker,2026-07-20,Normal,In progress,EVT-0552
-TASK-0552,Share post-event survey,Intranet,Ines Braun,2026-07-25,Normal,Done,EVT-0553
-TASK-0553,Update HR information page,Newsletter,David Wagner,2026-07-30,Normal,Waiting,EVT-0554
-TASK-0554,Check AV equipment,HR marketing,Clara Neumann,2026-08-04,High,Waiting,EVT-0555
-TASK-0555,Prepare leadership talking points,Intranet,Amira Fischer,2026-08-09,Normal,In progress,EVT-0556
-TASK-0556,Send calendar hold,Intranet,Jonas Wolf,2026-08-14,Low,Waiting,EVT-0557
-TASK-0557,Review careers brochure,Governance,Lea Hoffmann,2026-08-19,Low,To do,EVT-0558
-TASK-0558,Request accessibility requirements,Internal event,Mateo Koch,2026-08-24,Normal,In progress,EVT-0559
-TASK-0559,Archive approved assets,Intranet,Sofia Weber,2026-08-29,Low,In progress,EVT-0560
-TASK-0560,Confirm venue availability,Internal event,Noah Richter,2026-09-03,Normal,Waiting,EVT-0561
-TASK-0561,Review newsletter draft,Governance,Mila Schmidt,2026-09-08,Low,Waiting,EVT-0562
-TASK-0562,Collect department highlights,Intranet,Elias Schulz,2026-09-13,Low,In progress,EVT-0563
-TASK-0563,Approve event invitation,Intranet,Zara Bauer,2026-09-18,Low,In progress,EVT-0564
-TASK-0564,Reconcile supplier invoice,HR marketing,Luca Meyer,2026-09-23,Normal,In progress,EVT-0565
-TASK-0565,Publish intranet announcement,Governance,Freya Keller,2026-09-28,High,Done,EVT-0566
-TASK-0566,Prepare registration form,Newsletter,Theo Becker,2026-10-03,Low,Done,EVT-0567
-TASK-0567,Confirm catering numbers,Newsletter,Nina Braun,2026-10-08,High,Waiting,EVT-0568
-TASK-0568,Share post-event survey,HR marketing,Ava Wagner,2026-10-13,Normal,In progress,EVT-0569
-TASK-0569,Update HR information page,Governance,Emil Neumann,2026-10-18,Normal,Done,EVT-0570
-TASK-0570,Check AV equipment,Newsletter,Maya Fischer,2026-10-23,High,Waiting,EVT-0571
-TASK-0571,Prepare leadership talking points,Internal event,Felix Wolf,2026-10-28,Low,In progress,EVT-0572
-TASK-0572,Send calendar hold,Internal event,Ines Hoffmann,2026-11-02,Normal,Waiting,EVT-0573
-TASK-0573,Review careers brochure,HR marketing,David Koch,2026-11-07,High,In progress,EVT-0574
-TASK-0574,Request accessibility requirements,Intranet,Clara Weber,2026-11-12,Low,Done,EVT-0575
-TASK-0575,Archive approved assets,Internal event,Amira Richter,2026-11-17,Normal,Waiting,EVT-0576
-TASK-0576,Confirm venue availability,HR marketing,Jonas Schmidt,2026-11-22,High,Waiting,EVT-0577
-TASK-0577,Review newsletter draft,Intranet,Lea Schulz,2026-11-27,Normal,Waiting,EVT-0578
-TASK-0578,Collect department highlights,Internal event,Mateo Bauer,2026-12-02,Low,Done,EVT-0579
-TASK-0579,Approve event invitation,Newsletter,Sofia Meyer,2026-12-07,High,In progress,EVT-0580
-TASK-0580,Reconcile supplier invoice,Internal event,Noah Keller,2026-12-12,Normal,To do,EVT-0581
-TASK-0581,Publish intranet announcement,Internal event,Mila Becker,2026-12-17,Normal,In progress,EVT-0582
-TASK-0582,Prepare registration form,Internal event,Elias Braun,2026-12-22,Low,Waiting,EVT-0583
-TASK-0583,Confirm catering numbers,Internal event,Zara Wagner,2026-12-27,High,Waiting,EVT-0584
-TASK-0584,Share post-event survey,Intranet,Luca Neumann,2026-01-01,High,In progress,EVT-0585
-TASK-0585,Update HR information page,Intranet,Freya Fischer,2026-01-06,Normal,Waiting,EVT-0586
-TASK-0586,Check AV equipment,HR marketing,Theo Wolf,2026-01-11,High,To do,EVT-0587
-TASK-0587,Prepare leadership talking points,Governance,Nina Hoffmann,2026-01-16,High,Waiting,EVT-0588
-TASK-0588,Send calendar hold,HR marketing,Ava Koch,2026-01-21,Low,In progress,EVT-0589
-TASK-0589,Review careers brochure,Intranet,Emil Weber,2026-01-26,Low,In progress,EVT-0590
-TASK-0590,Request accessibility requirements,Intranet,Maya Richter,2026-01-31,Normal,In progress,EVT-0591
-TASK-0591,Archive approved assets,Newsletter,Felix Schmidt,2026-02-05,Low,Done,EVT-0592
-TASK-0592,Confirm venue availability,Newsletter,Ines Schulz,2026-02-10,High,In progress,EVT-0593
-TASK-0593,Review newsletter draft,HR marketing,David Bauer,2026-02-15,Normal,In progress,EVT-0594
-TASK-0594,Collect department highlights,Newsletter,Clara Meyer,2026-02-20,Low,In progress,EVT-0595
-TASK-0595,Approve event invitation,Internal event,Amira Keller,2026-02-25,Normal,In progress,EVT-0596
-TASK-0596,Reconcile supplier invoice,HR marketing,Jonas Becker,2026-03-02,Normal,Done,EVT-0597
-TASK-0597,Publish intranet announcement,Governance,Lea Braun,2026-03-07,Low,In progress,EVT-0598
-TASK-0598,Prepare registration form,Internal event,Mateo Wagner,2026-03-12,High,To do,EVT-0599
-TASK-0599,Confirm catering numbers,HR marketing,Sofia Neumann,2026-03-17,Normal,To do,EVT-0600
-TASK-0600,Share post-event survey,Governance,Noah Fischer,2026-03-22,High,Done,EVT-0601
-TASK-0601,Update HR information page,Governance,Mila Wolf,2026-03-27,Low,Waiting,EVT-0602
-TASK-0602,Check AV equipment,Internal event,Elias Hoffmann,2026-04-01,High,To do,EVT-0603
-TASK-0603,Prepare leadership talking points,Intranet,Zara Koch,2026-04-06,Normal,In progress,EVT-0604
-TASK-0604,Send calendar hold,Intranet,Luca Weber,2026-04-11,Normal,To do,EVT-0605
-TASK-0605,Review careers brochure,Internal event,Freya Richter,2026-04-16,High,To do,EVT-0606
-TASK-0606,Request accessibility requirements,Intranet,Theo Schmidt,2026-04-21,Low,To do,EVT-0607
-TASK-0607,Archive approved assets,HR marketing,Nina Schulz,2026-04-26,Normal,Waiting,EVT-0608
-TASK-0608,Confirm venue availability,Intranet,Ava Bauer,2026-05-01,Normal,In progress,EVT-0609
-TASK-0609,Review newsletter draft,Internal event,Emil Meyer,2026-05-06,Normal,To do,EVT-0610
-TASK-0610,Collect department highlights,HR marketing,Maya Keller,2026-05-11,Normal,Waiting,EVT-0611
-TASK-0611,Approve event invitation,Intranet,Felix Becker,2026-05-16,Low,Waiting,EVT-0612
-TASK-0612,Reconcile supplier invoice,HR marketing,Ines Braun,2026-05-21,Low,Waiting,EVT-0613
-TASK-0613,Publish intranet announcement,Governance,David Wagner,2026-05-26,Normal,In progress,EVT-0614
-TASK-0614,Prepare registration form,Governance,Clara Neumann,2026-05-31,Normal,In progress,EVT-0615
-TASK-0615,Confirm catering numbers,Newsletter,Amira Fischer,2026-06-05,Normal,To do,EVT-0616
-TASK-0616,Share post-event survey,Newsletter,Jonas Wolf,2026-06-10,Normal,In progress,EVT-0617
-TASK-0617,Update HR information page,Governance,Lea Hoffmann,2026-06-15,Normal,In progress,EVT-0618
-TASK-0618,Check AV equipment,HR marketing,Mateo Koch,2026-06-20,Normal,To do,EVT-0619
-TASK-0619,Prepare leadership talking points,Internal event,Sofia Weber,2026-06-25,Low,In progress,EVT-0620
-TASK-0620,Send calendar hold,Newsletter,Noah Richter,2026-06-30,Normal,To do,EVT-0621
-TASK-0621,Review careers brochure,HR marketing,Mila Schmidt,2026-07-05,High,In progress,EVT-0622
-TASK-0622,Request accessibility requirements,Internal event,Elias Schulz,2026-07-10,High,Done,EVT-0623
-TASK-0623,Archive approved assets,Governance,Zara Bauer,2026-07-15,Low,To do,EVT-0624
-TASK-0624,Confirm venue availability,Intranet,Luca Meyer,2026-07-20,High,Done,EVT-0625
-TASK-0625,Review newsletter draft,Governance,Freya Keller,2026-07-25,Low,In progress,EVT-0626
-TASK-0626,Collect department highlights,Intranet,Theo Becker,2026-07-30,Low,Done,EVT-0627
-TASK-0627,Approve event invitation,Newsletter,Nina Braun,2026-08-04,Normal,Done,EVT-0628
-TASK-0628,Reconcile supplier invoice,Intranet,Ava Wagner,2026-08-09,Low,In progress,EVT-0629
-TASK-0629,Publish intranet announcement,Internal event,Emil Neumann,2026-08-14,Normal,In progress,EVT-0630
-TASK-0630,Prepare registration form,HR marketing,Maya Fischer,2026-08-19,High,In progress,EVT-0631
-TASK-0631,Confirm catering numbers,HR marketing,Felix Wolf,2026-08-24,Normal,To do,EVT-0632
-TASK-0632,Share post-event survey,HR marketing,Ines Hoffmann,2026-08-29,Normal,Waiting,EVT-0633
-TASK-0633,Update HR information page,Governance,David Koch,2026-09-03,Normal,Done,EVT-0634
-TASK-0634,Check AV equipment,Intranet,Clara Weber,2026-09-08,Normal,Waiting,EVT-0635
-TASK-0635,Prepare leadership talking points,HR marketing,Amira Richter,2026-09-13,Low,To do,EVT-0636
-TASK-0636,Send calendar hold,Newsletter,Jonas Schmidt,2026-09-18,High,Done,EVT-0637
-TASK-0637,Review careers brochure,HR marketing,Lea Schulz,2026-09-23,Normal,To do,EVT-0638
-TASK-0638,Request accessibility requirements,Governance,Mateo Bauer,2026-09-28,High,To do,EVT-0639
-TASK-0639,Archive approved assets,Intranet,Sofia Meyer,2026-10-03,Normal,To do,EVT-0640
-TASK-0640,Confirm venue availability,Internal event,Noah Keller,2026-10-08,Normal,In progress,EVT-0641
-TASK-0641,Review newsletter draft,Intranet,Mila Becker,2026-10-13,Normal,Done,EVT-0642
-TASK-0642,Collect department highlights,Newsletter,Elias Braun,2026-10-18,Normal,In progress,EVT-0643
-TASK-0643,Approve event invitation,Internal event,Zara Wagner,2026-10-23,High,Done,EVT-0644
-TASK-0644,Reconcile supplier invoice,Internal event,Luca Neumann,2026-10-28,High,In progress,EVT-0645
-TASK-0645,Publish intranet announcement,HR marketing,Freya Fischer,2026-11-02,Low,Done,EVT-0646
-TASK-0646,Prepare registration form,HR marketing,Theo Wolf,2026-11-07,Normal,In progress,EVT-0647
-TASK-0647,Confirm catering numbers,Newsletter,Nina Hoffmann,2026-11-12,Normal,To do,EVT-0648
-TASK-0648,Share post-event survey,Newsletter,Ava Koch,2026-11-17,Low,Done,EVT-0649
-TASK-0649,Update HR information page,Newsletter,Emil Weber,2026-11-22,Low,In progress,EVT-0650
-TASK-0650,Check AV equipment,Intranet,Maya Richter,2026-11-27,Normal,To do,EVT-0001
+﻿Task_ID,Workstream,Task,Owner,Department,Due_Date,Priority,Status,Completion_Pct,Dependency,Related_Event_ID,Last_Updated
+TSK-0001,SharePoint,Draft copy 001,Lea Schneider,Engineering,2026-09-30,Medium,Waiting for review,90,Budget approval,EVT-0399,2026-09-30
+TSK-0002,Newsletter,Review accessibility 002,Lea Schneider,Finance,2027-01-28,Low,On hold,0,Budget approval,EVT-0264,2027-01-27
+TSK-0003,Annual Celebration,Confirm owner 003,Nina Krüger,Engineering,2027-03-24,High,Complete,100,Content approval,EVT-0391,2027-03-14
+TSK-0004,Internal communications,Send invitation 004,David Neumann,Marketing,2026-03-06,High,Waiting for review,90,None,EVT-0584,2026-02-25
+TSK-0005,Supplier coordination,Request supplier quote 005,Paul Wolf,People and Culture,2026-02-04,Low,Not started,0,Venue confirmation,EVT-0148,2026-01-27
+TSK-0006,Careers Fair,Approve budget 006,Sofia Wagner,People and Culture,2026-09-05,High,Not started,0,Budget approval,EVT-0386,2026-09-03
+TSK-0007,Annual Celebration,Prepare feedback survey 007,Luca Hartmann,People and Culture,2026-09-22,High,Complete,100,None,EVT-0095,2026-09-19
+TSK-0008,SharePoint,Review accessibility 008,Mila Fischer,Site Management,2027-06-28,Medium,Complete,100,Venue confirmation,EVT-0452,2027-06-20
+TSK-0009,Internal communications,Reconcile attendance 009,Sara Özdemir,Marketing,2027-03-17,Medium,Complete,100,Supplier response,EVT-0580,2027-03-10
+TSK-0010,Newsletter,Confirm owner 010,Adam Nowak,Site Management,2027-08-23,Low,Waiting for review,90,None,EVT-0028,2027-08-17
+TSK-0011,Careers Fair,Reconcile attendance 011,Paul Wolf,Marketing,2026-08-09,Low,Waiting for review,90,None,EVT-0167,2026-08-05
+TSK-0012,Annual Celebration,Archive final material 012,Omar Haddad,Product,2026-05-03,Low,In progress,25,Content approval,EVT-0532,2026-04-27
+TSK-0013,Annual Celebration,Send invitation 013,Omar Haddad,People and Culture,2027-02-07,High,On hold,50,None,EVT-0320,2027-02-01
+TSK-0014,Internal communications,Send invitation 014,Jonas Weber,People and Culture,2027-04-12,Low,Not started,0,Venue confirmation,EVT-0382,2027-04-08
+TSK-0015,Newsletter,Prepare feedback survey 015,David Neumann,Finance,2026-03-23,High,Complete,100,Content approval,EVT-0054,2026-03-13
+TSK-0016,Annual Celebration,Request supplier quote 016,Lea Schneider,Engineering,2026-06-25,High,Complete,100,Supplier response,EVT-0499,2026-06-15
+TSK-0017,Careers Fair,Reconcile attendance 017,Hannah Lange,Site Management,2026-07-28,Low,In progress,25,Content approval,EVT-0360,2026-07-19
+TSK-0018,SharePoint,Archive final material 018,Jonas Weber,Product,2026-07-22,Medium,Not started,0,Venue confirmation,EVT-0394,2026-07-17
+TSK-0019,Newsletter,Draft copy 019,Hannah Lange,Site Management,2027-07-11,High,Complete,100,None,EVT-0336,2027-07-11
+TSK-0020,Internal communications,Request supplier quote 020,Emil Hoffmann,People and Culture,2027-03-21,Medium,In progress,50,None,EVT-0138,2027-03-09
+TSK-0021,Careers Fair,Prepare feedback survey 021,Sara Özdemir,Product,2026-05-06,High,Waiting for review,90,Content approval,EVT-0420,2026-04-26
+TSK-0022,SharePoint,Draft copy 022,Hannah Lange,People and Culture,2027-10-19,High,On hold,50,Venue confirmation,EVT-0162,2027-10-09
+TSK-0023,SharePoint,Archive final material 023,Mila Fischer,Customer Support,2027-09-25,High,Complete,100,Budget approval,EVT-0319,2027-09-14
+TSK-0024,Newsletter,Draft copy 024,Hannah Lange,Finance,2027-05-22,Medium,In progress,25,Supplier response,EVT-0408,2027-05-13
+TSK-0025,SharePoint,Draft copy 025,Luca Hartmann,Engineering,2027-12-07,High,On hold,50,Venue confirmation,EVT-0089,2027-11-29
+TSK-0026,Careers Fair,Reconcile attendance 026,Amira Yilmaz,Marketing,2026-08-27,High,Complete,100,Supplier response,EVT-0364,2026-08-24
+TSK-0027,SharePoint,Update page content 027,Nina Krüger,Customer Support,2026-08-04,Medium,On hold,50,Content approval,EVT-0120,2026-08-01
+TSK-0028,Newsletter,Review accessibility 028,Emil Hoffmann,Sales,2027-01-30,High,Not started,0,Budget approval,EVT-0094,2027-01-19
+TSK-0029,SharePoint,Send invitation 029,Hannah Lange,Marketing,2027-08-26,Medium,Waiting for review,90,Content approval,EVT-0517,2027-08-25
+TSK-0030,Internal communications,Prepare feedback survey 030,Elena Richter,Marketing,2026-12-04,Medium,On hold,50,Budget approval,EVT-0649,2026-12-02
+TSK-0031,Annual Celebration,Confirm owner 031,Mila Fischer,Site Management,2027-02-25,Medium,On hold,25,Supplier response,EVT-0576,2027-02-23
+TSK-0032,Supplier coordination,Archive final material 032,Luca Hartmann,Product,2026-08-16,Medium,Waiting for review,90,None,EVT-0075,2026-08-09
+TSK-0033,Supplier coordination,Send invitation 033,Sofia Wagner,Engineering,2027-01-28,High,Not started,0,Supplier response,EVT-0214,2027-01-26
+TSK-0034,Annual Celebration,Approve budget 034,Amira Yilmaz,People and Culture,2027-02-04,High,Not started,0,Supplier response,EVT-0048,2027-01-27
+TSK-0035,Newsletter,Send invitation 035,Clara Schmitt,Customer Support,2027-05-17,High,On hold,0,Supplier response,EVT-0322,2027-05-08
+TSK-0036,SharePoint,Update page content 036,Lea Schneider,Product,2027-05-21,Medium,Complete,100,None,EVT-0639,2027-05-19
+TSK-0037,Supplier coordination,Prepare feedback survey 037,Emil Hoffmann,Finance,2027-11-25,Medium,Not started,0,Content approval,EVT-0009,2027-11-15
+TSK-0038,SharePoint,Reconcile attendance 038,David Neumann,Site Management,2026-01-18,High,On hold,25,Supplier response,EVT-0403,2026-01-15
+TSK-0039,Annual Celebration,Prepare feedback survey 039,Mia Schulz,Sales,2027-05-08,High,On hold,0,None,EVT-0286,2027-04-27
+TSK-0040,SharePoint,Approve budget 040,Noah Becker,Marketing,2026-03-02,Medium,Not started,0,Budget approval,EVT-0012,2026-02-19
+TSK-0041,Newsletter,Confirm owner 041,David Neumann,Marketing,2027-08-04,Low,On hold,50,Venue confirmation,EVT-0243,2027-07-25
+TSK-0042,Annual Celebration,Review accessibility 042,Sara Özdemir,Customer Support,2026-02-04,Low,Waiting for review,90,Venue confirmation,EVT-0570,2026-02-01
+TSK-0043,Newsletter,Request supplier quote 043,Nina Krüger,Engineering,2027-11-25,High,Waiting for review,90,Budget approval,EVT-0063,2027-11-13
+TSK-0044,Newsletter,Update page content 044,Amira Yilmaz,People and Culture,2026-03-20,Low,Waiting for review,90,Supplier response,EVT-0341,2026-03-20
+TSK-0045,Annual Celebration,Send invitation 045,Felix Braun,Finance,2026-11-20,Low,Complete,100,Budget approval,EVT-0639,2026-11-17
+TSK-0046,Supplier coordination,Send invitation 046,Mila Fischer,Customer Support,2026-02-19,Medium,On hold,25,Supplier response,EVT-0191,2026-02-19
+TSK-0047,SharePoint,Approve budget 047,Noah Becker,Sales,2026-03-19,Medium,Complete,100,Content approval,EVT-0642,2026-03-16
+TSK-0048,Careers Fair,Send invitation 048,Sara Özdemir,Marketing,2026-08-25,High,On hold,25,Venue confirmation,EVT-0305,2026-08-18
+TSK-0049,Careers Fair,Draft copy 049,Adam Nowak,People and Culture,2026-06-28,High,In progress,75,None,EVT-0055,2026-06-21
+TSK-0050,SharePoint,Draft copy 050,Mila Fischer,Product,2027-07-30,High,Complete,100,None,EVT-0254,2027-07-21
+TSK-0051,Internal communications,Prepare feedback survey 051,Omar Haddad,Site Management,2027-06-26,Medium,Waiting for review,90,Content approval,EVT-0230,2027-06-26
+TSK-0052,Newsletter,Request supplier quote 052,Clara Schmitt,Site Management,2027-02-22,High,Waiting for review,90,Supplier response,EVT-0057,2027-02-10
+TSK-0053,Supplier coordination,Approve budget 053,Noah Becker,Marketing,2026-03-26,Low,Not started,0,Budget approval,EVT-0601,2026-03-14
+TSK-0054,Careers Fair,Draft copy 054,Omar Haddad,Marketing,2026-12-25,Low,Complete,100,Budget approval,EVT-0422,2026-12-21
+TSK-0055,Newsletter,Send invitation 055,David Neumann,Marketing,2026-01-16,High,Complete,100,Venue confirmation,EVT-0531,2026-01-10
+TSK-0056,Newsletter,Draft copy 056,Sara Özdemir,Product,2026-08-15,High,On hold,50,None,EVT-0235,2026-08-12
+TSK-0057,Newsletter,Prepare feedback survey 057,Luca Hartmann,Engineering,2026-06-05,Medium,In progress,75,Content approval,EVT-0191,2026-05-24
+TSK-0058,Supplier coordination,Reconcile attendance 058,Mila Fischer,Customer Support,2026-08-08,Medium,Not started,0,Content approval,EVT-0407,2026-07-31
+TSK-0059,Careers Fair,Prepare feedback survey 059,Elena Richter,Engineering,2026-04-15,High,Waiting for review,90,Venue confirmation,EVT-0109,2026-04-14
+TSK-0060,Newsletter,Draft copy 060,Elena Richter,Engineering,2027-06-25,Medium,On hold,50,Supplier response,EVT-0002,2027-06-18
+TSK-0061,Careers Fair,Confirm owner 061,Sara Özdemir,People and Culture,2026-07-04,Low,Waiting for review,90,Budget approval,EVT-0318,2026-06-26
+TSK-0062,Internal communications,Reconcile attendance 062,Luca Hartmann,Sales,2027-11-15,Low,Waiting for review,90,Venue confirmation,EVT-0327,2027-11-14
+TSK-0063,Careers Fair,Update page content 063,Elena Richter,Product,2026-12-26,Medium,On hold,25,Supplier response,EVT-0217,2026-12-17
+TSK-0064,Careers Fair,Approve budget 064,Mila Fischer,Sales,2027-01-26,Low,Not started,0,Venue confirmation,EVT-0484,2027-01-23
+TSK-0065,Annual Celebration,Approve budget 065,Sofia Wagner,People and Culture,2027-02-06,Low,Not started,0,Content approval,EVT-0198,2027-02-05
+TSK-0066,Newsletter,Prepare feedback survey 066,Felix Braun,Finance,2026-05-30,High,In progress,50,Content approval,EVT-0271,2026-05-30
+TSK-0067,Newsletter,Send invitation 067,David Neumann,Finance,2027-01-20,Low,Not started,0,Budget approval,EVT-0024,2027-01-11
+TSK-0068,Careers Fair,Review accessibility 068,Mia Schulz,Sales,2026-01-03,Low,On hold,50,Budget approval,EVT-0389,2025-12-27
+TSK-0069,Internal communications,Send invitation 069,Leon Koch,Engineering,2027-11-28,Low,Not started,0,Budget approval,EVT-0255,2027-11-24
+TSK-0070,Supplier coordination,Review accessibility 070,Jonas Weber,Product,2026-06-24,Low,Not started,0,None,EVT-0004,2026-06-13
+TSK-0071,Annual Celebration,Draft copy 071,Mila Fischer,Customer Support,2026-07-21,Low,On hold,0,Venue confirmation,EVT-0195,2026-07-19
+TSK-0072,Annual Celebration,Request supplier quote 072,David Neumann,People and Culture,2027-05-16,Low,In progress,50,Content approval,EVT-0468,2027-05-09
+TSK-0073,Supplier coordination,Draft copy 073,David Neumann,Engineering,2026-12-23,Low,In progress,75,None,EVT-0512,2026-12-23
+TSK-0074,Supplier coordination,Approve budget 074,David Neumann,People and Culture,2026-07-12,Low,Waiting for review,90,Supplier response,EVT-0072,2026-07-02
+TSK-0075,Newsletter,Reconcile attendance 075,Mia Schulz,Customer Support,2027-02-05,High,Not started,0,Supplier response,EVT-0627,2027-01-26
+TSK-0076,SharePoint,Reconcile attendance 076,Sara Özdemir,Site Management,2027-11-11,Low,On hold,25,None,EVT-0096,2027-11-09
+TSK-0077,Annual Celebration,Update page content 077,Adam Nowak,Finance,2027-10-09,Medium,Waiting for review,90,Content approval,EVT-0333,2027-10-09
+TSK-0078,Supplier coordination,Prepare feedback survey 078,Clara Schmitt,People and Culture,2026-11-06,Medium,Not started,0,Venue confirmation,EVT-0370,2026-10-27
+TSK-0079,Internal communications,Approve budget 079,Elena Richter,Site Management,2027-12-01,Medium,Waiting for review,90,Venue confirmation,EVT-0079,2027-11-21
+TSK-0080,Supplier coordination,Reconcile attendance 080,Paul Wolf,Marketing,2027-01-31,High,Not started,0,None,EVT-0356,2027-01-26
+TSK-0081,Newsletter,Draft copy 081,Mila Fischer,Site Management,2027-06-25,Low,On hold,50,Content approval,EVT-0320,2027-06-20
+TSK-0082,Internal communications,Reconcile attendance 082,Paul Wolf,Customer Support,2026-03-13,High,In progress,75,None,EVT-0344,2026-03-13
+TSK-0083,SharePoint,Confirm owner 083,Lea Schneider,Sales,2026-01-11,Medium,In progress,25,None,EVT-0647,2026-01-02
+TSK-0084,Careers Fair,Archive final material 084,Adam Nowak,Sales,2027-07-24,Low,Not started,0,None,EVT-0027,2027-07-24
+TSK-0085,Internal communications,Approve budget 085,Emil Hoffmann,Sales,2027-01-29,Medium,In progress,25,Content approval,EVT-0003,2027-01-25
+TSK-0086,Newsletter,Prepare feedback survey 086,Nina Krüger,Marketing,2026-03-12,High,Waiting for review,90,None,EVT-0435,2026-03-08
+TSK-0087,Careers Fair,Approve budget 087,Emil Hoffmann,Sales,2026-01-02,High,Complete,100,None,EVT-0413,2025-12-22
+TSK-0088,Supplier coordination,Send invitation 088,Mila Fischer,Sales,2026-03-24,High,In progress,75,Venue confirmation,EVT-0010,2026-03-13
+TSK-0089,Newsletter,Update page content 089,Noah Becker,Customer Support,2026-01-25,Low,Waiting for review,90,Venue confirmation,EVT-0103,2026-01-17
+TSK-0090,Internal communications,Draft copy 090,Noah Becker,Engineering,2026-12-13,Medium,Not started,0,Supplier response,EVT-0594,2026-12-06
+TSK-0091,Newsletter,Archive final material 091,Lea Schneider,Customer Support,2027-11-07,High,Not started,0,Supplier response,EVT-0473,2027-11-07
+TSK-0092,Careers Fair,Prepare feedback survey 092,Emil Hoffmann,Marketing,2026-01-21,High,Waiting for review,90,Content approval,EVT-0642,2026-01-13
+TSK-0093,SharePoint,Send invitation 093,Leon Koch,Finance,2026-04-13,High,Waiting for review,90,Supplier response,EVT-0379,2026-04-13
+TSK-0094,Careers Fair,Review accessibility 094,Omar Haddad,Site Management,2027-06-17,High,Not started,0,Content approval,EVT-0447,2027-06-07
+TSK-0095,Careers Fair,Send invitation 095,Noah Becker,Site Management,2027-12-22,Low,On hold,50,None,EVT-0111,2027-12-14
+TSK-0096,Newsletter,Prepare feedback survey 096,David Neumann,Engineering,2026-04-17,Medium,On hold,0,None,EVT-0479,2026-04-07
+TSK-0097,Supplier coordination,Send invitation 097,Jonas Weber,People and Culture,2026-02-23,High,Complete,100,Content approval,EVT-0204,2026-02-17
+TSK-0098,Careers Fair,Update page content 098,Felix Braun,Engineering,2026-11-24,Low,In progress,50,Supplier response,EVT-0460,2026-11-19
+TSK-0099,Supplier coordination,Approve budget 099,Noah Becker,Product,2026-01-22,High,Complete,100,Content approval,EVT-0105,2026-01-22
+TSK-0100,Newsletter,Draft copy 100,Jonas Weber,Sales,2026-11-13,Medium,Complete,100,Content approval,EVT-0407,2026-11-07
+TSK-0101,Internal communications,Send invitation 101,David Neumann,Customer Support,2026-08-01,Low,Waiting for review,90,Content approval,EVT-0036,2026-07-23
+TSK-0102,Annual Celebration,Approve budget 102,David Neumann,Sales,2026-01-06,High,Waiting for review,90,Budget approval,EVT-0589,2025-12-25
+TSK-0103,SharePoint,Reconcile attendance 103,Nina Krüger,Site Management,2026-09-24,High,On hold,25,Supplier response,EVT-0308,2026-09-13
+TSK-0104,SharePoint,Approve budget 104,Noah Becker,Finance,2027-08-28,Medium,Not started,0,Supplier response,EVT-0270,2027-08-25
+TSK-0105,SharePoint,Draft copy 105,Felix Braun,People and Culture,2026-05-21,High,In progress,25,Content approval,EVT-0388,2026-05-18
+TSK-0106,Supplier coordination,Review accessibility 106,Amira Yilmaz,Finance,2026-12-12,High,Not started,0,Supplier response,EVT-0629,2026-12-06
+TSK-0107,Supplier coordination,Prepare feedback survey 107,Adam Nowak,Customer Support,2026-10-19,Low,In progress,75,Venue confirmation,EVT-0111,2026-10-10
+TSK-0108,Newsletter,Archive final material 108,Leon Koch,Sales,2026-09-09,Low,Not started,0,None,EVT-0141,2026-09-09
+TSK-0109,SharePoint,Approve budget 109,Amira Yilmaz,Sales,2026-04-27,Low,Complete,100,Venue confirmation,EVT-0210,2026-04-15
+TSK-0110,Careers Fair,Request supplier quote 110,Mia Schulz,Customer Support,2026-12-14,Low,Waiting for review,90,Venue confirmation,EVT-0313,2026-12-07
+TSK-0111,Supplier coordination,Confirm owner 111,Jonas Weber,Finance,2027-04-22,Medium,In progress,50,Budget approval,EVT-0107,2027-04-19
+TSK-0112,Annual Celebration,Send invitation 112,Jonas Weber,Sales,2026-09-16,Low,Complete,100,Supplier response,EVT-0179,2026-09-11
+TSK-0113,Careers Fair,Send invitation 113,Mila Fischer,People and Culture,2027-07-03,High,In progress,75,Content approval,EVT-0416,2027-06-27
+TSK-0114,Annual Celebration,Prepare feedback survey 114,Paul Wolf,Customer Support,2027-03-01,Low,Complete,100,None,EVT-0430,2027-02-27
+TSK-0115,Annual Celebration,Send invitation 115,Elena Richter,People and Culture,2027-07-13,High,Complete,100,Budget approval,EVT-0498,2027-07-09
+TSK-0116,Supplier coordination,Archive final material 116,Omar Haddad,Marketing,2026-09-18,High,Not started,0,Supplier response,EVT-0115,2026-09-11
+TSK-0117,Supplier coordination,Draft copy 117,Lea Schneider,Product,2026-07-06,Low,Complete,100,Content approval,EVT-0025,2026-06-27
+TSK-0118,Annual Celebration,Review accessibility 118,Sofia Wagner,Customer Support,2027-10-15,Medium,Waiting for review,90,None,EVT-0126,2027-10-11
+TSK-0119,SharePoint,Archive final material 119,David Neumann,Sales,2026-07-25,Low,On hold,50,Budget approval,EVT-0273,2026-07-17
+TSK-0120,Careers Fair,Archive final material 120,Felix Braun,Product,2026-07-10,Low,Waiting for review,90,None,EVT-0129,2026-06-30
+TSK-0121,Internal communications,Approve budget 121,Jonas Weber,People and Culture,2027-11-30,High,Waiting for review,90,Content approval,EVT-0608,2027-11-21
+TSK-0122,Annual Celebration,Reconcile attendance 122,Lea Schneider,Product,2026-09-01,Medium,Not started,0,Venue confirmation,EVT-0058,2026-08-31
+TSK-0123,Annual Celebration,Review accessibility 123,Elena Richter,Engineering,2026-04-24,High,Complete,100,None,EVT-0240,2026-04-13
+TSK-0124,Careers Fair,Prepare feedback survey 124,Sara Özdemir,Sales,2027-07-07,High,In progress,50,None,EVT-0417,2027-07-02
+TSK-0125,Careers Fair,Prepare feedback survey 125,Mila Fischer,Sales,2027-08-29,Medium,In progress,25,Content approval,EVT-0382,2027-08-29
+TSK-0126,Supplier coordination,Prepare feedback survey 126,Emil Hoffmann,Finance,2026-05-01,Low,Complete,100,Content approval,EVT-0255,2026-04-27
+TSK-0127,SharePoint,Send invitation 127,Sara Özdemir,Finance,2026-03-18,Medium,Not started,0,Content approval,EVT-0322,2026-03-07
+TSK-0128,Careers Fair,Send invitation 128,Clara Schmitt,Customer Support,2027-01-26,High,Waiting for review,90,Supplier response,EVT-0090,2027-01-25
+TSK-0129,Internal communications,Archive final material 129,Amira Yilmaz,Marketing,2026-05-05,Medium,Waiting for review,90,Supplier response,EVT-0394,2026-04-23
+TSK-0130,SharePoint,Archive final material 130,Clara Schmitt,People and Culture,2026-04-26,High,On hold,0,Venue confirmation,EVT-0516,2026-04-25
+TSK-0131,Newsletter,Archive final material 131,Emil Hoffmann,Marketing,2027-06-28,High,Not started,0,Venue confirmation,EVT-0326,2027-06-19
+TSK-0132,Supplier coordination,Confirm owner 132,Mia Schulz,Sales,2027-04-29,Medium,Waiting for review,90,Supplier response,EVT-0314,2027-04-23
+TSK-0133,Supplier coordination,Draft copy 133,Felix Braun,Sales,2026-04-22,High,On hold,0,Supplier response,EVT-0603,2026-04-16
+TSK-0134,Supplier coordination,Update page content 134,Lea Schneider,Product,2026-09-12,Medium,On hold,25,Venue confirmation,EVT-0451,2026-09-08
+TSK-0135,Newsletter,Draft copy 135,Elena Richter,Customer Support,2026-11-22,High,Not started,0,Content approval,EVT-0343,2026-11-10
+TSK-0136,Annual Celebration,Prepare feedback survey 136,Felix Braun,Product,2027-05-02,High,In progress,75,Venue confirmation,EVT-0606,2027-04-30
+TSK-0137,Supplier coordination,Request supplier quote 137,Leon Koch,Engineering,2026-03-24,High,Not started,0,Content approval,EVT-0053,2026-03-20
+TSK-0138,Annual Celebration,Reconcile attendance 138,Adam Nowak,Marketing,2026-12-01,High,In progress,75,Venue confirmation,EVT-0521,2026-11-24
+TSK-0139,Newsletter,Reconcile attendance 139,Jonas Weber,Customer Support,2027-08-29,High,Complete,100,Venue confirmation,EVT-0138,2027-08-19
+TSK-0140,SharePoint,Request supplier quote 140,Lea Schneider,Marketing,2026-10-21,Low,In progress,25,Venue confirmation,EVT-0135,2026-10-14
+TSK-0141,Annual Celebration,Confirm owner 141,Omar Haddad,Finance,2026-12-29,Medium,In progress,50,Content approval,EVT-0648,2026-12-17
+TSK-0142,Newsletter,Approve budget 142,Leon Koch,Customer Support,2026-11-22,Medium,Complete,100,None,EVT-0117,2026-11-16
+TSK-0143,Internal communications,Request supplier quote 143,Jonas Weber,Customer Support,2026-05-28,Low,On hold,0,Content approval,EVT-0290,2026-05-20
+TSK-0144,Careers Fair,Prepare feedback survey 144,Nina Krüger,People and Culture,2026-12-28,Medium,Complete,100,Supplier response,EVT-0326,2026-12-16
+TSK-0145,Careers Fair,Prepare feedback survey 145,Luca Hartmann,Sales,2026-02-24,Medium,On hold,25,Venue confirmation,EVT-0299,2026-02-21
+TSK-0146,Internal communications,Send invitation 146,Lea Schneider,Sales,2027-08-19,Medium,Not started,0,Budget approval,EVT-0042,2027-08-15
+TSK-0147,Supplier coordination,Approve budget 147,Leon Koch,Marketing,2027-01-02,Low,Waiting for review,90,Content approval,EVT-0349,2026-12-22
+TSK-0148,SharePoint,Confirm owner 148,Luca Hartmann,Customer Support,2026-04-30,High,Waiting for review,90,Venue confirmation,EVT-0049,2026-04-19
+TSK-0149,Supplier coordination,Approve budget 149,Amira Yilmaz,Finance,2026-10-05,Medium,Complete,100,Budget approval,EVT-0022,2026-09-25
+TSK-0150,Supplier coordination,Reconcile attendance 150,Sara Özdemir,Customer Support,2027-06-06,Low,Not started,0,Budget approval,EVT-0619,2027-05-27
+TSK-0151,SharePoint,Draft copy 151,Lea Schneider,Customer Support,2026-09-06,Low,In progress,75,Venue confirmation,EVT-0419,2026-08-29
+TSK-0152,Annual Celebration,Reconcile attendance 152,Paul Wolf,Engineering,2027-04-28,Low,Complete,100,Supplier response,EVT-0517,2027-04-27
+TSK-0153,Internal communications,Archive final material 153,Emil Hoffmann,Finance,2027-10-22,Low,Waiting for review,90,Supplier response,EVT-0290,2027-10-11
+TSK-0154,SharePoint,Send invitation 154,Felix Braun,Finance,2027-10-29,High,Complete,100,Venue confirmation,EVT-0084,2027-10-27
+TSK-0155,Newsletter,Request supplier quote 155,Felix Braun,People and Culture,2026-02-14,Medium,In progress,50,Content approval,EVT-0148,2026-02-10
+TSK-0156,Careers Fair,Update page content 156,Clara Schmitt,Finance,2027-07-30,High,On hold,50,None,EVT-0585,2027-07-24
+TSK-0157,Careers Fair,Request supplier quote 157,Emil Hoffmann,Site Management,2026-02-28,Low,Complete,100,Budget approval,EVT-0278,2026-02-22
+TSK-0158,Newsletter,Confirm owner 158,Sofia Wagner,Product,2026-07-14,Low,Waiting for review,90,Supplier response,EVT-0084,2026-07-14
+TSK-0159,Annual Celebration,Draft copy 159,Hannah Lange,Customer Support,2027-05-16,Medium,On hold,25,Budget approval,EVT-0433,2027-05-13
+TSK-0160,Newsletter,Archive final material 160,Clara Schmitt,Finance,2027-12-17,High,Waiting for review,90,Venue confirmation,EVT-0189,2027-12-11
+TSK-0161,Careers Fair,Reconcile attendance 161,Nina Krüger,Customer Support,2027-09-11,Medium,Not started,0,Supplier response,EVT-0029,2027-09-11
+TSK-0162,Supplier coordination,Update page content 162,Mila Fischer,Engineering,2027-12-28,Low,Not started,0,Budget approval,EVT-0137,2027-12-19
+TSK-0163,Newsletter,Draft copy 163,Mila Fischer,Marketing,2027-02-20,High,In progress,75,Content approval,EVT-0306,2027-02-20
+TSK-0164,Newsletter,Approve budget 164,Hannah Lange,People and Culture,2026-08-29,Medium,Not started,0,Venue confirmation,EVT-0066,2026-08-29
+TSK-0165,Annual Celebration,Send invitation 165,Mia Schulz,Site Management,2026-11-10,High,Waiting for review,90,Supplier response,EVT-0328,2026-11-08
+TSK-0166,Careers Fair,Draft copy 166,Elena Richter,Marketing,2027-11-12,Low,On hold,25,None,EVT-0462,2027-11-01
+TSK-0167,SharePoint,Request supplier quote 167,Lea Schneider,Customer Support,2027-03-30,Low,In progress,75,Supplier response,EVT-0555,2027-03-27
+TSK-0168,Supplier coordination,Send invitation 168,Elena Richter,Customer Support,2027-08-13,High,Waiting for review,90,Budget approval,EVT-0382,2027-08-03
+TSK-0169,Annual Celebration,Confirm owner 169,Paul Wolf,Marketing,2027-11-02,Low,Complete,100,Venue confirmation,EVT-0259,2027-10-30
+TSK-0170,Newsletter,Send invitation 170,Amira Yilmaz,Site Management,2026-07-26,Medium,Waiting for review,90,None,EVT-0361,2026-07-20
+TSK-0171,SharePoint,Review accessibility 171,Lea Schneider,People and Culture,2027-06-28,Medium,In progress,75,Content approval,EVT-0127,2027-06-26
+TSK-0172,Careers Fair,Send invitation 172,Leon Koch,Sales,2026-06-14,High,Not started,0,Budget approval,EVT-0120,2026-06-05
+TSK-0173,Supplier coordination,Approve budget 173,David Neumann,Engineering,2027-11-06,Low,Not started,0,None,EVT-0227,2027-10-26
+TSK-0174,SharePoint,Archive final material 174,Sara Özdemir,Product,2026-09-04,Low,Waiting for review,90,None,EVT-0152,2026-08-30
+TSK-0175,Annual Celebration,Draft copy 175,Elena Richter,Product,2026-12-23,Low,Not started,0,Content approval,EVT-0533,2026-12-15
+TSK-0176,SharePoint,Send invitation 176,Adam Nowak,Product,2026-11-07,High,In progress,75,Venue confirmation,EVT-0251,2026-10-31
+TSK-0177,Supplier coordination,Review accessibility 177,Nina Krüger,Product,2026-03-14,High,Complete,100,Budget approval,EVT-0645,2026-03-12
+TSK-0178,Supplier coordination,Prepare feedback survey 178,Paul Wolf,Product,2027-08-12,Medium,Waiting for review,90,Venue confirmation,EVT-0642,2027-08-02
+TSK-0179,Annual Celebration,Send invitation 179,David Neumann,Engineering,2026-11-21,High,Not started,0,Content approval,EVT-0122,2026-11-17
+TSK-0180,Annual Celebration,Review accessibility 180,Hannah Lange,Sales,2026-05-22,Low,Complete,100,Budget approval,EVT-0607,2026-05-11
+TSK-0181,Annual Celebration,Send invitation 181,Felix Braun,Product,2027-08-29,High,On hold,0,Venue confirmation,EVT-0408,2027-08-22
+TSK-0182,SharePoint,Approve budget 182,Nina Krüger,Sales,2027-09-26,Low,Complete,100,Supplier response,EVT-0265,2027-09-21
+TSK-0183,Newsletter,Update page content 183,Adam Nowak,Engineering,2027-01-08,Low,Complete,100,Venue confirmation,EVT-0040,2026-12-28
+TSK-0184,Supplier coordination,Send invitation 184,Amira Yilmaz,Engineering,2027-08-17,Low,Complete,100,Venue confirmation,EVT-0476,2027-08-15
+TSK-0185,Supplier coordination,Reconcile attendance 185,Sara Özdemir,Sales,2027-01-02,Low,Not started,0,Supplier response,EVT-0521,2026-12-27
+TSK-0186,Internal communications,Send invitation 186,David Neumann,Finance,2026-08-28,Low,On hold,25,Content approval,EVT-0465,2026-08-16
+TSK-0187,Careers Fair,Draft copy 187,Emil Hoffmann,Sales,2027-01-14,High,In progress,75,Supplier response,EVT-0283,2027-01-10
+TSK-0188,Annual Celebration,Draft copy 188,Hannah Lange,Marketing,2026-06-07,Low,Not started,0,None,EVT-0079,2026-05-28
+TSK-0189,Internal communications,Archive final material 189,Nina Krüger,Product,2026-08-10,Medium,On hold,25,Content approval,EVT-0266,2026-08-09
+TSK-0190,Annual Celebration,Archive final material 190,Luca Hartmann,Sales,2026-06-07,Low,Not started,0,Budget approval,EVT-0212,2026-05-30
+TSK-0191,Internal communications,Review accessibility 191,Sofia Wagner,Marketing,2027-07-01,High,Waiting for review,90,None,EVT-0293,2027-07-01
+TSK-0192,SharePoint,Prepare feedback survey 192,Paul Wolf,Site Management,2027-02-18,Low,Waiting for review,90,None,EVT-0071,2027-02-12
+TSK-0193,Annual Celebration,Confirm owner 193,Adam Nowak,Finance,2026-05-03,High,On hold,50,Venue confirmation,EVT-0348,2026-04-29
+TSK-0194,Annual Celebration,Prepare feedback survey 194,Elena Richter,Product,2027-02-22,High,Complete,100,Supplier response,EVT-0424,2027-02-18
+TSK-0195,Annual Celebration,Approve budget 195,Adam Nowak,Sales,2027-02-25,Medium,Not started,0,None,EVT-0141,2027-02-15
+TSK-0196,Annual Celebration,Approve budget 196,Paul Wolf,Product,2027-07-24,High,Complete,100,Supplier response,EVT-0056,2027-07-22
+TSK-0197,Supplier coordination,Send invitation 197,Emil Hoffmann,Sales,2026-08-11,Low,Not started,0,Venue confirmation,EVT-0103,2026-08-06
+TSK-0198,Supplier coordination,Send invitation 198,Elena Richter,Customer Support,2026-01-17,High,Complete,100,Venue confirmation,EVT-0157,2026-01-12
+TSK-0199,Supplier coordination,Review accessibility 199,Hannah Lange,Site Management,2027-10-18,Medium,In progress,75,Supplier response,EVT-0472,2027-10-10
+TSK-0200,Annual Celebration,Confirm owner 200,Hannah Lange,Site Management,2027-12-26,Medium,Complete,100,Budget approval,EVT-0170,2027-12-25
+TSK-0201,Internal communications,Archive final material 201,Nina Krüger,Customer Support,2027-10-10,High,On hold,0,Venue confirmation,EVT-0167,2027-09-28
+TSK-0202,Supplier coordination,Draft copy 202,Adam Nowak,Customer Support,2027-11-11,Medium,On hold,0,Venue confirmation,EVT-0515,2027-11-03
+TSK-0203,SharePoint,Update page content 203,Adam Nowak,Finance,2026-03-14,Low,Complete,100,Content approval,EVT-0361,2026-03-12
+TSK-0204,Annual Celebration,Update page content 204,Noah Becker,Customer Support,2027-07-28,High,On hold,25,Supplier response,EVT-0159,2027-07-22
+TSK-0205,Annual Celebration,Update page content 205,Leon Koch,Marketing,2027-06-09,High,Waiting for review,90,Supplier response,EVT-0307,2027-05-30
+TSK-0206,Supplier coordination,Draft copy 206,Mia Schulz,Sales,2026-10-09,Low,On hold,50,Content approval,EVT-0015,2026-10-06
+TSK-0207,Internal communications,Confirm owner 207,Elena Richter,Customer Support,2026-03-09,Low,Complete,100,Supplier response,EVT-0478,2026-03-07
+TSK-0208,Annual Celebration,Update page content 208,David Neumann,Product,2026-06-04,Low,In progress,50,Supplier response,EVT-0517,2026-06-03
+TSK-0209,Careers Fair,Confirm owner 209,Clara Schmitt,Finance,2027-09-30,High,Not started,0,Budget approval,EVT-0598,2027-09-25
+TSK-0210,Annual Celebration,Send invitation 210,Paul Wolf,Site Management,2026-04-21,Medium,On hold,50,Supplier response,EVT-0545,2026-04-12
+TSK-0211,Newsletter,Request supplier quote 211,David Neumann,Sales,2026-09-20,Low,In progress,50,None,EVT-0162,2026-09-20
+TSK-0212,Newsletter,Review accessibility 212,Lea Schneider,Marketing,2026-08-28,Medium,On hold,25,None,EVT-0333,2026-08-20
+TSK-0213,Careers Fair,Draft copy 213,Hannah Lange,Finance,2027-01-03,Medium,On hold,25,None,EVT-0221,2026-12-23
+TSK-0214,Newsletter,Send invitation 214,Lea Schneider,Product,2027-03-06,High,Complete,100,Budget approval,EVT-0267,2027-02-24
+TSK-0215,Careers Fair,Archive final material 215,Felix Braun,Sales,2026-08-25,High,On hold,0,Content approval,EVT-0204,2026-08-15
+TSK-0216,Newsletter,Review accessibility 216,Emil Hoffmann,Customer Support,2026-01-19,High,Waiting for review,90,None,EVT-0190,2026-01-18
+TSK-0217,SharePoint,Archive final material 217,Jonas Weber,People and Culture,2026-03-27,Medium,In progress,75,None,EVT-0283,2026-03-21
+TSK-0218,Internal communications,Archive final material 218,Adam Nowak,Engineering,2026-08-31,Low,Waiting for review,90,Content approval,EVT-0517,2026-08-20
+TSK-0219,SharePoint,Draft copy 219,David Neumann,Sales,2026-08-07,High,Not started,0,None,EVT-0509,2026-07-27
+TSK-0220,Internal communications,Update page content 220,Emil Hoffmann,Finance,2027-06-13,Medium,Not started,0,None,EVT-0210,2027-06-09
+TSK-0221,Careers Fair,Update page content 221,Paul Wolf,Engineering,2027-12-23,Low,Not started,0,Venue confirmation,EVT-0349,2027-12-17
+TSK-0222,Careers Fair,Prepare feedback survey 222,Hannah Lange,Product,2026-12-05,High,On hold,50,Content approval,EVT-0633,2026-11-26
+TSK-0223,Internal communications,Archive final material 223,Hannah Lange,Marketing,2026-07-31,Low,On hold,0,Venue confirmation,EVT-0512,2026-07-19
+TSK-0224,Internal communications,Confirm owner 224,Amira Yilmaz,Engineering,2027-03-30,Medium,On hold,25,Supplier response,EVT-0372,2027-03-28
+TSK-0225,Internal communications,Send invitation 225,Paul Wolf,Sales,2027-10-24,High,Waiting for review,90,Budget approval,EVT-0134,2027-10-16
+TSK-0226,Newsletter,Send invitation 226,Luca Hartmann,Engineering,2027-05-30,Medium,In progress,75,Content approval,EVT-0298,2027-05-19
+TSK-0227,Newsletter,Send invitation 227,Nina Krüger,People and Culture,2027-09-04,High,In progress,50,Content approval,EVT-0020,2027-08-30
+TSK-0228,Annual Celebration,Request supplier quote 228,Sofia Wagner,Engineering,2026-05-27,High,On hold,50,Content approval,EVT-0330,2026-05-16
+TSK-0229,Careers Fair,Send invitation 229,David Neumann,Product,2027-06-29,Medium,On hold,25,None,EVT-0148,2027-06-26
+TSK-0230,Annual Celebration,Request supplier quote 230,Adam Nowak,Finance,2027-08-20,Medium,Not started,0,Venue confirmation,EVT-0124,2027-08-17
+TSK-0231,Internal communications,Archive final material 231,Sofia Wagner,Sales,2027-03-03,High,Complete,100,None,EVT-0340,2027-02-22
+TSK-0232,Careers Fair,Archive final material 232,Leon Koch,Finance,2026-05-14,Low,On hold,50,Supplier response,EVT-0060,2026-05-08
+TSK-0233,SharePoint,Send invitation 233,Jonas Weber,People and Culture,2026-10-09,High,Not started,0,Budget approval,EVT-0471,2026-09-28
+TSK-0234,SharePoint,Draft copy 234,Luca Hartmann,People and Culture,2027-01-28,Low,Waiting for review,90,Venue confirmation,EVT-0040,2027-01-23
+TSK-0235,Careers Fair,Confirm owner 235,Elena Richter,Customer Support,2027-10-15,Low,On hold,0,Content approval,EVT-0384,2027-10-10
+TSK-0236,SharePoint,Archive final material 236,Sara Özdemir,Product,2027-05-19,High,Not started,0,Content approval,EVT-0395,2027-05-10
+TSK-0237,Supplier coordination,Prepare feedback survey 237,Adam Nowak,Product,2026-04-21,High,In progress,25,Supplier response,EVT-0243,2026-04-09
+TSK-0238,Internal communications,Draft copy 238,Sofia Wagner,Site Management,2027-11-23,Medium,On hold,0,Venue confirmation,EVT-0282,2027-11-16
+TSK-0239,Supplier coordination,Request supplier quote 239,Leon Koch,Customer Support,2027-08-30,High,In progress,75,Supplier response,EVT-0572,2027-08-28
+TSK-0240,Careers Fair,Reconcile attendance 240,Hannah Lange,Engineering,2027-10-31,High,Waiting for review,90,Supplier response,EVT-0621,2027-10-22
+TSK-0241,Internal communications,Approve budget 241,Sara Özdemir,Finance,2027-01-13,Low,On hold,25,None,EVT-0311,2027-01-04
+TSK-0242,Annual Celebration,Confirm owner 242,Leon Koch,Customer Support,2027-09-06,High,Waiting for review,90,Supplier response,EVT-0406,2027-08-25
+TSK-0243,Newsletter,Confirm owner 243,Jonas Weber,People and Culture,2027-07-05,Medium,Not started,0,Budget approval,EVT-0003,2027-07-03
+TSK-0244,Internal communications,Request supplier quote 244,Clara Schmitt,Site Management,2026-08-11,High,Waiting for review,90,Supplier response,EVT-0057,2026-07-31
+TSK-0245,Internal communications,Update page content 245,Amira Yilmaz,Finance,2027-10-18,High,In progress,75,Budget approval,EVT-0448,2027-10-15
+TSK-0246,Newsletter,Approve budget 246,Lea Schneider,Product,2026-08-05,High,Not started,0,Budget approval,EVT-0218,2026-07-30
+TSK-0247,Supplier coordination,Prepare feedback survey 247,Jonas Weber,Site Management,2026-04-12,High,In progress,75,None,EVT-0629,2026-04-01
+TSK-0248,Newsletter,Reconcile attendance 248,Jonas Weber,Site Management,2027-04-04,High,Complete,100,Content approval,EVT-0258,2027-04-04
+TSK-0249,SharePoint,Archive final material 249,Sara Özdemir,Site Management,2026-10-15,Low,Not started,0,Supplier response,EVT-0534,2026-10-09
+TSK-0250,Annual Celebration,Draft copy 250,Clara Schmitt,Product,2027-03-18,Medium,Not started,0,Supplier response,EVT-0129,2027-03-16
+TSK-0251,Internal communications,Draft copy 251,Noah Becker,Marketing,2027-03-21,Medium,Complete,100,Venue confirmation,EVT-0184,2027-03-13
+TSK-0252,Supplier coordination,Review accessibility 252,Felix Braun,Site Management,2026-09-27,Medium,In progress,25,Supplier response,EVT-0392,2026-09-22
+TSK-0253,Internal communications,Confirm owner 253,Emil Hoffmann,Engineering,2027-06-27,High,Complete,100,Supplier response,EVT-0306,2027-06-23
+TSK-0254,Internal communications,Prepare feedback survey 254,Nina Krüger,Finance,2027-01-28,High,Waiting for review,90,Budget approval,EVT-0562,2027-01-22
+TSK-0255,Newsletter,Send invitation 255,Mia Schulz,Product,2027-11-10,Medium,On hold,0,None,EVT-0623,2027-11-02
+TSK-0256,Careers Fair,Confirm owner 256,Mila Fischer,Marketing,2027-12-05,High,Not started,0,Content approval,EVT-0505,2027-11-24
+TSK-0257,Annual Celebration,Request supplier quote 257,Mia Schulz,Finance,2027-07-17,High,Complete,100,None,EVT-0142,2027-07-15
+TSK-0258,Newsletter,Approve budget 258,Jonas Weber,Sales,2026-06-23,High,On hold,50,None,EVT-0492,2026-06-21
+TSK-0259,Annual Celebration,Reconcile attendance 259,Mila Fischer,Marketing,2026-12-05,High,In progress,50,Venue confirmation,EVT-0377,2026-12-01
+TSK-0260,Supplier coordination,Confirm owner 260,Mia Schulz,Engineering,2026-03-24,Low,Complete,100,Venue confirmation,EVT-0259,2026-03-20
+TSK-0261,Careers Fair,Approve budget 261,Lea Schneider,Finance,2026-10-08,Medium,Complete,100,None,EVT-0268,2026-10-02
+TSK-0262,Newsletter,Update page content 262,Jonas Weber,Customer Support,2027-07-16,Low,On hold,25,None,EVT-0176,2027-07-13
+TSK-0263,Internal communications,Archive final material 263,Sara Özdemir,Product,2026-09-14,Medium,Waiting for review,90,Supplier response,EVT-0366,2026-09-11
+TSK-0264,Newsletter,Send invitation 264,Mila Fischer,Customer Support,2026-05-15,Medium,Waiting for review,90,Venue confirmation,EVT-0638,2026-05-14
+TSK-0265,Supplier coordination,Request supplier quote 265,Leon Koch,Product,2026-06-15,Low,On hold,0,Supplier response,EVT-0054,2026-06-14
+TSK-0266,Careers Fair,Reconcile attendance 266,Lea Schneider,People and Culture,2026-06-15,Low,Not started,0,Content approval,EVT-0340,2026-06-06
+TSK-0267,Newsletter,Request supplier quote 267,Omar Haddad,Customer Support,2027-07-26,Low,Complete,100,None,EVT-0553,2027-07-14
+TSK-0268,Annual Celebration,Review accessibility 268,Jonas Weber,People and Culture,2027-07-18,Low,In progress,25,Content approval,EVT-0329,2027-07-10
+TSK-0269,Supplier coordination,Review accessibility 269,Hannah Lange,Sales,2026-06-06,Low,Complete,100,Budget approval,EVT-0170,2026-06-02
+TSK-0270,Newsletter,Reconcile attendance 270,Felix Braun,People and Culture,2027-11-29,High,Complete,100,Venue confirmation,EVT-0311,2027-11-24
+TSK-0271,Careers Fair,Reconcile attendance 271,Felix Braun,Engineering,2027-02-09,Low,Waiting for review,90,Supplier response,EVT-0341,2027-02-03
+TSK-0272,SharePoint,Send invitation 272,Clara Schmitt,Finance,2027-03-07,Low,Complete,100,None,EVT-0604,2027-03-05
+TSK-0273,Internal communications,Archive final material 273,Sara Özdemir,Site Management,2026-04-22,Low,In progress,75,Supplier response,EVT-0292,2026-04-15
+TSK-0274,Supplier coordination,Request supplier quote 274,Emil Hoffmann,Engineering,2027-07-06,Low,On hold,25,Content approval,EVT-0591,2027-07-06
+TSK-0275,Internal communications,Review accessibility 275,Noah Becker,People and Culture,2026-02-18,Medium,Not started,0,Supplier response,EVT-0192,2026-02-14
+TSK-0276,Annual Celebration,Review accessibility 276,Clara Schmitt,People and Culture,2026-06-12,Medium,Waiting for review,90,Venue confirmation,EVT-0172,2026-06-08
+TSK-0277,Internal communications,Request supplier quote 277,Hannah Lange,Engineering,2026-06-06,Low,Not started,0,Venue confirmation,EVT-0558,2026-06-05
+TSK-0278,SharePoint,Review accessibility 278,David Neumann,Sales,2026-11-29,Medium,On hold,0,None,EVT-0523,2026-11-22
+TSK-0279,Supplier coordination,Send invitation 279,Omar Haddad,Engineering,2027-08-04,High,Complete,100,None,EVT-0247,2027-08-04
+TSK-0280,Internal communications,Confirm owner 280,Sara Özdemir,Customer Support,2027-01-26,High,In progress,25,Supplier response,EVT-0014,2027-01-14
+TSK-0281,Careers Fair,Send invitation 281,Lea Schneider,Engineering,2026-04-27,Low,In progress,75,Supplier response,EVT-0536,2026-04-23
+TSK-0282,Newsletter,Review accessibility 282,Mia Schulz,Finance,2027-07-23,High,Waiting for review,90,Venue confirmation,EVT-0466,2027-07-18
+TSK-0283,Annual Celebration,Reconcile attendance 283,Clara Schmitt,Sales,2026-02-14,Low,Not started,0,Budget approval,EVT-0611,2026-02-13
+TSK-0284,SharePoint,Send invitation 284,Luca Hartmann,Finance,2026-04-03,High,Not started,0,Content approval,EVT-0470,2026-03-22
+TSK-0285,Newsletter,Send invitation 285,Nina Krüger,Engineering,2027-07-04,Medium,On hold,50,Content approval,EVT-0260,2027-06-26
+TSK-0286,Internal communications,Request supplier quote 286,Felix Braun,Customer Support,2026-11-10,High,Complete,100,Supplier response,EVT-0075,2026-11-06
+TSK-0287,Supplier coordination,Prepare feedback survey 287,Hannah Lange,People and Culture,2026-01-30,Medium,Not started,0,Budget approval,EVT-0195,2026-01-22
+TSK-0288,Internal communications,Draft copy 288,Amira Yilmaz,Site Management,2026-12-06,Low,Complete,100,Budget approval,EVT-0355,2026-11-26
+TSK-0289,Supplier coordination,Update page content 289,Leon Koch,People and Culture,2026-03-24,High,Not started,0,None,EVT-0505,2026-03-22
+TSK-0290,Newsletter,Draft copy 290,Mila Fischer,Engineering,2026-11-06,High,In progress,50,None,EVT-0221,2026-10-31
+TSK-0291,Newsletter,Review accessibility 291,Mila Fischer,People and Culture,2026-10-15,High,Complete,100,None,EVT-0048,2026-10-03
+TSK-0292,Supplier coordination,Archive final material 292,Felix Braun,Site Management,2026-07-06,High,In progress,75,None,EVT-0318,2026-07-01
+TSK-0293,Newsletter,Reconcile attendance 293,Emil Hoffmann,Sales,2026-03-19,Low,Not started,0,Supplier response,EVT-0609,2026-03-09
+TSK-0294,Newsletter,Prepare feedback survey 294,Nina Krüger,Sales,2027-09-30,Low,Not started,0,None,EVT-0581,2027-09-27
+TSK-0295,Supplier coordination,Approve budget 295,David Neumann,Customer Support,2026-08-23,Low,Complete,100,Budget approval,EVT-0581,2026-08-19
+TSK-0296,Careers Fair,Reconcile attendance 296,Omar Haddad,Site Management,2026-03-19,High,Not started,0,Content approval,EVT-0456,2026-03-09
+TSK-0297,Careers Fair,Prepare feedback survey 297,Mila Fischer,Engineering,2027-06-09,Medium,Complete,100,Content approval,EVT-0346,2027-06-08
+TSK-0298,SharePoint,Approve budget 298,Adam Nowak,Engineering,2027-01-04,Low,In progress,75,Venue confirmation,EVT-0625,2026-12-26
+TSK-0299,SharePoint,Update page content 299,Omar Haddad,Site Management,2027-11-13,Low,Complete,100,None,EVT-0542,2027-11-10
+TSK-0300,Careers Fair,Update page content 300,Mila Fischer,Site Management,2026-07-17,High,In progress,50,Supplier response,EVT-0353,2026-07-16
+TSK-0301,Annual Celebration,Prepare feedback survey 301,Jonas Weber,Engineering,2026-07-18,Low,On hold,0,None,EVT-0444,2026-07-08
+TSK-0302,Internal communications,Prepare feedback survey 302,Jonas Weber,Marketing,2027-01-31,Medium,Complete,100,Budget approval,EVT-0174,2027-01-23
+TSK-0303,Careers Fair,Approve budget 303,Paul Wolf,Marketing,2026-02-12,Medium,On hold,0,Venue confirmation,EVT-0625,2026-02-06
+TSK-0304,Careers Fair,Approve budget 304,Sara Özdemir,Site Management,2026-02-08,Medium,Not started,0,Budget approval,EVT-0549,2026-02-08
+TSK-0305,SharePoint,Archive final material 305,Felix Braun,Sales,2027-01-03,High,Complete,100,Content approval,EVT-0093,2027-01-03
+TSK-0306,Internal communications,Confirm owner 306,Sara Özdemir,Marketing,2027-10-10,High,Waiting for review,90,None,EVT-0552,2027-09-30
+TSK-0307,SharePoint,Reconcile attendance 307,Nina Krüger,People and Culture,2026-11-29,Medium,Complete,100,Content approval,EVT-0243,2026-11-26
+TSK-0308,Newsletter,Reconcile attendance 308,Sofia Wagner,Site Management,2027-02-03,Low,On hold,50,None,EVT-0630,2027-01-24
+TSK-0309,Newsletter,Review accessibility 309,Luca Hartmann,Sales,2027-04-06,Medium,On hold,0,None,EVT-0302,2027-03-29
+TSK-0310,SharePoint,Prepare feedback survey 310,Sofia Wagner,Sales,2027-09-20,Low,Waiting for review,90,Venue confirmation,EVT-0625,2027-09-14
+TSK-0311,Supplier coordination,Update page content 311,Mia Schulz,Customer Support,2027-07-26,Medium,In progress,25,Supplier response,EVT-0081,2027-07-25
+TSK-0312,Internal communications,Draft copy 312,Luca Hartmann,Sales,2027-04-14,High,Waiting for review,90,Venue confirmation,EVT-0078,2027-04-12
+TSK-0313,Internal communications,Send invitation 313,Paul Wolf,Product,2027-02-01,High,On hold,50,Supplier response,EVT-0167,2027-01-20
+TSK-0314,Supplier coordination,Update page content 314,Felix Braun,Product,2026-10-29,Low,Complete,100,Content approval,EVT-0649,2026-10-28
+TSK-0315,Annual Celebration,Approve budget 315,Lea Schneider,Engineering,2027-12-09,High,Waiting for review,90,Venue confirmation,EVT-0426,2027-12-03
+TSK-0316,SharePoint,Request supplier quote 316,Jonas Weber,People and Culture,2026-06-30,High,Waiting for review,90,Budget approval,EVT-0575,2026-06-29
+TSK-0317,Annual Celebration,Draft copy 317,Mia Schulz,Marketing,2027-09-04,High,Complete,100,Content approval,EVT-0540,2027-09-01
+TSK-0318,Annual Celebration,Confirm owner 318,Sara Özdemir,Site Management,2026-09-27,Low,Complete,100,None,EVT-0222,2026-09-23
+TSK-0319,Careers Fair,Approve budget 319,Omar Haddad,Sales,2027-03-22,Medium,Complete,100,Content approval,EVT-0267,2027-03-19
+TSK-0320,Newsletter,Send invitation 320,Noah Becker,People and Culture,2027-01-07,High,Complete,100,Supplier response,EVT-0500,2026-12-26
+TSK-0321,Internal communications,Draft copy 321,Emil Hoffmann,Engineering,2026-09-29,Low,On hold,50,Content approval,EVT-0608,2026-09-24
+TSK-0322,Supplier coordination,Reconcile attendance 322,Mia Schulz,Engineering,2026-10-14,High,Complete,100,Supplier response,EVT-0201,2026-10-09
+TSK-0323,Newsletter,Prepare feedback survey 323,Nina Krüger,Finance,2027-06-21,Low,On hold,25,Budget approval,EVT-0406,2027-06-21
+TSK-0324,Careers Fair,Request supplier quote 324,Mila Fischer,Customer Support,2027-06-09,Low,On hold,25,Supplier response,EVT-0630,2027-06-09
+TSK-0325,Annual Celebration,Reconcile attendance 325,David Neumann,Sales,2027-03-29,Low,Waiting for review,90,Supplier response,EVT-0404,2027-03-22
+TSK-0326,Supplier coordination,Reconcile attendance 326,Clara Schmitt,Customer Support,2026-07-16,Low,On hold,25,Budget approval,EVT-0222,2026-07-12
+TSK-0327,Careers Fair,Send invitation 327,Nina Krüger,Product,2027-12-09,Medium,On hold,0,None,EVT-0137,2027-12-08
+TSK-0328,Careers Fair,Draft copy 328,Hannah Lange,Site Management,2027-09-11,Low,Not started,0,Budget approval,EVT-0394,2027-09-11
+TSK-0329,Newsletter,Confirm owner 329,Omar Haddad,Finance,2026-10-16,Medium,On hold,0,None,EVT-0036,2026-10-11
+TSK-0330,Careers Fair,Archive final material 330,Jonas Weber,Marketing,2027-09-22,High,On hold,25,Budget approval,EVT-0214,2027-09-16
+TSK-0331,Supplier coordination,Archive final material 331,Lea Schneider,Customer Support,2026-07-10,High,In progress,50,None,EVT-0293,2026-07-04
+TSK-0332,Annual Celebration,Draft copy 332,Sara Özdemir,Marketing,2027-11-17,Low,On hold,25,None,EVT-0113,2027-11-12
+TSK-0333,Internal communications,Review accessibility 333,Luca Hartmann,Customer Support,2026-03-14,Medium,In progress,25,Content approval,EVT-0282,2026-03-14
+TSK-0334,SharePoint,Approve budget 334,Leon Koch,Engineering,2027-05-01,Low,Complete,100,Supplier response,EVT-0016,2027-04-26
+TSK-0335,Internal communications,Approve budget 335,Omar Haddad,Product,2026-05-07,High,Waiting for review,90,None,EVT-0475,2026-05-01
+TSK-0336,Newsletter,Confirm owner 336,Amira Yilmaz,People and Culture,2027-09-01,Medium,Waiting for review,90,None,EVT-0130,2027-08-30
+TSK-0337,Newsletter,Confirm owner 337,Felix Braun,Sales,2027-11-15,High,In progress,25,Venue confirmation,EVT-0074,2027-11-12
+TSK-0338,Newsletter,Send invitation 338,Leon Koch,Product,2026-05-31,Medium,Waiting for review,90,Venue confirmation,EVT-0004,2026-05-29
+TSK-0339,SharePoint,Review accessibility 339,Emil Hoffmann,Finance,2027-09-22,Low,In progress,25,Venue confirmation,EVT-0156,2027-09-10
+TSK-0340,Supplier coordination,Archive final material 340,David Neumann,Sales,2027-03-22,Low,In progress,50,Content approval,EVT-0199,2027-03-21
+TSK-0341,Newsletter,Archive final material 341,Paul Wolf,Customer Support,2027-09-24,Medium,On hold,0,Venue confirmation,EVT-0179,2027-09-13
+TSK-0342,Newsletter,Prepare feedback survey 342,Emil Hoffmann,Sales,2026-07-26,Low,Waiting for review,90,Content approval,EVT-0582,2026-07-17
+TSK-0343,Supplier coordination,Review accessibility 343,Omar Haddad,Marketing,2027-04-09,High,In progress,25,Venue confirmation,EVT-0251,2027-04-03
+TSK-0344,Careers Fair,Review accessibility 344,Leon Koch,Customer Support,2026-02-12,Medium,Not started,0,Venue confirmation,EVT-0391,2026-02-04
+TSK-0345,Annual Celebration,Review accessibility 345,Sara Özdemir,Sales,2026-04-29,High,On hold,0,None,EVT-0110,2026-04-25
+TSK-0346,Internal communications,Draft copy 346,Amira Yilmaz,Sales,2026-01-09,Low,On hold,25,Supplier response,EVT-0226,2026-01-04
+TSK-0347,Careers Fair,Review accessibility 347,Amira Yilmaz,Sales,2026-06-29,High,On hold,25,Supplier response,EVT-0243,2026-06-25
+TSK-0348,Annual Celebration,Approve budget 348,Adam Nowak,Product,2027-03-23,Medium,Not started,0,Venue confirmation,EVT-0137,2027-03-22
+TSK-0349,Careers Fair,Send invitation 349,Nina Krüger,Site Management,2027-12-18,Medium,Not started,0,Budget approval,EVT-0395,2027-12-18
+TSK-0350,Careers Fair,Review accessibility 350,Sofia Wagner,People and Culture,2027-08-26,Low,Complete,100,None,EVT-0068,2027-08-19
+TSK-0351,SharePoint,Reconcile attendance 351,Adam Nowak,Marketing,2026-08-21,Low,Waiting for review,90,Content approval,EVT-0580,2026-08-19
+TSK-0352,Supplier coordination,Send invitation 352,Adam Nowak,Engineering,2026-11-15,High,In progress,25,Content approval,EVT-0598,2026-11-12
+TSK-0353,SharePoint,Archive final material 353,Lea Schneider,Site Management,2027-09-10,High,Complete,100,Budget approval,EVT-0172,2027-09-01
+TSK-0354,Newsletter,Archive final material 354,Leon Koch,People and Culture,2027-01-08,Low,Complete,100,Supplier response,EVT-0354,2026-12-30
+TSK-0355,Newsletter,Request supplier quote 355,Sara Özdemir,Engineering,2026-07-10,High,Complete,100,Content approval,EVT-0538,2026-06-29
+TSK-0356,Supplier coordination,Update page content 356,Leon Koch,People and Culture,2026-05-24,High,In progress,75,Content approval,EVT-0291,2026-05-13
+TSK-0357,Annual Celebration,Confirm owner 357,Noah Becker,Customer Support,2027-06-07,High,Complete,100,Budget approval,EVT-0368,2027-05-28
+TSK-0358,Annual Celebration,Prepare feedback survey 358,Felix Braun,Product,2026-03-19,Medium,In progress,25,Venue confirmation,EVT-0454,2026-03-17
+TSK-0359,Annual Celebration,Archive final material 359,Hannah Lange,Site Management,2026-10-15,Medium,Complete,100,None,EVT-0092,2026-10-07
+TSK-0360,Supplier coordination,Approve budget 360,Omar Haddad,Site Management,2026-10-13,Low,Waiting for review,90,Supplier response,EVT-0585,2026-10-03
+TSK-0361,Supplier coordination,Confirm owner 361,Mia Schulz,Engineering,2026-05-03,Low,Waiting for review,90,Venue confirmation,EVT-0420,2026-04-28
+TSK-0362,SharePoint,Reconcile attendance 362,Lea Schneider,Finance,2026-10-07,Low,Not started,0,Venue confirmation,EVT-0256,2026-10-03
+TSK-0363,Newsletter,Reconcile attendance 363,Nina Krüger,People and Culture,2026-11-04,High,Complete,100,Venue confirmation,EVT-0385,2026-11-01
+TSK-0364,SharePoint,Update page content 364,Mila Fischer,Site Management,2026-04-23,Medium,In progress,75,Content approval,EVT-0634,2026-04-14
+TSK-0365,Annual Celebration,Draft copy 365,Mila Fischer,Customer Support,2026-04-17,High,On hold,0,Venue confirmation,EVT-0149,2026-04-12
+TSK-0366,Newsletter,Approve budget 366,Sofia Wagner,Sales,2027-11-03,Medium,Waiting for review,90,Budget approval,EVT-0471,2027-11-02
+TSK-0367,Careers Fair,Request supplier quote 367,Nina Krüger,Marketing,2026-10-29,Medium,Not started,0,Supplier response,EVT-0432,2026-10-22
+TSK-0368,Newsletter,Request supplier quote 368,David Neumann,Finance,2026-06-21,High,Complete,100,Supplier response,EVT-0210,2026-06-15
+TSK-0369,Supplier coordination,Confirm owner 369,Clara Schmitt,Customer Support,2026-04-30,Medium,Not started,0,None,EVT-0031,2026-04-23
+TSK-0370,Careers Fair,Draft copy 370,Leon Koch,People and Culture,2026-07-11,High,Not started,0,Supplier response,EVT-0177,2026-07-02
+TSK-0371,Internal communications,Send invitation 371,Nina Krüger,Engineering,2026-10-21,High,In progress,25,Content approval,EVT-0536,2026-10-18
+TSK-0372,Internal communications,Update page content 372,Elena Richter,People and Culture,2026-12-27,High,Complete,100,Content approval,EVT-0555,2026-12-16
+TSK-0373,Newsletter,Request supplier quote 373,Luca Hartmann,People and Culture,2026-04-25,Low,On hold,0,Content approval,EVT-0392,2026-04-23
+TSK-0374,Newsletter,Draft copy 374,Amira Yilmaz,Site Management,2027-07-29,Low,Not started,0,Supplier response,EVT-0578,2027-07-20
+TSK-0375,Careers Fair,Request supplier quote 375,Sara Özdemir,Site Management,2026-10-31,High,Not started,0,Venue confirmation,EVT-0076,2026-10-21
+TSK-0376,SharePoint,Archive final material 376,Noah Becker,Engineering,2026-06-04,High,Not started,0,Venue confirmation,EVT-0115,2026-05-24
+TSK-0377,SharePoint,Review accessibility 377,Felix Braun,Customer Support,2027-01-10,High,Waiting for review,90,Budget approval,EVT-0269,2027-01-10
+TSK-0378,Careers Fair,Approve budget 378,Luca Hartmann,Finance,2027-02-06,High,Not started,0,None,EVT-0138,2027-01-30
+TSK-0379,Supplier coordination,Prepare feedback survey 379,Paul Wolf,Engineering,2026-04-20,Low,On hold,50,Venue confirmation,EVT-0266,2026-04-14
+TSK-0380,SharePoint,Confirm owner 380,David Neumann,Site Management,2026-05-20,High,Not started,0,Content approval,EVT-0449,2026-05-09
+TSK-0381,Supplier coordination,Archive final material 381,Felix Braun,People and Culture,2026-11-08,Medium,On hold,0,Supplier response,EVT-0151,2026-11-02
+TSK-0382,Supplier coordination,Archive final material 382,Mila Fischer,Engineering,2026-09-10,High,Waiting for review,90,Supplier response,EVT-0379,2026-09-07
+TSK-0383,SharePoint,Send invitation 383,Paul Wolf,Marketing,2026-08-11,Low,Waiting for review,90,Supplier response,EVT-0161,2026-08-08
+TSK-0384,Careers Fair,Approve budget 384,David Neumann,Marketing,2026-01-25,Medium,In progress,25,None,EVT-0443,2026-01-15
+TSK-0385,Internal communications,Archive final material 385,Jonas Weber,Sales,2027-09-30,High,Complete,100,None,EVT-0569,2027-09-21
+TSK-0386,Internal communications,Prepare feedback survey 386,Emil Hoffmann,People and Culture,2026-05-21,Low,On hold,0,Supplier response,EVT-0010,2026-05-09
+TSK-0387,SharePoint,Reconcile attendance 387,Sofia Wagner,People and Culture,2026-09-05,Low,Waiting for review,90,Supplier response,EVT-0247,2026-08-29
+TSK-0388,SharePoint,Review accessibility 388,Elena Richter,Customer Support,2026-01-04,Medium,Not started,0,Supplier response,EVT-0518,2025-12-31
+TSK-0389,Careers Fair,Reconcile attendance 389,Luca Hartmann,Site Management,2027-04-16,Medium,Complete,100,Budget approval,EVT-0143,2027-04-16
+TSK-0390,Annual Celebration,Update page content 390,Omar Haddad,Finance,2026-04-13,Low,Waiting for review,90,None,EVT-0571,2026-04-10
+TSK-0391,Newsletter,Update page content 391,Leon Koch,Marketing,2026-01-19,Low,Not started,0,Supplier response,EVT-0302,2026-01-10
+TSK-0392,Careers Fair,Reconcile attendance 392,Noah Becker,Marketing,2026-07-02,Low,On hold,25,None,EVT-0042,2026-06-24
+TSK-0393,Internal communications,Draft copy 393,Emil Hoffmann,Sales,2026-01-25,High,Complete,100,Venue confirmation,EVT-0428,2026-01-18
+TSK-0394,Newsletter,Update page content 394,Luca Hartmann,People and Culture,2027-12-02,Low,Complete,100,Content approval,EVT-0300,2027-11-28
+TSK-0395,Newsletter,Draft copy 395,Emil Hoffmann,Finance,2027-01-31,Medium,Complete,100,Venue confirmation,EVT-0391,2027-01-20
+TSK-0396,Careers Fair,Approve budget 396,Nina Krüger,Finance,2027-11-19,High,In progress,50,Supplier response,EVT-0001,2027-11-13
+TSK-0397,Internal communications,Draft copy 397,Mila Fischer,Engineering,2026-08-19,High,Not started,0,Content approval,EVT-0390,2026-08-18
+TSK-0398,Careers Fair,Archive final material 398,Emil Hoffmann,Finance,2027-05-23,Low,Not started,0,Supplier response,EVT-0210,2027-05-14
+TSK-0399,Newsletter,Reconcile attendance 399,Omar Haddad,People and Culture,2026-10-08,Low,On hold,50,Venue confirmation,EVT-0588,2026-10-08
+TSK-0400,Internal communications,Review accessibility 400,Amira Yilmaz,Engineering,2027-01-15,Medium,Waiting for review,90,Content approval,EVT-0063,2027-01-09
+TSK-0401,Careers Fair,Approve budget 401,Clara Schmitt,Sales,2027-11-22,Low,On hold,0,Content approval,EVT-0537,2027-11-11
+TSK-0402,Internal communications,Approve budget 402,Adam Nowak,Site Management,2027-10-30,Medium,Not started,0,None,EVT-0355,2027-10-30
+TSK-0403,SharePoint,Update page content 403,Sara Özdemir,Engineering,2027-04-12,High,Complete,100,Content approval,EVT-0207,2027-04-01
+TSK-0404,Internal communications,Review accessibility 404,Sara Özdemir,Engineering,2026-02-11,High,In progress,50,Supplier response,EVT-0263,2026-02-07
+TSK-0405,SharePoint,Review accessibility 405,Amira Yilmaz,Site Management,2026-08-31,Low,Waiting for review,90,Supplier response,EVT-0124,2026-08-19
+TSK-0406,Newsletter,Confirm owner 406,Lea Schneider,Finance,2026-11-24,Low,Complete,100,Venue confirmation,EVT-0357,2026-11-18
+TSK-0407,Newsletter,Prepare feedback survey 407,Amira Yilmaz,Engineering,2026-12-19,High,In progress,75,Content approval,EVT-0366,2026-12-09
+TSK-0408,Internal communications,Request supplier quote 408,Amira Yilmaz,Customer Support,2026-02-20,High,Waiting for review,90,Content approval,EVT-0159,2026-02-15
+TSK-0409,Newsletter,Confirm owner 409,Leon Koch,Finance,2027-01-19,Medium,In progress,75,None,EVT-0399,2027-01-15
+TSK-0410,SharePoint,Update page content 410,Jonas Weber,Product,2026-04-29,High,Not started,0,Supplier response,EVT-0201,2026-04-18
+TSK-0411,SharePoint,Request supplier quote 411,Lea Schneider,Product,2027-02-02,High,Complete,100,Budget approval,EVT-0226,2027-01-23
+TSK-0412,Supplier coordination,Request supplier quote 412,Emil Hoffmann,Engineering,2027-12-31,High,Complete,100,Supplier response,EVT-0282,2027-12-27
+TSK-0413,SharePoint,Archive final material 413,Noah Becker,Site Management,2027-01-08,Medium,Complete,100,None,EVT-0528,2027-01-04
+TSK-0414,Supplier coordination,Confirm owner 414,Nina Krüger,Engineering,2027-07-21,High,On hold,50,Supplier response,EVT-0425,2027-07-09
+TSK-0415,Supplier coordination,Request supplier quote 415,David Neumann,Marketing,2027-08-23,Low,Not started,0,Content approval,EVT-0038,2027-08-12
+TSK-0416,Internal communications,Update page content 416,Jonas Weber,Product,2027-06-24,Low,Waiting for review,90,None,EVT-0252,2027-06-18
+TSK-0417,Supplier coordination,Confirm owner 417,Felix Braun,Product,2027-12-03,Medium,Complete,100,Budget approval,EVT-0574,2027-12-01
+TSK-0418,Internal communications,Send invitation 418,Noah Becker,Marketing,2027-05-03,Low,In progress,25,Supplier response,EVT-0649,2027-04-26
+TSK-0419,Newsletter,Confirm owner 419,Mia Schulz,Customer Support,2027-07-01,High,Waiting for review,90,Content approval,EVT-0537,2027-06-30
+TSK-0420,SharePoint,Draft copy 420,Noah Becker,Finance,2026-10-01,High,Waiting for review,90,Venue confirmation,EVT-0414,2026-09-30
+TSK-0421,Annual Celebration,Update page content 421,Jonas Weber,Engineering,2026-06-26,Low,On hold,25,Budget approval,EVT-0442,2026-06-17
+TSK-0422,Supplier coordination,Review accessibility 422,Emil Hoffmann,Marketing,2027-04-12,High,Waiting for review,90,Budget approval,EVT-0178,2027-04-05
+TSK-0423,Careers Fair,Draft copy 423,Sara Özdemir,Finance,2026-07-20,Low,On hold,50,Content approval,EVT-0008,2026-07-15
+TSK-0424,Internal communications,Confirm owner 424,Luca Hartmann,Site Management,2027-07-05,Low,Not started,0,Content approval,EVT-0309,2027-07-01
+TSK-0425,Newsletter,Archive final material 425,Sara Özdemir,Engineering,2026-05-17,High,Waiting for review,90,None,EVT-0565,2026-05-06
+TSK-0426,Newsletter,Update page content 426,Elena Richter,Customer Support,2027-10-06,High,Waiting for review,90,None,EVT-0050,2027-10-05
+TSK-0427,Annual Celebration,Confirm owner 427,Emil Hoffmann,Engineering,2027-06-25,Medium,Complete,100,Supplier response,EVT-0017,2027-06-16
+TSK-0428,Supplier coordination,Confirm owner 428,Elena Richter,Product,2026-09-07,Medium,In progress,50,None,EVT-0591,2026-09-01
+TSK-0429,Newsletter,Prepare feedback survey 429,Paul Wolf,Marketing,2027-12-05,Low,Complete,100,Venue confirmation,EVT-0385,2027-11-24
+TSK-0430,Supplier coordination,Request supplier quote 430,Mia Schulz,Customer Support,2026-08-20,Low,In progress,25,Venue confirmation,EVT-0098,2026-08-09
+TSK-0431,Careers Fair,Reconcile attendance 431,Nina Krüger,Site Management,2027-02-14,High,In progress,50,None,EVT-0649,2027-02-05
+TSK-0432,Annual Celebration,Review accessibility 432,Clara Schmitt,People and Culture,2027-10-31,Medium,Not started,0,Supplier response,EVT-0046,2027-10-25
+TSK-0433,Careers Fair,Approve budget 433,Jonas Weber,People and Culture,2026-01-06,Low,Waiting for review,90,None,EVT-0509,2026-01-06
+TSK-0434,Newsletter,Confirm owner 434,Paul Wolf,Site Management,2027-02-07,Low,On hold,50,Supplier response,EVT-0480,2027-02-01
+TSK-0435,Newsletter,Prepare feedback survey 435,David Neumann,Customer Support,2027-10-24,Low,Not started,0,Content approval,EVT-0208,2027-10-24
+TSK-0436,SharePoint,Approve budget 436,Adam Nowak,People and Culture,2026-12-08,Medium,Waiting for review,90,Content approval,EVT-0497,2026-11-28
+TSK-0437,Supplier coordination,Archive final material 437,Amira Yilmaz,Sales,2027-11-09,Low,Complete,100,Supplier response,EVT-0250,2027-11-01
+TSK-0438,Newsletter,Confirm owner 438,Nina Krüger,Customer Support,2027-10-06,Low,On hold,25,Venue confirmation,EVT-0179,2027-10-04
+TSK-0439,Newsletter,Request supplier quote 439,Clara Schmitt,People and Culture,2027-01-06,High,In progress,75,Budget approval,EVT-0570,2026-12-27
+TSK-0440,SharePoint,Send invitation 440,David Neumann,Customer Support,2026-09-06,Medium,In progress,50,Content approval,EVT-0166,2026-09-05
+TSK-0441,Newsletter,Review accessibility 441,Luca Hartmann,Sales,2026-01-16,High,Complete,100,Venue confirmation,EVT-0372,2026-01-11
+TSK-0442,Careers Fair,Confirm owner 442,Omar Haddad,Site Management,2026-12-30,Low,Not started,0,Venue confirmation,EVT-0488,2026-12-19
+TSK-0443,Supplier coordination,Review accessibility 443,Clara Schmitt,Sales,2027-04-27,Low,Complete,100,Supplier response,EVT-0024,2027-04-20
+TSK-0444,Newsletter,Approve budget 444,Luca Hartmann,Customer Support,2027-12-09,Low,Complete,100,Venue confirmation,EVT-0154,2027-12-02
+TSK-0445,Annual Celebration,Archive final material 445,Mila Fischer,People and Culture,2027-01-29,Medium,On hold,50,Venue confirmation,EVT-0308,2027-01-23
+TSK-0446,Careers Fair,Archive final material 446,Amira Yilmaz,People and Culture,2026-06-25,High,Waiting for review,90,Content approval,EVT-0177,2026-06-15
+TSK-0447,Newsletter,Confirm owner 447,David Neumann,Customer Support,2027-09-26,High,In progress,50,Budget approval,EVT-0067,2027-09-18
+TSK-0448,Newsletter,Send invitation 448,Sara Özdemir,Site Management,2027-06-02,High,In progress,75,Venue confirmation,EVT-0012,2027-05-21
+TSK-0449,Internal communications,Confirm owner 449,Mila Fischer,Site Management,2027-12-03,High,In progress,75,Supplier response,EVT-0292,2027-12-01
+TSK-0450,Supplier coordination,Approve budget 450,Sara Özdemir,People and Culture,2026-07-16,High,On hold,50,None,EVT-0070,2026-07-11
+TSK-0451,SharePoint,Send invitation 451,Omar Haddad,Site Management,2026-12-02,Medium,Waiting for review,90,Supplier response,EVT-0250,2026-11-23
+TSK-0452,Newsletter,Confirm owner 452,Jonas Weber,Marketing,2026-08-03,High,On hold,50,Supplier response,EVT-0515,2026-07-27
+TSK-0453,Newsletter,Review accessibility 453,David Neumann,Engineering,2026-08-02,Medium,In progress,50,Supplier response,EVT-0206,2026-07-28
+TSK-0454,Supplier coordination,Approve budget 454,Sofia Wagner,People and Culture,2027-09-03,High,In progress,75,None,EVT-0340,2027-08-27
+TSK-0455,SharePoint,Request supplier quote 455,Noah Becker,Marketing,2026-08-03,Low,Waiting for review,90,Content approval,EVT-0540,2026-07-29
+TSK-0456,SharePoint,Draft copy 456,Jonas Weber,Finance,2026-04-24,Low,On hold,25,Budget approval,EVT-0185,2026-04-18
+TSK-0457,SharePoint,Confirm owner 457,Lea Schneider,People and Culture,2026-03-20,High,On hold,0,Budget approval,EVT-0171,2026-03-13
+TSK-0458,Newsletter,Reconcile attendance 458,Luca Hartmann,Customer Support,2027-11-06,High,In progress,25,None,EVT-0093,2027-11-04
+TSK-0459,SharePoint,Reconcile attendance 459,Mila Fischer,Marketing,2026-06-16,Low,On hold,50,Content approval,EVT-0456,2026-06-08
+TSK-0460,SharePoint,Approve budget 460,Sara Özdemir,Engineering,2026-06-17,Low,Not started,0,None,EVT-0117,2026-06-14
+TSK-0461,Supplier coordination,Send invitation 461,David Neumann,Product,2026-09-14,Medium,Not started,0,Budget approval,EVT-0563,2026-09-12
+TSK-0462,Careers Fair,Confirm owner 462,Amira Yilmaz,Customer Support,2027-06-24,Low,Complete,100,Venue confirmation,EVT-0215,2027-06-22
+TSK-0463,Newsletter,Review accessibility 463,Sara Özdemir,Marketing,2027-02-15,High,Complete,100,Budget approval,EVT-0487,2027-02-13
+TSK-0464,Internal communications,Confirm owner 464,Emil Hoffmann,Marketing,2026-03-25,Medium,Complete,100,Content approval,EVT-0242,2026-03-14
+TSK-0465,SharePoint,Reconcile attendance 465,David Neumann,Engineering,2026-12-13,High,Not started,0,Supplier response,EVT-0548,2026-12-11
+TSK-0466,SharePoint,Archive final material 466,Felix Braun,People and Culture,2026-06-09,Low,Complete,100,None,EVT-0258,2026-05-28
+TSK-0467,Careers Fair,Confirm owner 467,Mia Schulz,Sales,2027-06-19,Medium,In progress,75,Venue confirmation,EVT-0579,2027-06-07
+TSK-0468,Internal communications,Reconcile attendance 468,Adam Nowak,Site Management,2027-05-18,Medium,Waiting for review,90,None,EVT-0089,2027-05-08
+TSK-0469,Annual Celebration,Update page content 469,Mia Schulz,Customer Support,2027-03-04,Low,Not started,0,Budget approval,EVT-0298,2027-02-25
+TSK-0470,Supplier coordination,Confirm owner 470,Sara Özdemir,Customer Support,2026-10-27,High,Not started,0,Content approval,EVT-0641,2026-10-25
+TSK-0471,Annual Celebration,Update page content 471,Nina Krüger,People and Culture,2027-12-17,Low,Not started,0,Supplier response,EVT-0157,2027-12-11
+TSK-0472,SharePoint,Confirm owner 472,Elena Richter,People and Culture,2027-09-13,High,Complete,100,Budget approval,EVT-0256,2027-09-02
+TSK-0473,Careers Fair,Confirm owner 473,David Neumann,Finance,2027-01-13,High,On hold,50,Supplier response,EVT-0174,2027-01-02
+TSK-0474,Internal communications,Send invitation 474,Paul Wolf,People and Culture,2027-11-20,Low,In progress,75,Budget approval,EVT-0211,2027-11-08
+TSK-0475,Annual Celebration,Request supplier quote 475,Jonas Weber,Site Management,2027-04-11,High,On hold,0,Supplier response,EVT-0183,2027-04-11
+TSK-0476,Annual Celebration,Prepare feedback survey 476,Adam Nowak,Site Management,2027-11-06,High,Waiting for review,90,Content approval,EVT-0196,2027-10-27
+TSK-0477,Careers Fair,Reconcile attendance 477,Noah Becker,Customer Support,2026-03-30,Medium,Waiting for review,90,Budget approval,EVT-0133,2026-03-22
+TSK-0478,Supplier coordination,Draft copy 478,Mila Fischer,Customer Support,2027-09-19,High,Not started,0,Supplier response,EVT-0062,2027-09-07
+TSK-0479,SharePoint,Draft copy 479,Mila Fischer,Marketing,2027-08-11,Low,Not started,0,Budget approval,EVT-0308,2027-08-03
+TSK-0480,Careers Fair,Request supplier quote 480,Luca Hartmann,Sales,2027-05-28,High,Waiting for review,90,Venue confirmation,EVT-0102,2027-05-22
+TSK-0481,Supplier coordination,Confirm owner 481,Felix Braun,Product,2027-05-04,High,Waiting for review,90,None,EVT-0341,2027-05-02
+TSK-0482,Newsletter,Request supplier quote 482,Hannah Lange,Sales,2026-08-29,Low,On hold,50,Supplier response,EVT-0465,2026-08-20
+TSK-0483,Supplier coordination,Approve budget 483,Clara Schmitt,Finance,2027-09-04,High,Not started,0,Budget approval,EVT-0015,2027-09-02
+TSK-0484,Internal communications,Reconcile attendance 484,Felix Braun,People and Culture,2027-02-26,High,Waiting for review,90,Venue confirmation,EVT-0587,2027-02-19
+TSK-0485,Internal communications,Confirm owner 485,Sofia Wagner,Product,2026-01-13,Medium,On hold,0,Supplier response,EVT-0471,2026-01-12
+TSK-0486,Annual Celebration,Archive final material 486,Mila Fischer,Customer Support,2027-05-30,High,Complete,100,Venue confirmation,EVT-0318,2027-05-24
+TSK-0487,Internal communications,Update page content 487,Nina Krüger,Customer Support,2027-01-30,High,On hold,50,None,EVT-0363,2027-01-25
+TSK-0488,Newsletter,Approve budget 488,Felix Braun,Site Management,2026-05-28,High,Waiting for review,90,Content approval,EVT-0636,2026-05-28
+TSK-0489,Internal communications,Draft copy 489,Felix Braun,Product,2027-02-15,High,On hold,0,Venue confirmation,EVT-0057,2027-02-09
+TSK-0490,SharePoint,Send invitation 490,Noah Becker,Product,2026-08-08,High,Not started,0,Budget approval,EVT-0619,2026-07-30
+TSK-0491,Supplier coordination,Update page content 491,Jonas Weber,Finance,2026-11-22,High,Complete,100,Budget approval,EVT-0408,2026-11-20
+TSK-0492,Supplier coordination,Review accessibility 492,Sofia Wagner,Sales,2026-12-21,High,Complete,100,Supplier response,EVT-0157,2026-12-19
+TSK-0493,Supplier coordination,Send invitation 493,Elena Richter,Site Management,2026-04-26,Medium,On hold,25,Venue confirmation,EVT-0038,2026-04-25
+TSK-0494,Careers Fair,Confirm owner 494,Sara Özdemir,Sales,2026-04-22,Medium,On hold,50,Supplier response,EVT-0221,2026-04-13
+TSK-0495,Supplier coordination,Request supplier quote 495,Mila Fischer,Customer Support,2027-04-01,High,Complete,100,Supplier response,EVT-0128,2027-03-27
+TSK-0496,Annual Celebration,Reconcile attendance 496,Emil Hoffmann,Finance,2027-10-22,High,Waiting for review,90,Supplier response,EVT-0321,2027-10-15
+TSK-0497,Newsletter,Send invitation 497,Paul Wolf,Site Management,2026-09-09,Low,On hold,0,None,EVT-0176,2026-09-04
+TSK-0498,Internal communications,Request supplier quote 498,Elena Richter,Site Management,2027-02-06,Medium,On hold,50,None,EVT-0643,2027-02-04
+TSK-0499,Supplier coordination,Archive final material 499,Clara Schmitt,Product,2026-09-02,Medium,In progress,75,Content approval,EVT-0012,2026-09-02
+TSK-0500,SharePoint,Send invitation 500,Sofia Wagner,Site Management,2026-11-27,High,In progress,50,Venue confirmation,EVT-0055,2026-11-22
+TSK-0501,SharePoint,Draft copy 501,Omar Haddad,Engineering,2027-02-03,High,On hold,25,Supplier response,EVT-0306,2027-01-22
+TSK-0502,Newsletter,Confirm owner 502,Hannah Lange,Product,2027-01-05,High,Waiting for review,90,Venue confirmation,EVT-0316,2027-01-03
+TSK-0503,Annual Celebration,Archive final material 503,Adam Nowak,Product,2027-06-17,High,In progress,75,Content approval,EVT-0347,2027-06-08
+TSK-0504,Supplier coordination,Confirm owner 504,David Neumann,People and Culture,2026-11-19,Medium,In progress,25,Venue confirmation,EVT-0045,2026-11-16
+TSK-0505,Internal communications,Review accessibility 505,David Neumann,Sales,2026-07-29,High,In progress,50,None,EVT-0590,2026-07-25
+TSK-0506,Annual Celebration,Send invitation 506,Hannah Lange,Product,2027-11-15,High,On hold,50,None,EVT-0251,2027-11-03
+TSK-0507,Careers Fair,Confirm owner 507,Sofia Wagner,Product,2026-04-17,High,In progress,25,Content approval,EVT-0423,2026-04-14
+TSK-0508,Newsletter,Draft copy 508,Omar Haddad,Sales,2027-09-19,Medium,In progress,25,Supplier response,EVT-0235,2027-09-18
+TSK-0509,Annual Celebration,Update page content 509,Nina Krüger,Engineering,2026-01-08,Medium,In progress,75,Venue confirmation,EVT-0627,2025-12-28
+TSK-0510,Annual Celebration,Prepare feedback survey 510,Mila Fischer,Customer Support,2027-01-18,High,In progress,25,None,EVT-0512,2027-01-18
+TSK-0511,Annual Celebration,Reconcile attendance 511,Sofia Wagner,Customer Support,2026-03-13,Low,Complete,100,Budget approval,EVT-0064,2026-03-10
+TSK-0512,Newsletter,Draft copy 512,Luca Hartmann,Product,2026-04-14,High,Waiting for review,90,Venue confirmation,EVT-0508,2026-04-06
+TSK-0513,Newsletter,Review accessibility 513,Leon Koch,Engineering,2026-08-21,Low,On hold,25,Content approval,EVT-0396,2026-08-17
+TSK-0514,Newsletter,Request supplier quote 514,Omar Haddad,Engineering,2027-12-21,Low,On hold,25,Content approval,EVT-0248,2027-12-19
+TSK-0515,Internal communications,Confirm owner 515,David Neumann,Customer Support,2026-11-06,Low,Not started,0,Venue confirmation,EVT-0576,2026-11-01
+TSK-0516,Supplier coordination,Confirm owner 516,Hannah Lange,Sales,2026-06-27,High,Complete,100,Budget approval,EVT-0155,2026-06-23
+TSK-0517,Supplier coordination,Archive final material 517,Amira Yilmaz,Marketing,2026-11-07,High,Waiting for review,90,Supplier response,EVT-0320,2026-10-27
+TSK-0518,Careers Fair,Approve budget 518,Nina Krüger,Site Management,2027-05-15,Low,Complete,100,None,EVT-0439,2027-05-07
+TSK-0519,Supplier coordination,Archive final material 519,Clara Schmitt,Customer Support,2026-02-03,Low,On hold,0,Supplier response,EVT-0043,2026-01-29
+TSK-0520,Careers Fair,Archive final material 520,Sofia Wagner,Sales,2026-12-07,Medium,Not started,0,Venue confirmation,EVT-0505,2026-11-28
+TSK-0521,SharePoint,Update page content 521,Jonas Weber,People and Culture,2026-04-13,Medium,Complete,100,None,EVT-0549,2026-04-12
+TSK-0522,Newsletter,Send invitation 522,Mia Schulz,Customer Support,2027-07-12,Medium,On hold,0,Venue confirmation,EVT-0208,2027-07-03
+TSK-0523,Careers Fair,Request supplier quote 523,Omar Haddad,Sales,2026-06-09,Medium,Complete,100,None,EVT-0040,2026-06-01
+TSK-0524,SharePoint,Request supplier quote 524,David Neumann,Site Management,2026-06-08,Low,Waiting for review,90,Supplier response,EVT-0422,2026-05-29
+TSK-0525,SharePoint,Approve budget 525,Clara Schmitt,Product,2027-03-28,Medium,In progress,50,Supplier response,EVT-0023,2027-03-23
+TSK-0526,SharePoint,Reconcile attendance 526,Leon Koch,Sales,2026-10-23,Low,In progress,25,None,EVT-0468,2026-10-23
+TSK-0527,Supplier coordination,Update page content 527,Amira Yilmaz,Product,2027-04-10,Low,Not started,0,Supplier response,EVT-0295,2027-04-04
+TSK-0528,Careers Fair,Update page content 528,Hannah Lange,Engineering,2027-10-16,High,Complete,100,Budget approval,EVT-0221,2027-10-08
+TSK-0529,Careers Fair,Send invitation 529,Adam Nowak,Marketing,2026-11-11,Low,On hold,25,Content approval,EVT-0581,2026-11-06
+TSK-0530,Internal communications,Send invitation 530,Luca Hartmann,Engineering,2027-11-14,High,Complete,100,Budget approval,EVT-0170,2027-11-07
+TSK-0531,Supplier coordination,Review accessibility 531,Mila Fischer,Sales,2027-04-22,High,In progress,75,Budget approval,EVT-0049,2027-04-11
+TSK-0532,Careers Fair,Update page content 532,David Neumann,Engineering,2027-10-22,High,In progress,50,Supplier response,EVT-0352,2027-10-17
+TSK-0533,Careers Fair,Request supplier quote 533,Mia Schulz,Site Management,2027-12-05,Low,Complete,100,Budget approval,EVT-0647,2027-11-25
+TSK-0534,Newsletter,Send invitation 534,Felix Braun,Engineering,2026-09-08,Medium,In progress,25,Content approval,EVT-0160,2026-08-29
+TSK-0535,Newsletter,Reconcile attendance 535,Luca Hartmann,Customer Support,2027-06-02,Low,On hold,0,Venue confirmation,EVT-0635,2027-05-21
+TSK-0536,SharePoint,Approve budget 536,Noah Becker,Engineering,2027-12-18,Medium,Complete,100,Content approval,EVT-0253,2027-12-14
+TSK-0537,Careers Fair,Archive final material 537,Emil Hoffmann,Marketing,2026-04-19,Low,Complete,100,Content approval,EVT-0167,2026-04-17
+TSK-0538,Annual Celebration,Archive final material 538,Jonas Weber,Product,2027-03-23,Medium,Not started,0,Venue confirmation,EVT-0532,2027-03-23
+TSK-0539,Internal communications,Prepare feedback survey 539,Clara Schmitt,Engineering,2026-08-22,High,In progress,25,Content approval,EVT-0408,2026-08-17
+TSK-0540,Supplier coordination,Reconcile attendance 540,Sofia Wagner,Site Management,2027-03-11,Low,On hold,50,Budget approval,EVT-0233,2027-03-03
+TSK-0541,SharePoint,Approve budget 541,Adam Nowak,Customer Support,2026-01-30,Medium,Complete,100,Venue confirmation,EVT-0310,2026-01-25
+TSK-0542,Newsletter,Archive final material 542,Leon Koch,Customer Support,2026-03-08,High,Complete,100,Supplier response,EVT-0579,2026-02-26
+TSK-0543,Annual Celebration,Request supplier quote 543,Nina Krüger,Customer Support,2027-06-17,Medium,Waiting for review,90,Content approval,EVT-0338,2027-06-17
+TSK-0544,Annual Celebration,Archive final material 544,Noah Becker,Product,2027-12-15,Medium,In progress,75,Supplier response,EVT-0525,2027-12-15
+TSK-0545,Careers Fair,Approve budget 545,Adam Nowak,Marketing,2027-09-29,Medium,Complete,100,Budget approval,EVT-0579,2027-09-18
+TSK-0546,SharePoint,Request supplier quote 546,Mia Schulz,People and Culture,2027-04-14,Medium,Complete,100,Content approval,EVT-0143,2027-04-03
+TSK-0547,Newsletter,Reconcile attendance 547,Noah Becker,Sales,2027-05-31,Low,In progress,50,None,EVT-0592,2027-05-31
+TSK-0548,Supplier coordination,Archive final material 548,Emil Hoffmann,Engineering,2026-10-07,Medium,Waiting for review,90,Budget approval,EVT-0338,2026-09-30
+TSK-0549,Newsletter,Archive final material 549,Sara Özdemir,Product,2026-09-24,Medium,Not started,0,Content approval,EVT-0433,2026-09-16
+TSK-0550,Newsletter,Approve budget 550,Clara Schmitt,People and Culture,2027-03-20,Low,In progress,25,Venue confirmation,EVT-0583,2027-03-11
+TSK-0551,SharePoint,Draft copy 551,Paul Wolf,Sales,2027-07-03,Low,In progress,50,Supplier response,EVT-0649,2027-06-24
+TSK-0552,Internal communications,Draft copy 552,Omar Haddad,Sales,2026-06-17,Low,Complete,100,Supplier response,EVT-0127,2026-06-05
+TSK-0553,Annual Celebration,Prepare feedback survey 553,Sofia Wagner,Customer Support,2027-02-24,High,On hold,50,Supplier response,EVT-0350,2027-02-22
+TSK-0554,Annual Celebration,Send invitation 554,Adam Nowak,Customer Support,2027-05-31,Low,On hold,0,Content approval,EVT-0192,2027-05-19
+TSK-0555,Newsletter,Prepare feedback survey 555,Sofia Wagner,Product,2026-02-26,Low,Complete,100,Content approval,EVT-0171,2026-02-26
+TSK-0556,Internal communications,Prepare feedback survey 556,Mia Schulz,Sales,2026-03-06,Medium,Waiting for review,90,Budget approval,EVT-0119,2026-03-05
+TSK-0557,Internal communications,Update page content 557,Nina Krüger,People and Culture,2027-09-06,High,Complete,100,None,EVT-0404,2027-08-31
+TSK-0558,Newsletter,Approve budget 558,Elena Richter,Site Management,2026-08-30,Medium,Not started,0,Venue confirmation,EVT-0266,2026-08-24
+TSK-0559,Supplier coordination,Approve budget 559,Luca Hartmann,Site Management,2026-11-09,Medium,In progress,50,Budget approval,EVT-0093,2026-11-04
+TSK-0560,SharePoint,Reconcile attendance 560,Leon Koch,Marketing,2026-08-23,Medium,Complete,100,Venue confirmation,EVT-0253,2026-08-20
+TSK-0561,Internal communications,Reconcile attendance 561,Mila Fischer,Engineering,2026-05-25,Low,Not started,0,Budget approval,EVT-0507,2026-05-22
+TSK-0562,Careers Fair,Review accessibility 562,Emil Hoffmann,Customer Support,2026-05-17,Low,Not started,0,Supplier response,EVT-0525,2026-05-10
+TSK-0563,Internal communications,Review accessibility 563,Mia Schulz,Finance,2027-08-08,Low,Complete,100,Venue confirmation,EVT-0208,2027-08-01
+TSK-0564,Careers Fair,Review accessibility 564,Sofia Wagner,Marketing,2026-11-18,Medium,Not started,0,None,EVT-0519,2026-11-16
+TSK-0565,Internal communications,Reconcile attendance 565,Jonas Weber,Site Management,2026-05-10,Low,Waiting for review,90,Venue confirmation,EVT-0224,2026-04-29
+TSK-0566,SharePoint,Approve budget 566,David Neumann,Sales,2027-12-17,Medium,Waiting for review,90,Supplier response,EVT-0597,2027-12-13
+TSK-0567,Careers Fair,Update page content 567,Leon Koch,Engineering,2026-02-01,High,In progress,25,Budget approval,EVT-0462,2026-01-25
+TSK-0568,Annual Celebration,Draft copy 568,Noah Becker,People and Culture,2027-08-28,High,Not started,0,Supplier response,EVT-0304,2027-08-20
+TSK-0569,Newsletter,Draft copy 569,Paul Wolf,Marketing,2027-02-20,Medium,Complete,100,Content approval,EVT-0316,2027-02-10
+TSK-0570,Internal communications,Approve budget 570,Omar Haddad,Engineering,2027-05-24,Medium,Waiting for review,90,None,EVT-0561,2027-05-18
+TSK-0571,SharePoint,Approve budget 571,Mia Schulz,Site Management,2027-11-23,High,Waiting for review,90,Venue confirmation,EVT-0420,2027-11-14
+TSK-0572,Annual Celebration,Update page content 572,Lea Schneider,Site Management,2027-07-18,High,Not started,0,Budget approval,EVT-0150,2027-07-06
+TSK-0573,Newsletter,Archive final material 573,Amira Yilmaz,Sales,2026-08-25,High,Complete,100,None,EVT-0508,2026-08-20
+TSK-0574,Supplier coordination,Review accessibility 574,Amira Yilmaz,Site Management,2027-11-22,High,In progress,25,Budget approval,EVT-0245,2027-11-13
+TSK-0575,Careers Fair,Confirm owner 575,Adam Nowak,Marketing,2026-08-07,Low,On hold,0,Budget approval,EVT-0477,2026-08-03
+TSK-0576,Internal communications,Send invitation 576,Noah Becker,Finance,2026-01-18,Low,Complete,100,None,EVT-0261,2026-01-16
+TSK-0577,Supplier coordination,Prepare feedback survey 577,Sofia Wagner,Customer Support,2026-08-09,High,On hold,0,None,EVT-0563,2026-08-09
+TSK-0578,Newsletter,Confirm owner 578,Luca Hartmann,Customer Support,2026-03-03,Medium,Waiting for review,90,Budget approval,EVT-0243,2026-02-26
+TSK-0579,Internal communications,Archive final material 579,Adam Nowak,Sales,2027-06-19,High,On hold,0,Budget approval,EVT-0059,2027-06-18
+TSK-0580,Internal communications,Prepare feedback survey 580,Luca Hartmann,Sales,2027-12-17,High,Waiting for review,90,None,EVT-0235,2027-12-16
+TSK-0581,Internal communications,Review accessibility 581,Sofia Wagner,Customer Support,2026-09-06,High,Complete,100,Venue confirmation,EVT-0177,2026-08-30
+TSK-0582,Internal communications,Draft copy 582,Nina Krüger,Marketing,2026-02-07,Medium,Not started,0,Supplier response,EVT-0236,2026-01-28
+TSK-0583,Internal communications,Update page content 583,Lea Schneider,Finance,2027-09-20,Medium,Complete,100,Supplier response,EVT-0164,2027-09-11
+TSK-0584,Newsletter,Request supplier quote 584,Felix Braun,Sales,2027-06-03,High,Complete,100,None,EVT-0380,2027-05-31
+TSK-0585,Internal communications,Prepare feedback survey 585,Paul Wolf,Finance,2026-09-26,Medium,Not started,0,Supplier response,EVT-0033,2026-09-23
+TSK-0586,Newsletter,Archive final material 586,Mia Schulz,Customer Support,2027-01-29,Low,Waiting for review,90,Venue confirmation,EVT-0112,2027-01-17
+TSK-0587,Internal communications,Approve budget 587,Leon Koch,Sales,2027-06-02,Medium,Not started,0,None,EVT-0598,2027-06-02
+TSK-0588,SharePoint,Confirm owner 588,Elena Richter,People and Culture,2026-08-10,Low,On hold,0,Budget approval,EVT-0301,2026-08-04
+TSK-0589,Annual Celebration,Review accessibility 589,Mila Fischer,People and Culture,2027-05-09,Medium,Waiting for review,90,Venue confirmation,EVT-0242,2027-04-28
+TSK-0590,Supplier coordination,Send invitation 590,Emil Hoffmann,Engineering,2026-10-20,Medium,On hold,0,Content approval,EVT-0398,2026-10-14
+TSK-0591,Careers Fair,Approve budget 591,Mila Fischer,People and Culture,2026-07-20,Low,Complete,100,None,EVT-0303,2026-07-18
+TSK-0592,Careers Fair,Confirm owner 592,Omar Haddad,Finance,2026-09-28,High,Waiting for review,90,Budget approval,EVT-0496,2026-09-23
+TSK-0593,Supplier coordination,Archive final material 593,Lea Schneider,Site Management,2027-10-22,High,Complete,100,Content approval,EVT-0123,2027-10-19
+TSK-0594,Newsletter,Draft copy 594,Sofia Wagner,Engineering,2027-10-19,High,In progress,25,None,EVT-0463,2027-10-12
+TSK-0595,Internal communications,Draft copy 595,Leon Koch,Marketing,2026-08-31,Low,In progress,25,Venue confirmation,EVT-0165,2026-08-23
+TSK-0596,SharePoint,Reconcile attendance 596,Paul Wolf,Site Management,2026-10-22,High,Waiting for review,90,Supplier response,EVT-0035,2026-10-10
+TSK-0597,Careers Fair,Archive final material 597,Emil Hoffmann,Finance,2027-11-04,Medium,On hold,25,Venue confirmation,EVT-0620,2027-11-03
+TSK-0598,Supplier coordination,Review accessibility 598,Hannah Lange,Marketing,2027-04-29,Medium,Not started,0,Budget approval,EVT-0332,2027-04-26
+TSK-0599,Newsletter,Archive final material 599,Noah Becker,Engineering,2027-05-07,High,Not started,0,Budget approval,EVT-0327,2027-04-25
+TSK-0600,Internal communications,Send invitation 600,Amira Yilmaz,People and Culture,2026-09-08,High,On hold,0,Supplier response,EVT-0310,2026-09-05
+TSK-0601,Careers Fair,Prepare feedback survey 601,Omar Haddad,People and Culture,2027-06-06,High,Complete,100,Content approval,EVT-0316,2027-06-03
+TSK-0602,Supplier coordination,Confirm owner 602,Luca Hartmann,Finance,2027-02-17,Medium,Waiting for review,90,Budget approval,EVT-0305,2027-02-09
+TSK-0603,Newsletter,Review accessibility 603,Mila Fischer,Customer Support,2027-01-13,High,Not started,0,None,EVT-0188,2027-01-04
+TSK-0604,Internal communications,Confirm owner 604,Mila Fischer,Finance,2026-11-09,Low,Not started,0,Budget approval,EVT-0394,2026-10-29
+TSK-0605,Supplier coordination,Review accessibility 605,Noah Becker,People and Culture,2026-01-21,Low,In progress,75,Supplier response,EVT-0304,2026-01-13
+TSK-0606,Careers Fair,Update page content 606,Mila Fischer,Site Management,2026-09-06,High,Waiting for review,90,None,EVT-0406,2026-08-27
+TSK-0607,Newsletter,Request supplier quote 607,Leon Koch,Sales,2026-06-26,High,Complete,100,Supplier response,EVT-0082,2026-06-23
+TSK-0608,SharePoint,Review accessibility 608,Clara Schmitt,Customer Support,2026-11-12,High,Complete,100,None,EVT-0536,2026-11-12
+TSK-0609,Supplier coordination,Update page content 609,Luca Hartmann,Sales,2027-07-12,Medium,In progress,25,Venue confirmation,EVT-0401,2027-07-07
+TSK-0610,Annual Celebration,Confirm owner 610,Hannah Lange,Sales,2026-07-14,Low,In progress,50,Supplier response,EVT-0372,2026-07-02
+TSK-0611,SharePoint,Prepare feedback survey 611,Felix Braun,Engineering,2026-03-10,High,Not started,0,Budget approval,EVT-0645,2026-03-08
+TSK-0612,Newsletter,Draft copy 612,Omar Haddad,Engineering,2027-12-12,Medium,On hold,0,Supplier response,EVT-0478,2027-12-12
+TSK-0613,Careers Fair,Send invitation 613,Amira Yilmaz,Finance,2026-04-25,High,Waiting for review,90,Budget approval,EVT-0083,2026-04-15
+TSK-0614,SharePoint,Approve budget 614,Sara Özdemir,Finance,2026-12-29,High,Waiting for review,90,Venue confirmation,EVT-0229,2026-12-25
+TSK-0615,Careers Fair,Draft copy 615,Felix Braun,Customer Support,2026-11-04,Low,Complete,100,None,EVT-0505,2026-10-29
+TSK-0616,Careers Fair,Review accessibility 616,Jonas Weber,Site Management,2027-02-21,Low,On hold,25,Content approval,EVT-0519,2027-02-15
+TSK-0617,Internal communications,Request supplier quote 617,Leon Koch,Customer Support,2026-01-18,Medium,Complete,100,Budget approval,EVT-0249,2026-01-18
+TSK-0618,Supplier coordination,Confirm owner 618,Paul Wolf,Product,2026-08-18,Medium,Complete,100,Supplier response,EVT-0586,2026-08-11
+TSK-0619,Internal communications,Update page content 619,Elena Richter,Sales,2026-10-22,Medium,In progress,50,Supplier response,EVT-0329,2026-10-11
+TSK-0620,Supplier coordination,Send invitation 620,Amira Yilmaz,Sales,2026-04-09,High,Complete,100,None,EVT-0057,2026-04-06
+TSK-0621,Supplier coordination,Prepare feedback survey 621,David Neumann,Site Management,2027-09-29,High,Not started,0,Venue confirmation,EVT-0473,2027-09-27
+TSK-0622,Supplier coordination,Prepare feedback survey 622,Mila Fischer,Finance,2027-02-08,Low,On hold,50,Venue confirmation,EVT-0316,2027-02-01
+TSK-0623,Internal communications,Archive final material 623,Noah Becker,Finance,2026-04-16,Low,On hold,25,Budget approval,EVT-0383,2026-04-16
+TSK-0624,Supplier coordination,Update page content 624,Felix Braun,Sales,2026-05-06,Medium,On hold,25,None,EVT-0603,2026-04-27
+TSK-0625,SharePoint,Confirm owner 625,Luca Hartmann,Marketing,2026-01-07,High,Complete,100,Supplier response,EVT-0491,2026-01-05
+TSK-0626,Careers Fair,Confirm owner 626,Nina Krüger,People and Culture,2027-01-30,Medium,Waiting for review,90,Supplier response,EVT-0077,2027-01-26
+TSK-0627,SharePoint,Confirm owner 627,Hannah Lange,Customer Support,2027-10-15,Medium,Waiting for review,90,Venue confirmation,EVT-0589,2027-10-05
+TSK-0628,Newsletter,Request supplier quote 628,Adam Nowak,Customer Support,2026-06-15,Low,In progress,25,Venue confirmation,EVT-0221,2026-06-15
+TSK-0629,Annual Celebration,Confirm owner 629,Sara Özdemir,Marketing,2026-08-03,High,In progress,50,Budget approval,EVT-0485,2026-08-02
+TSK-0630,Newsletter,Request supplier quote 630,Sofia Wagner,Product,2027-11-24,High,Waiting for review,90,Supplier response,EVT-0033,2027-11-16
+TSK-0631,Annual Celebration,Update page content 631,Hannah Lange,Site Management,2026-08-28,Medium,Not started,0,Content approval,EVT-0203,2026-08-23
+TSK-0632,Careers Fair,Archive final material 632,Hannah Lange,Finance,2027-05-29,High,Waiting for review,90,None,EVT-0022,2027-05-23
+TSK-0633,Annual Celebration,Reconcile attendance 633,Luca Hartmann,Sales,2026-11-18,High,Waiting for review,90,Content approval,EVT-0370,2026-11-08
+TSK-0634,Supplier coordination,Reconcile attendance 634,Clara Schmitt,Product,2026-02-20,Low,In progress,75,Venue confirmation,EVT-0294,2026-02-19
+TSK-0635,Newsletter,Review accessibility 635,Sofia Wagner,Marketing,2026-01-11,Low,Complete,100,Venue confirmation,EVT-0007,2026-01-11
+TSK-0636,Annual Celebration,Reconcile attendance 636,Adam Nowak,Engineering,2027-11-16,Low,Waiting for review,90,Content approval,EVT-0006,2027-11-12
+TSK-0637,Supplier coordination,Approve budget 637,Sara Özdemir,Sales,2026-10-03,Low,In progress,75,Supplier response,EVT-0134,2026-09-28
+TSK-0638,SharePoint,Approve budget 638,Mia Schulz,Marketing,2027-10-27,Low,Not started,0,Venue confirmation,EVT-0630,2027-10-20
+TSK-0639,Internal communications,Prepare feedback survey 639,Nina Krüger,Product,2027-02-17,High,On hold,25,Budget approval,EVT-0390,2027-02-16
+TSK-0640,Supplier coordination,Send invitation 640,Clara Schmitt,Product,2027-08-05,Low,In progress,75,Content approval,EVT-0139,2027-08-04
+TSK-0641,Supplier coordination,Reconcile attendance 641,Elena Richter,Product,2027-05-23,Medium,On hold,25,Venue confirmation,EVT-0331,2027-05-12
+TSK-0642,Newsletter,Review accessibility 642,Felix Braun,Sales,2026-03-18,Low,Not started,0,Content approval,EVT-0607,2026-03-13
+TSK-0643,Internal communications,Reconcile attendance 643,Sara Özdemir,Site Management,2027-01-16,Low,Not started,0,Venue confirmation,EVT-0129,2027-01-16
+TSK-0644,Supplier coordination,Request supplier quote 644,Clara Schmitt,Finance,2026-08-21,Medium,In progress,75,Budget approval,EVT-0334,2026-08-18
+TSK-0645,Careers Fair,Prepare feedback survey 645,Mila Fischer,Engineering,2026-03-01,High,On hold,50,None,EVT-0059,2026-02-21
+TSK-0646,Careers Fair,Draft copy 646,Emil Hoffmann,Marketing,2026-11-25,Low,Waiting for review,90,Supplier response,EVT-0551,2026-11-25
+TSK-0647,Careers Fair,Draft copy 647,Elena Richter,Finance,2026-02-09,Medium,Waiting for review,90,None,EVT-0284,2026-02-07
+TSK-0648,SharePoint,Approve budget 648,Lea Schneider,Engineering,2026-11-11,Low,In progress,25,Budget approval,EVT-0603,2026-11-05
+TSK-0649,Newsletter,Prepare feedback survey 649,Jonas Weber,Finance,2027-03-06,High,Not started,0,None,EVT-0241,2027-03-04
+TSK-0650,Supplier coordination,Reconcile attendance 650,Leon Koch,Marketing,2027-04-30,High,Not started,0,Budget approval,EVT-0061,2027-04-19

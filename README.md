@@ -1,92 +1,89 @@
-# Nexora Inside
+# Project 02 — Internal Communications, SharePoint and Corporate Event Management
 
-An interactive, SharePoint-style internal communications and event coordination prototype for the fictional Nexora Technologies GmbH. It turns the project brief into a portfolio-ready intranet experience with a homepage, news hub, people directory, events, resource library, newsletter workflow, communication guidelines, careers fair kit and admin tracker.
+This is a finished, fictional portfolio project for Nexora Technologies GmbH. It demonstrates how an administrative communications role can plan internal messages, prepare a monthly employee newsletter, design a SharePoint information structure, coordinate an employee event, support recruitment marketing, and track the work.
 
-> **Prototype note:** This is a static front-end demonstration. It does not connect to Microsoft 365, send email, register attendees or store edits. The sample organization, people, contact details and activity are fictional. The `nexora.example` domain is reserved for examples.
+**There is no website to launch and no local server to run.** Open the Word, Excel and PowerPoint deliverables directly in Microsoft Office or compatible applications. The SharePoint work is a visual design concept, not a live site.
 
-## Publish the public website
+## Start here
 
-This repository includes a GitHub Actions workflow at `.github/workflows/deploy.yml`. After it is pushed to a **public GitHub repository**, GitHub Pages publishes the site and republishes it whenever `main` changes. No always-on computer or local server is needed. GitHub's current setup requires choosing **GitHub Actions** as the Pages build source in repository settings once; see [GitHub's workflow publishing instructions](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages).
+1. Read the plain-language [Project Overview](docs/PROJECT_OVERVIEW.md).
+2. Open the [Corporate Communication Guidelines](deliverables/01_Communications/Corporate_Communication_Guidelines.docx) for the strategy and approval process.
+3. Browse the [December Newsletter](deliverables/02_Newsletter/December_2026_Newsletter_Issue.docx) and its [reusable template](deliverables/02_Newsletter/Reusable_Newsletter_Template.docx).
+4. View the [SharePoint Intranet Design Plan](deliverables/03_Intranet/SharePoint_Intranet_Design_Plan.docx) and its editable [PowerPoint page mockups](outputs/SharePoint_Intranet_Prototype.pptx).
+5. Open the [Annual Celebration Event Pack](deliverables/04_Events/Annual_Employee_Celebration_Event_Pack.docx) and the [Excel tracker](outputs/Internal_Communication_Event_Tracker.xlsx).
+6. Review the [Careers Fair Content Kit](deliverables/05_Recruitment/Careers_Fair_Content_Kit.docx) and the editable [Careers Fair Visual Kit](outputs/Careers_Fair_Visual_Kit.pptx).
 
-### First-time setup
+## What is included
 
-1. Sign in to GitHub and make sure GitHub CLI is authenticated on this computer (`gh auth login`).
-2. From the project folder, create the public repository and push the project:
+| Module | Deliverables | What they demonstrate |
+| --- | --- | --- |
+| 1. Communication strategy | Corporate Communication Guidelines; 650-row announcement records | Audiences, channels, cadence, editorial calendar, review and approval workflow, accessibility and measures |
+| 2. Employee newsletter | December issue; reusable newsletter template | Management message, department updates, recognition, events, HR news, new starters and organizational information |
+| 3. SharePoint-style intranet | Site structure and page plan; PowerPoint mockups for Home, News, HR and Events | Navigation, content ownership, page governance, accessibility and information architecture |
+| 4. Internal event | Proposal, fictional venue comparison, budget assumptions, run of show, invitation and illustrative post-event review | Venue selection, cost planning, registrations, logistics, suppliers, feedback and lessons |
+| 5. HR marketing and trade fair | Company brochure copy, poster, candidate leaflet, stand concept and employee presentation | A consistent recruitment story and a practical visitor journey |
+| 6. Performance and administration | Excel tracker; 650-row announcement, event, task, people and registration data; 600 suppliers | Publication dates, approvals, deadlines, event capacity, expenditure, supplier status and outstanding work |
 
-   ```powershell
-   git add .
-   git commit -m "Build Nexora internal communications site"
-   gh repo create nexora-inside --public --source=. --remote=origin --push
-   ```
+## Sample data
 
-   If you already created a repository, add it as `origin` and push `main` instead.
+The `data/` directory includes CSV and JSON versions of six fictional datasets:
 
-3. On GitHub, open the new repository and choose **Settings → Pages → Build and deployment → Source: GitHub Actions**.
-4. Open the **Actions** tab and wait for **Deploy Nexora Inside** to finish successfully. The workflow page shows the published site URL; it will look like `https://YOUR-USERNAME.github.io/nexora-inside/`.
+| File | Records |
+| --- | ---: |
+| Announcements | 650 |
+| Events | 650 |
+| Tasks | 650 |
+| People | 650 |
+| Suppliers | 600 |
+| Registrations | 650 |
 
-After setup, every push to `main` updates the public site automatically. The project owner can share that URL with visitors. GitHub Pages is a static host: this prototype does not provide sign-in, per-employee access control, Microsoft 365 connectivity or server-side storage. Anyone with the public URL can view the published fictional sample content.
+The rows are deterministic, so regenerating them with the same script produces the same sample records. Field descriptions are in [data/README.md](data/README.md). The `.example` email domains are reserved examples and do not route to real employees or suppliers.
 
-### Preview before publishing (optional)
+## Use and refresh the project
 
-Use `py -m http.server 8000` in the project folder, then open `http://localhost:8000`. This is only a local preview; it is not required for public availability.
+### Use the files
 
-## What's included
+- Word documents are editable. Duplicate the newsletter master before making a new issue.
+- PowerPoint decks contain editable page and recruitment-material concepts.
+- The Excel tracker has a Dashboard, formula-driven Budget sheet, and filterable record sheets. Update the sample data or budget inputs as needed.
+- CSV files can be opened in Excel, LibreOffice Calc or another spreadsheet application. JSON files can be imported into development tools.
 
-| Area | Experience |
-| --- | --- |
-| Communication strategy | Reusable principles, content approvals, editorial cadence and calendar guidance |
-| Employee newsletter | Monthly issue concept, editorial checklist, approvals and archive |
-| Intranet portal | Overview, announcements, people, documents, and event navigation |
-| Event coordination | Featured annual celebration, calendar, registration and budget fields |
-| HR marketing | Careers fair brochure, poster, leaflet, stand, presentation and QR plan |
-| Administration | Searchable, filterable communications and event task tracker |
+### Regenerate the sample data
 
-The generated demo datasets contain **650 announcements, 650 events, 650 tasks, 650 people and 600 suppliers** (3,200 fictional records total). Each dataset is provided as JSON for the interface and CSV for spreadsheet use. Tables show 10 records per page and support text search, filtering and CSV export.
-
-## Regenerate the datasets
-
-The generator is deterministic: repeated runs create the same fictional records.
+Python 3 is needed only if you want to create the sample records again. From the project folder, run:
 
 ```powershell
-py data/generate_data.py
+py tools/generate_sample_data.py
 ```
 
-This writes both `.json` and `.csv` versions under `data/`.
+The script uses only the Python standard library and writes both CSV and JSON files into `data/`. It does not launch a server or change the Office deliverables.
 
-## Publish with GitHub
+### Prepare the QR material
 
-1. Create an empty repository on GitHub (for example, `nexora-inside`). Do not add a README there, since this project already has one.
-2. In the project folder, initialize Git and commit the project:
+The QR field in the careers fair Word kit points to `https://careers.nexora.example/fair`, a deliberately fictional address. In Word, update the field after opening the document to display its QR pattern. Replace the target with an approved careers URL before any real printing; the `.example` destination is not a live page.
 
-   ```powershell
-   git init
-   git add .
-   git commit -m "Build Nexora internal communications prototype"
-   git branch -M main
-   git remote add origin https://github.com/YOUR-USERNAME/nexora-inside.git
-   git push -u origin main
-   ```
+## GitHub portfolio setup
 
-   Replace `YOUR-USERNAME` with your GitHub account name. GitHub will prompt you to authenticate if needed.
+This is a normal Git repository with no deployment workflow. To publish the project source and Office files in a new GitHub repository:
 
-3. The included workflow handles Pages deployments on every push to `main`. Choose **GitHub Actions** as the Pages source once in **Settings → Pages**.
+1. Create an empty repository on GitHub.
+2. From this folder, connect the new repository and push the current branch:
 
-Before making a repository public, review the fictional sample data and remove any personal or confidential information you may add later.
-
-## Project structure
-
-```text
-index.html             App shell and navigation
-styles.css             Responsive visual system
-app.js                 Page rendering, filtering, pagination and export
-data/generate_data.py  Repeatable fictional data generator
-data/*.json            Data consumed by the prototype
-data/*.csv             Spreadsheet-friendly versions
+```powershell
+git remote add origin https://github.com/YOUR-ACCOUNT/YOUR-REPOSITORY.git
+git add .
+git commit -m "Build internal communications portfolio project"
+git push -u origin main
 ```
 
-## Design and workflow notes
+If this checkout still has an old `origin`, change it to the new repository URL before pushing:
 
-- The UI uses a responsive desktop-first layout and adapts for narrow screens.
-- The approval pattern is content owner → department lead → communications review → sponsor approval → publish and measure.
-- Adapt the cadence, owners, retention rules and approval thresholds to your real organization's policies before operational use.
-- Remote Google Fonts are used for Manrope and DM Sans; system sans-serif fallbacks remain available when offline.
+```powershell
+git remote set-url origin https://github.com/YOUR-ACCOUNT/YOUR-REPOSITORY.git
+```
+
+GitHub will store the files and display the README. It will not host a website. Avoid committing real employee records, private supplier quotes or other confidential material.
+
+## Fictional content and limitations
+
+Nexora Technologies GmbH, its employees, suppliers, venues, contact details, event outcomes, budgets and measurements are invented for portfolio practice. Event prices are planning assumptions, not real quotes. The project does not connect to Microsoft 365, SharePoint, Forms, Lists, Outlook or a live careers site. Confirm real company policies, permissions, retention rules, brand assets and accessibility requirements before adapting any example for operational use.

@@ -1,0 +1,651 @@
+﻿Registration_ID,Event_ID,Event_Name,Employee_ID,Employee_Name,Department,Location,RSVP_Status,Dietary_Requirement,Accessibility_Request,Plus_One,Registration_Date,Check_In
+REG-0001,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0508,Hannah Lange,Customer Support,Berlin,Attended,Halal,Reserved seating,No,2026-08-05,Present
+REG-0002,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0576,Sara Özdemir,People and Culture,Remote - Germany,Attended,None,Please contact me privately,No,2026-07-27,Present
+REG-0003,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0638,Mia Schulz,Engineering,Munich,Attended,Vegetarian,Reserved seating,No,2026-08-15,Present
+REG-0004,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0305,Clara Schmitt,Site Management,Munich,Attended,Gluten-free,Reserved seating,No,2026-10-06,Present
+REG-0005,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0195,Sara Özdemir,Sales,Remote - Germany,Attended,Vegetarian,Reserved seating,Yes,2026-09-17,Present
+REG-0006,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0150,Felix Braun,Marketing,Munich,Attended,Please contact me privately,Please contact me privately,Yes,2026-10-02,Present
+REG-0007,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0635,Paul Wolf,Product,Remote - Germany,Attended,Please contact me privately,None,No,2026-10-13,Present
+REG-0008,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0290,Sara Özdemir,Customer Support,Cologne,Attended,Halal,Please contact me privately,Yes,2026-08-17,Present
+REG-0009,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0546,Amira Yilmaz,People and Culture,Hamburg,Attended,None,Captioning,No,2026-08-23,Present
+REG-0010,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0315,Luca Hartmann,Sales,Cologne,Attended,None,Please contact me privately,Yes,2026-08-27,Present
+REG-0011,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0253,Mila Fischer,Sales,Munich,Attended,None,Reserved seating,Yes,2026-09-07,Present
+REG-0012,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0555,Luca Hartmann,Engineering,Munich,Attended,Halal,Please contact me privately,No,2026-10-17,Present
+REG-0013,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0618,Leon Koch,Product,Munich,Attended,Gluten-free,Captioning,Yes,2026-09-04,Present
+REG-0014,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0317,Mila Fischer,Site Management,Remote - Germany,Attended,Vegetarian,None,Yes,2026-07-07,Present
+REG-0015,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0577,Mia Schulz,Sales,Berlin,Attended,Halal,Please contact me privately,Yes,2026-09-01,Present
+REG-0016,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0026,Sofia Wagner,Sales,Cologne,Attended,Vegan,Captioning,No,2026-10-06,Present
+REG-0017,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0209,David Neumann,Finance,Cologne,Attended,Gluten-free,Captioning,Yes,2026-10-10,Present
+REG-0018,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0594,Clara Schmitt,Site Management,Cologne,Attended,Please contact me privately,Reserved seating,No,2026-07-14,Present
+REG-0019,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0350,Sara Özdemir,People and Culture,Munich,Attended,Vegan,Captioning,Yes,2026-09-06,Present
+REG-0020,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0383,Jonas Weber,Marketing,Munich,Attended,Vegetarian,Captioning,No,2026-08-19,Present
+REG-0021,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0644,Jonas Weber,Site Management,Remote - Germany,Attended,Please contact me privately,Step-free route,Yes,2026-09-08,Present
+REG-0022,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0574,Nina Krüger,Engineering,Berlin,Attended,Please contact me privately,Please contact me privately,No,2026-09-13,Present
+REG-0023,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0423,David Neumann,Product,Berlin,Attended,None,None,No,2026-07-07,Present
+REG-0024,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0062,Nina Krüger,Marketing,Berlin,Attended,Halal,Please contact me privately,No,2026-10-04,Present
+REG-0025,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0054,Hannah Lange,Customer Support,Munich,Attended,Gluten-free,Captioning,Yes,2026-07-04,Present
+REG-0026,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0499,Jonas Weber,Sales,Remote - Germany,Attended,Halal,Step-free route,No,2026-08-16,Present
+REG-0027,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0127,Paul Wolf,Marketing,Berlin,Attended,Please contact me privately,None,No,2026-09-26,Present
+REG-0028,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0328,Nina Krüger,Sales,Cologne,Attended,Vegan,Step-free route,No,2026-10-06,Present
+REG-0029,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0533,Luca Hartmann,Marketing,Munich,Attended,Please contact me privately,None,No,2026-07-24,Present
+REG-0030,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0252,Lea Schneider,Product,Hamburg,Attended,Gluten-free,None,No,2026-07-19,Present
+REG-0031,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0202,Amira Yilmaz,People and Culture,Berlin,Attended,Please contact me privately,Step-free route,No,2026-07-02,Present
+REG-0032,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0555,Luca Hartmann,Engineering,Munich,Attended,Vegetarian,Please contact me privately,No,2026-08-24,Present
+REG-0033,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0385,Clara Schmitt,Marketing,Munich,Attended,Vegetarian,Captioning,No,2026-07-19,Present
+REG-0034,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0509,Mia Schulz,Sales,Berlin,Attended,Vegetarian,Captioning,No,2026-08-03,Present
+REG-0035,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0541,Amira Yilmaz,Site Management,Remote - Germany,Attended,Halal,None,No,2026-07-17,Present
+REG-0036,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0290,Sara Özdemir,Customer Support,Cologne,Attended,Please contact me privately,Please contact me privately,Yes,2026-08-20,Present
+REG-0037,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0065,Felix Braun,People and Culture,Cologne,Attended,None,Reserved seating,No,2026-08-14,Present
+REG-0038,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0455,Leon Koch,Product,Munich,Attended,Halal,Captioning,No,2026-09-08,Present
+REG-0039,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0534,Emil Hoffmann,Engineering,Hamburg,Attended,Vegetarian,Please contact me privately,Yes,2026-07-13,Present
+REG-0040,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0467,Sofia Wagner,Finance,Munich,Attended,Please contact me privately,Reserved seating,No,2026-07-13,Present
+REG-0041,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0250,Clara Schmitt,Sales,Munich,Attended,Please contact me privately,Step-free route,Yes,2026-09-28,Present
+REG-0042,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0013,Sofia Wagner,Marketing,Hamburg,Attended,Gluten-free,Please contact me privately,Yes,2026-07-28,Present
+REG-0043,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0174,Omar Haddad,Finance,Munich,Attended,None,Step-free route,Yes,2026-09-27,Present
+REG-0044,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0557,Hannah Lange,Product,Hamburg,Attended,Vegan,Captioning,No,2026-08-06,Present
+REG-0045,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0022,David Neumann,Customer Support,Cologne,Attended,Vegetarian,Captioning,No,2026-09-13,Present
+REG-0046,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0066,Omar Haddad,Product,Berlin,Attended,Gluten-free,Step-free route,No,2026-09-17,Present
+REG-0047,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0008,Elena Richter,Customer Support,Munich,Attended,Vegetarian,Step-free route,No,2026-10-13,Present
+REG-0048,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0382,Adam Nowak,Sales,Cologne,Attended,None,Please contact me privately,Yes,2026-08-27,Present
+REG-0049,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0645,Adam Nowak,Customer Support,Berlin,Attended,Vegetarian,Please contact me privately,Yes,2026-08-25,Present
+REG-0050,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0434,Hannah Lange,Product,Berlin,Attended,Gluten-free,Step-free route,No,2026-07-09,Present
+REG-0051,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0563,Jonas Weber,Product,Munich,Attended,Please contact me privately,Captioning,No,2026-07-09,Present
+REG-0052,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0162,Emil Hoffmann,People and Culture,Munich,Attended,Vegan,Step-free route,No,2026-09-23,Present
+REG-0053,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0650,David Neumann,Engineering,Remote - Germany,Attended,None,None,Yes,2026-07-22,Present
+REG-0054,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0454,Sara Özdemir,People and Culture,Munich,Attended,Halal,Step-free route,No,2026-10-06,Present
+REG-0055,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0117,Emil Hoffmann,Marketing,Berlin,Attended,Vegetarian,Captioning,No,2026-09-24,Present
+REG-0056,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0518,Sara Özdemir,Sales,Remote - Germany,Attended,Gluten-free,Step-free route,No,2026-09-02,Present
+REG-0057,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0496,Adam Nowak,People and Culture,Hamburg,Attended,Please contact me privately,Reserved seating,Yes,2026-07-07,Present
+REG-0058,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0498,Mila Fischer,Engineering,Berlin,Attended,Halal,None,No,2026-08-14,Present
+REG-0059,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0119,Nina Krüger,Customer Support,Munich,Attended,Please contact me privately,Please contact me privately,No,2026-09-01,Present
+REG-0060,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0155,Clara Schmitt,Sales,Cologne,Attended,Halal,Reserved seating,No,2026-07-09,Present
+REG-0061,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0528,Sofia Wagner,Finance,Remote - Germany,Attended,Halal,Step-free route,No,2026-07-03,Present
+REG-0062,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0151,David Neumann,Engineering,Cologne,Attended,Halal,Captioning,No,2026-07-10,Present
+REG-0063,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0225,Emil Hoffmann,Product,Berlin,Attended,Vegan,Step-free route,No,2026-10-14,Present
+REG-0064,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0557,Hannah Lange,Product,Hamburg,Attended,Gluten-free,Please contact me privately,Yes,2026-10-01,Present
+REG-0065,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0624,Felix Braun,Engineering,Hamburg,Attended,Vegetarian,Please contact me privately,No,2026-09-14,Present
+REG-0066,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0288,Emil Hoffmann,Product,Cologne,Attended,Vegetarian,Step-free route,No,2026-10-16,Present
+REG-0067,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0374,David Neumann,Finance,Munich,Attended,Gluten-free,Reserved seating,Yes,2026-09-22,Present
+REG-0068,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0585,Sofia Wagner,Site Management,Berlin,Attended,Halal,Please contact me privately,No,2026-09-14,Present
+REG-0069,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0412,Sofia Wagner,Engineering,Remote - Germany,Attended,Vegan,Captioning,No,2026-07-12,Present
+REG-0070,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0272,David Neumann,Sales,Hamburg,Attended,Vegan,Step-free route,No,2026-08-30,Present
+REG-0071,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0204,Clara Schmitt,Engineering,Munich,Attended,Vegetarian,Please contact me privately,No,2026-08-28,Present
+REG-0072,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0353,Noah Becker,Finance,Munich,Attended,Gluten-free,None,No,2026-08-01,Present
+REG-0073,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0437,Emil Hoffmann,Sales,Remote - Germany,Attended,Vegan,Reserved seating,No,2026-08-30,Present
+REG-0074,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0075,Mila Fischer,Marketing,Hamburg,Attended,Please contact me privately,Please contact me privately,No,2026-07-31,Present
+REG-0075,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0157,Paul Wolf,Finance,Remote - Germany,Attended,None,Step-free route,No,2026-07-08,Present
+REG-0076,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0486,Mia Schulz,People and Culture,Munich,Attended,Vegan,Captioning,Yes,2026-10-04,Present
+REG-0077,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0500,Luca Hartmann,Product,Hamburg,Attended,Please contact me privately,None,No,2026-07-06,Present
+REG-0078,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0108,Omar Haddad,Marketing,Munich,Attended,Halal,Reserved seating,No,2026-09-15,Present
+REG-0079,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0247,David Neumann,Engineering,Munich,Attended,None,None,No,2026-07-26,Present
+REG-0080,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0406,David Neumann,People and Culture,Munich,Attended,Vegetarian,None,No,2026-09-26,Present
+REG-0081,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0287,Nina Krüger,Product,Berlin,Attended,Please contact me privately,Reserved seating,Yes,2026-07-14,Present
+REG-0082,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0028,Noah Becker,Product,Hamburg,Attended,Halal,Captioning,No,2026-09-19,Present
+REG-0083,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0343,Adam Nowak,Engineering,Cologne,Attended,Halal,Captioning,No,2026-10-09,Present
+REG-0084,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0163,Clara Schmitt,Finance,Remote - Germany,Attended,Gluten-free,Step-free route,Yes,2026-07-04,Present
+REG-0085,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0109,Luca Hartmann,Engineering,Munich,Attended,Vegetarian,Reserved seating,No,2026-08-11,Present
+REG-0086,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0557,Hannah Lange,Product,Hamburg,Attended,Halal,Please contact me privately,No,2026-10-08,Present
+REG-0087,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0175,Elena Richter,Site Management,Hamburg,Attended,None,Reserved seating,No,2026-09-25,Present
+REG-0088,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0392,David Neumann,Finance,Remote - Germany,Attended,Vegetarian,Step-free route,Yes,2026-09-15,Present
+REG-0089,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0636,Adam Nowak,Product,Remote - Germany,Attended,None,Step-free route,No,2026-08-25,Present
+REG-0090,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0386,Felix Braun,Engineering,Munich,Attended,None,Reserved seating,No,2026-07-26,Present
+REG-0091,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0357,David Neumann,Sales,Berlin,Attended,Halal,Step-free route,No,2026-07-02,Present
+REG-0092,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0097,Lea Schneider,Finance,Berlin,Attended,Vegetarian,Please contact me privately,No,2026-08-17,Present
+REG-0093,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0053,Nina Krüger,People and Culture,Hamburg,Attended,Vegetarian,Step-free route,No,2026-10-09,Present
+REG-0094,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0649,Jonas Weber,Site Management,Munich,Attended,Gluten-free,Step-free route,No,2026-08-18,Present
+REG-0095,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0455,Leon Koch,Product,Munich,Attended,Gluten-free,Please contact me privately,No,2026-09-25,Present
+REG-0096,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0185,Nina Krüger,Sales,Munich,Attended,Please contact me privately,Please contact me privately,No,2026-07-12,Present
+REG-0097,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0628,Mila Fischer,Marketing,Hamburg,Attended,Vegetarian,None,Yes,2026-09-15,Present
+REG-0098,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0249,Amira Yilmaz,Sales,Berlin,Attended,Please contact me privately,Please contact me privately,No,2026-07-14,Present
+REG-0099,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0279,Hannah Lange,Site Management,Hamburg,Attended,Vegetarian,Please contact me privately,No,2026-07-24,Present
+REG-0100,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0080,Felix Braun,Customer Support,Munich,Attended,Vegan,Captioning,No,2026-09-17,Present
+REG-0101,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0143,David Neumann,People and Culture,Hamburg,Attended,Vegetarian,None,No,2026-08-09,Present
+REG-0102,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0150,Felix Braun,Marketing,Munich,Attended,None,Reserved seating,Yes,2026-10-08,Present
+REG-0103,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0272,David Neumann,Sales,Hamburg,Attended,Gluten-free,Please contact me privately,No,2026-09-25,Present
+REG-0104,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0027,Leon Koch,Engineering,Munich,Attended,None,Captioning,No,2026-09-02,Present
+REG-0105,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0315,Luca Hartmann,Sales,Cologne,Attended,Gluten-free,Please contact me privately,No,2026-08-29,Present
+REG-0106,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0418,Felix Braun,Product,Remote - Germany,Attended,Vegetarian,Step-free route,No,2026-09-17,Present
+REG-0107,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0005,Noah Becker,Product,Munich,Attended,Gluten-free,Captioning,No,2026-07-30,Present
+REG-0108,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0223,Jonas Weber,Engineering,Remote - Germany,Attended,Please contact me privately,Please contact me privately,No,2026-09-02,Present
+REG-0109,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0058,Lea Schneider,Site Management,Remote - Germany,Attended,Vegetarian,Please contact me privately,Yes,2026-08-31,Present
+REG-0110,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0132,Amira Yilmaz,Marketing,Berlin,Attended,Vegetarian,Step-free route,No,2026-09-23,Present
+REG-0111,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0457,Jonas Weber,Customer Support,Hamburg,Attended,Vegetarian,Please contact me privately,No,2026-08-16,Present
+REG-0112,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0093,Omar Haddad,Customer Support,Remote - Germany,Attended,Halal,None,No,2026-08-18,Present
+REG-0113,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0306,Nina Krüger,Product,Hamburg,Attended,Vegan,Step-free route,No,2026-09-03,Present
+REG-0114,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0103,David Neumann,Marketing,Cologne,Attended,None,None,No,2026-07-02,Present
+REG-0115,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0057,Mila Fischer,Engineering,Hamburg,Attended,None,Reserved seating,No,2026-08-31,Present
+REG-0116,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0596,Elena Richter,Sales,Munich,Attended,Vegan,Reserved seating,No,2026-10-09,Present
+REG-0117,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0636,Adam Nowak,Product,Remote - Germany,Attended,Halal,None,No,2026-09-26,Present
+REG-0118,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0517,Felix Braun,Marketing,Hamburg,Attended,Vegetarian,None,No,2026-09-18,Present
+REG-0119,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0480,Hannah Lange,Site Management,Hamburg,Attended,Vegan,None,Yes,2026-07-24,Present
+REG-0120,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0377,Jonas Weber,Marketing,Remote - Germany,Attended,Halal,Reserved seating,No,2026-08-29,Present
+REG-0121,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0358,Luca Hartmann,Finance,Cologne,Attended,Gluten-free,Reserved seating,No,2026-07-26,Present
+REG-0122,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0182,Nina Krüger,Product,Berlin,Attended,None,Please contact me privately,No,2026-09-02,Present
+REG-0123,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0033,Luca Hartmann,Sales,Cologne,Attended,Halal,Please contact me privately,No,2026-08-07,Present
+REG-0124,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0108,Omar Haddad,Marketing,Munich,Attended,Halal,Captioning,No,2026-08-22,Present
+REG-0125,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0544,Sofia Wagner,Finance,Berlin,Attended,Vegan,Reserved seating,Yes,2026-07-07,Present
+REG-0126,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0033,Luca Hartmann,Sales,Cologne,Attended,Halal,Reserved seating,No,2026-07-18,Present
+REG-0127,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0429,Lea Schneider,Finance,Munich,Attended,Gluten-free,None,No,2026-10-04,Present
+REG-0128,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0102,Luca Hartmann,Engineering,Cologne,Attended,Please contact me privately,Reserved seating,No,2026-10-12,Present
+REG-0129,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0337,Clara Schmitt,Finance,Hamburg,Attended,Gluten-free,Captioning,No,2026-07-02,Present
+REG-0130,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0269,Clara Schmitt,Finance,Cologne,Attended,Please contact me privately,Captioning,No,2026-08-11,Present
+REG-0131,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0558,Hannah Lange,Product,Berlin,Attended,Vegan,Step-free route,No,2026-10-07,Present
+REG-0132,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0110,Felix Braun,People and Culture,Berlin,Attended,Halal,Please contact me privately,No,2026-07-28,Present
+REG-0133,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0101,David Neumann,Customer Support,Cologne,Attended,Please contact me privately,Please contact me privately,No,2026-09-22,Present
+REG-0134,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0438,Mia Schulz,People and Culture,Munich,Attended,None,Reserved seating,No,2026-07-29,Present
+REG-0135,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0295,Lea Schneider,Marketing,Cologne,Attended,Vegetarian,Please contact me privately,No,2026-10-01,Present
+REG-0136,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0331,Sara Özdemir,Marketing,Remote - Germany,Attended,Gluten-free,Please contact me privately,Yes,2026-08-08,Present
+REG-0137,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0030,Sara Özdemir,Marketing,Hamburg,Attended,None,Reserved seating,No,2026-09-26,Present
+REG-0138,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0077,Luca Hartmann,Customer Support,Munich,Attended,Halal,Please contact me privately,No,2026-07-19,Present
+REG-0139,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0206,Sofia Wagner,Marketing,Remote - Germany,Attended,Halal,Step-free route,No,2026-07-20,Present
+REG-0140,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0395,Omar Haddad,Site Management,Cologne,Attended,Please contact me privately,Captioning,No,2026-09-11,Present
+REG-0141,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0552,Sofia Wagner,Marketing,Hamburg,Attended,Halal,Please contact me privately,No,2026-07-27,Present
+REG-0142,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0529,Luca Hartmann,People and Culture,Berlin,Attended,Please contact me privately,Reserved seating,No,2026-10-12,Present
+REG-0143,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0073,Mia Schulz,Marketing,Berlin,Attended,None,Reserved seating,Yes,2026-08-23,Present
+REG-0144,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0296,Omar Haddad,Finance,Munich,Attended,Vegetarian,Captioning,No,2026-09-27,Present
+REG-0145,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0302,David Neumann,People and Culture,Hamburg,Attended,Gluten-free,None,No,2026-09-14,Present
+REG-0146,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0477,Hannah Lange,Site Management,Remote - Germany,Attended,Halal,Step-free route,No,2026-07-08,Present
+REG-0147,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0344,Lea Schneider,Finance,Munich,Attended,Halal,Please contact me privately,No,2026-08-21,Present
+REG-0148,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0300,Nina Krüger,Customer Support,Munich,Attended,Please contact me privately,Captioning,No,2026-08-10,Present
+REG-0149,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0131,Mia Schulz,Customer Support,Munich,Attended,None,Reserved seating,No,2026-07-14,Present
+REG-0150,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0605,Felix Braun,Sales,Munich,Attended,None,Captioning,No,2026-07-09,Present
+REG-0151,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0587,Sofia Wagner,Marketing,Remote - Germany,Attended,Gluten-free,Reserved seating,Yes,2026-08-18,Present
+REG-0152,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0059,Mila Fischer,Marketing,Cologne,Attended,Gluten-free,Please contact me privately,No,2026-07-03,Present
+REG-0153,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0259,Paul Wolf,Engineering,Cologne,Attended,Vegetarian,Captioning,No,2026-09-05,Present
+REG-0154,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0173,Amira Yilmaz,Sales,Hamburg,Attended,Vegetarian,Step-free route,No,2026-09-10,Present
+REG-0155,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0505,Paul Wolf,Product,Munich,Attended,Please contact me privately,Captioning,No,2026-07-28,Present
+REG-0156,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0370,David Neumann,Site Management,Cologne,Attended,Halal,Reserved seating,Yes,2026-08-12,Present
+REG-0157,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0317,Mila Fischer,Site Management,Remote - Germany,Attended,Please contact me privately,Step-free route,No,2026-07-18,Present
+REG-0158,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0240,Lea Schneider,Customer Support,Remote - Germany,Attended,None,Captioning,Yes,2026-07-16,Present
+REG-0159,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0534,Emil Hoffmann,Engineering,Hamburg,Attended,Please contact me privately,None,No,2026-10-09,Present
+REG-0160,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0311,Mila Fischer,Product,Cologne,Attended,None,Step-free route,No,2026-10-19,Present
+REG-0161,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0065,Felix Braun,People and Culture,Cologne,Attended,Vegan,Captioning,Yes,2026-07-14,Present
+REG-0162,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0414,Amira Yilmaz,Finance,Munich,Attended,Vegan,None,No,2026-09-11,Present
+REG-0163,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0536,Nina Krüger,Customer Support,Cologne,Attended,Gluten-free,Please contact me privately,No,2026-10-16,Present
+REG-0164,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0158,Lea Schneider,Site Management,Remote - Germany,Attended,Gluten-free,Please contact me privately,No,2026-08-26,Present
+REG-0165,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0118,Adam Nowak,People and Culture,Hamburg,Attended,Vegetarian,None,Yes,2026-09-25,Present
+REG-0166,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0361,Luca Hartmann,Finance,Cologne,Attended,Vegan,Captioning,No,2026-07-20,Present
+REG-0167,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0284,Sara Özdemir,Finance,Remote - Germany,Attended,Vegetarian,None,Yes,2026-10-07,Present
+REG-0168,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0034,Felix Braun,Product,Berlin,Attended,None,Reserved seating,No,2026-08-23,Present
+REG-0169,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0284,Sara Özdemir,Finance,Remote - Germany,Attended,Halal,Captioning,Yes,2026-08-26,Present
+REG-0170,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0027,Leon Koch,Engineering,Munich,Attended,None,Step-free route,No,2026-09-16,Present
+REG-0171,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0609,Elena Richter,Sales,Remote - Germany,Attended,Gluten-free,Captioning,No,2026-07-16,Present
+REG-0172,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0629,Sofia Wagner,Engineering,Munich,Attended,None,None,No,2026-08-07,Present
+REG-0173,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0520,Jonas Weber,Customer Support,Cologne,Attended,Vegan,Captioning,No,2026-08-23,Present
+REG-0174,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0018,Sara Özdemir,Finance,Hamburg,Attended,None,Please contact me privately,No,2026-09-14,Present
+REG-0175,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0442,Adam Nowak,Marketing,Remote - Germany,No-show,Vegetarian,Please contact me privately,No,2026-08-28,No-show
+REG-0176,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0007,Sofia Wagner,Sales,Remote - Germany,No-show,Vegan,Step-free route,Yes,2026-08-12,No-show
+REG-0177,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0424,Jonas Weber,People and Culture,Munich,No-show,Vegetarian,Captioning,No,2026-10-12,No-show
+REG-0178,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0457,Jonas Weber,Customer Support,Hamburg,No-show,None,None,Yes,2026-08-04,No-show
+REG-0179,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0509,Mia Schulz,Sales,Berlin,No-show,Vegan,Reserved seating,No,2026-08-25,No-show
+REG-0180,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0542,Adam Nowak,Product,Hamburg,No-show,None,None,No,2026-09-23,No-show
+REG-0181,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0176,Sara Özdemir,Marketing,Hamburg,No-show,Vegetarian,Reserved seating,Yes,2026-08-13,No-show
+REG-0182,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0154,Leon Koch,Product,Cologne,No-show,Vegetarian,Step-free route,No,2026-07-21,No-show
+REG-0183,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0199,Leon Koch,Marketing,Berlin,No-show,Vegan,Captioning,No,2026-08-30,No-show
+REG-0184,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0295,Lea Schneider,Marketing,Cologne,No-show,Please contact me privately,None,No,2026-09-11,No-show
+REG-0185,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0212,Jonas Weber,People and Culture,Hamburg,No-show,Halal,Step-free route,No,2026-08-09,No-show
+REG-0186,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0186,Paul Wolf,Customer Support,Cologne,No-show,None,Step-free route,Yes,2026-08-26,No-show
+REG-0187,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0266,Hannah Lange,Site Management,Munich,No-show,Please contact me privately,Captioning,No,2026-09-12,No-show
+REG-0188,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0024,Lea Schneider,Site Management,Hamburg,No-show,Halal,Step-free route,No,2026-08-07,No-show
+REG-0189,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0201,Mia Schulz,Sales,Munich,No-show,Gluten-free,Please contact me privately,No,2026-07-24,No-show
+REG-0190,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0478,Paul Wolf,Finance,Munich,No-show,Halal,None,No,2026-08-30,No-show
+REG-0191,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0180,Luca Hartmann,People and Culture,Remote - Germany,No-show,Please contact me privately,Captioning,Yes,2026-09-20,No-show
+REG-0192,EVT-NX-2026-01,Nexora Annual Employee Celebration,NX-0430,David Neumann,Sales,Berlin,No-show,Please contact me privately,None,No,2026-10-08,No-show
+REG-0193,EVT-0002,Volunteer day May 2026 - 002,NX-0556,Mia Schulz,Sales,Munich,Waitlisted,Halal,Reserved seating,No,2026-10-08,Not applicable
+REG-0194,EVT-0002,Volunteer day May 2026 - 002,NX-0626,Nina Krüger,Sales,Berlin,Registered,None,None,Yes,2026-08-06,Not applicable
+REG-0195,EVT-0002,Volunteer day May 2026 - 002,NX-0171,Luca Hartmann,Finance,Remote - Germany,Cancelled,Vegan,None,Yes,2026-09-27,Not applicable
+REG-0196,EVT-0002,Volunteer day May 2026 - 002,NX-0214,Amira Yilmaz,Finance,Munich,Registered,Halal,None,No,2026-09-09,Not applicable
+REG-0197,EVT-0002,Volunteer day May 2026 - 002,NX-0491,Lea Schneider,Site Management,Hamburg,Registered,Vegan,Reserved seating,No,2026-10-16,Not applicable
+REG-0198,EVT-0002,Volunteer day May 2026 - 002,NX-0411,Amira Yilmaz,Site Management,Remote - Germany,Waitlisted,Gluten-free,None,No,2026-08-08,Not applicable
+REG-0199,EVT-0002,Volunteer day May 2026 - 002,NX-0337,Clara Schmitt,Finance,Hamburg,Attended,Halal,None,No,2026-09-24,Present
+REG-0200,EVT-0002,Volunteer day May 2026 - 002,NX-0438,Mia Schulz,People and Culture,Munich,Registered,Please contact me privately,None,Yes,2026-10-09,Not applicable
+REG-0201,EVT-0002,Volunteer day May 2026 - 002,NX-0585,Sofia Wagner,Site Management,Berlin,Attended,Halal,None,No,2026-08-08,Present
+REG-0202,EVT-0002,Volunteer day May 2026 - 002,NX-0033,Luca Hartmann,Sales,Cologne,Attended,Halal,Step-free route,Yes,2026-09-25,Present
+REG-0203,EVT-0002,Volunteer day May 2026 - 002,NX-0034,Felix Braun,Product,Berlin,Registered,Vegan,Captioning,No,2026-07-15,Not applicable
+REG-0204,EVT-0002,Volunteer day May 2026 - 002,NX-0589,Jonas Weber,Finance,Berlin,Registered,None,Captioning,Yes,2026-08-27,Not applicable
+REG-0205,EVT-0002,Volunteer day May 2026 - 002,NX-0471,David Neumann,Site Management,Remote - Germany,Registered,Vegetarian,Please contact me privately,No,2026-09-16,Not applicable
+REG-0206,EVT-0002,Volunteer day May 2026 - 002,NX-0379,Adam Nowak,Engineering,Remote - Germany,Cancelled,None,Please contact me privately,No,2026-07-06,Not applicable
+REG-0207,EVT-0002,Volunteer day May 2026 - 002,NX-0450,Noah Becker,People and Culture,Cologne,Attended,Vegan,Captioning,No,2026-08-26,Present
+REG-0208,EVT-0002,Volunteer day May 2026 - 002,NX-0325,Adam Nowak,Finance,Hamburg,Cancelled,Vegan,None,No,2026-08-04,Not applicable
+REG-0209,EVT-0002,Volunteer day May 2026 - 002,NX-0230,Sofia Wagner,Sales,Remote - Germany,Registered,None,None,No,2026-07-20,Not applicable
+REG-0210,EVT-0002,Volunteer day May 2026 - 002,NX-0359,Felix Braun,Customer Support,Cologne,Registered,Please contact me privately,Step-free route,No,2026-09-02,Not applicable
+REG-0211,EVT-0002,Volunteer day May 2026 - 002,NX-0292,David Neumann,Marketing,Remote - Germany,Attended,Gluten-free,None,No,2026-07-16,Present
+REG-0212,EVT-0002,Volunteer day May 2026 - 002,NX-0278,Lea Schneider,Site Management,Remote - Germany,Registered,Please contact me privately,Captioning,No,2026-08-24,Not applicable
+REG-0213,EVT-0002,Volunteer day May 2026 - 002,NX-0135,Adam Nowak,Product,Berlin,Attended,Halal,Step-free route,No,2026-09-30,Present
+REG-0214,EVT-0002,Volunteer day May 2026 - 002,NX-0284,Sara Özdemir,Finance,Remote - Germany,Registered,Vegan,Step-free route,Yes,2026-09-11,Not applicable
+REG-0215,EVT-0002,Volunteer day May 2026 - 002,NX-0304,Paul Wolf,Product,Munich,Registered,Halal,Step-free route,No,2026-08-07,Not applicable
+REG-0216,EVT-0002,Volunteer day May 2026 - 002,NX-0471,David Neumann,Site Management,Remote - Germany,Registered,Vegan,Reserved seating,Yes,2026-08-30,Not applicable
+REG-0217,EVT-0002,Volunteer day May 2026 - 002,NX-0101,David Neumann,Customer Support,Cologne,Attended,None,Step-free route,No,2026-08-02,Present
+REG-0218,EVT-0002,Volunteer day May 2026 - 002,NX-0495,Mila Fischer,Site Management,Munich,Attended,Halal,Captioning,No,2026-08-11,Present
+REG-0219,EVT-0002,Volunteer day May 2026 - 002,NX-0323,Adam Nowak,People and Culture,Munich,Attended,Halal,Please contact me privately,No,2026-08-16,Present
+REG-0220,EVT-0002,Volunteer day May 2026 - 002,NX-0596,Elena Richter,Sales,Munich,Attended,Halal,Reserved seating,No,2026-07-30,Present
+REG-0221,EVT-0002,Volunteer day May 2026 - 002,NX-0366,Jonas Weber,Product,Cologne,Cancelled,Vegetarian,Reserved seating,No,2026-09-27,Not applicable
+REG-0222,EVT-0002,Volunteer day May 2026 - 002,NX-0054,Hannah Lange,Customer Support,Munich,Registered,None,Please contact me privately,No,2026-09-25,Not applicable
+REG-0223,EVT-0002,Volunteer day May 2026 - 002,NX-0137,Paul Wolf,Sales,Hamburg,Registered,Halal,Please contact me privately,Yes,2026-08-05,Not applicable
+REG-0224,EVT-0002,Volunteer day May 2026 - 002,NX-0329,Hannah Lange,People and Culture,Cologne,Registered,Gluten-free,Please contact me privately,No,2026-07-27,Not applicable
+REG-0225,EVT-0002,Volunteer day May 2026 - 002,NX-0437,Emil Hoffmann,Sales,Remote - Germany,Waitlisted,Halal,None,No,2026-10-04,Not applicable
+REG-0226,EVT-0002,Volunteer day May 2026 - 002,NX-0357,David Neumann,Sales,Berlin,Registered,Please contact me privately,Step-free route,No,2026-07-21,Not applicable
+REG-0227,EVT-0002,Volunteer day May 2026 - 002,NX-0621,Amira Yilmaz,Sales,Berlin,Registered,Halal,Please contact me privately,Yes,2026-08-22,Not applicable
+REG-0228,EVT-0002,Volunteer day May 2026 - 002,NX-0477,Hannah Lange,Site Management,Remote - Germany,Registered,Gluten-free,Reserved seating,No,2026-09-23,Not applicable
+REG-0229,EVT-0002,Volunteer day May 2026 - 002,NX-0150,Felix Braun,Marketing,Munich,Registered,Halal,Please contact me privately,Yes,2026-07-12,Not applicable
+REG-0230,EVT-0002,Volunteer day May 2026 - 002,NX-0504,Leon Koch,Customer Support,Hamburg,Registered,Vegetarian,None,No,2026-07-21,Not applicable
+REG-0231,EVT-0002,Volunteer day May 2026 - 002,NX-0229,Jonas Weber,People and Culture,Remote - Germany,Cancelled,Please contact me privately,Captioning,No,2026-09-18,Not applicable
+REG-0232,EVT-0002,Volunteer day May 2026 - 002,NX-0477,Hannah Lange,Site Management,Remote - Germany,Registered,Vegetarian,Captioning,No,2026-08-10,Not applicable
+REG-0233,EVT-0002,Volunteer day May 2026 - 002,NX-0522,Paul Wolf,Product,Munich,Attended,Vegan,None,No,2026-09-01,Present
+REG-0234,EVT-0002,Volunteer day May 2026 - 002,NX-0017,Luca Hartmann,Finance,Cologne,Waitlisted,Please contact me privately,Captioning,No,2026-10-03,Not applicable
+REG-0235,EVT-0002,Volunteer day May 2026 - 002,NX-0208,Sara Özdemir,Marketing,Hamburg,No-show,Vegan,Step-free route,No,2026-10-12,No-show
+REG-0236,EVT-0002,Volunteer day May 2026 - 002,NX-0374,David Neumann,Finance,Munich,Cancelled,None,Reserved seating,No,2026-08-21,Not applicable
+REG-0237,EVT-0002,Volunteer day May 2026 - 002,NX-0240,Lea Schneider,Customer Support,Remote - Germany,Attended,Halal,None,Yes,2026-09-21,Present
+REG-0238,EVT-0002,Volunteer day May 2026 - 002,NX-0357,David Neumann,Sales,Berlin,Attended,Gluten-free,Please contact me privately,No,2026-08-08,Present
+REG-0239,EVT-0002,Volunteer day May 2026 - 002,NX-0245,Leon Koch,Site Management,Remote - Germany,Registered,None,None,No,2026-08-29,Not applicable
+REG-0240,EVT-0002,Volunteer day May 2026 - 002,NX-0387,Omar Haddad,People and Culture,Hamburg,Registered,Halal,Step-free route,No,2026-07-29,Not applicable
+REG-0241,EVT-0002,Volunteer day May 2026 - 002,NX-0225,Emil Hoffmann,Product,Berlin,Attended,Gluten-free,Please contact me privately,No,2026-08-16,Present
+REG-0242,EVT-0002,Volunteer day May 2026 - 002,NX-0488,Hannah Lange,Marketing,Hamburg,Cancelled,Vegetarian,None,No,2026-10-09,Not applicable
+REG-0243,EVT-0002,Volunteer day May 2026 - 002,NX-0270,Mila Fischer,Customer Support,Berlin,Attended,Please contact me privately,Captioning,No,2026-07-24,Present
+REG-0244,EVT-0002,Volunteer day May 2026 - 002,NX-0375,Mia Schulz,Sales,Cologne,Registered,Vegetarian,None,No,2026-09-02,Not applicable
+REG-0245,EVT-0002,Volunteer day May 2026 - 002,NX-0101,David Neumann,Customer Support,Cologne,Cancelled,Vegan,Reserved seating,No,2026-09-28,Not applicable
+REG-0246,EVT-0002,Volunteer day May 2026 - 002,NX-0606,Elena Richter,Marketing,Remote - Germany,Waitlisted,Vegan,Captioning,No,2026-10-07,Not applicable
+REG-0247,EVT-0002,Volunteer day May 2026 - 002,NX-0637,Felix Braun,Site Management,Munich,Cancelled,Gluten-free,Step-free route,No,2026-07-19,Not applicable
+REG-0248,EVT-0002,Volunteer day May 2026 - 002,NX-0068,Lea Schneider,Site Management,Hamburg,Registered,Vegan,Step-free route,No,2026-10-08,Not applicable
+REG-0249,EVT-0002,Volunteer day May 2026 - 002,NX-0441,Sara Özdemir,Site Management,Remote - Germany,Registered,Gluten-free,None,No,2026-07-23,Not applicable
+REG-0250,EVT-0002,Volunteer day May 2026 - 002,NX-0564,Lea Schneider,Engineering,Remote - Germany,Registered,Gluten-free,Step-free route,No,2026-07-09,Not applicable
+REG-0251,EVT-0002,Volunteer day May 2026 - 002,NX-0463,Noah Becker,Site Management,Hamburg,Registered,Please contact me privately,Please contact me privately,No,2026-08-10,Not applicable
+REG-0252,EVT-0002,Volunteer day May 2026 - 002,NX-0578,Luca Hartmann,People and Culture,Munich,Registered,Please contact me privately,Reserved seating,Yes,2026-07-11,Not applicable
+REG-0253,EVT-0002,Volunteer day May 2026 - 002,NX-0587,Sofia Wagner,Marketing,Remote - Germany,No-show,Gluten-free,Reserved seating,No,2026-07-15,No-show
+REG-0254,EVT-0002,Volunteer day May 2026 - 002,NX-0440,Omar Haddad,Marketing,Remote - Germany,Registered,Halal,None,No,2026-08-15,Not applicable
+REG-0255,EVT-0002,Volunteer day May 2026 - 002,NX-0573,Lea Schneider,Sales,Munich,Registered,Gluten-free,Reserved seating,No,2026-09-02,Not applicable
+REG-0256,EVT-0002,Volunteer day May 2026 - 002,NX-0322,Paul Wolf,Sales,Hamburg,Attended,Vegetarian,Reserved seating,No,2026-09-12,Present
+REG-0257,EVT-0002,Volunteer day May 2026 - 002,NX-0589,Jonas Weber,Finance,Berlin,Attended,Vegan,Please contact me privately,Yes,2026-09-07,Present
+REG-0258,EVT-0002,Volunteer day May 2026 - 002,NX-0111,Sofia Wagner,Engineering,Hamburg,Waitlisted,Vegetarian,Step-free route,Yes,2026-07-24,Not applicable
+REG-0259,EVT-0002,Volunteer day May 2026 - 002,NX-0163,Clara Schmitt,Finance,Remote - Germany,Registered,Vegan,Captioning,Yes,2026-07-25,Not applicable
+REG-0260,EVT-0002,Volunteer day May 2026 - 002,NX-0469,Elena Richter,People and Culture,Berlin,Registered,Halal,Please contact me privately,No,2026-08-30,Not applicable
+REG-0261,EVT-0002,Volunteer day May 2026 - 002,NX-0487,Omar Haddad,Marketing,Cologne,Waitlisted,Vegan,Please contact me privately,No,2026-07-13,Not applicable
+REG-0262,EVT-0002,Volunteer day May 2026 - 002,NX-0014,Elena Richter,Product,Remote - Germany,Cancelled,Vegetarian,Please contact me privately,No,2026-09-04,Not applicable
+REG-0263,EVT-0002,Volunteer day May 2026 - 002,NX-0162,Emil Hoffmann,People and Culture,Munich,Cancelled,Please contact me privately,Reserved seating,No,2026-10-07,Not applicable
+REG-0264,EVT-0002,Volunteer day May 2026 - 002,NX-0333,Amira Yilmaz,Sales,Cologne,Attended,Vegetarian,Captioning,Yes,2026-10-03,Present
+REG-0265,EVT-0002,Volunteer day May 2026 - 002,NX-0142,Leon Koch,Marketing,Munich,Registered,Vegan,Captioning,No,2026-08-30,Not applicable
+REG-0266,EVT-0002,Volunteer day May 2026 - 002,NX-0358,Luca Hartmann,Finance,Cologne,Attended,Vegetarian,Step-free route,No,2026-07-10,Present
+REG-0267,EVT-0002,Volunteer day May 2026 - 002,NX-0276,David Neumann,Customer Support,Berlin,Attended,Halal,Please contact me privately,No,2026-10-02,Present
+REG-0268,EVT-0002,Volunteer day May 2026 - 002,NX-0512,Clara Schmitt,Engineering,Cologne,Registered,Halal,Please contact me privately,No,2026-10-03,Not applicable
+REG-0269,EVT-0002,Volunteer day May 2026 - 002,NX-0215,Sara Özdemir,Sales,Munich,Registered,Vegan,Step-free route,No,2026-08-05,Not applicable
+REG-0270,EVT-0002,Volunteer day May 2026 - 002,NX-0555,Luca Hartmann,Engineering,Munich,Attended,Please contact me privately,None,No,2026-10-16,Present
+REG-0271,EVT-0002,Volunteer day May 2026 - 002,NX-0208,Sara Özdemir,Marketing,Hamburg,Registered,Gluten-free,None,No,2026-09-14,Not applicable
+REG-0272,EVT-0002,Volunteer day May 2026 - 002,NX-0411,Amira Yilmaz,Site Management,Remote - Germany,Attended,Vegan,Captioning,Yes,2026-07-09,Present
+REG-0273,EVT-0002,Volunteer day May 2026 - 002,NX-0087,Elena Richter,Engineering,Remote - Germany,Registered,Gluten-free,Reserved seating,Yes,2026-09-02,Not applicable
+REG-0274,EVT-0002,Volunteer day May 2026 - 002,NX-0146,Mia Schulz,Product,Berlin,Attended,Vegan,Captioning,No,2026-09-25,Present
+REG-0275,EVT-0002,Volunteer day May 2026 - 002,NX-0504,Leon Koch,Customer Support,Hamburg,Attended,Vegetarian,Reserved seating,No,2026-10-08,Present
+REG-0276,EVT-0002,Volunteer day May 2026 - 002,NX-0135,Adam Nowak,Product,Berlin,Attended,Halal,Reserved seating,Yes,2026-10-09,Present
+REG-0277,EVT-0002,Volunteer day May 2026 - 002,NX-0431,Elena Richter,Customer Support,Munich,Attended,Please contact me privately,Reserved seating,No,2026-09-09,Present
+REG-0278,EVT-0002,Volunteer day May 2026 - 002,NX-0543,Lea Schneider,Engineering,Munich,Cancelled,None,Step-free route,No,2026-09-27,Not applicable
+REG-0279,EVT-0002,Volunteer day May 2026 - 002,NX-0273,Elena Richter,People and Culture,Cologne,Attended,Vegan,Please contact me privately,No,2026-07-02,Present
+REG-0280,EVT-0002,Volunteer day May 2026 - 002,NX-0563,Jonas Weber,Product,Munich,Registered,Vegetarian,Captioning,Yes,2026-07-24,Not applicable
+REG-0281,EVT-0002,Volunteer day May 2026 - 002,NX-0229,Jonas Weber,People and Culture,Remote - Germany,Registered,Vegan,Step-free route,No,2026-10-06,Not applicable
+REG-0282,EVT-0002,Volunteer day May 2026 - 002,NX-0371,Mia Schulz,People and Culture,Remote - Germany,Attended,Vegan,Captioning,No,2026-07-31,Present
+REG-0283,EVT-0002,Volunteer day May 2026 - 002,NX-0436,Clara Schmitt,Product,Cologne,Attended,Vegan,Please contact me privately,No,2026-08-25,Present
+REG-0284,EVT-0002,Volunteer day May 2026 - 002,NX-0529,Luca Hartmann,People and Culture,Berlin,Registered,Halal,Please contact me privately,No,2026-07-22,Not applicable
+REG-0285,EVT-0003,Recruitment fair May 2026 - 003,NX-0458,Paul Wolf,Engineering,Remote - Germany,Attended,None,None,No,2026-09-22,Present
+REG-0286,EVT-0003,Recruitment fair May 2026 - 003,NX-0201,Mia Schulz,Sales,Munich,Registered,Vegetarian,None,No,2026-09-01,Not applicable
+REG-0287,EVT-0003,Recruitment fair May 2026 - 003,NX-0113,Amira Yilmaz,People and Culture,Hamburg,Cancelled,None,Please contact me privately,No,2026-07-24,Not applicable
+REG-0288,EVT-0003,Recruitment fair May 2026 - 003,NX-0566,Mia Schulz,Engineering,Munich,Cancelled,None,Please contact me privately,No,2026-07-19,Not applicable
+REG-0289,EVT-0003,Recruitment fair May 2026 - 003,NX-0414,Amira Yilmaz,Finance,Munich,Cancelled,None,Step-free route,No,2026-08-22,Not applicable
+REG-0290,EVT-0003,Recruitment fair May 2026 - 003,NX-0640,Hannah Lange,Marketing,Remote - Germany,Attended,Vegetarian,Please contact me privately,No,2026-08-21,Present
+REG-0291,EVT-0003,Recruitment fair May 2026 - 003,NX-0385,Clara Schmitt,Marketing,Munich,Registered,Halal,Step-free route,No,2026-08-20,Not applicable
+REG-0292,EVT-0003,Recruitment fair May 2026 - 003,NX-0374,David Neumann,Finance,Munich,Attended,None,Please contact me privately,Yes,2026-10-15,Present
+REG-0293,EVT-0003,Recruitment fair May 2026 - 003,NX-0277,David Neumann,People and Culture,Hamburg,Cancelled,Vegetarian,Step-free route,No,2026-09-09,Not applicable
+REG-0294,EVT-0003,Recruitment fair May 2026 - 003,NX-0222,Mila Fischer,Engineering,Cologne,Registered,Please contact me privately,Please contact me privately,No,2026-09-05,Not applicable
+REG-0295,EVT-0003,Recruitment fair May 2026 - 003,NX-0007,Sofia Wagner,Sales,Remote - Germany,No-show,Please contact me privately,Please contact me privately,No,2026-08-26,No-show
+REG-0296,EVT-0003,Recruitment fair May 2026 - 003,NX-0319,Emil Hoffmann,Sales,Hamburg,Registered,Vegan,Reserved seating,Yes,2026-08-11,Not applicable
+REG-0297,EVT-0003,Recruitment fair May 2026 - 003,NX-0492,Leon Koch,Engineering,Berlin,Attended,Vegan,Step-free route,No,2026-09-17,Present
+REG-0298,EVT-0003,Recruitment fair May 2026 - 003,NX-0249,Amira Yilmaz,Sales,Berlin,No-show,Gluten-free,Please contact me privately,Yes,2026-09-13,No-show
+REG-0299,EVT-0003,Recruitment fair May 2026 - 003,NX-0363,Luca Hartmann,Finance,Berlin,Registered,Please contact me privately,Step-free route,Yes,2026-07-23,Not applicable
+REG-0300,EVT-0003,Recruitment fair May 2026 - 003,NX-0598,Adam Nowak,Customer Support,Munich,Cancelled,Halal,Reserved seating,No,2026-08-07,Not applicable
+REG-0301,EVT-0003,Recruitment fair May 2026 - 003,NX-0344,Lea Schneider,Finance,Munich,Registered,None,None,No,2026-09-10,Not applicable
+REG-0302,EVT-0003,Recruitment fair May 2026 - 003,NX-0465,Elena Richter,Sales,Hamburg,No-show,Vegan,Step-free route,No,2026-09-02,No-show
+REG-0303,EVT-0003,Recruitment fair May 2026 - 003,NX-0281,Elena Richter,Finance,Cologne,No-show,Vegetarian,Reserved seating,No,2026-09-25,No-show
+REG-0304,EVT-0003,Recruitment fair May 2026 - 003,NX-0505,Paul Wolf,Product,Munich,Cancelled,Vegan,None,Yes,2026-07-09,Not applicable
+REG-0305,EVT-0003,Recruitment fair May 2026 - 003,NX-0595,Sara Özdemir,Site Management,Hamburg,Registered,Vegan,Step-free route,No,2026-09-03,Not applicable
+REG-0306,EVT-0003,Recruitment fair May 2026 - 003,NX-0608,Jonas Weber,Marketing,Munich,Registered,Vegan,Step-free route,No,2026-08-11,Not applicable
+REG-0307,EVT-0003,Recruitment fair May 2026 - 003,NX-0598,Adam Nowak,Customer Support,Munich,Cancelled,Vegan,Please contact me privately,No,2026-09-15,Not applicable
+REG-0308,EVT-0003,Recruitment fair May 2026 - 003,NX-0365,Lea Schneider,People and Culture,Berlin,Registered,Vegetarian,Captioning,No,2026-07-21,Not applicable
+REG-0309,EVT-0003,Recruitment fair May 2026 - 003,NX-0405,Noah Becker,Product,Remote - Germany,Registered,Halal,Please contact me privately,No,2026-09-28,Not applicable
+REG-0310,EVT-0003,Recruitment fair May 2026 - 003,NX-0545,Noah Becker,Product,Hamburg,Registered,Vegan,Please contact me privately,No,2026-09-03,Not applicable
+REG-0311,EVT-0003,Recruitment fair May 2026 - 003,NX-0168,Clara Schmitt,Marketing,Remote - Germany,Registered,Gluten-free,Reserved seating,No,2026-08-12,Not applicable
+REG-0312,EVT-0003,Recruitment fair May 2026 - 003,NX-0513,Paul Wolf,Engineering,Remote - Germany,No-show,Vegetarian,Reserved seating,No,2026-08-27,No-show
+REG-0313,EVT-0003,Recruitment fair May 2026 - 003,NX-0019,David Neumann,Marketing,Hamburg,Attended,None,None,Yes,2026-10-03,Present
+REG-0314,EVT-0003,Recruitment fair May 2026 - 003,NX-0534,Emil Hoffmann,Engineering,Hamburg,Cancelled,Please contact me privately,Step-free route,No,2026-07-23,Not applicable
+REG-0315,EVT-0003,Recruitment fair May 2026 - 003,NX-0343,Adam Nowak,Engineering,Cologne,Registered,Vegan,None,No,2026-10-05,Not applicable
+REG-0316,EVT-0003,Recruitment fair May 2026 - 003,NX-0408,Amira Yilmaz,People and Culture,Remote - Germany,Cancelled,Halal,None,No,2026-09-06,Not applicable
+REG-0317,EVT-0003,Recruitment fair May 2026 - 003,NX-0400,Mia Schulz,Product,Berlin,Registered,Gluten-free,Captioning,No,2026-08-23,Not applicable
+REG-0318,EVT-0003,Recruitment fair May 2026 - 003,NX-0345,Luca Hartmann,Finance,Munich,Attended,Please contact me privately,Reserved seating,No,2026-07-07,Present
+REG-0319,EVT-0003,Recruitment fair May 2026 - 003,NX-0050,Clara Schmitt,People and Culture,Berlin,Registered,Halal,Please contact me privately,Yes,2026-08-24,Not applicable
+REG-0320,EVT-0003,Recruitment fair May 2026 - 003,NX-0519,Sara Özdemir,Site Management,Hamburg,Cancelled,Halal,Step-free route,Yes,2026-10-07,Not applicable
+REG-0321,EVT-0003,Recruitment fair May 2026 - 003,NX-0205,Luca Hartmann,Site Management,Berlin,Cancelled,Vegetarian,Step-free route,Yes,2026-08-20,Not applicable
+REG-0322,EVT-0003,Recruitment fair May 2026 - 003,NX-0266,Hannah Lange,Site Management,Munich,Attended,Vegetarian,Reserved seating,Yes,2026-09-05,Present
+REG-0323,EVT-0003,Recruitment fair May 2026 - 003,NX-0348,Mia Schulz,Customer Support,Munich,Attended,Please contact me privately,None,No,2026-10-15,Present
+REG-0324,EVT-0003,Recruitment fair May 2026 - 003,NX-0186,Paul Wolf,Customer Support,Cologne,Attended,Halal,Reserved seating,No,2026-08-29,Present
+REG-0325,EVT-0003,Recruitment fair May 2026 - 003,NX-0462,Jonas Weber,Marketing,Munich,Registered,Vegetarian,None,No,2026-08-15,Not applicable
+REG-0326,EVT-0003,Recruitment fair May 2026 - 003,NX-0511,David Neumann,People and Culture,Remote - Germany,Cancelled,Vegan,None,Yes,2026-07-28,Not applicable
+REG-0327,EVT-0003,Recruitment fair May 2026 - 003,NX-0108,Omar Haddad,Marketing,Munich,Registered,Vegan,None,No,2026-08-16,Not applicable
+REG-0328,EVT-0003,Recruitment fair May 2026 - 003,NX-0340,David Neumann,Sales,Berlin,Attended,Vegan,Step-free route,Yes,2026-09-19,Present
+REG-0329,EVT-0003,Recruitment fair May 2026 - 003,NX-0271,Lea Schneider,Product,Berlin,Registered,Halal,Please contact me privately,No,2026-10-14,Not applicable
+REG-0330,EVT-0003,Recruitment fair May 2026 - 003,NX-0156,Paul Wolf,Finance,Berlin,Registered,Gluten-free,None,No,2026-08-02,Not applicable
+REG-0331,EVT-0003,Recruitment fair May 2026 - 003,NX-0617,Nina Krüger,Site Management,Remote - Germany,Registered,Vegan,Captioning,No,2026-08-27,Not applicable
+REG-0332,EVT-0003,Recruitment fair May 2026 - 003,NX-0317,Mila Fischer,Site Management,Remote - Germany,Registered,None,Step-free route,No,2026-08-04,Not applicable
+REG-0333,EVT-0003,Recruitment fair May 2026 - 003,NX-0150,Felix Braun,Marketing,Munich,No-show,Vegetarian,None,No,2026-08-17,No-show
+REG-0334,EVT-0003,Recruitment fair May 2026 - 003,NX-0179,Sara Özdemir,Customer Support,Cologne,Attended,None,None,No,2026-09-25,Present
+REG-0335,EVT-0003,Recruitment fair May 2026 - 003,NX-0193,Emil Hoffmann,Engineering,Cologne,Registered,None,Step-free route,No,2026-08-02,Not applicable
+REG-0336,EVT-0003,Recruitment fair May 2026 - 003,NX-0055,Mila Fischer,Customer Support,Remote - Germany,No-show,Please contact me privately,Captioning,No,2026-08-31,No-show
+REG-0337,EVT-0003,Recruitment fair May 2026 - 003,NX-0487,Omar Haddad,Marketing,Cologne,Registered,Vegan,Please contact me privately,No,2026-07-10,Not applicable
+REG-0338,EVT-0003,Recruitment fair May 2026 - 003,NX-0591,Amira Yilmaz,Product,Berlin,Registered,None,Reserved seating,No,2026-08-07,Not applicable
+REG-0339,EVT-0003,Recruitment fair May 2026 - 003,NX-0156,Paul Wolf,Finance,Berlin,Attended,None,Step-free route,No,2026-10-07,Present
+REG-0340,EVT-0003,Recruitment fair May 2026 - 003,NX-0204,Clara Schmitt,Engineering,Munich,Registered,Vegetarian,Step-free route,No,2026-10-13,Not applicable
+REG-0341,EVT-0003,Recruitment fair May 2026 - 003,NX-0500,Luca Hartmann,Product,Hamburg,Cancelled,Halal,Reserved seating,No,2026-09-14,Not applicable
+REG-0342,EVT-0003,Recruitment fair May 2026 - 003,NX-0587,Sofia Wagner,Marketing,Remote - Germany,Cancelled,Halal,None,No,2026-09-28,Not applicable
+REG-0343,EVT-0003,Recruitment fair May 2026 - 003,NX-0048,Amira Yilmaz,Marketing,Cologne,Registered,Halal,Reserved seating,Yes,2026-07-25,Not applicable
+REG-0344,EVT-0003,Recruitment fair May 2026 - 003,NX-0495,Mila Fischer,Site Management,Munich,Registered,Halal,Please contact me privately,Yes,2026-07-30,Not applicable
+REG-0345,EVT-0003,Recruitment fair May 2026 - 003,NX-0496,Adam Nowak,People and Culture,Hamburg,Attended,Vegetarian,Please contact me privately,No,2026-10-08,Present
+REG-0346,EVT-0003,Recruitment fair May 2026 - 003,NX-0538,Paul Wolf,Engineering,Munich,Attended,Vegetarian,Captioning,No,2026-08-28,Present
+REG-0347,EVT-0003,Recruitment fair May 2026 - 003,NX-0451,Jonas Weber,Site Management,Remote - Germany,Registered,Gluten-free,Captioning,Yes,2026-08-23,Not applicable
+REG-0348,EVT-0003,Recruitment fair May 2026 - 003,NX-0155,Clara Schmitt,Sales,Cologne,Registered,Vegan,Captioning,Yes,2026-10-16,Not applicable
+REG-0349,EVT-0003,Recruitment fair May 2026 - 003,NX-0038,Clara Schmitt,Marketing,Hamburg,Registered,Please contact me privately,Please contact me privately,Yes,2026-09-22,Not applicable
+REG-0350,EVT-0003,Recruitment fair May 2026 - 003,NX-0397,Amira Yilmaz,Engineering,Hamburg,Registered,Halal,Step-free route,No,2026-08-17,Not applicable
+REG-0351,EVT-0003,Recruitment fair May 2026 - 003,NX-0317,Mila Fischer,Site Management,Remote - Germany,Attended,Please contact me privately,Captioning,No,2026-09-16,Present
+REG-0352,EVT-0003,Recruitment fair May 2026 - 003,NX-0399,Elena Richter,Sales,Remote - Germany,Registered,Vegan,Captioning,No,2026-08-13,Not applicable
+REG-0353,EVT-0003,Recruitment fair May 2026 - 003,NX-0536,Nina Krüger,Customer Support,Cologne,Waitlisted,Vegetarian,Step-free route,No,2026-09-20,Not applicable
+REG-0354,EVT-0003,Recruitment fair May 2026 - 003,NX-0181,Emil Hoffmann,Customer Support,Berlin,Registered,Gluten-free,None,Yes,2026-07-25,Not applicable
+REG-0355,EVT-0003,Recruitment fair May 2026 - 003,NX-0477,Hannah Lange,Site Management,Remote - Germany,Registered,Gluten-free,Please contact me privately,Yes,2026-08-13,Not applicable
+REG-0356,EVT-0003,Recruitment fair May 2026 - 003,NX-0607,Hannah Lange,Sales,Remote - Germany,Attended,Gluten-free,Captioning,No,2026-07-31,Present
+REG-0357,EVT-0003,Recruitment fair May 2026 - 003,NX-0203,Elena Richter,Marketing,Hamburg,Registered,Vegetarian,Reserved seating,No,2026-07-12,Not applicable
+REG-0358,EVT-0003,Recruitment fair May 2026 - 003,NX-0430,David Neumann,Sales,Berlin,Attended,Gluten-free,Please contact me privately,Yes,2026-07-30,Present
+REG-0359,EVT-0003,Recruitment fair May 2026 - 003,NX-0448,Omar Haddad,Finance,Hamburg,Attended,Please contact me privately,Step-free route,Yes,2026-07-19,Present
+REG-0360,EVT-0003,Recruitment fair May 2026 - 003,NX-0478,Paul Wolf,Finance,Munich,Registered,Gluten-free,Captioning,No,2026-10-13,Not applicable
+REG-0361,EVT-0003,Recruitment fair May 2026 - 003,NX-0648,Mila Fischer,Engineering,Berlin,Registered,Gluten-free,Captioning,No,2026-08-15,Not applicable
+REG-0362,EVT-0003,Recruitment fair May 2026 - 003,NX-0510,Elena Richter,Engineering,Cologne,Registered,Please contact me privately,None,No,2026-08-17,Not applicable
+REG-0363,EVT-0003,Recruitment fair May 2026 - 003,NX-0108,Omar Haddad,Marketing,Munich,Cancelled,Vegan,Captioning,No,2026-10-03,Not applicable
+REG-0364,EVT-0003,Recruitment fair May 2026 - 003,NX-0548,Amira Yilmaz,People and Culture,Cologne,Attended,Vegan,None,No,2026-09-02,Present
+REG-0365,EVT-0003,Recruitment fair May 2026 - 003,NX-0046,Clara Schmitt,Marketing,Cologne,Registered,Halal,None,No,2026-07-07,Not applicable
+REG-0366,EVT-0003,Recruitment fair May 2026 - 003,NX-0315,Luca Hartmann,Sales,Cologne,Registered,Please contact me privately,None,No,2026-08-25,Not applicable
+REG-0367,EVT-0003,Recruitment fair May 2026 - 003,NX-0010,Lea Schneider,Site Management,Remote - Germany,Registered,Please contact me privately,None,Yes,2026-09-24,Not applicable
+REG-0368,EVT-0003,Recruitment fair May 2026 - 003,NX-0104,Omar Haddad,Marketing,Cologne,Registered,Vegetarian,Captioning,No,2026-08-17,Not applicable
+REG-0369,EVT-0003,Recruitment fair May 2026 - 003,NX-0016,Mia Schulz,Marketing,Berlin,Registered,Halal,Captioning,No,2026-08-16,Not applicable
+REG-0370,EVT-0003,Recruitment fair May 2026 - 003,NX-0430,David Neumann,Sales,Berlin,Registered,Vegan,None,No,2026-10-08,Not applicable
+REG-0371,EVT-0003,Recruitment fair May 2026 - 003,NX-0552,Sofia Wagner,Marketing,Hamburg,Registered,Please contact me privately,Please contact me privately,No,2026-08-11,Not applicable
+REG-0372,EVT-0003,Recruitment fair May 2026 - 003,NX-0096,Paul Wolf,Sales,Hamburg,Registered,Vegan,Captioning,No,2026-08-20,Not applicable
+REG-0373,EVT-0003,Recruitment fair May 2026 - 003,NX-0150,Felix Braun,Marketing,Munich,Registered,None,Reserved seating,Yes,2026-09-20,Not applicable
+REG-0374,EVT-0003,Recruitment fair May 2026 - 003,NX-0306,Nina Krüger,Product,Hamburg,Attended,None,Step-free route,No,2026-07-09,Present
+REG-0375,EVT-0003,Recruitment fair May 2026 - 003,NX-0465,Elena Richter,Sales,Hamburg,Attended,Please contact me privately,Captioning,No,2026-09-22,Present
+REG-0376,EVT-0003,Recruitment fair May 2026 - 003,NX-0127,Paul Wolf,Marketing,Berlin,Waitlisted,None,None,No,2026-09-02,Not applicable
+REG-0377,EVT-0004,Town hall Jul 2026 - 004,NX-0542,Adam Nowak,Product,Hamburg,Registered,Gluten-free,None,Yes,2026-07-09,Not applicable
+REG-0378,EVT-0004,Town hall Jul 2026 - 004,NX-0191,Paul Wolf,Site Management,Remote - Germany,Attended,None,Captioning,No,2026-10-06,Present
+REG-0379,EVT-0004,Town hall Jul 2026 - 004,NX-0278,Lea Schneider,Site Management,Remote - Germany,Registered,Vegan,Captioning,No,2026-09-15,Not applicable
+REG-0380,EVT-0004,Town hall Jul 2026 - 004,NX-0137,Paul Wolf,Sales,Hamburg,Attended,Halal,Please contact me privately,No,2026-10-17,Present
+REG-0381,EVT-0004,Town hall Jul 2026 - 004,NX-0406,David Neumann,People and Culture,Munich,Registered,Gluten-free,None,No,2026-09-24,Not applicable
+REG-0382,EVT-0004,Town hall Jul 2026 - 004,NX-0278,Lea Schneider,Site Management,Remote - Germany,Attended,Gluten-free,Please contact me privately,Yes,2026-09-20,Present
+REG-0383,EVT-0004,Town hall Jul 2026 - 004,NX-0097,Lea Schneider,Finance,Berlin,Registered,None,Step-free route,Yes,2026-07-06,Not applicable
+REG-0384,EVT-0004,Town hall Jul 2026 - 004,NX-0109,Luca Hartmann,Engineering,Munich,Registered,Vegan,Reserved seating,No,2026-07-28,Not applicable
+REG-0385,EVT-0004,Town hall Jul 2026 - 004,NX-0372,Sara Özdemir,Engineering,Berlin,Attended,None,Captioning,No,2026-09-02,Present
+REG-0386,EVT-0004,Town hall Jul 2026 - 004,NX-0409,Lea Schneider,Product,Cologne,Registered,Halal,Step-free route,Yes,2026-08-03,Not applicable
+REG-0387,EVT-0004,Town hall Jul 2026 - 004,NX-0104,Omar Haddad,Marketing,Cologne,Attended,Please contact me privately,Captioning,Yes,2026-08-30,Present
+REG-0388,EVT-0004,Town hall Jul 2026 - 004,NX-0262,David Neumann,Marketing,Hamburg,Registered,None,Step-free route,Yes,2026-08-23,Not applicable
+REG-0389,EVT-0004,Town hall Jul 2026 - 004,NX-0024,Lea Schneider,Site Management,Hamburg,Registered,Vegan,Please contact me privately,Yes,2026-07-03,Not applicable
+REG-0390,EVT-0004,Town hall Jul 2026 - 004,NX-0448,Omar Haddad,Finance,Hamburg,Registered,None,Please contact me privately,No,2026-10-11,Not applicable
+REG-0391,EVT-0004,Town hall Jul 2026 - 004,NX-0302,David Neumann,People and Culture,Hamburg,Cancelled,Gluten-free,None,No,2026-09-16,Not applicable
+REG-0392,EVT-0004,Town hall Jul 2026 - 004,NX-0009,Noah Becker,Finance,Cologne,Registered,Please contact me privately,Please contact me privately,No,2026-10-04,Not applicable
+REG-0393,EVT-0004,Town hall Jul 2026 - 004,NX-0298,Mia Schulz,Sales,Berlin,Attended,None,None,No,2026-07-25,Present
+REG-0394,EVT-0004,Town hall Jul 2026 - 004,NX-0051,Sofia Wagner,Product,Munich,Attended,Halal,None,No,2026-10-15,Present
+REG-0395,EVT-0004,Town hall Jul 2026 - 004,NX-0625,Jonas Weber,Product,Hamburg,Attended,None,None,No,2026-08-27,Present
+REG-0396,EVT-0004,Town hall Jul 2026 - 004,NX-0152,Lea Schneider,Site Management,Berlin,Attended,Halal,Step-free route,No,2026-08-26,Present
+REG-0397,EVT-0004,Town hall Jul 2026 - 004,NX-0582,Felix Braun,Engineering,Berlin,Registered,Please contact me privately,Step-free route,No,2026-10-15,Not applicable
+REG-0398,EVT-0004,Town hall Jul 2026 - 004,NX-0493,Nina Krüger,Finance,Remote - Germany,Registered,Halal,Captioning,No,2026-08-03,Not applicable
+REG-0399,EVT-0004,Town hall Jul 2026 - 004,NX-0130,Hannah Lange,Marketing,Remote - Germany,Registered,Vegetarian,None,Yes,2026-10-01,Not applicable
+REG-0400,EVT-0004,Town hall Jul 2026 - 004,NX-0372,Sara Özdemir,Engineering,Berlin,Registered,Vegan,Please contact me privately,No,2026-07-06,Not applicable
+REG-0401,EVT-0004,Town hall Jul 2026 - 004,NX-0398,Noah Becker,Product,Berlin,Attended,Vegan,Please contact me privately,No,2026-07-19,Present
+REG-0402,EVT-0004,Town hall Jul 2026 - 004,NX-0337,Clara Schmitt,Finance,Hamburg,No-show,Vegan,None,No,2026-09-25,No-show
+REG-0403,EVT-0004,Town hall Jul 2026 - 004,NX-0131,Mia Schulz,Customer Support,Munich,Attended,Halal,None,No,2026-07-06,Present
+REG-0404,EVT-0004,Town hall Jul 2026 - 004,NX-0499,Jonas Weber,Sales,Remote - Germany,Cancelled,Please contact me privately,None,No,2026-09-21,Not applicable
+REG-0405,EVT-0004,Town hall Jul 2026 - 004,NX-0054,Hannah Lange,Customer Support,Munich,Cancelled,Vegetarian,Reserved seating,No,2026-08-18,Not applicable
+REG-0406,EVT-0004,Town hall Jul 2026 - 004,NX-0493,Nina Krüger,Finance,Remote - Germany,Registered,Halal,Please contact me privately,No,2026-07-20,Not applicable
+REG-0407,EVT-0004,Town hall Jul 2026 - 004,NX-0170,Lea Schneider,Product,Remote - Germany,Attended,Vegan,Step-free route,No,2026-08-01,Present
+REG-0408,EVT-0004,Town hall Jul 2026 - 004,NX-0599,Nina Krüger,Site Management,Berlin,Attended,Please contact me privately,Reserved seating,No,2026-07-09,Present
+REG-0409,EVT-0004,Town hall Jul 2026 - 004,NX-0491,Lea Schneider,Site Management,Hamburg,Registered,Halal,Captioning,No,2026-09-25,Not applicable
+REG-0410,EVT-0004,Town hall Jul 2026 - 004,NX-0164,Mia Schulz,Sales,Hamburg,Registered,Vegan,Captioning,Yes,2026-08-06,Not applicable
+REG-0411,EVT-0004,Town hall Jul 2026 - 004,NX-0400,Mia Schulz,Product,Berlin,Cancelled,Please contact me privately,Reserved seating,No,2026-07-17,Not applicable
+REG-0412,EVT-0004,Town hall Jul 2026 - 004,NX-0479,Sofia Wagner,Product,Berlin,Registered,Gluten-free,None,Yes,2026-08-20,Not applicable
+REG-0413,EVT-0004,Town hall Jul 2026 - 004,NX-0313,Leon Koch,Product,Berlin,Registered,Halal,None,No,2026-10-16,Not applicable
+REG-0414,EVT-0004,Town hall Jul 2026 - 004,NX-0529,Luca Hartmann,People and Culture,Berlin,Attended,Gluten-free,None,Yes,2026-09-09,Present
+REG-0415,EVT-0004,Town hall Jul 2026 - 004,NX-0300,Nina Krüger,Customer Support,Munich,Cancelled,Vegan,Step-free route,No,2026-08-23,Not applicable
+REG-0416,EVT-0004,Town hall Jul 2026 - 004,NX-0603,Noah Becker,People and Culture,Cologne,Registered,Vegetarian,None,Yes,2026-10-04,Not applicable
+REG-0417,EVT-0004,Town hall Jul 2026 - 004,NX-0058,Lea Schneider,Site Management,Remote - Germany,Registered,Gluten-free,Please contact me privately,Yes,2026-07-07,Not applicable
+REG-0418,EVT-0004,Town hall Jul 2026 - 004,NX-0104,Omar Haddad,Marketing,Cologne,Cancelled,None,Captioning,No,2026-09-19,Not applicable
+REG-0419,EVT-0004,Town hall Jul 2026 - 004,NX-0545,Noah Becker,Product,Hamburg,Attended,Please contact me privately,Step-free route,No,2026-10-19,Present
+REG-0420,EVT-0004,Town hall Jul 2026 - 004,NX-0567,Omar Haddad,People and Culture,Cologne,Attended,Please contact me privately,None,No,2026-10-14,Present
+REG-0421,EVT-0004,Town hall Jul 2026 - 004,NX-0064,Omar Haddad,People and Culture,Hamburg,Registered,Please contact me privately,Reserved seating,No,2026-07-01,Not applicable
+REG-0422,EVT-0004,Town hall Jul 2026 - 004,NX-0073,Mia Schulz,Marketing,Berlin,Registered,Halal,Step-free route,No,2026-10-16,Not applicable
+REG-0423,EVT-0004,Town hall Jul 2026 - 004,NX-0468,Mila Fischer,Engineering,Cologne,Attended,Vegan,Captioning,No,2026-08-07,Present
+REG-0424,EVT-0004,Town hall Jul 2026 - 004,NX-0329,Hannah Lange,People and Culture,Cologne,No-show,Halal,None,Yes,2026-08-15,No-show
+REG-0425,EVT-0004,Town hall Jul 2026 - 004,NX-0541,Amira Yilmaz,Site Management,Remote - Germany,Cancelled,Vegetarian,Captioning,No,2026-07-18,Not applicable
+REG-0426,EVT-0004,Town hall Jul 2026 - 004,NX-0592,Leon Koch,Site Management,Berlin,Attended,Vegan,None,No,2026-08-06,Present
+REG-0427,EVT-0004,Town hall Jul 2026 - 004,NX-0288,Emil Hoffmann,Product,Cologne,Cancelled,None,Reserved seating,No,2026-07-31,Not applicable
+REG-0428,EVT-0004,Town hall Jul 2026 - 004,NX-0076,Amira Yilmaz,Finance,Munich,Registered,Please contact me privately,Reserved seating,Yes,2026-08-21,Not applicable
+REG-0429,EVT-0004,Town hall Jul 2026 - 004,NX-0614,David Neumann,Customer Support,Berlin,Cancelled,Vegan,Please contact me privately,No,2026-10-01,Not applicable
+REG-0430,EVT-0004,Town hall Jul 2026 - 004,NX-0185,Nina Krüger,Sales,Munich,Registered,Vegetarian,Captioning,No,2026-07-02,Not applicable
+REG-0431,EVT-0004,Town hall Jul 2026 - 004,NX-0360,Jonas Weber,Sales,Remote - Germany,No-show,Vegetarian,None,No,2026-07-09,No-show
+REG-0432,EVT-0004,Town hall Jul 2026 - 004,NX-0063,David Neumann,Engineering,Munich,Attended,Gluten-free,Reserved seating,No,2026-08-15,Present
+REG-0433,EVT-0004,Town hall Jul 2026 - 004,NX-0483,Paul Wolf,Customer Support,Remote - Germany,Waitlisted,Please contact me privately,None,No,2026-08-27,Not applicable
+REG-0434,EVT-0004,Town hall Jul 2026 - 004,NX-0568,Mila Fischer,Product,Cologne,Cancelled,Gluten-free,Reserved seating,No,2026-09-06,Not applicable
+REG-0435,EVT-0004,Town hall Jul 2026 - 004,NX-0444,Jonas Weber,People and Culture,Remote - Germany,Registered,Vegetarian,None,No,2026-09-03,Not applicable
+REG-0436,EVT-0004,Town hall Jul 2026 - 004,NX-0304,Paul Wolf,Product,Munich,Attended,Vegetarian,Reserved seating,No,2026-08-01,Present
+REG-0437,EVT-0004,Town hall Jul 2026 - 004,NX-0537,David Neumann,Finance,Remote - Germany,Registered,Vegetarian,None,Yes,2026-07-12,Not applicable
+REG-0438,EVT-0004,Town hall Jul 2026 - 004,NX-0624,Felix Braun,Engineering,Hamburg,Registered,Gluten-free,None,No,2026-07-09,Not applicable
+REG-0439,EVT-0004,Town hall Jul 2026 - 004,NX-0242,Noah Becker,Engineering,Remote - Germany,Attended,Gluten-free,Captioning,No,2026-09-01,Present
+REG-0440,EVT-0004,Town hall Jul 2026 - 004,NX-0001,Noah Becker,Engineering,Berlin,Attended,None,Reserved seating,No,2026-09-20,Present
+REG-0441,EVT-0004,Town hall Jul 2026 - 004,NX-0357,David Neumann,Sales,Berlin,Registered,Please contact me privately,Step-free route,No,2026-08-28,Not applicable
+REG-0442,EVT-0004,Town hall Jul 2026 - 004,NX-0142,Leon Koch,Marketing,Munich,Attended,Halal,Captioning,No,2026-08-10,Present
+REG-0443,EVT-0004,Town hall Jul 2026 - 004,NX-0389,Amira Yilmaz,Finance,Hamburg,Cancelled,Please contact me privately,None,No,2026-07-21,Not applicable
+REG-0444,EVT-0004,Town hall Jul 2026 - 004,NX-0238,Mia Schulz,Site Management,Berlin,Attended,Vegan,Reserved seating,No,2026-09-01,Present
+REG-0445,EVT-0004,Town hall Jul 2026 - 004,NX-0148,Nina Krüger,Sales,Hamburg,Waitlisted,Please contact me privately,Reserved seating,No,2026-08-19,Not applicable
+REG-0446,EVT-0004,Town hall Jul 2026 - 004,NX-0482,Mila Fischer,People and Culture,Cologne,Registered,Vegan,None,No,2026-10-12,Not applicable
+REG-0447,EVT-0004,Town hall Jul 2026 - 004,NX-0592,Leon Koch,Site Management,Berlin,Registered,Gluten-free,Reserved seating,No,2026-07-02,Not applicable
+REG-0448,EVT-0004,Town hall Jul 2026 - 004,NX-0460,Sara Özdemir,Sales,Hamburg,Attended,Vegetarian,Please contact me privately,No,2026-07-13,Present
+REG-0449,EVT-0004,Town hall Jul 2026 - 004,NX-0495,Mila Fischer,Site Management,Munich,Waitlisted,Vegan,Captioning,No,2026-07-08,Not applicable
+REG-0450,EVT-0004,Town hall Jul 2026 - 004,NX-0642,Sofia Wagner,Site Management,Cologne,Attended,Vegan,Step-free route,No,2026-07-10,Present
+REG-0451,EVT-0004,Town hall Jul 2026 - 004,NX-0386,Felix Braun,Engineering,Munich,Registered,Vegetarian,Step-free route,No,2026-07-23,Not applicable
+REG-0452,EVT-0004,Town hall Jul 2026 - 004,NX-0540,Leon Koch,Customer Support,Hamburg,Registered,Gluten-free,None,Yes,2026-08-31,Not applicable
+REG-0453,EVT-0004,Town hall Jul 2026 - 004,NX-0182,Nina Krüger,Product,Berlin,Registered,Please contact me privately,None,No,2026-09-05,Not applicable
+REG-0454,EVT-0004,Town hall Jul 2026 - 004,NX-0553,Leon Koch,Finance,Berlin,Cancelled,Vegan,Step-free route,No,2026-09-14,Not applicable
+REG-0455,EVT-0004,Town hall Jul 2026 - 004,NX-0189,Jonas Weber,Marketing,Remote - Germany,Registered,None,Please contact me privately,No,2026-07-01,Not applicable
+REG-0456,EVT-0004,Town hall Jul 2026 - 004,NX-0373,Sara Özdemir,Customer Support,Munich,Registered,Halal,Step-free route,No,2026-09-22,Not applicable
+REG-0457,EVT-0004,Town hall Jul 2026 - 004,NX-0480,Hannah Lange,Site Management,Hamburg,Registered,None,Reserved seating,No,2026-09-22,Not applicable
+REG-0458,EVT-0004,Town hall Jul 2026 - 004,NX-0050,Clara Schmitt,People and Culture,Berlin,Attended,None,Step-free route,Yes,2026-07-28,Present
+REG-0459,EVT-0004,Town hall Jul 2026 - 004,NX-0454,Sara Özdemir,People and Culture,Munich,Cancelled,Vegetarian,Please contact me privately,Yes,2026-09-19,Not applicable
+REG-0460,EVT-0004,Town hall Jul 2026 - 004,NX-0187,Noah Becker,Site Management,Remote - Germany,Registered,Please contact me privately,Please contact me privately,Yes,2026-10-05,Not applicable
+REG-0461,EVT-0004,Town hall Jul 2026 - 004,NX-0646,Clara Schmitt,Site Management,Berlin,Cancelled,Halal,None,No,2026-07-21,Not applicable
+REG-0462,EVT-0004,Town hall Jul 2026 - 004,NX-0376,Adam Nowak,Engineering,Hamburg,Attended,Vegetarian,None,No,2026-07-30,Present
+REG-0463,EVT-0004,Town hall Jul 2026 - 004,NX-0621,Amira Yilmaz,Sales,Berlin,Registered,Vegan,Please contact me privately,No,2026-09-23,Not applicable
+REG-0464,EVT-0004,Town hall Jul 2026 - 004,NX-0046,Clara Schmitt,Marketing,Cologne,Attended,Vegetarian,None,No,2026-07-22,Present
+REG-0465,EVT-0004,Town hall Jul 2026 - 004,NX-0393,Nina Krüger,Sales,Berlin,Registered,Vegan,None,No,2026-07-11,Not applicable
+REG-0466,EVT-0004,Town hall Jul 2026 - 004,NX-0464,Sofia Wagner,Marketing,Munich,Waitlisted,Halal,Please contact me privately,Yes,2026-07-19,Not applicable
+REG-0467,EVT-0004,Town hall Jul 2026 - 004,NX-0352,Noah Becker,Sales,Munich,Registered,Please contact me privately,None,No,2026-09-04,Not applicable
+REG-0468,EVT-0004,Town hall Jul 2026 - 004,NX-0332,Adam Nowak,Sales,Munich,Registered,None,Captioning,No,2026-07-01,Not applicable
+REG-0469,EVT-0005,Recruitment fair May 2026 - 005,NX-0209,David Neumann,Finance,Cologne,Registered,Halal,Reserved seating,No,2026-08-15,Not applicable
+REG-0470,EVT-0005,Recruitment fair May 2026 - 005,NX-0359,Felix Braun,Customer Support,Cologne,Waitlisted,None,Step-free route,No,2026-08-03,Not applicable
+REG-0471,EVT-0005,Recruitment fair May 2026 - 005,NX-0490,Elena Richter,Engineering,Cologne,Registered,Halal,Reserved seating,Yes,2026-07-13,Not applicable
+REG-0472,EVT-0005,Recruitment fair May 2026 - 005,NX-0224,Elena Richter,Sales,Cologne,Waitlisted,Halal,Please contact me privately,No,2026-08-04,Not applicable
+REG-0473,EVT-0005,Recruitment fair May 2026 - 005,NX-0416,Luca Hartmann,Product,Munich,Attended,Gluten-free,None,No,2026-08-19,Present
+REG-0474,EVT-0005,Recruitment fair May 2026 - 005,NX-0385,Clara Schmitt,Marketing,Munich,Registered,Vegan,Step-free route,No,2026-08-24,Not applicable
+REG-0475,EVT-0005,Recruitment fair May 2026 - 005,NX-0341,Leon Koch,Marketing,Munich,Attended,Please contact me privately,Captioning,No,2026-10-12,Present
+REG-0476,EVT-0005,Recruitment fair May 2026 - 005,NX-0522,Paul Wolf,Product,Munich,Attended,Please contact me privately,Reserved seating,No,2026-10-08,Present
+REG-0477,EVT-0005,Recruitment fair May 2026 - 005,NX-0335,David Neumann,Sales,Munich,Registered,Please contact me privately,Please contact me privately,No,2026-08-15,Not applicable
+REG-0478,EVT-0005,Recruitment fair May 2026 - 005,NX-0480,Hannah Lange,Site Management,Hamburg,No-show,Gluten-free,Reserved seating,No,2026-08-29,No-show
+REG-0479,EVT-0005,Recruitment fair May 2026 - 005,NX-0593,Clara Schmitt,Sales,Remote - Germany,Cancelled,Vegan,Step-free route,No,2026-09-26,Not applicable
+REG-0480,EVT-0005,Recruitment fair May 2026 - 005,NX-0538,Paul Wolf,Engineering,Munich,Cancelled,Vegan,Reserved seating,No,2026-07-03,Not applicable
+REG-0481,EVT-0005,Recruitment fair May 2026 - 005,NX-0220,Felix Braun,Site Management,Hamburg,Registered,Vegetarian,None,No,2026-08-08,Not applicable
+REG-0482,EVT-0005,Recruitment fair May 2026 - 005,NX-0190,David Neumann,Site Management,Munich,Waitlisted,Please contact me privately,Captioning,Yes,2026-09-23,Not applicable
+REG-0483,EVT-0005,Recruitment fair May 2026 - 005,NX-0594,Clara Schmitt,Site Management,Cologne,Waitlisted,Halal,Captioning,No,2026-09-19,Not applicable
+REG-0484,EVT-0005,Recruitment fair May 2026 - 005,NX-0459,Emil Hoffmann,Engineering,Remote - Germany,Attended,Gluten-free,Please contact me privately,No,2026-08-09,Present
+REG-0485,EVT-0005,Recruitment fair May 2026 - 005,NX-0174,Omar Haddad,Finance,Munich,Waitlisted,Vegan,Please contact me privately,No,2026-09-25,Not applicable
+REG-0486,EVT-0005,Recruitment fair May 2026 - 005,NX-0105,Jonas Weber,Site Management,Cologne,Waitlisted,Gluten-free,None,Yes,2026-07-31,Not applicable
+REG-0487,EVT-0005,Recruitment fair May 2026 - 005,NX-0387,Omar Haddad,People and Culture,Hamburg,Attended,Vegan,Step-free route,No,2026-09-16,Present
+REG-0488,EVT-0005,Recruitment fair May 2026 - 005,NX-0236,Adam Nowak,Customer Support,Cologne,Registered,Please contact me privately,Please contact me privately,No,2026-07-06,Not applicable
+REG-0489,EVT-0005,Recruitment fair May 2026 - 005,NX-0440,Omar Haddad,Marketing,Remote - Germany,Attended,Vegan,Captioning,No,2026-07-01,Present
+REG-0490,EVT-0005,Recruitment fair May 2026 - 005,NX-0594,Clara Schmitt,Site Management,Cologne,Cancelled,None,Please contact me privately,No,2026-08-17,Not applicable
+REG-0491,EVT-0005,Recruitment fair May 2026 - 005,NX-0553,Leon Koch,Finance,Berlin,Registered,Halal,None,No,2026-08-02,Not applicable
+REG-0492,EVT-0005,Recruitment fair May 2026 - 005,NX-0187,Noah Becker,Site Management,Remote - Germany,Registered,Gluten-free,Captioning,No,2026-08-16,Not applicable
+REG-0493,EVT-0005,Recruitment fair May 2026 - 005,NX-0234,Jonas Weber,Sales,Berlin,Waitlisted,Please contact me privately,Step-free route,No,2026-08-22,Not applicable
+REG-0494,EVT-0005,Recruitment fair May 2026 - 005,NX-0407,David Neumann,Marketing,Berlin,Attended,Gluten-free,Reserved seating,No,2026-07-31,Present
+REG-0495,EVT-0005,Recruitment fair May 2026 - 005,NX-0329,Hannah Lange,People and Culture,Cologne,Registered,Vegetarian,None,No,2026-08-10,Not applicable
+REG-0496,EVT-0005,Recruitment fair May 2026 - 005,NX-0112,Amira Yilmaz,Site Management,Remote - Germany,Attended,Halal,Captioning,Yes,2026-09-05,Present
+REG-0497,EVT-0005,Recruitment fair May 2026 - 005,NX-0081,Hannah Lange,Customer Support,Berlin,Attended,Gluten-free,Reserved seating,Yes,2026-09-13,Present
+REG-0498,EVT-0005,Recruitment fair May 2026 - 005,NX-0614,David Neumann,Customer Support,Berlin,Registered,Please contact me privately,Captioning,No,2026-07-08,Not applicable
+REG-0499,EVT-0005,Recruitment fair May 2026 - 005,NX-0319,Emil Hoffmann,Sales,Hamburg,Registered,None,Reserved seating,No,2026-08-09,Not applicable
+REG-0500,EVT-0005,Recruitment fair May 2026 - 005,NX-0028,Noah Becker,Product,Hamburg,Attended,None,Step-free route,No,2026-10-11,Present
+REG-0501,EVT-0005,Recruitment fair May 2026 - 005,NX-0120,Emil Hoffmann,Sales,Berlin,Cancelled,Gluten-free,Please contact me privately,No,2026-10-07,Not applicable
+REG-0502,EVT-0005,Recruitment fair May 2026 - 005,NX-0420,Leon Koch,Engineering,Remote - Germany,Registered,Vegan,None,Yes,2026-07-23,Not applicable
+REG-0503,EVT-0005,Recruitment fair May 2026 - 005,NX-0520,Jonas Weber,Customer Support,Cologne,Attended,Vegan,Step-free route,Yes,2026-08-13,Present
+REG-0504,EVT-0005,Recruitment fair May 2026 - 005,NX-0200,Adam Nowak,Customer Support,Hamburg,Registered,None,Step-free route,Yes,2026-07-15,Not applicable
+REG-0505,EVT-0005,Recruitment fair May 2026 - 005,NX-0114,Omar Haddad,Marketing,Cologne,Attended,Halal,None,No,2026-09-01,Present
+REG-0506,EVT-0005,Recruitment fair May 2026 - 005,NX-0245,Leon Koch,Site Management,Remote - Germany,Attended,Halal,Please contact me privately,No,2026-09-05,Present
+REG-0507,EVT-0005,Recruitment fair May 2026 - 005,NX-0559,Noah Becker,Site Management,Berlin,Attended,Halal,Captioning,No,2026-09-17,Present
+REG-0508,EVT-0005,Recruitment fair May 2026 - 005,NX-0072,David Neumann,Marketing,Cologne,Registered,None,Reserved seating,Yes,2026-10-05,Not applicable
+REG-0509,EVT-0005,Recruitment fair May 2026 - 005,NX-0532,Emil Hoffmann,Sales,Cologne,Registered,Vegan,Please contact me privately,Yes,2026-07-23,Not applicable
+REG-0510,EVT-0005,Recruitment fair May 2026 - 005,NX-0017,Luca Hartmann,Finance,Cologne,Waitlisted,Gluten-free,None,No,2026-09-16,Not applicable
+REG-0511,EVT-0005,Recruitment fair May 2026 - 005,NX-0304,Paul Wolf,Product,Munich,Registered,None,Step-free route,No,2026-10-09,Not applicable
+REG-0512,EVT-0005,Recruitment fair May 2026 - 005,NX-0222,Mila Fischer,Engineering,Cologne,Cancelled,Please contact me privately,Please contact me privately,No,2026-08-23,Not applicable
+REG-0513,EVT-0005,Recruitment fair May 2026 - 005,NX-0098,David Neumann,Product,Berlin,Attended,Vegetarian,Please contact me privately,No,2026-08-30,Present
+REG-0514,EVT-0005,Recruitment fair May 2026 - 005,NX-0610,Mila Fischer,Customer Support,Berlin,Attended,Halal,Please contact me privately,No,2026-09-14,Present
+REG-0515,EVT-0005,Recruitment fair May 2026 - 005,NX-0017,Luca Hartmann,Finance,Cologne,Cancelled,Vegetarian,Reserved seating,Yes,2026-08-26,Not applicable
+REG-0516,EVT-0005,Recruitment fair May 2026 - 005,NX-0569,Hannah Lange,Marketing,Hamburg,Waitlisted,None,Please contact me privately,No,2026-09-09,Not applicable
+REG-0517,EVT-0005,Recruitment fair May 2026 - 005,NX-0060,Mila Fischer,Sales,Cologne,Attended,Gluten-free,Captioning,No,2026-09-29,Present
+REG-0518,EVT-0005,Recruitment fair May 2026 - 005,NX-0458,Paul Wolf,Engineering,Remote - Germany,Cancelled,Please contact me privately,Please contact me privately,Yes,2026-07-22,Not applicable
+REG-0519,EVT-0005,Recruitment fair May 2026 - 005,NX-0581,Felix Braun,Marketing,Cologne,Waitlisted,None,None,No,2026-10-18,Not applicable
+REG-0520,EVT-0005,Recruitment fair May 2026 - 005,NX-0613,Leon Koch,Site Management,Hamburg,Registered,None,None,No,2026-10-06,Not applicable
+REG-0521,EVT-0005,Recruitment fair May 2026 - 005,NX-0307,Jonas Weber,Product,Munich,Registered,Vegan,None,No,2026-07-29,Not applicable
+REG-0522,EVT-0005,Recruitment fair May 2026 - 005,NX-0603,Noah Becker,People and Culture,Cologne,Attended,Please contact me privately,Please contact me privately,No,2026-07-08,Present
+REG-0523,EVT-0005,Recruitment fair May 2026 - 005,NX-0041,Emil Hoffmann,Customer Support,Munich,Registered,Please contact me privately,None,No,2026-08-02,Not applicable
+REG-0524,EVT-0005,Recruitment fair May 2026 - 005,NX-0121,Paul Wolf,Marketing,Berlin,Waitlisted,None,Please contact me privately,No,2026-09-07,Not applicable
+REG-0525,EVT-0005,Recruitment fair May 2026 - 005,NX-0213,Leon Koch,Finance,Berlin,Attended,Gluten-free,Reserved seating,Yes,2026-09-06,Present
+REG-0526,EVT-0005,Recruitment fair May 2026 - 005,NX-0021,Elena Richter,Engineering,Remote - Germany,Waitlisted,Halal,None,No,2026-07-10,Not applicable
+REG-0527,EVT-0005,Recruitment fair May 2026 - 005,NX-0569,Hannah Lange,Marketing,Hamburg,Attended,Please contact me privately,None,Yes,2026-10-05,Present
+REG-0528,EVT-0005,Recruitment fair May 2026 - 005,NX-0245,Leon Koch,Site Management,Remote - Germany,Registered,Halal,None,No,2026-07-24,Not applicable
+REG-0529,EVT-0005,Recruitment fair May 2026 - 005,NX-0357,David Neumann,Sales,Berlin,Attended,Please contact me privately,Reserved seating,Yes,2026-10-16,Present
+REG-0530,EVT-0005,Recruitment fair May 2026 - 005,NX-0138,Amira Yilmaz,Finance,Munich,Attended,Halal,Captioning,Yes,2026-10-19,Present
+REG-0531,EVT-0005,Recruitment fair May 2026 - 005,NX-0315,Luca Hartmann,Sales,Cologne,Attended,Vegan,Reserved seating,No,2026-09-12,Present
+REG-0532,EVT-0005,Recruitment fair May 2026 - 005,NX-0058,Lea Schneider,Site Management,Remote - Germany,Registered,Gluten-free,None,No,2026-10-08,Not applicable
+REG-0533,EVT-0005,Recruitment fair May 2026 - 005,NX-0592,Leon Koch,Site Management,Berlin,Registered,Vegan,Please contact me privately,Yes,2026-09-19,Not applicable
+REG-0534,EVT-0005,Recruitment fair May 2026 - 005,NX-0548,Amira Yilmaz,People and Culture,Cologne,Cancelled,Halal,Please contact me privately,No,2026-10-05,Not applicable
+REG-0535,EVT-0005,Recruitment fair May 2026 - 005,NX-0307,Jonas Weber,Product,Munich,Registered,Please contact me privately,Captioning,No,2026-09-21,Not applicable
+REG-0536,EVT-0005,Recruitment fair May 2026 - 005,NX-0592,Leon Koch,Site Management,Berlin,Cancelled,None,Reserved seating,No,2026-07-20,Not applicable
+REG-0537,EVT-0005,Recruitment fair May 2026 - 005,NX-0121,Paul Wolf,Marketing,Berlin,Cancelled,Vegetarian,None,Yes,2026-07-13,Not applicable
+REG-0538,EVT-0005,Recruitment fair May 2026 - 005,NX-0038,Clara Schmitt,Marketing,Hamburg,Attended,Gluten-free,Reserved seating,No,2026-07-11,Present
+REG-0539,EVT-0005,Recruitment fair May 2026 - 005,NX-0469,Elena Richter,People and Culture,Berlin,Registered,Please contact me privately,None,No,2026-08-04,Not applicable
+REG-0540,EVT-0005,Recruitment fair May 2026 - 005,NX-0359,Felix Braun,Customer Support,Cologne,Registered,Vegetarian,Captioning,No,2026-08-01,Not applicable
+REG-0541,EVT-0005,Recruitment fair May 2026 - 005,NX-0284,Sara Özdemir,Finance,Remote - Germany,Registered,Vegetarian,Reserved seating,No,2026-09-21,Not applicable
+REG-0542,EVT-0005,Recruitment fair May 2026 - 005,NX-0066,Omar Haddad,Product,Berlin,Registered,Gluten-free,None,Yes,2026-07-23,Not applicable
+REG-0543,EVT-0005,Recruitment fair May 2026 - 005,NX-0534,Emil Hoffmann,Engineering,Hamburg,Registered,Vegan,Captioning,Yes,2026-08-05,Not applicable
+REG-0544,EVT-0005,Recruitment fair May 2026 - 005,NX-0301,Lea Schneider,Product,Hamburg,Registered,Vegetarian,Captioning,No,2026-08-21,Not applicable
+REG-0545,EVT-0005,Recruitment fair May 2026 - 005,NX-0407,David Neumann,Marketing,Berlin,Registered,Vegan,Step-free route,No,2026-07-22,Not applicable
+REG-0546,EVT-0005,Recruitment fair May 2026 - 005,NX-0202,Amira Yilmaz,People and Culture,Berlin,Waitlisted,Please contact me privately,None,No,2026-08-11,Not applicable
+REG-0547,EVT-0005,Recruitment fair May 2026 - 005,NX-0194,Omar Haddad,People and Culture,Cologne,Cancelled,Halal,Captioning,No,2026-08-29,Not applicable
+REG-0548,EVT-0005,Recruitment fair May 2026 - 005,NX-0021,Elena Richter,Engineering,Remote - Germany,Registered,Please contact me privately,Reserved seating,No,2026-09-05,Not applicable
+REG-0549,EVT-0005,Recruitment fair May 2026 - 005,NX-0416,Luca Hartmann,Product,Munich,Waitlisted,Vegan,None,No,2026-10-03,Not applicable
+REG-0550,EVT-0005,Recruitment fair May 2026 - 005,NX-0515,Nina Krüger,Site Management,Berlin,Cancelled,Please contact me privately,Captioning,No,2026-08-10,Not applicable
+REG-0551,EVT-0005,Recruitment fair May 2026 - 005,NX-0599,Nina Krüger,Site Management,Berlin,Registered,Vegetarian,None,No,2026-07-27,Not applicable
+REG-0552,EVT-0005,Recruitment fair May 2026 - 005,NX-0399,Elena Richter,Sales,Remote - Germany,Attended,Vegan,Step-free route,Yes,2026-09-28,Present
+REG-0553,EVT-0005,Recruitment fair May 2026 - 005,NX-0431,Elena Richter,Customer Support,Munich,Attended,Gluten-free,None,No,2026-08-03,Present
+REG-0554,EVT-0005,Recruitment fair May 2026 - 005,NX-0280,Clara Schmitt,Product,Cologne,Registered,Please contact me privately,Captioning,No,2026-10-05,Not applicable
+REG-0555,EVT-0005,Recruitment fair May 2026 - 005,NX-0148,Nina Krüger,Sales,Hamburg,Attended,Vegan,Reserved seating,No,2026-08-27,Present
+REG-0556,EVT-0005,Recruitment fair May 2026 - 005,NX-0510,Elena Richter,Engineering,Cologne,Registered,Vegan,None,No,2026-08-05,Not applicable
+REG-0557,EVT-0005,Recruitment fair May 2026 - 005,NX-0266,Hannah Lange,Site Management,Munich,Attended,Vegan,None,No,2026-10-10,Present
+REG-0558,EVT-0005,Recruitment fair May 2026 - 005,NX-0035,Lea Schneider,Product,Hamburg,Cancelled,Vegetarian,Step-free route,No,2026-07-31,Not applicable
+REG-0559,EVT-0005,Recruitment fair May 2026 - 005,NX-0426,Luca Hartmann,Marketing,Cologne,Registered,None,Reserved seating,No,2026-08-29,Not applicable
+REG-0560,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0082,Sara Özdemir,Sales,Hamburg,Registered,Vegetarian,None,No,2026-08-26,Not applicable
+REG-0561,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0026,Sofia Wagner,Sales,Cologne,Attended,Gluten-free,Captioning,Yes,2026-09-25,Present
+REG-0562,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0467,Sofia Wagner,Finance,Munich,Registered,None,Please contact me privately,Yes,2026-08-10,Not applicable
+REG-0563,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0321,Sofia Wagner,Marketing,Cologne,Attended,Please contact me privately,Captioning,No,2026-09-20,Present
+REG-0564,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0608,Jonas Weber,Marketing,Munich,Registered,Please contact me privately,Step-free route,No,2026-09-30,Not applicable
+REG-0565,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0558,Hannah Lange,Product,Berlin,Attended,Halal,None,No,2026-09-16,Present
+REG-0566,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0250,Clara Schmitt,Sales,Munich,Registered,Vegetarian,Captioning,No,2026-08-10,Not applicable
+REG-0567,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0503,Omar Haddad,Finance,Cologne,Attended,Halal,Captioning,Yes,2026-08-16,Present
+REG-0568,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0262,David Neumann,Marketing,Hamburg,Attended,Vegetarian,Please contact me privately,Yes,2026-07-25,Present
+REG-0569,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0222,Mila Fischer,Engineering,Cologne,Registered,Vegetarian,Please contact me privately,No,2026-08-31,Not applicable
+REG-0570,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0507,Emil Hoffmann,Finance,Munich,Registered,Gluten-free,Captioning,No,2026-08-30,Not applicable
+REG-0571,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0287,Nina Krüger,Product,Berlin,No-show,Vegan,None,Yes,2026-09-13,No-show
+REG-0572,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0386,Felix Braun,Engineering,Munich,Waitlisted,Vegan,Please contact me privately,No,2026-09-14,Not applicable
+REG-0573,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0115,Mila Fischer,Marketing,Munich,Waitlisted,Vegan,None,No,2026-08-27,Not applicable
+REG-0574,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0448,Omar Haddad,Finance,Hamburg,Registered,Vegetarian,Please contact me privately,No,2026-10-15,Not applicable
+REG-0575,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0617,Nina Krüger,Site Management,Remote - Germany,Registered,Vegan,Captioning,Yes,2026-10-19,Not applicable
+REG-0576,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0166,Mia Schulz,Sales,Cologne,Attended,Vegetarian,Step-free route,No,2026-09-10,Present
+REG-0577,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0562,Hannah Lange,Engineering,Munich,Registered,Halal,Captioning,No,2026-08-29,Not applicable
+REG-0578,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0269,Clara Schmitt,Finance,Cologne,Cancelled,Halal,Step-free route,No,2026-08-15,Not applicable
+REG-0579,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0276,David Neumann,Customer Support,Berlin,Waitlisted,None,Captioning,No,2026-07-12,Not applicable
+REG-0580,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0027,Leon Koch,Engineering,Munich,Registered,Gluten-free,Please contact me privately,Yes,2026-08-27,Not applicable
+REG-0581,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0438,Mia Schulz,People and Culture,Munich,Registered,Gluten-free,Reserved seating,No,2026-08-21,Not applicable
+REG-0582,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0075,Mila Fischer,Marketing,Hamburg,Registered,Gluten-free,None,No,2026-09-04,Not applicable
+REG-0583,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0157,Paul Wolf,Finance,Remote - Germany,Registered,None,None,No,2026-08-08,Not applicable
+REG-0584,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0263,Clara Schmitt,People and Culture,Cologne,Registered,Gluten-free,Captioning,Yes,2026-08-05,Not applicable
+REG-0585,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0281,Elena Richter,Finance,Cologne,No-show,Vegan,Please contact me privately,No,2026-09-21,No-show
+REG-0586,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0235,Jonas Weber,Finance,Berlin,Registered,Gluten-free,Please contact me privately,No,2026-07-30,Not applicable
+REG-0587,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0587,Sofia Wagner,Marketing,Remote - Germany,Registered,Vegan,Reserved seating,No,2026-07-11,Not applicable
+REG-0588,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0207,Emil Hoffmann,Finance,Remote - Germany,Waitlisted,Vegetarian,Please contact me privately,Yes,2026-09-22,Not applicable
+REG-0589,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0438,Mia Schulz,People and Culture,Munich,No-show,Vegan,Step-free route,No,2026-07-10,No-show
+REG-0590,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0446,Lea Schneider,Customer Support,Remote - Germany,Registered,Please contact me privately,Please contact me privately,Yes,2026-07-26,Not applicable
+REG-0591,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0332,Adam Nowak,Sales,Munich,Waitlisted,Halal,Reserved seating,No,2026-08-09,Not applicable
+REG-0592,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0365,Lea Schneider,People and Culture,Berlin,Waitlisted,Vegetarian,Step-free route,No,2026-08-01,Not applicable
+REG-0593,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0128,Clara Schmitt,People and Culture,Cologne,Attended,Halal,Step-free route,No,2026-07-19,Present
+REG-0594,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0631,Leon Koch,Engineering,Remote - Germany,Attended,Halal,None,No,2026-08-25,Present
+REG-0595,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0165,Lea Schneider,Product,Remote - Germany,Registered,Vegetarian,None,No,2026-08-19,Not applicable
+REG-0596,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0430,David Neumann,Sales,Berlin,Attended,Vegetarian,Please contact me privately,No,2026-09-23,Present
+REG-0597,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0584,Nina Krüger,Finance,Berlin,Registered,Gluten-free,Captioning,No,2026-08-05,Not applicable
+REG-0598,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0030,Sara Özdemir,Marketing,Hamburg,Registered,None,Please contact me privately,No,2026-09-15,Not applicable
+REG-0599,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0536,Nina Krüger,Customer Support,Cologne,Registered,None,Please contact me privately,No,2026-08-08,Not applicable
+REG-0600,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0398,Noah Becker,Product,Berlin,Registered,Please contact me privately,Captioning,Yes,2026-08-07,Not applicable
+REG-0601,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0224,Elena Richter,Sales,Cologne,Attended,Halal,None,No,2026-08-31,Present
+REG-0602,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0521,Hannah Lange,Site Management,Cologne,Registered,None,Reserved seating,No,2026-07-09,Not applicable
+REG-0603,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0183,Noah Becker,Engineering,Munich,Registered,Please contact me privately,Reserved seating,No,2026-09-27,Not applicable
+REG-0604,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0195,Sara Özdemir,Sales,Remote - Germany,Attended,Please contact me privately,Please contact me privately,No,2026-10-16,Present
+REG-0605,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0036,Mila Fischer,Site Management,Remote - Germany,Registered,None,Please contact me privately,No,2026-09-23,Not applicable
+REG-0606,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0017,Luca Hartmann,Finance,Cologne,Registered,Vegetarian,Step-free route,No,2026-09-27,Not applicable
+REG-0607,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0584,Nina Krüger,Finance,Berlin,Registered,Gluten-free,Captioning,No,2026-09-15,Not applicable
+REG-0608,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0176,Sara Özdemir,Marketing,Hamburg,Registered,None,None,No,2026-07-15,Not applicable
+REG-0609,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0278,Lea Schneider,Site Management,Remote - Germany,Cancelled,None,Please contact me privately,Yes,2026-10-13,Not applicable
+REG-0610,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0052,David Neumann,Product,Cologne,Registered,Halal,None,No,2026-10-04,Not applicable
+REG-0611,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0035,Lea Schneider,Product,Hamburg,Registered,Vegan,Please contact me privately,No,2026-08-16,Not applicable
+REG-0612,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0379,Adam Nowak,Engineering,Remote - Germany,Registered,Vegan,None,No,2026-07-21,Not applicable
+REG-0613,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0533,Luca Hartmann,Marketing,Munich,Registered,Please contact me privately,Step-free route,No,2026-07-25,Not applicable
+REG-0614,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0441,Sara Özdemir,Site Management,Remote - Germany,Attended,Halal,Please contact me privately,Yes,2026-10-15,Present
+REG-0615,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0287,Nina Krüger,Product,Berlin,Registered,None,Step-free route,Yes,2026-07-08,Not applicable
+REG-0616,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0611,Luca Hartmann,Finance,Berlin,Registered,Gluten-free,Step-free route,Yes,2026-10-11,Not applicable
+REG-0617,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0604,Noah Becker,Marketing,Remote - Germany,Cancelled,Gluten-free,Please contact me privately,No,2026-09-24,Not applicable
+REG-0618,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0053,Nina Krüger,People and Culture,Hamburg,Registered,Gluten-free,Step-free route,No,2026-09-25,Not applicable
+REG-0619,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0409,Lea Schneider,Product,Cologne,Registered,Vegetarian,Reserved seating,No,2026-07-30,Not applicable
+REG-0620,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0073,Mia Schulz,Marketing,Berlin,Registered,Halal,None,No,2026-08-16,Not applicable
+REG-0621,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0599,Nina Krüger,Site Management,Berlin,Registered,Vegan,None,No,2026-09-11,Not applicable
+REG-0622,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0504,Leon Koch,Customer Support,Hamburg,Waitlisted,Vegan,None,No,2026-08-02,Not applicable
+REG-0623,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0137,Paul Wolf,Sales,Hamburg,Registered,Please contact me privately,None,No,2026-07-16,Not applicable
+REG-0624,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0593,Clara Schmitt,Sales,Remote - Germany,No-show,Gluten-free,None,No,2026-07-22,No-show
+REG-0625,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0365,Lea Schneider,People and Culture,Berlin,Registered,Vegetarian,Step-free route,No,2026-10-02,Not applicable
+REG-0626,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0615,David Neumann,Sales,Remote - Germany,Attended,None,Reserved seating,No,2026-07-21,Present
+REG-0627,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0621,Amira Yilmaz,Sales,Berlin,Attended,Please contact me privately,None,No,2026-09-17,Present
+REG-0628,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0501,Sara Özdemir,Customer Support,Hamburg,Registered,Please contact me privately,None,No,2026-09-06,Not applicable
+REG-0629,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0601,Mia Schulz,Sales,Hamburg,Attended,Please contact me privately,Step-free route,No,2026-07-10,Present
+REG-0630,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0332,Adam Nowak,Sales,Munich,Attended,Vegan,Step-free route,Yes,2026-09-13,Present
+REG-0631,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0350,Sara Özdemir,People and Culture,Munich,Registered,None,Please contact me privately,No,2026-10-03,Not applicable
+REG-0632,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0359,Felix Braun,Customer Support,Cologne,Attended,None,None,No,2026-07-01,Present
+REG-0633,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0191,Paul Wolf,Site Management,Remote - Germany,Registered,Please contact me privately,Please contact me privately,Yes,2026-10-11,Not applicable
+REG-0634,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0236,Adam Nowak,Customer Support,Cologne,Registered,Halal,Captioning,No,2026-07-02,Not applicable
+REG-0635,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0412,Sofia Wagner,Engineering,Remote - Germany,Registered,Vegan,Please contact me privately,No,2026-08-26,Not applicable
+REG-0636,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0002,Noah Becker,Customer Support,Remote - Germany,Registered,Vegetarian,Step-free route,No,2026-09-16,Not applicable
+REG-0637,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0637,Felix Braun,Site Management,Munich,Registered,Please contact me privately,Step-free route,No,2026-07-11,Not applicable
+REG-0638,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0121,Paul Wolf,Marketing,Berlin,Registered,Halal,Captioning,No,2026-09-21,Not applicable
+REG-0639,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0043,Sofia Wagner,Product,Munich,Attended,Gluten-free,None,No,2026-08-10,Present
+REG-0640,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0237,Felix Braun,Engineering,Remote - Germany,Registered,Vegan,Step-free route,Yes,2026-07-04,Not applicable
+REG-0641,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0329,Hannah Lange,People and Culture,Cologne,Attended,Vegan,Please contact me privately,No,2026-09-06,Present
+REG-0642,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0321,Sofia Wagner,Marketing,Cologne,Attended,Vegetarian,Reserved seating,No,2026-10-15,Present
+REG-0643,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0155,Clara Schmitt,Sales,Cologne,Registered,Halal,None,Yes,2026-07-18,Not applicable
+REG-0644,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0009,Noah Becker,Finance,Cologne,Attended,None,Captioning,Yes,2026-09-25,Present
+REG-0645,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0408,Amira Yilmaz,People and Culture,Remote - Germany,Cancelled,Vegan,Please contact me privately,No,2026-07-22,Not applicable
+REG-0646,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0394,Mia Schulz,Marketing,Berlin,Registered,Please contact me privately,Captioning,No,2026-07-17,Not applicable
+REG-0647,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0639,Clara Schmitt,Customer Support,Munich,Registered,Gluten-free,Please contact me privately,No,2026-09-14,Not applicable
+REG-0648,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0286,Clara Schmitt,Sales,Hamburg,Registered,Gluten-free,Captioning,Yes,2026-09-13,Not applicable
+REG-0649,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0468,Mila Fischer,Engineering,Cologne,Registered,None,Reserved seating,No,2026-09-01,Not applicable
+REG-0650,EVT-0006,Recruitment fair Feb 2027 - 006,NX-0014,Elena Richter,Product,Remote - Germany,Waitlisted,None,Step-free route,No,2026-10-09,Not applicable
