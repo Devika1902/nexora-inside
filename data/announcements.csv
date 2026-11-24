@@ -1,0 +1,651 @@
+﻿id,title,category,department,owner,audience,status,publish_date,channel,approver
+COM-0001,Meet the team behind our Berlin hub,People & culture,Engineering,Jonas Becker,All employees,In review,2026-01-04,Newsletter,Freya Richter
+COM-0002,Inside our work on our teams,Engineering,Product,Lea Braun,Engineering,Draft,2026-01-07,Newsletter,Theo Schmidt
+COM-0003,Nexora update — community partnerships,Customer stories,Finance,Mateo Wagner,New starters,Scheduled,2026-01-10,Newsletter,Nina Schulz
+COM-0004,A new chapter for our Berlin hub,Sustainability,Operations,Sofia Neumann,New starters,Published,2026-01-13,Intranet,Ava Bauer
+COM-0005,Meet the team behind our teams,Leadership,Sales,Noah Fischer,Berlin office,In review,2026-01-16,Intranet,Emil Meyer
+COM-0006,Save the date: learning week,Learning,Marketing,Mila Wolf,Berlin office,Draft,2026-01-19,Email,Maya Keller
+COM-0007,A new chapter for responsible AI,Wellbeing,Customer Success,Elias Hoffmann,New starters,Scheduled,2026-01-22,Email,Felix Becker
+COM-0008,Save the date: customer experience,Company news,IT & Security,Zara Koch,Engineering,Published,2026-01-25,Email,Ines Braun
+COM-0009,Meet the team behind the next product release,People & culture,Sustainability,Luca Weber,New starters,In review,2026-01-28,Email,David Wagner
+COM-0010,Building better together: employee wellbeing,Engineering,People & Culture,Freya Richter,New starters,Draft,2026-01-31,Newsletter,Clara Neumann
+COM-0011,Inside our work on employee wellbeing,Customer stories,Engineering,Theo Schmidt,All employees,Scheduled,2026-02-03,Email,Amira Fischer
+COM-0012,A new chapter for customer experience,Sustainability,Product,Nina Schulz,All employees,Published,2026-02-06,Email,Jonas Wolf
+COM-0013,Inside our work on our teams,Leadership,Finance,Ava Bauer,Engineering,In review,2026-02-09,Town hall,Lea Hoffmann
+COM-0014,Nexora update — sustainability goals,Learning,Operations,Emil Meyer,New starters,Draft,2026-02-12,Town hall,Mateo Koch
+COM-0015,Meet the team behind employee wellbeing,Wellbeing,Sales,Maya Keller,People managers,Scheduled,2026-02-15,Newsletter,Sofia Weber
+COM-0016,A new chapter for summer gathering,Company news,Marketing,Felix Becker,Engineering,Published,2026-02-18,Town hall,Noah Richter
+COM-0017,Meet the team behind responsible AI,People & culture,Customer Success,Ines Braun,Engineering,In review,2026-02-21,Newsletter,Mila Schmidt
+COM-0018,Inside our work on community partnerships,Engineering,IT & Security,David Wagner,Engineering,Draft,2026-02-24,Town hall,Elias Schulz
+COM-0019,A new chapter for our teams,Customer stories,Sustainability,Clara Neumann,All employees,Scheduled,2026-02-27,Town hall,Zara Bauer
+COM-0020,Nexora update — sustainability goals,Sustainability,People & Culture,Amira Fischer,All employees,Published,2026-03-02,Intranet,Luca Meyer
+COM-0021,Nexora update — summer gathering,Leadership,Engineering,Jonas Wolf,New starters,In review,2026-03-05,Email,Freya Keller
+COM-0022,Nexora update — customer experience,Learning,Product,Lea Hoffmann,People managers,Draft,2026-03-08,Town hall,Theo Becker
+COM-0023,Save the date: employee wellbeing,Wellbeing,Finance,Mateo Koch,All employees,Scheduled,2026-03-11,Email,Nina Braun
+COM-0024,Nexora update — community partnerships,Company news,Operations,Sofia Weber,Berlin office,Published,2026-03-14,Email,Ava Wagner
+COM-0025,Inside our work on responsible AI,People & culture,Sales,Noah Richter,All employees,In review,2026-03-17,Intranet,Emil Neumann
+COM-0026,Meet the team behind learning week,Engineering,Marketing,Mila Schmidt,Berlin office,Draft,2026-03-20,Newsletter,Maya Fischer
+COM-0027,Save the date: community partnerships,Customer stories,Customer Success,Elias Schulz,New starters,Scheduled,2026-03-23,Intranet,Felix Wolf
+COM-0028,Meet the team behind our Berlin hub,Sustainability,IT & Security,Zara Bauer,Engineering,Published,2026-03-26,Intranet,Ines Hoffmann
+COM-0029,A new chapter for employee wellbeing,Leadership,Sustainability,Luca Meyer,Engineering,In review,2026-03-29,Email,David Koch
+COM-0030,Save the date: our teams,Learning,People & Culture,Freya Keller,Engineering,Draft,2026-04-01,Newsletter,Clara Weber
+COM-0031,Nexora update — summer gathering,Wellbeing,Engineering,Theo Becker,People managers,Scheduled,2026-04-04,Town hall,Amira Richter
+COM-0032,Building better together: summer gathering,Company news,Product,Nina Braun,Berlin office,Published,2026-04-07,Email,Jonas Schmidt
+COM-0033,Building better together: our Berlin hub,People & culture,Finance,Ava Wagner,Berlin office,In review,2026-04-10,Intranet,Lea Schulz
+COM-0034,Save the date: our teams,Engineering,Operations,Emil Neumann,Berlin office,Draft,2026-04-13,Town hall,Mateo Bauer
+COM-0035,Save the date: our Berlin hub,Customer stories,Sales,Maya Fischer,People managers,Scheduled,2026-04-16,Newsletter,Sofia Meyer
+COM-0036,Save the date: summer gathering,Sustainability,Marketing,Felix Wolf,People managers,Published,2026-04-19,Town hall,Noah Keller
+COM-0037,Meet the team behind our Berlin hub,Leadership,Customer Success,Ines Hoffmann,New starters,In review,2026-04-22,Newsletter,Mila Becker
+COM-0038,Save the date: our Berlin hub,Learning,IT & Security,David Koch,Berlin office,Draft,2026-04-25,Intranet,Elias Braun
+COM-0039,Save the date: community partnerships,Wellbeing,Sustainability,Clara Weber,Engineering,Scheduled,2026-04-28,Email,Zara Wagner
+COM-0040,Inside our work on the next product release,Company news,People & Culture,Amira Richter,People managers,Published,2026-05-01,Intranet,Luca Neumann
+COM-0041,Building better together: learning week,People & culture,Engineering,Jonas Schmidt,New starters,In review,2026-05-04,Email,Freya Fischer
+COM-0042,Meet the team behind responsible AI,Engineering,Product,Lea Schulz,New starters,Draft,2026-05-07,Newsletter,Theo Wolf
+COM-0043,Building better together: customer experience,Customer stories,Finance,Mateo Bauer,All employees,Scheduled,2026-05-10,Town hall,Nina Hoffmann
+COM-0044,Save the date: summer gathering,Sustainability,Operations,Sofia Meyer,Engineering,Published,2026-05-13,Intranet,Ava Koch
+COM-0045,Nexora update — our Berlin hub,Leadership,Sales,Noah Keller,Berlin office,In review,2026-05-16,Newsletter,Emil Weber
+COM-0046,Inside our work on sustainability goals,Learning,Marketing,Mila Becker,Berlin office,Draft,2026-05-19,Town hall,Maya Richter
+COM-0047,Nexora update — learning week,Wellbeing,Customer Success,Elias Braun,People managers,Scheduled,2026-05-22,Newsletter,Felix Schmidt
+COM-0048,Inside our work on our Berlin hub,Company news,IT & Security,Zara Wagner,People managers,Published,2026-05-25,Newsletter,Ines Schulz
+COM-0049,Nexora update — customer experience,People & culture,Sustainability,Luca Neumann,Berlin office,In review,2026-05-28,Email,David Bauer
+COM-0050,Building better together: learning week,Engineering,People & Culture,Freya Fischer,New starters,Draft,2026-05-31,Newsletter,Clara Meyer
+COM-0051,Building better together: summer gathering,Customer stories,Engineering,Theo Wolf,New starters,Scheduled,2026-06-03,Intranet,Amira Keller
+COM-0052,Nexora update — our teams,Sustainability,Product,Nina Hoffmann,Berlin office,Published,2026-06-06,Email,Jonas Becker
+COM-0053,Nexora update — customer experience,Leadership,Finance,Ava Koch,Berlin office,In review,2026-06-09,Town hall,Lea Braun
+COM-0054,Save the date: our Berlin hub,Learning,Operations,Emil Weber,New starters,Draft,2026-06-12,Email,Mateo Wagner
+COM-0055,Save the date: responsible AI,Wellbeing,Sales,Maya Richter,Berlin office,Scheduled,2026-06-15,Newsletter,Sofia Neumann
+COM-0056,Save the date: employee wellbeing,Company news,Marketing,Felix Schmidt,New starters,Published,2026-06-18,Intranet,Noah Fischer
+COM-0057,Nexora update — our teams,People & culture,Customer Success,Ines Schulz,Berlin office,In review,2026-06-21,Email,Mila Wolf
+COM-0058,Nexora update — employee wellbeing,Engineering,IT & Security,David Bauer,New starters,Draft,2026-06-24,Newsletter,Elias Hoffmann
+COM-0059,Building better together: our teams,Customer stories,Sustainability,Clara Meyer,Berlin office,Scheduled,2026-06-27,Intranet,Zara Koch
+COM-0060,Nexora update — sustainability goals,Sustainability,People & Culture,Amira Keller,People managers,Published,2026-06-30,Town hall,Luca Weber
+COM-0061,A new chapter for employee wellbeing,Leadership,Engineering,Jonas Becker,Berlin office,In review,2026-07-03,Email,Freya Richter
+COM-0062,Building better together: community partnerships,Learning,Product,Lea Braun,Berlin office,Draft,2026-07-06,Intranet,Theo Schmidt
+COM-0063,Building better together: customer experience,Wellbeing,Finance,Mateo Wagner,New starters,Scheduled,2026-07-09,Email,Nina Schulz
+COM-0064,Inside our work on sustainability goals,Company news,Operations,Sofia Neumann,New starters,Published,2026-07-12,Newsletter,Ava Bauer
+COM-0065,Nexora update — our Berlin hub,People & culture,Sales,Noah Fischer,New starters,In review,2026-07-15,Town hall,Emil Meyer
+COM-0066,A new chapter for sustainability goals,Engineering,Marketing,Mila Wolf,Engineering,Draft,2026-07-18,Town hall,Maya Keller
+COM-0067,Building better together: responsible AI,Customer stories,Customer Success,Elias Hoffmann,People managers,Scheduled,2026-07-21,Town hall,Felix Becker
+COM-0068,Meet the team behind learning week,Sustainability,IT & Security,Zara Koch,New starters,Published,2026-07-24,Town hall,Ines Braun
+COM-0069,Inside our work on the next product release,Leadership,Sustainability,Luca Weber,Engineering,In review,2026-07-27,Newsletter,David Wagner
+COM-0070,Meet the team behind summer gathering,Learning,People & Culture,Freya Richter,Berlin office,Draft,2026-07-30,Email,Clara Neumann
+COM-0071,Meet the team behind community partnerships,Wellbeing,Engineering,Theo Schmidt,All employees,Scheduled,2026-08-02,Town hall,Amira Fischer
+COM-0072,Meet the team behind our Berlin hub,Company news,Product,Nina Schulz,New starters,Published,2026-08-05,Intranet,Jonas Wolf
+COM-0073,Nexora update — employee wellbeing,People & culture,Finance,Ava Bauer,All employees,In review,2026-08-08,Town hall,Lea Hoffmann
+COM-0074,Building better together: sustainability goals,Engineering,Operations,Emil Meyer,Berlin office,Draft,2026-08-11,Newsletter,Mateo Koch
+COM-0075,Meet the team behind employee wellbeing,Customer stories,Sales,Maya Keller,People managers,Scheduled,2026-08-14,Email,Sofia Weber
+COM-0076,Building better together: customer experience,Sustainability,Marketing,Felix Becker,Engineering,Published,2026-08-17,Intranet,Noah Richter
+COM-0077,Building better together: the next product release,Leadership,Customer Success,Ines Braun,Berlin office,In review,2026-08-20,Town hall,Mila Schmidt
+COM-0078,Building better together: the next product release,Learning,IT & Security,David Wagner,Berlin office,Draft,2026-08-23,Email,Elias Schulz
+COM-0079,Meet the team behind our Berlin hub,Wellbeing,Sustainability,Clara Neumann,Engineering,Scheduled,2026-08-26,Newsletter,Zara Bauer
+COM-0080,Inside our work on our teams,Company news,People & Culture,Amira Fischer,Engineering,Published,2026-08-29,Newsletter,Luca Meyer
+COM-0081,Building better together: the next product release,People & culture,Engineering,Jonas Wolf,New starters,In review,2026-09-01,Email,Freya Keller
+COM-0082,Nexora update — community partnerships,Engineering,Product,Lea Hoffmann,All employees,Draft,2026-09-04,Email,Theo Becker
+COM-0083,Building better together: sustainability goals,Customer stories,Finance,Mateo Koch,Engineering,Scheduled,2026-09-07,Town hall,Nina Braun
+COM-0084,Meet the team behind employee wellbeing,Sustainability,Operations,Sofia Weber,People managers,Published,2026-09-10,Email,Ava Wagner
+COM-0085,Building better together: customer experience,Leadership,Sales,Noah Richter,Berlin office,In review,2026-09-13,Newsletter,Emil Neumann
+COM-0086,Meet the team behind sustainability goals,Learning,Marketing,Mila Schmidt,Engineering,Draft,2026-09-16,Intranet,Maya Fischer
+COM-0087,A new chapter for the next product release,Wellbeing,Customer Success,Elias Schulz,People managers,Scheduled,2026-09-19,Intranet,Felix Wolf
+COM-0088,Meet the team behind learning week,Company news,IT & Security,Zara Bauer,Berlin office,Published,2026-09-22,Newsletter,Ines Hoffmann
+COM-0089,Nexora update — summer gathering,People & culture,Sustainability,Luca Meyer,Berlin office,In review,2026-09-25,Intranet,David Koch
+COM-0090,Building better together: our teams,Engineering,People & Culture,Freya Keller,Engineering,Draft,2026-09-28,Email,Clara Weber
+COM-0091,A new chapter for employee wellbeing,Customer stories,Engineering,Theo Becker,People managers,Scheduled,2026-10-01,Intranet,Amira Richter
+COM-0092,Building better together: summer gathering,Sustainability,Product,Nina Braun,New starters,Published,2026-10-04,Town hall,Jonas Schmidt
+COM-0093,Inside our work on community partnerships,Leadership,Finance,Ava Wagner,People managers,In review,2026-10-07,Newsletter,Lea Schulz
+COM-0094,A new chapter for our teams,Learning,Operations,Emil Neumann,Berlin office,Draft,2026-10-10,Intranet,Mateo Bauer
+COM-0095,Save the date: community partnerships,Wellbeing,Sales,Maya Fischer,New starters,Scheduled,2026-10-13,Email,Sofia Meyer
+COM-0096,A new chapter for learning week,Company news,Marketing,Felix Wolf,Berlin office,Published,2026-10-16,Town hall,Noah Keller
+COM-0097,Building better together: learning week,People & culture,Customer Success,Ines Hoffmann,Engineering,In review,2026-10-19,Intranet,Mila Becker
+COM-0098,A new chapter for our Berlin hub,Engineering,IT & Security,David Koch,People managers,Draft,2026-10-22,Intranet,Elias Braun
+COM-0099,Building better together: community partnerships,Customer stories,Sustainability,Clara Weber,All employees,Scheduled,2026-10-25,Town hall,Zara Wagner
+COM-0100,Save the date: responsible AI,Sustainability,People & Culture,Amira Richter,People managers,Published,2026-10-28,Newsletter,Luca Neumann
+COM-0101,Inside our work on employee wellbeing,Leadership,Engineering,Jonas Schmidt,People managers,In review,2026-10-31,Intranet,Freya Fischer
+COM-0102,A new chapter for our Berlin hub,Learning,Product,Lea Schulz,Engineering,Draft,2026-11-03,Town hall,Theo Wolf
+COM-0103,Inside our work on the next product release,Wellbeing,Finance,Mateo Bauer,People managers,Scheduled,2026-11-06,Email,Nina Hoffmann
+COM-0104,A new chapter for summer gathering,Company news,Operations,Sofia Meyer,New starters,Published,2026-11-09,Email,Ava Koch
+COM-0105,Nexora update — learning week,People & culture,Sales,Noah Keller,Berlin office,In review,2026-11-12,Email,Emil Weber
+COM-0106,Inside our work on responsible AI,Engineering,Marketing,Mila Becker,New starters,Draft,2026-11-15,Intranet,Maya Richter
+COM-0107,Nexora update — customer experience,Customer stories,Customer Success,Elias Braun,Berlin office,Scheduled,2026-11-18,Newsletter,Felix Schmidt
+COM-0108,Building better together: our teams,Sustainability,IT & Security,Zara Wagner,All employees,Published,2026-11-21,Newsletter,Ines Schulz
+COM-0109,Nexora update — learning week,Leadership,Sustainability,Luca Neumann,All employees,In review,2026-11-24,Email,David Bauer
+COM-0110,Save the date: our Berlin hub,Learning,People & Culture,Freya Fischer,People managers,Draft,2026-11-27,Intranet,Clara Meyer
+COM-0111,Inside our work on employee wellbeing,Wellbeing,Engineering,Theo Wolf,New starters,Scheduled,2026-11-30,Email,Amira Keller
+COM-0112,A new chapter for employee wellbeing,Company news,Product,Nina Hoffmann,Berlin office,Published,2026-12-03,Town hall,Jonas Becker
+COM-0113,Nexora update — the next product release,People & culture,Finance,Ava Koch,People managers,In review,2026-12-06,Intranet,Lea Braun
+COM-0114,Save the date: community partnerships,Engineering,Operations,Emil Weber,New starters,Draft,2026-12-09,Town hall,Mateo Wagner
+COM-0115,Nexora update — sustainability goals,Customer stories,Sales,Maya Richter,All employees,Scheduled,2026-12-12,Email,Sofia Neumann
+COM-0116,A new chapter for responsible AI,Sustainability,Marketing,Felix Schmidt,Berlin office,Published,2026-12-15,Newsletter,Noah Fischer
+COM-0117,Building better together: sustainability goals,Leadership,Customer Success,Ines Schulz,Engineering,In review,2026-12-18,Town hall,Mila Wolf
+COM-0118,Meet the team behind summer gathering,Learning,IT & Security,David Bauer,New starters,Draft,2026-12-21,Intranet,Elias Hoffmann
+COM-0119,Building better together: learning week,Wellbeing,Sustainability,Clara Meyer,People managers,Scheduled,2026-12-24,Email,Zara Koch
+COM-0120,Save the date: sustainability goals,Company news,People & Culture,Amira Keller,All employees,Published,2026-12-27,Intranet,Luca Weber
+COM-0121,Nexora update — customer experience,People & culture,Engineering,Jonas Becker,People managers,In review,2026-12-30,Intranet,Freya Richter
+COM-0122,A new chapter for the next product release,Engineering,Product,Lea Braun,Berlin office,Draft,2026-01-02,Newsletter,Theo Schmidt
+COM-0123,A new chapter for the next product release,Customer stories,Finance,Mateo Wagner,New starters,Scheduled,2026-01-05,Newsletter,Nina Schulz
+COM-0124,Nexora update — sustainability goals,Sustainability,Operations,Sofia Neumann,People managers,Published,2026-01-08,Newsletter,Ava Bauer
+COM-0125,Meet the team behind summer gathering,Leadership,Sales,Noah Fischer,All employees,In review,2026-01-11,Town hall,Emil Meyer
+COM-0126,Building better together: summer gathering,Learning,Marketing,Mila Wolf,Engineering,Draft,2026-01-14,Town hall,Maya Keller
+COM-0127,A new chapter for our Berlin hub,Wellbeing,Customer Success,Elias Hoffmann,All employees,Scheduled,2026-01-17,Newsletter,Felix Becker
+COM-0128,Building better together: our teams,Company news,IT & Security,Zara Koch,All employees,Published,2026-01-20,Town hall,Ines Braun
+COM-0129,Building better together: customer experience,People & culture,Sustainability,Luca Weber,People managers,In review,2026-01-23,Intranet,David Wagner
+COM-0130,Save the date: community partnerships,Engineering,People & Culture,Freya Richter,People managers,Draft,2026-01-26,Email,Clara Neumann
+COM-0131,Meet the team behind our Berlin hub,Customer stories,Engineering,Theo Schmidt,Berlin office,Scheduled,2026-01-29,Town hall,Amira Fischer
+COM-0132,Save the date: the next product release,Sustainability,Product,Nina Schulz,New starters,Published,2026-02-01,Newsletter,Jonas Wolf
+COM-0133,Building better together: learning week,Leadership,Finance,Ava Bauer,New starters,In review,2026-02-04,Newsletter,Lea Hoffmann
+COM-0134,Meet the team behind customer experience,Learning,Operations,Emil Meyer,All employees,Draft,2026-02-07,Town hall,Mateo Koch
+COM-0135,Nexora update — sustainability goals,Wellbeing,Sales,Maya Keller,Engineering,Scheduled,2026-02-10,Newsletter,Sofia Weber
+COM-0136,Meet the team behind community partnerships,Company news,Marketing,Felix Becker,Engineering,Published,2026-02-13,Intranet,Noah Richter
+COM-0137,A new chapter for employee wellbeing,People & culture,Customer Success,Ines Braun,New starters,In review,2026-02-16,Email,Mila Schmidt
+COM-0138,A new chapter for our teams,Engineering,IT & Security,David Wagner,All employees,Draft,2026-02-19,Email,Elias Schulz
+COM-0139,Meet the team behind sustainability goals,Customer stories,Sustainability,Clara Neumann,All employees,Scheduled,2026-02-22,Town hall,Zara Bauer
+COM-0140,Meet the team behind summer gathering,Sustainability,People & Culture,Amira Fischer,People managers,Published,2026-02-25,Email,Luca Meyer
+COM-0141,Meet the team behind learning week,Leadership,Engineering,Jonas Wolf,Engineering,In review,2026-02-28,Newsletter,Freya Keller
+COM-0142,Meet the team behind learning week,Learning,Product,Lea Hoffmann,New starters,Draft,2026-03-03,Town hall,Theo Becker
+COM-0143,Inside our work on sustainability goals,Wellbeing,Finance,Mateo Koch,Engineering,Scheduled,2026-03-06,Intranet,Nina Braun
+COM-0144,Nexora update — customer experience,Company news,Operations,Sofia Weber,Engineering,Published,2026-03-09,Town hall,Ava Wagner
+COM-0145,A new chapter for the next product release,People & culture,Sales,Noah Richter,Berlin office,In review,2026-03-12,Intranet,Emil Neumann
+COM-0146,Inside our work on employee wellbeing,Engineering,Marketing,Mila Schmidt,New starters,Draft,2026-03-15,Town hall,Maya Fischer
+COM-0147,Nexora update — responsible AI,Customer stories,Customer Success,Elias Schulz,Engineering,Scheduled,2026-03-18,Email,Felix Wolf
+COM-0148,A new chapter for responsible AI,Sustainability,IT & Security,Zara Bauer,New starters,Published,2026-03-21,Email,Ines Hoffmann
+COM-0149,A new chapter for the next product release,Leadership,Sustainability,Luca Meyer,Berlin office,In review,2026-03-24,Town hall,David Koch
+COM-0150,Save the date: customer experience,Learning,People & Culture,Freya Keller,Berlin office,Draft,2026-03-27,Email,Clara Weber
+COM-0151,Building better together: learning week,Wellbeing,Engineering,Theo Becker,People managers,Scheduled,2026-03-30,Town hall,Amira Richter
+COM-0152,A new chapter for responsible AI,Company news,Product,Nina Braun,Berlin office,Published,2026-04-02,Town hall,Jonas Schmidt
+COM-0153,Nexora update — our Berlin hub,People & culture,Finance,Ava Wagner,New starters,In review,2026-04-05,Town hall,Lea Schulz
+COM-0154,Nexora update — sustainability goals,Engineering,Operations,Emil Neumann,All employees,Draft,2026-04-08,Intranet,Mateo Bauer
+COM-0155,Save the date: responsible AI,Customer stories,Sales,Maya Fischer,New starters,Scheduled,2026-04-11,Email,Sofia Meyer
+COM-0156,A new chapter for our Berlin hub,Sustainability,Marketing,Felix Wolf,All employees,Published,2026-04-14,Town hall,Noah Keller
+COM-0157,Building better together: responsible AI,Leadership,Customer Success,Ines Hoffmann,New starters,In review,2026-04-17,Town hall,Mila Becker
+COM-0158,Meet the team behind learning week,Learning,IT & Security,David Koch,All employees,Draft,2026-04-20,Newsletter,Elias Braun
+COM-0159,A new chapter for employee wellbeing,Wellbeing,Sustainability,Clara Weber,New starters,Scheduled,2026-04-23,Town hall,Zara Wagner
+COM-0160,Building better together: community partnerships,Company news,People & Culture,Amira Richter,Berlin office,Published,2026-04-26,Town hall,Luca Neumann
+COM-0161,Meet the team behind our teams,People & culture,Engineering,Jonas Schmidt,Engineering,In review,2026-04-29,Intranet,Freya Fischer
+COM-0162,Building better together: the next product release,Engineering,Product,Lea Schulz,Berlin office,Draft,2026-05-02,Newsletter,Theo Wolf
+COM-0163,Inside our work on community partnerships,Customer stories,Finance,Mateo Bauer,New starters,Scheduled,2026-05-05,Intranet,Nina Hoffmann
+COM-0164,Meet the team behind learning week,Sustainability,Operations,Sofia Meyer,All employees,Published,2026-05-08,Email,Ava Koch
+COM-0165,Nexora update — our teams,Leadership,Sales,Noah Keller,Berlin office,In review,2026-05-11,Intranet,Emil Weber
+COM-0166,Inside our work on learning week,Learning,Marketing,Mila Becker,All employees,Draft,2026-05-14,Email,Maya Richter
+COM-0167,Save the date: responsible AI,Wellbeing,Customer Success,Elias Braun,People managers,Scheduled,2026-05-17,Email,Felix Schmidt
+COM-0168,Save the date: community partnerships,Company news,IT & Security,Zara Wagner,Berlin office,Published,2026-05-20,Email,Ines Schulz
+COM-0169,Nexora update — sustainability goals,People & culture,Sustainability,Luca Neumann,Berlin office,In review,2026-05-23,Intranet,David Bauer
+COM-0170,Save the date: summer gathering,Engineering,People & Culture,Freya Fischer,All employees,Draft,2026-05-26,Intranet,Clara Meyer
+COM-0171,Save the date: employee wellbeing,Customer stories,Engineering,Theo Wolf,Engineering,Scheduled,2026-05-29,Email,Amira Keller
+COM-0172,Save the date: responsible AI,Sustainability,Product,Nina Hoffmann,Berlin office,Published,2026-06-01,Intranet,Jonas Becker
+COM-0173,A new chapter for community partnerships,Leadership,Finance,Ava Koch,New starters,In review,2026-06-04,Email,Lea Braun
+COM-0174,Save the date: our teams,Learning,Operations,Emil Weber,Berlin office,Draft,2026-06-07,Town hall,Mateo Wagner
+COM-0175,Nexora update — community partnerships,Wellbeing,Sales,Maya Richter,Berlin office,Scheduled,2026-06-10,Town hall,Sofia Neumann
+COM-0176,Nexora update — customer experience,Company news,Marketing,Felix Schmidt,New starters,Published,2026-06-13,Town hall,Noah Fischer
+COM-0177,Meet the team behind our teams,People & culture,Customer Success,Ines Schulz,New starters,In review,2026-06-16,Intranet,Mila Wolf
+COM-0178,Nexora update — customer experience,Engineering,IT & Security,David Bauer,Berlin office,Draft,2026-06-19,Intranet,Elias Hoffmann
+COM-0179,Inside our work on our teams,Customer stories,Sustainability,Clara Meyer,Engineering,Scheduled,2026-06-22,Newsletter,Zara Koch
+COM-0180,A new chapter for sustainability goals,Sustainability,People & Culture,Amira Keller,Engineering,Published,2026-06-25,Town hall,Luca Weber
+COM-0181,Nexora update — our Berlin hub,Leadership,Engineering,Jonas Becker,People managers,In review,2026-06-28,Newsletter,Freya Richter
+COM-0182,A new chapter for customer experience,Learning,Product,Lea Braun,Engineering,Draft,2026-07-01,Town hall,Theo Schmidt
+COM-0183,Inside our work on customer experience,Wellbeing,Finance,Mateo Wagner,All employees,Scheduled,2026-07-04,Newsletter,Nina Schulz
+COM-0184,Save the date: summer gathering,Company news,Operations,Sofia Neumann,Berlin office,Published,2026-07-07,Town hall,Ava Bauer
+COM-0185,A new chapter for community partnerships,People & culture,Sales,Noah Fischer,People managers,In review,2026-07-10,Newsletter,Emil Meyer
+COM-0186,A new chapter for the next product release,Engineering,Marketing,Mila Wolf,New starters,Draft,2026-07-13,Email,Maya Keller
+COM-0187,Nexora update — summer gathering,Customer stories,Customer Success,Elias Hoffmann,Engineering,Scheduled,2026-07-16,Newsletter,Felix Becker
+COM-0188,Building better together: our teams,Sustainability,IT & Security,Zara Koch,New starters,Published,2026-07-19,Intranet,Ines Braun
+COM-0189,Meet the team behind responsible AI,Leadership,Sustainability,Luca Weber,New starters,In review,2026-07-22,Email,David Wagner
+COM-0190,Building better together: learning week,Learning,People & Culture,Freya Richter,All employees,Draft,2026-07-25,Intranet,Clara Neumann
+COM-0191,Save the date: learning week,Wellbeing,Engineering,Theo Schmidt,All employees,Scheduled,2026-07-28,Newsletter,Amira Fischer
+COM-0192,Save the date: our Berlin hub,Company news,Product,Nina Schulz,Berlin office,Published,2026-07-31,Town hall,Jonas Wolf
+COM-0193,Building better together: our teams,People & culture,Finance,Ava Bauer,Berlin office,In review,2026-08-03,Newsletter,Lea Hoffmann
+COM-0194,Inside our work on community partnerships,Engineering,Operations,Emil Meyer,Berlin office,Draft,2026-08-06,Town hall,Mateo Koch
+COM-0195,Nexora update — the next product release,Customer stories,Sales,Maya Keller,All employees,Scheduled,2026-08-09,Email,Sofia Weber
+COM-0196,A new chapter for responsible AI,Sustainability,Marketing,Felix Becker,People managers,Published,2026-08-12,Newsletter,Noah Richter
+COM-0197,Nexora update — our teams,Leadership,Customer Success,Ines Braun,All employees,In review,2026-08-15,Newsletter,Mila Schmidt
+COM-0198,A new chapter for community partnerships,Learning,IT & Security,David Wagner,New starters,Draft,2026-08-18,Town hall,Elias Schulz
+COM-0199,Save the date: customer experience,Wellbeing,Sustainability,Clara Neumann,Berlin office,Scheduled,2026-08-21,Newsletter,Zara Bauer
+COM-0200,Nexora update — our teams,Company news,People & Culture,Amira Fischer,All employees,Published,2026-08-24,Intranet,Luca Meyer
+COM-0201,Meet the team behind responsible AI,People & culture,Engineering,Jonas Wolf,Berlin office,In review,2026-08-27,Intranet,Freya Keller
+COM-0202,Inside our work on learning week,Engineering,Product,Lea Hoffmann,New starters,Draft,2026-08-30,Town hall,Theo Becker
+COM-0203,A new chapter for summer gathering,Customer stories,Finance,Mateo Koch,New starters,Scheduled,2026-09-02,Intranet,Nina Braun
+COM-0204,Nexora update — learning week,Sustainability,Operations,Sofia Weber,Engineering,Published,2026-09-05,Intranet,Ava Wagner
+COM-0205,Building better together: responsible AI,Leadership,Sales,Noah Richter,Engineering,In review,2026-09-08,Email,Emil Neumann
+COM-0206,Save the date: community partnerships,Learning,Marketing,Mila Schmidt,People managers,Draft,2026-09-11,Email,Maya Fischer
+COM-0207,Building better together: sustainability goals,Wellbeing,Customer Success,Elias Schulz,All employees,Scheduled,2026-09-14,Intranet,Felix Wolf
+COM-0208,A new chapter for learning week,Company news,IT & Security,Zara Bauer,New starters,Published,2026-09-17,Email,Ines Hoffmann
+COM-0209,A new chapter for summer gathering,People & culture,Sustainability,Luca Meyer,People managers,In review,2026-09-20,Email,David Koch
+COM-0210,Inside our work on community partnerships,Engineering,People & Culture,Freya Keller,New starters,Draft,2026-09-23,Town hall,Clara Weber
+COM-0211,A new chapter for our teams,Customer stories,Engineering,Theo Becker,New starters,Scheduled,2026-09-26,Town hall,Amira Richter
+COM-0212,A new chapter for summer gathering,Sustainability,Product,Nina Braun,Berlin office,Published,2026-09-29,Newsletter,Jonas Schmidt
+COM-0213,A new chapter for summer gathering,Leadership,Finance,Ava Wagner,New starters,In review,2026-10-02,Intranet,Lea Schulz
+COM-0214,Meet the team behind responsible AI,Learning,Operations,Emil Neumann,Berlin office,Draft,2026-10-05,Email,Mateo Bauer
+COM-0215,Save the date: summer gathering,Wellbeing,Sales,Maya Fischer,Berlin office,Scheduled,2026-10-08,Intranet,Sofia Meyer
+COM-0216,A new chapter for community partnerships,Company news,Marketing,Felix Wolf,All employees,Published,2026-10-11,Town hall,Noah Keller
+COM-0217,Meet the team behind employee wellbeing,People & culture,Customer Success,Ines Hoffmann,New starters,In review,2026-10-14,Newsletter,Mila Becker
+COM-0218,Meet the team behind customer experience,Engineering,IT & Security,David Koch,New starters,Draft,2026-10-17,Intranet,Elias Braun
+COM-0219,A new chapter for employee wellbeing,Customer stories,Sustainability,Clara Weber,All employees,Scheduled,2026-10-20,Town hall,Zara Wagner
+COM-0220,Meet the team behind community partnerships,Sustainability,People & Culture,Amira Richter,Engineering,Published,2026-10-23,Town hall,Luca Neumann
+COM-0221,A new chapter for community partnerships,Leadership,Engineering,Jonas Schmidt,People managers,In review,2026-10-26,Intranet,Freya Fischer
+COM-0222,Save the date: sustainability goals,Learning,Product,Lea Schulz,New starters,Draft,2026-10-29,Intranet,Theo Wolf
+COM-0223,Nexora update — our Berlin hub,Wellbeing,Finance,Mateo Bauer,Engineering,Scheduled,2026-11-01,Intranet,Nina Hoffmann
+COM-0224,Building better together: the next product release,Company news,Operations,Sofia Meyer,People managers,Published,2026-11-04,Intranet,Ava Koch
+COM-0225,Nexora update — our Berlin hub,People & culture,Sales,Noah Keller,New starters,In review,2026-11-07,Town hall,Emil Weber
+COM-0226,Inside our work on learning week,Engineering,Marketing,Mila Becker,New starters,Draft,2026-11-10,Newsletter,Maya Richter
+COM-0227,Building better together: community partnerships,Customer stories,Customer Success,Elias Braun,People managers,Scheduled,2026-11-13,Newsletter,Felix Schmidt
+COM-0228,Building better together: the next product release,Sustainability,IT & Security,Zara Wagner,All employees,Published,2026-11-16,Town hall,Ines Schulz
+COM-0229,A new chapter for learning week,Leadership,Sustainability,Luca Neumann,Berlin office,In review,2026-11-19,Newsletter,David Bauer
+COM-0230,Building better together: our teams,Learning,People & Culture,Freya Fischer,People managers,Draft,2026-11-22,Email,Clara Meyer
+COM-0231,Meet the team behind community partnerships,Wellbeing,Engineering,Theo Wolf,All employees,Scheduled,2026-11-25,Newsletter,Amira Keller
+COM-0232,A new chapter for community partnerships,Company news,Product,Nina Hoffmann,People managers,Published,2026-11-28,Town hall,Jonas Becker
+COM-0233,A new chapter for learning week,People & culture,Finance,Ava Koch,Berlin office,In review,2026-12-01,Email,Lea Braun
+COM-0234,A new chapter for sustainability goals,Engineering,Operations,Emil Weber,People managers,Draft,2026-12-04,Email,Mateo Wagner
+COM-0235,Save the date: community partnerships,Customer stories,Sales,Maya Richter,New starters,Scheduled,2026-12-07,Email,Sofia Neumann
+COM-0236,Meet the team behind community partnerships,Sustainability,Marketing,Felix Schmidt,New starters,Published,2026-12-10,Email,Noah Fischer
+COM-0237,Building better together: community partnerships,Leadership,Customer Success,Ines Schulz,People managers,In review,2026-12-13,Email,Mila Wolf
+COM-0238,Building better together: summer gathering,Learning,IT & Security,David Bauer,People managers,Draft,2026-12-16,Email,Elias Hoffmann
+COM-0239,A new chapter for our teams,Wellbeing,Sustainability,Clara Meyer,Berlin office,Scheduled,2026-12-19,Newsletter,Zara Koch
+COM-0240,A new chapter for responsible AI,Company news,People & Culture,Amira Keller,People managers,Published,2026-12-22,Intranet,Luca Weber
+COM-0241,A new chapter for summer gathering,People & culture,Engineering,Jonas Becker,New starters,In review,2026-12-25,Email,Freya Richter
+COM-0242,Save the date: the next product release,Engineering,Product,Lea Braun,Engineering,Draft,2026-12-28,Email,Theo Schmidt
+COM-0243,Save the date: the next product release,Customer stories,Finance,Mateo Wagner,New starters,Scheduled,2026-12-31,Email,Nina Schulz
+COM-0244,Inside our work on the next product release,Sustainability,Operations,Sofia Neumann,People managers,Published,2026-01-03,Newsletter,Ava Bauer
+COM-0245,A new chapter for summer gathering,Leadership,Sales,Noah Fischer,People managers,In review,2026-01-06,Town hall,Emil Meyer
+COM-0246,Meet the team behind learning week,Learning,Marketing,Mila Wolf,Engineering,Draft,2026-01-09,Email,Maya Keller
+COM-0247,Building better together: responsible AI,Wellbeing,Customer Success,Elias Hoffmann,Berlin office,Scheduled,2026-01-12,Email,Felix Becker
+COM-0248,Nexora update — community partnerships,Company news,IT & Security,Zara Koch,All employees,Published,2026-01-15,Email,Ines Braun
+COM-0249,Meet the team behind employee wellbeing,People & culture,Sustainability,Luca Weber,Engineering,In review,2026-01-18,Email,David Wagner
+COM-0250,Save the date: our Berlin hub,Engineering,People & Culture,Freya Richter,People managers,Draft,2026-01-21,Newsletter,Clara Neumann
+COM-0251,Building better together: responsible AI,Customer stories,Engineering,Theo Schmidt,Berlin office,Scheduled,2026-01-24,Intranet,Amira Fischer
+COM-0252,Inside our work on sustainability goals,Sustainability,Product,Nina Schulz,Engineering,Published,2026-01-27,Newsletter,Jonas Wolf
+COM-0253,Meet the team behind the next product release,Leadership,Finance,Ava Bauer,Berlin office,In review,2026-01-30,Email,Lea Hoffmann
+COM-0254,Save the date: employee wellbeing,Learning,Operations,Emil Meyer,New starters,Draft,2026-02-02,Email,Mateo Koch
+COM-0255,Building better together: learning week,Wellbeing,Sales,Maya Keller,Engineering,Scheduled,2026-02-05,Email,Sofia Weber
+COM-0256,Nexora update — our Berlin hub,Company news,Marketing,Felix Becker,New starters,Published,2026-02-08,Town hall,Noah Richter
+COM-0257,Building better together: employee wellbeing,People & culture,Customer Success,Ines Braun,Engineering,In review,2026-02-11,Newsletter,Mila Schmidt
+COM-0258,Inside our work on the next product release,Engineering,IT & Security,David Wagner,New starters,Draft,2026-02-14,Town hall,Elias Schulz
+COM-0259,Save the date: summer gathering,Customer stories,Sustainability,Clara Neumann,Engineering,Scheduled,2026-02-17,Newsletter,Zara Bauer
+COM-0260,Inside our work on employee wellbeing,Sustainability,People & Culture,Amira Fischer,All employees,Published,2026-02-20,Intranet,Luca Meyer
+COM-0261,Nexora update — learning week,Leadership,Engineering,Jonas Wolf,Berlin office,In review,2026-02-23,Intranet,Freya Keller
+COM-0262,A new chapter for our Berlin hub,Learning,Product,Lea Hoffmann,People managers,Draft,2026-02-26,Intranet,Theo Becker
+COM-0263,Building better together: summer gathering,Wellbeing,Finance,Mateo Koch,New starters,Scheduled,2026-03-01,Email,Nina Braun
+COM-0264,Building better together: community partnerships,Company news,Operations,Sofia Weber,All employees,Published,2026-03-04,Email,Ava Wagner
+COM-0265,A new chapter for our Berlin hub,People & culture,Sales,Noah Richter,People managers,In review,2026-03-07,Email,Emil Neumann
+COM-0266,Building better together: community partnerships,Engineering,Marketing,Mila Schmidt,New starters,Draft,2026-03-10,Email,Maya Fischer
+COM-0267,Nexora update — our teams,Customer stories,Customer Success,Elias Schulz,All employees,Scheduled,2026-03-13,Town hall,Felix Wolf
+COM-0268,Nexora update — summer gathering,Sustainability,IT & Security,Zara Bauer,All employees,Published,2026-03-16,Newsletter,Ines Hoffmann
+COM-0269,Inside our work on employee wellbeing,Leadership,Sustainability,Luca Meyer,Engineering,In review,2026-03-19,Newsletter,David Koch
+COM-0270,Inside our work on sustainability goals,Learning,People & Culture,Freya Keller,Engineering,Draft,2026-03-22,Newsletter,Clara Weber
+COM-0271,Meet the team behind responsible AI,Wellbeing,Engineering,Theo Becker,Engineering,Scheduled,2026-03-25,Newsletter,Amira Richter
+COM-0272,Inside our work on our teams,Company news,Product,Nina Braun,New starters,Published,2026-03-28,Town hall,Jonas Schmidt
+COM-0273,Building better together: our Berlin hub,People & culture,Finance,Ava Wagner,New starters,In review,2026-03-31,Town hall,Lea Schulz
+COM-0274,Save the date: the next product release,Engineering,Operations,Emil Neumann,All employees,Draft,2026-04-03,Email,Mateo Bauer
+COM-0275,Building better together: sustainability goals,Customer stories,Sales,Maya Fischer,Berlin office,Scheduled,2026-04-06,Email,Sofia Meyer
+COM-0276,A new chapter for sustainability goals,Sustainability,Marketing,Felix Wolf,Berlin office,Published,2026-04-09,Email,Noah Keller
+COM-0277,Save the date: the next product release,Leadership,Customer Success,Ines Hoffmann,New starters,In review,2026-04-12,Email,Mila Becker
+COM-0278,Inside our work on summer gathering,Learning,IT & Security,David Koch,Berlin office,Draft,2026-04-15,Town hall,Elias Braun
+COM-0279,A new chapter for our teams,Wellbeing,Sustainability,Clara Weber,All employees,Scheduled,2026-04-18,Newsletter,Zara Wagner
+COM-0280,Nexora update — learning week,Company news,People & Culture,Amira Richter,Engineering,Published,2026-04-21,Newsletter,Luca Neumann
+COM-0281,Inside our work on employee wellbeing,People & culture,Engineering,Jonas Schmidt,Berlin office,In review,2026-04-24,Intranet,Freya Fischer
+COM-0282,Meet the team behind the next product release,Engineering,Product,Lea Schulz,Berlin office,Draft,2026-04-27,Intranet,Theo Wolf
+COM-0283,A new chapter for responsible AI,Customer stories,Finance,Mateo Bauer,New starters,Scheduled,2026-04-30,Email,Nina Hoffmann
+COM-0284,Inside our work on responsible AI,Sustainability,Operations,Sofia Meyer,People managers,Published,2026-05-03,Intranet,Ava Koch
+COM-0285,Meet the team behind summer gathering,Leadership,Sales,Noah Keller,New starters,In review,2026-05-06,Email,Emil Weber
+COM-0286,Nexora update — employee wellbeing,Learning,Marketing,Mila Becker,New starters,Draft,2026-05-09,Town hall,Maya Richter
+COM-0287,Inside our work on our Berlin hub,Wellbeing,Customer Success,Elias Braun,Berlin office,Scheduled,2026-05-12,Town hall,Felix Schmidt
+COM-0288,A new chapter for sustainability goals,Company news,IT & Security,Zara Wagner,New starters,Published,2026-05-15,Town hall,Ines Schulz
+COM-0289,Inside our work on community partnerships,People & culture,Sustainability,Luca Neumann,All employees,In review,2026-05-18,Newsletter,David Bauer
+COM-0290,Save the date: responsible AI,Engineering,People & Culture,Freya Fischer,Engineering,Draft,2026-05-21,Email,Clara Meyer
+COM-0291,Inside our work on summer gathering,Customer stories,Engineering,Theo Wolf,All employees,Scheduled,2026-05-24,Email,Amira Keller
+COM-0292,Inside our work on employee wellbeing,Sustainability,Product,Nina Hoffmann,New starters,Published,2026-05-27,Email,Jonas Becker
+COM-0293,Save the date: community partnerships,Leadership,Finance,Ava Koch,Engineering,In review,2026-05-30,Newsletter,Lea Braun
+COM-0294,Inside our work on the next product release,Learning,Operations,Emil Weber,People managers,Draft,2026-06-02,Newsletter,Mateo Wagner
+COM-0295,Building better together: responsible AI,Wellbeing,Sales,Maya Richter,Engineering,Scheduled,2026-06-05,Email,Sofia Neumann
+COM-0296,Meet the team behind the next product release,Company news,Marketing,Felix Schmidt,Berlin office,Published,2026-06-08,Town hall,Noah Fischer
+COM-0297,A new chapter for customer experience,People & culture,Customer Success,Ines Schulz,New starters,In review,2026-06-11,Newsletter,Mila Wolf
+COM-0298,Meet the team behind summer gathering,Engineering,IT & Security,David Bauer,New starters,Draft,2026-06-14,Town hall,Elias Hoffmann
+COM-0299,Nexora update — our teams,Customer stories,Sustainability,Clara Meyer,People managers,Scheduled,2026-06-17,Email,Zara Koch
+COM-0300,Nexora update — the next product release,Sustainability,People & Culture,Amira Keller,Berlin office,Published,2026-06-20,Email,Luca Weber
+COM-0301,Nexora update — summer gathering,Leadership,Engineering,Jonas Becker,Engineering,In review,2026-06-23,Email,Freya Richter
+COM-0302,Meet the team behind our Berlin hub,Learning,Product,Lea Braun,New starters,Draft,2026-06-26,Intranet,Theo Schmidt
+COM-0303,Save the date: our Berlin hub,Wellbeing,Finance,Mateo Wagner,Berlin office,Scheduled,2026-06-29,Newsletter,Nina Schulz
+COM-0304,A new chapter for community partnerships,Company news,Operations,Sofia Neumann,Engineering,Published,2026-07-02,Newsletter,Ava Bauer
+COM-0305,Save the date: sustainability goals,People & culture,Sales,Noah Fischer,Engineering,In review,2026-07-05,Town hall,Emil Meyer
+COM-0306,Inside our work on community partnerships,Engineering,Marketing,Mila Wolf,Engineering,Draft,2026-07-08,Town hall,Maya Keller
+COM-0307,Nexora update — learning week,Customer stories,Customer Success,Elias Hoffmann,New starters,Scheduled,2026-07-11,Intranet,Felix Becker
+COM-0308,Inside our work on responsible AI,Sustainability,IT & Security,Zara Koch,Berlin office,Published,2026-07-14,Intranet,Ines Braun
+COM-0309,Building better together: community partnerships,Leadership,Sustainability,Luca Weber,All employees,In review,2026-07-17,Newsletter,David Wagner
+COM-0310,Nexora update — responsible AI,Learning,People & Culture,Freya Richter,Berlin office,Draft,2026-07-20,Email,Clara Neumann
+COM-0311,Inside our work on employee wellbeing,Wellbeing,Engineering,Theo Schmidt,All employees,Scheduled,2026-07-23,Intranet,Amira Fischer
+COM-0312,Nexora update — customer experience,Company news,Product,Nina Schulz,All employees,Published,2026-07-26,Intranet,Jonas Wolf
+COM-0313,Save the date: customer experience,People & culture,Finance,Ava Bauer,All employees,In review,2026-07-29,Email,Lea Hoffmann
+COM-0314,Meet the team behind sustainability goals,Engineering,Operations,Emil Meyer,New starters,Draft,2026-08-01,Newsletter,Mateo Koch
+COM-0315,Nexora update — sustainability goals,Customer stories,Sales,Maya Keller,Engineering,Scheduled,2026-08-04,Intranet,Sofia Weber
+COM-0316,Save the date: employee wellbeing,Sustainability,Marketing,Felix Becker,All employees,Published,2026-08-07,Email,Noah Richter
+COM-0317,Save the date: summer gathering,Leadership,Customer Success,Ines Braun,Engineering,In review,2026-08-10,Town hall,Mila Schmidt
+COM-0318,Nexora update — community partnerships,Learning,IT & Security,David Wagner,Engineering,Draft,2026-08-13,Town hall,Elias Schulz
+COM-0319,Meet the team behind learning week,Wellbeing,Sustainability,Clara Neumann,Engineering,Scheduled,2026-08-16,Newsletter,Zara Bauer
+COM-0320,Inside our work on customer experience,Company news,People & Culture,Amira Fischer,New starters,Published,2026-08-19,Newsletter,Luca Meyer
+COM-0321,Building better together: our Berlin hub,People & culture,Engineering,Jonas Wolf,New starters,In review,2026-08-22,Town hall,Freya Keller
+COM-0322,A new chapter for employee wellbeing,Engineering,Product,Lea Hoffmann,People managers,Draft,2026-08-25,Email,Theo Becker
+COM-0323,Save the date: our Berlin hub,Customer stories,Finance,Mateo Koch,Berlin office,Scheduled,2026-08-28,Town hall,Nina Braun
+COM-0324,Save the date: sustainability goals,Sustainability,Operations,Sofia Weber,Berlin office,Published,2026-08-31,Town hall,Ava Wagner
+COM-0325,Meet the team behind employee wellbeing,Leadership,Sales,Noah Richter,Berlin office,In review,2026-09-03,Newsletter,Emil Neumann
+COM-0326,Meet the team behind customer experience,Learning,Marketing,Mila Schmidt,People managers,Draft,2026-09-06,Newsletter,Maya Fischer
+COM-0327,Nexora update — employee wellbeing,Wellbeing,Customer Success,Elias Schulz,People managers,Scheduled,2026-09-09,Intranet,Felix Wolf
+COM-0328,Building better together: the next product release,Company news,IT & Security,Zara Bauer,All employees,Published,2026-09-12,Town hall,Ines Hoffmann
+COM-0329,Nexora update — employee wellbeing,People & culture,Sustainability,Luca Meyer,People managers,In review,2026-09-15,Intranet,David Koch
+COM-0330,Nexora update — our Berlin hub,Engineering,People & Culture,Freya Keller,Engineering,Draft,2026-09-18,Town hall,Clara Weber
+COM-0331,Nexora update — sustainability goals,Customer stories,Engineering,Theo Becker,New starters,Scheduled,2026-09-21,Intranet,Amira Richter
+COM-0332,Nexora update — learning week,Sustainability,Product,Nina Braun,Berlin office,Published,2026-09-24,Intranet,Jonas Schmidt
+COM-0333,A new chapter for our teams,Leadership,Finance,Ava Wagner,All employees,In review,2026-09-27,Email,Lea Schulz
+COM-0334,Inside our work on customer experience,Learning,Operations,Emil Neumann,All employees,Draft,2026-09-30,Newsletter,Mateo Bauer
+COM-0335,Save the date: sustainability goals,Wellbeing,Sales,Maya Fischer,All employees,Scheduled,2026-10-03,Town hall,Sofia Meyer
+COM-0336,A new chapter for summer gathering,Company news,Marketing,Felix Wolf,All employees,Published,2026-10-06,Newsletter,Noah Keller
+COM-0337,Inside our work on the next product release,People & culture,Customer Success,Ines Hoffmann,People managers,In review,2026-10-09,Email,Mila Becker
+COM-0338,Building better together: summer gathering,Engineering,IT & Security,David Koch,People managers,Draft,2026-10-12,Town hall,Elias Braun
+COM-0339,Save the date: responsible AI,Customer stories,Sustainability,Clara Weber,New starters,Scheduled,2026-10-15,Email,Zara Wagner
+COM-0340,Meet the team behind summer gathering,Sustainability,People & Culture,Amira Richter,New starters,Published,2026-10-18,Town hall,Luca Neumann
+COM-0341,Save the date: our Berlin hub,Leadership,Engineering,Jonas Schmidt,People managers,In review,2026-10-21,Newsletter,Freya Fischer
+COM-0342,Nexora update — sustainability goals,Learning,Product,Lea Schulz,New starters,Draft,2026-10-24,Town hall,Theo Wolf
+COM-0343,Building better together: responsible AI,Wellbeing,Finance,Mateo Bauer,Engineering,Scheduled,2026-10-27,Email,Nina Hoffmann
+COM-0344,Meet the team behind customer experience,Company news,Operations,Sofia Meyer,Berlin office,Published,2026-10-30,Newsletter,Ava Koch
+COM-0345,A new chapter for community partnerships,People & culture,Sales,Noah Keller,People managers,In review,2026-11-02,Email,Emil Weber
+COM-0346,Inside our work on responsible AI,Engineering,Marketing,Mila Becker,All employees,Draft,2026-11-05,Town hall,Maya Richter
+COM-0347,Building better together: our teams,Customer stories,Customer Success,Elias Braun,Berlin office,Scheduled,2026-11-08,Intranet,Felix Schmidt
+COM-0348,Nexora update — customer experience,Sustainability,IT & Security,Zara Wagner,Engineering,Published,2026-11-11,Newsletter,Ines Schulz
+COM-0349,A new chapter for summer gathering,Leadership,Sustainability,Luca Neumann,Engineering,In review,2026-11-14,Newsletter,David Bauer
+COM-0350,Inside our work on our teams,Learning,People & Culture,Freya Fischer,People managers,Draft,2026-11-17,Newsletter,Clara Meyer
+COM-0351,Save the date: our Berlin hub,Wellbeing,Engineering,Theo Wolf,All employees,Scheduled,2026-11-20,Newsletter,Amira Keller
+COM-0352,Save the date: customer experience,Company news,Product,Nina Hoffmann,Engineering,Published,2026-11-23,Town hall,Jonas Becker
+COM-0353,Inside our work on employee wellbeing,People & culture,Finance,Ava Koch,All employees,In review,2026-11-26,Town hall,Lea Braun
+COM-0354,Meet the team behind learning week,Engineering,Operations,Emil Weber,All employees,Draft,2026-11-29,Town hall,Mateo Wagner
+COM-0355,A new chapter for sustainability goals,Customer stories,Sales,Maya Richter,Engineering,Scheduled,2026-12-02,Email,Sofia Neumann
+COM-0356,A new chapter for sustainability goals,Sustainability,Marketing,Felix Schmidt,All employees,Published,2026-12-05,Email,Noah Fischer
+COM-0357,Save the date: sustainability goals,Leadership,Customer Success,Ines Schulz,People managers,In review,2026-12-08,Town hall,Mila Wolf
+COM-0358,Building better together: employee wellbeing,Learning,IT & Security,David Bauer,Engineering,Draft,2026-12-11,Email,Elias Hoffmann
+COM-0359,Building better together: responsible AI,Wellbeing,Sustainability,Clara Meyer,All employees,Scheduled,2026-12-14,Intranet,Zara Koch
+COM-0360,Inside our work on summer gathering,Company news,People & Culture,Amira Keller,New starters,Published,2026-12-17,Town hall,Luca Weber
+COM-0361,Meet the team behind the next product release,People & culture,Engineering,Jonas Becker,New starters,In review,2026-12-20,Email,Freya Richter
+COM-0362,Building better together: learning week,Engineering,Product,Lea Braun,All employees,Draft,2026-12-23,Intranet,Theo Schmidt
+COM-0363,Save the date: learning week,Customer stories,Finance,Mateo Wagner,All employees,Scheduled,2026-12-26,Email,Nina Schulz
+COM-0364,Save the date: our teams,Sustainability,Operations,Sofia Neumann,All employees,Published,2026-12-29,Town hall,Ava Bauer
+COM-0365,Meet the team behind employee wellbeing,Leadership,Sales,Noah Fischer,People managers,In review,2026-01-01,Intranet,Emil Meyer
+COM-0366,Inside our work on the next product release,Learning,Marketing,Mila Wolf,People managers,Draft,2026-01-04,Newsletter,Maya Keller
+COM-0367,Save the date: customer experience,Wellbeing,Customer Success,Elias Hoffmann,People managers,Scheduled,2026-01-07,Intranet,Felix Becker
+COM-0368,Nexora update — our teams,Company news,IT & Security,Zara Koch,Berlin office,Published,2026-01-10,Newsletter,Ines Braun
+COM-0369,Building better together: customer experience,People & culture,Sustainability,Luca Weber,Berlin office,In review,2026-01-13,Intranet,David Wagner
+COM-0370,A new chapter for sustainability goals,Engineering,People & Culture,Freya Richter,Berlin office,Draft,2026-01-16,Intranet,Clara Neumann
+COM-0371,Nexora update — community partnerships,Customer stories,Engineering,Theo Schmidt,People managers,Scheduled,2026-01-19,Town hall,Amira Fischer
+COM-0372,A new chapter for sustainability goals,Sustainability,Product,Nina Schulz,Berlin office,Published,2026-01-22,Newsletter,Jonas Wolf
+COM-0373,Meet the team behind community partnerships,Leadership,Finance,Ava Bauer,Engineering,In review,2026-01-25,Email,Lea Hoffmann
+COM-0374,Nexora update — employee wellbeing,Learning,Operations,Emil Meyer,Berlin office,Draft,2026-01-28,Town hall,Mateo Koch
+COM-0375,Meet the team behind the next product release,Wellbeing,Sales,Maya Keller,Engineering,Scheduled,2026-01-31,Email,Sofia Weber
+COM-0376,Nexora update — customer experience,Company news,Marketing,Felix Becker,Berlin office,Published,2026-02-03,Email,Noah Richter
+COM-0377,Building better together: responsible AI,People & culture,Customer Success,Ines Braun,New starters,In review,2026-02-06,Newsletter,Mila Schmidt
+COM-0378,Nexora update — our Berlin hub,Engineering,IT & Security,David Wagner,Engineering,Draft,2026-02-09,Newsletter,Elias Schulz
+COM-0379,A new chapter for employee wellbeing,Customer stories,Sustainability,Clara Neumann,All employees,Scheduled,2026-02-12,Town hall,Zara Bauer
+COM-0380,Building better together: responsible AI,Sustainability,People & Culture,Amira Fischer,Berlin office,Published,2026-02-15,Intranet,Luca Meyer
+COM-0381,Inside our work on learning week,Leadership,Engineering,Jonas Wolf,All employees,In review,2026-02-18,Town hall,Freya Keller
+COM-0382,Nexora update — employee wellbeing,Learning,Product,Lea Hoffmann,Engineering,Draft,2026-02-21,Email,Theo Becker
+COM-0383,Nexora update — sustainability goals,Wellbeing,Finance,Mateo Koch,Berlin office,Scheduled,2026-02-24,Town hall,Nina Braun
+COM-0384,Meet the team behind responsible AI,Company news,Operations,Sofia Weber,All employees,Published,2026-02-27,Email,Ava Wagner
+COM-0385,A new chapter for customer experience,People & culture,Sales,Noah Richter,New starters,In review,2026-03-02,Town hall,Emil Neumann
+COM-0386,Meet the team behind our Berlin hub,Engineering,Marketing,Mila Schmidt,Berlin office,Draft,2026-03-05,Intranet,Maya Fischer
+COM-0387,A new chapter for summer gathering,Customer stories,Customer Success,Elias Schulz,Berlin office,Scheduled,2026-03-08,Newsletter,Felix Wolf
+COM-0388,A new chapter for summer gathering,Sustainability,IT & Security,Zara Bauer,All employees,Published,2026-03-11,Intranet,Ines Hoffmann
+COM-0389,Building better together: the next product release,Leadership,Sustainability,Luca Meyer,All employees,In review,2026-03-14,Town hall,David Koch
+COM-0390,Meet the team behind community partnerships,Learning,People & Culture,Freya Keller,All employees,Draft,2026-03-17,Email,Clara Weber
+COM-0391,Save the date: responsible AI,Wellbeing,Engineering,Theo Becker,New starters,Scheduled,2026-03-20,Newsletter,Amira Richter
+COM-0392,Building better together: customer experience,Company news,Product,Nina Braun,People managers,Published,2026-03-23,Intranet,Jonas Schmidt
+COM-0393,Inside our work on the next product release,People & culture,Finance,Ava Wagner,New starters,In review,2026-03-26,Email,Lea Schulz
+COM-0394,Meet the team behind sustainability goals,Engineering,Operations,Emil Neumann,Berlin office,Draft,2026-03-29,Newsletter,Mateo Bauer
+COM-0395,Save the date: customer experience,Customer stories,Sales,Maya Fischer,New starters,Scheduled,2026-04-01,Intranet,Sofia Meyer
+COM-0396,Meet the team behind our teams,Sustainability,Marketing,Felix Wolf,Engineering,Published,2026-04-04,Town hall,Noah Keller
+COM-0397,Building better together: employee wellbeing,Leadership,Customer Success,Ines Hoffmann,Engineering,In review,2026-04-07,Email,Mila Becker
+COM-0398,Meet the team behind employee wellbeing,Learning,IT & Security,David Koch,Engineering,Draft,2026-04-10,Newsletter,Elias Braun
+COM-0399,Nexora update — community partnerships,Wellbeing,Sustainability,Clara Weber,All employees,Scheduled,2026-04-13,Email,Zara Wagner
+COM-0400,Building better together: responsible AI,Company news,People & Culture,Amira Richter,Berlin office,Published,2026-04-16,Email,Luca Neumann
+COM-0401,Building better together: our Berlin hub,People & culture,Engineering,Jonas Schmidt,All employees,In review,2026-04-19,Newsletter,Freya Fischer
+COM-0402,A new chapter for learning week,Engineering,Product,Lea Schulz,Berlin office,Draft,2026-04-22,Town hall,Theo Wolf
+COM-0403,Nexora update — our Berlin hub,Customer stories,Finance,Mateo Bauer,All employees,Scheduled,2026-04-25,Newsletter,Nina Hoffmann
+COM-0404,Save the date: the next product release,Sustainability,Operations,Sofia Meyer,All employees,Published,2026-04-28,Intranet,Ava Koch
+COM-0405,Inside our work on learning week,Leadership,Sales,Noah Keller,People managers,In review,2026-05-01,Email,Emil Weber
+COM-0406,Inside our work on summer gathering,Learning,Marketing,Mila Becker,All employees,Draft,2026-05-04,Newsletter,Maya Richter
+COM-0407,A new chapter for responsible AI,Wellbeing,Customer Success,Elias Braun,All employees,Scheduled,2026-05-07,Intranet,Felix Schmidt
+COM-0408,Save the date: responsible AI,Company news,IT & Security,Zara Wagner,Berlin office,Published,2026-05-10,Town hall,Ines Schulz
+COM-0409,Nexora update — sustainability goals,People & culture,Sustainability,Luca Neumann,All employees,In review,2026-05-13,Newsletter,David Bauer
+COM-0410,Inside our work on responsible AI,Engineering,People & Culture,Freya Fischer,People managers,Draft,2026-05-16,Town hall,Clara Meyer
+COM-0411,Save the date: sustainability goals,Customer stories,Engineering,Theo Wolf,All employees,Scheduled,2026-05-19,Email,Amira Keller
+COM-0412,Meet the team behind our Berlin hub,Sustainability,Product,Nina Hoffmann,All employees,Published,2026-05-22,Intranet,Jonas Becker
+COM-0413,Save the date: our Berlin hub,Leadership,Finance,Ava Koch,People managers,In review,2026-05-25,Newsletter,Lea Braun
+COM-0414,Save the date: our Berlin hub,Learning,Operations,Emil Weber,New starters,Draft,2026-05-28,Intranet,Mateo Wagner
+COM-0415,Nexora update — the next product release,Wellbeing,Sales,Maya Richter,Berlin office,Scheduled,2026-05-31,Newsletter,Sofia Neumann
+COM-0416,Inside our work on employee wellbeing,Company news,Marketing,Felix Schmidt,All employees,Published,2026-06-03,Newsletter,Noah Fischer
+COM-0417,Meet the team behind community partnerships,People & culture,Customer Success,Ines Schulz,People managers,In review,2026-06-06,Email,Mila Wolf
+COM-0418,Save the date: the next product release,Engineering,IT & Security,David Bauer,Berlin office,Draft,2026-06-09,Town hall,Elias Hoffmann
+COM-0419,Save the date: sustainability goals,Customer stories,Sustainability,Clara Meyer,People managers,Scheduled,2026-06-12,Newsletter,Zara Koch
+COM-0420,Meet the team behind learning week,Sustainability,People & Culture,Amira Keller,All employees,Published,2026-06-15,Email,Luca Weber
+COM-0421,A new chapter for learning week,Leadership,Engineering,Jonas Becker,Engineering,In review,2026-06-18,Intranet,Freya Richter
+COM-0422,Save the date: customer experience,Learning,Product,Lea Braun,People managers,Draft,2026-06-21,Email,Theo Schmidt
+COM-0423,A new chapter for our teams,Wellbeing,Finance,Mateo Wagner,Berlin office,Scheduled,2026-06-24,Intranet,Nina Schulz
+COM-0424,Meet the team behind community partnerships,Company news,Operations,Sofia Neumann,All employees,Published,2026-06-27,Newsletter,Ava Bauer
+COM-0425,Building better together: our Berlin hub,People & culture,Sales,Noah Fischer,Berlin office,In review,2026-06-30,Newsletter,Emil Meyer
+COM-0426,Save the date: learning week,Engineering,Marketing,Mila Wolf,Berlin office,Draft,2026-07-03,Town hall,Maya Keller
+COM-0427,Inside our work on the next product release,Customer stories,Customer Success,Elias Hoffmann,All employees,Scheduled,2026-07-06,Town hall,Felix Becker
+COM-0428,Nexora update — summer gathering,Sustainability,IT & Security,Zara Koch,New starters,Published,2026-07-09,Email,Ines Braun
+COM-0429,Building better together: summer gathering,Leadership,Sustainability,Luca Weber,People managers,In review,2026-07-12,Newsletter,David Wagner
+COM-0430,Nexora update — our Berlin hub,Learning,People & Culture,Freya Richter,Berlin office,Draft,2026-07-15,Email,Clara Neumann
+COM-0431,Inside our work on community partnerships,Wellbeing,Engineering,Theo Schmidt,New starters,Scheduled,2026-07-18,Town hall,Amira Fischer
+COM-0432,A new chapter for employee wellbeing,Company news,Product,Nina Schulz,Berlin office,Published,2026-07-21,Intranet,Jonas Wolf
+COM-0433,Nexora update — the next product release,People & culture,Finance,Ava Bauer,New starters,In review,2026-07-24,Intranet,Lea Hoffmann
+COM-0434,Building better together: sustainability goals,Engineering,Operations,Emil Meyer,Berlin office,Draft,2026-07-27,Newsletter,Mateo Koch
+COM-0435,A new chapter for learning week,Customer stories,Sales,Maya Keller,New starters,Scheduled,2026-07-30,Email,Sofia Weber
+COM-0436,A new chapter for learning week,Sustainability,Marketing,Felix Becker,Engineering,Published,2026-08-02,Email,Noah Richter
+COM-0437,A new chapter for our teams,Leadership,Customer Success,Ines Braun,People managers,In review,2026-08-05,Town hall,Mila Schmidt
+COM-0438,Meet the team behind our Berlin hub,Learning,IT & Security,David Wagner,People managers,Draft,2026-08-08,Town hall,Elias Schulz
+COM-0439,Meet the team behind our Berlin hub,Wellbeing,Sustainability,Clara Neumann,Engineering,Scheduled,2026-08-11,Newsletter,Zara Bauer
+COM-0440,Nexora update — summer gathering,Company news,People & Culture,Amira Fischer,Engineering,Published,2026-08-14,Town hall,Luca Meyer
+COM-0441,Nexora update — employee wellbeing,People & culture,Engineering,Jonas Wolf,New starters,In review,2026-08-17,Intranet,Freya Keller
+COM-0442,Building better together: responsible AI,Engineering,Product,Lea Hoffmann,New starters,Draft,2026-08-20,Town hall,Theo Becker
+COM-0443,Meet the team behind summer gathering,Customer stories,Finance,Mateo Koch,Engineering,Scheduled,2026-08-23,Newsletter,Nina Braun
+COM-0444,A new chapter for community partnerships,Sustainability,Operations,Sofia Weber,Engineering,Published,2026-08-26,Intranet,Ava Wagner
+COM-0445,A new chapter for responsible AI,Leadership,Sales,Noah Richter,New starters,In review,2026-08-29,Email,Emil Neumann
+COM-0446,Building better together: responsible AI,Learning,Marketing,Mila Schmidt,Engineering,Draft,2026-09-01,Newsletter,Maya Fischer
+COM-0447,Inside our work on our teams,Wellbeing,Customer Success,Elias Schulz,Berlin office,Scheduled,2026-09-04,Newsletter,Felix Wolf
+COM-0448,Nexora update — sustainability goals,Company news,IT & Security,Zara Bauer,Berlin office,Published,2026-09-07,Email,Ines Hoffmann
+COM-0449,Meet the team behind our teams,People & culture,Sustainability,Luca Meyer,Berlin office,In review,2026-09-10,Town hall,David Koch
+COM-0450,Building better together: sustainability goals,Engineering,People & Culture,Freya Keller,People managers,Draft,2026-09-13,Intranet,Clara Weber
+COM-0451,Nexora update — customer experience,Customer stories,Engineering,Theo Becker,People managers,Scheduled,2026-09-16,Intranet,Amira Richter
+COM-0452,A new chapter for responsible AI,Sustainability,Product,Nina Braun,Engineering,Published,2026-09-19,Intranet,Jonas Schmidt
+COM-0453,A new chapter for our teams,Leadership,Finance,Ava Wagner,All employees,In review,2026-09-22,Newsletter,Lea Schulz
+COM-0454,Save the date: sustainability goals,Learning,Operations,Emil Neumann,Engineering,Draft,2026-09-25,Newsletter,Mateo Bauer
+COM-0455,Nexora update — community partnerships,Wellbeing,Sales,Maya Fischer,New starters,Scheduled,2026-09-28,Newsletter,Sofia Meyer
+COM-0456,Save the date: summer gathering,Company news,Marketing,Felix Wolf,New starters,Published,2026-10-01,Town hall,Noah Keller
+COM-0457,Nexora update — learning week,People & culture,Customer Success,Ines Hoffmann,Engineering,In review,2026-10-04,Newsletter,Mila Becker
+COM-0458,Building better together: employee wellbeing,Engineering,IT & Security,David Koch,New starters,Draft,2026-10-07,Intranet,Elias Braun
+COM-0459,A new chapter for customer experience,Customer stories,Sustainability,Clara Weber,Engineering,Scheduled,2026-10-10,Email,Zara Wagner
+COM-0460,Inside our work on summer gathering,Sustainability,People & Culture,Amira Richter,New starters,Published,2026-10-13,Email,Luca Neumann
+COM-0461,Inside our work on summer gathering,Leadership,Engineering,Jonas Schmidt,Engineering,In review,2026-10-16,Email,Freya Fischer
+COM-0462,Nexora update — our Berlin hub,Learning,Product,Lea Schulz,People managers,Draft,2026-10-19,Town hall,Theo Wolf
+COM-0463,A new chapter for employee wellbeing,Wellbeing,Finance,Mateo Bauer,New starters,Scheduled,2026-10-22,Intranet,Nina Hoffmann
+COM-0464,Inside our work on employee wellbeing,Company news,Operations,Sofia Meyer,All employees,Published,2026-10-25,Town hall,Ava Koch
+COM-0465,Building better together: employee wellbeing,People & culture,Sales,Noah Keller,New starters,In review,2026-10-28,Email,Emil Weber
+COM-0466,A new chapter for learning week,Engineering,Marketing,Mila Becker,New starters,Draft,2026-10-31,Email,Maya Richter
+COM-0467,Building better together: learning week,Customer stories,Customer Success,Elias Braun,People managers,Scheduled,2026-11-03,Newsletter,Felix Schmidt
+COM-0468,Nexora update — our teams,Sustainability,IT & Security,Zara Wagner,New starters,Published,2026-11-06,Intranet,Ines Schulz
+COM-0469,Nexora update — responsible AI,Leadership,Sustainability,Luca Neumann,People managers,In review,2026-11-09,Email,David Bauer
+COM-0470,Save the date: our Berlin hub,Learning,People & Culture,Freya Fischer,Berlin office,Draft,2026-11-12,Town hall,Clara Meyer
+COM-0471,A new chapter for summer gathering,Wellbeing,Engineering,Theo Wolf,New starters,Scheduled,2026-11-15,Newsletter,Amira Keller
+COM-0472,Building better together: customer experience,Company news,Product,Nina Hoffmann,Engineering,Published,2026-11-18,Email,Jonas Becker
+COM-0473,Meet the team behind our teams,People & culture,Finance,Ava Koch,People managers,In review,2026-11-21,Email,Lea Braun
+COM-0474,Building better together: community partnerships,Engineering,Operations,Emil Weber,All employees,Draft,2026-11-24,Email,Mateo Wagner
+COM-0475,Inside our work on community partnerships,Customer stories,Sales,Maya Richter,All employees,Scheduled,2026-11-27,Email,Sofia Neumann
+COM-0476,Inside our work on responsible AI,Sustainability,Marketing,Felix Schmidt,Berlin office,Published,2026-11-30,Intranet,Noah Fischer
+COM-0477,Inside our work on responsible AI,Leadership,Customer Success,Ines Schulz,People managers,In review,2026-12-03,Town hall,Mila Wolf
+COM-0478,Save the date: our teams,Learning,IT & Security,David Bauer,All employees,Draft,2026-12-06,Newsletter,Elias Hoffmann
+COM-0479,Building better together: our teams,Wellbeing,Sustainability,Clara Meyer,People managers,Scheduled,2026-12-09,Intranet,Zara Koch
+COM-0480,Inside our work on our Berlin hub,Company news,People & Culture,Amira Keller,Berlin office,Published,2026-12-12,Town hall,Luca Weber
+COM-0481,Nexora update — our Berlin hub,People & culture,Engineering,Jonas Becker,New starters,In review,2026-12-15,Town hall,Freya Richter
+COM-0482,Inside our work on summer gathering,Engineering,Product,Lea Braun,Engineering,Draft,2026-12-18,Newsletter,Theo Schmidt
+COM-0483,Save the date: customer experience,Customer stories,Finance,Mateo Wagner,Engineering,Scheduled,2026-12-21,Newsletter,Nina Schulz
+COM-0484,A new chapter for the next product release,Sustainability,Operations,Sofia Neumann,People managers,Published,2026-12-24,Newsletter,Ava Bauer
+COM-0485,Building better together: summer gathering,Leadership,Sales,Noah Fischer,Berlin office,In review,2026-12-27,Town hall,Emil Meyer
+COM-0486,A new chapter for summer gathering,Learning,Marketing,Mila Wolf,Engineering,Draft,2026-12-30,Town hall,Maya Keller
+COM-0487,Nexora update — learning week,Wellbeing,Customer Success,Elias Hoffmann,People managers,Scheduled,2026-01-02,Newsletter,Felix Becker
+COM-0488,Inside our work on sustainability goals,Company news,IT & Security,Zara Koch,Berlin office,Published,2026-01-05,Intranet,Ines Braun
+COM-0489,Save the date: sustainability goals,People & culture,Sustainability,Luca Weber,People managers,In review,2026-01-08,Newsletter,David Wagner
+COM-0490,Nexora update — sustainability goals,Engineering,People & Culture,Freya Richter,New starters,Draft,2026-01-11,Email,Clara Neumann
+COM-0491,Building better together: summer gathering,Customer stories,Engineering,Theo Schmidt,Engineering,Scheduled,2026-01-14,Email,Amira Fischer
+COM-0492,A new chapter for employee wellbeing,Sustainability,Product,Nina Schulz,New starters,Published,2026-01-17,Email,Jonas Wolf
+COM-0493,A new chapter for responsible AI,Leadership,Finance,Ava Bauer,All employees,In review,2026-01-20,Intranet,Lea Hoffmann
+COM-0494,Building better together: sustainability goals,Learning,Operations,Emil Meyer,New starters,Draft,2026-01-23,Email,Mateo Koch
+COM-0495,Nexora update — our Berlin hub,Wellbeing,Sales,Maya Keller,Berlin office,Scheduled,2026-01-26,Intranet,Sofia Weber
+COM-0496,Meet the team behind our teams,Company news,Marketing,Felix Becker,Engineering,Published,2026-01-29,Email,Noah Richter
+COM-0497,Nexora update — our teams,People & culture,Customer Success,Ines Braun,Berlin office,In review,2026-02-01,Town hall,Mila Schmidt
+COM-0498,Nexora update — the next product release,Engineering,IT & Security,David Wagner,People managers,Draft,2026-02-04,Newsletter,Elias Schulz
+COM-0499,Save the date: the next product release,Customer stories,Sustainability,Clara Neumann,All employees,Scheduled,2026-02-07,Email,Zara Bauer
+COM-0500,Meet the team behind customer experience,Sustainability,People & Culture,Amira Fischer,Berlin office,Published,2026-02-10,Intranet,Luca Meyer
+COM-0501,Save the date: our teams,Leadership,Engineering,Jonas Wolf,New starters,In review,2026-02-13,Email,Freya Keller
+COM-0502,Nexora update — responsible AI,Learning,Product,Lea Hoffmann,Berlin office,Draft,2026-02-16,Email,Theo Becker
+COM-0503,Building better together: sustainability goals,Wellbeing,Finance,Mateo Koch,People managers,Scheduled,2026-02-19,Town hall,Nina Braun
+COM-0504,A new chapter for the next product release,Company news,Operations,Sofia Weber,New starters,Published,2026-02-22,Email,Ava Wagner
+COM-0505,A new chapter for sustainability goals,People & culture,Sales,Noah Richter,People managers,In review,2026-02-25,Newsletter,Emil Neumann
+COM-0506,Building better together: responsible AI,Engineering,Marketing,Mila Schmidt,Berlin office,Draft,2026-02-28,Town hall,Maya Fischer
+COM-0507,Nexora update — summer gathering,Customer stories,Customer Success,Elias Schulz,People managers,Scheduled,2026-03-03,Newsletter,Felix Wolf
+COM-0508,Inside our work on the next product release,Sustainability,IT & Security,Zara Bauer,New starters,Published,2026-03-06,Newsletter,Ines Hoffmann
+COM-0509,Meet the team behind summer gathering,Leadership,Sustainability,Luca Meyer,New starters,In review,2026-03-09,Town hall,David Koch
+COM-0510,Building better together: sustainability goals,Learning,People & Culture,Freya Keller,Engineering,Draft,2026-03-12,Town hall,Clara Weber
+COM-0511,Building better together: employee wellbeing,Wellbeing,Engineering,Theo Becker,Berlin office,Scheduled,2026-03-15,Intranet,Amira Richter
+COM-0512,Meet the team behind the next product release,Company news,Product,Nina Braun,All employees,Published,2026-03-18,Newsletter,Jonas Schmidt
+COM-0513,Inside our work on employee wellbeing,People & culture,Finance,Ava Wagner,New starters,In review,2026-03-21,Email,Lea Schulz
+COM-0514,A new chapter for our teams,Engineering,Operations,Emil Neumann,All employees,Draft,2026-03-24,Intranet,Mateo Bauer
+COM-0515,Inside our work on community partnerships,Customer stories,Sales,Maya Fischer,Berlin office,Scheduled,2026-03-27,Town hall,Sofia Meyer
+COM-0516,Meet the team behind community partnerships,Sustainability,Marketing,Felix Wolf,New starters,Published,2026-03-30,Email,Noah Keller
+COM-0517,Inside our work on responsible AI,Leadership,Customer Success,Ines Hoffmann,Engineering,In review,2026-04-02,Email,Mila Becker
+COM-0518,Save the date: employee wellbeing,Learning,IT & Security,David Koch,People managers,Draft,2026-04-05,Intranet,Elias Braun
+COM-0519,Save the date: employee wellbeing,Wellbeing,Sustainability,Clara Weber,People managers,Scheduled,2026-04-08,Intranet,Zara Wagner
+COM-0520,Building better together: the next product release,Company news,People & Culture,Amira Richter,New starters,Published,2026-04-11,Email,Luca Neumann
+COM-0521,Building better together: customer experience,People & culture,Engineering,Jonas Schmidt,All employees,In review,2026-04-14,Email,Freya Fischer
+COM-0522,Nexora update — employee wellbeing,Engineering,Product,Lea Schulz,Engineering,Draft,2026-04-17,Town hall,Theo Wolf
+COM-0523,Inside our work on employee wellbeing,Customer stories,Finance,Mateo Bauer,People managers,Scheduled,2026-04-20,Town hall,Nina Hoffmann
+COM-0524,A new chapter for community partnerships,Sustainability,Operations,Sofia Meyer,Engineering,Published,2026-04-23,Newsletter,Ava Koch
+COM-0525,Meet the team behind sustainability goals,Leadership,Sales,Noah Keller,Berlin office,In review,2026-04-26,Email,Emil Weber
+COM-0526,Building better together: employee wellbeing,Learning,Marketing,Mila Becker,Berlin office,Draft,2026-04-29,Intranet,Maya Richter
+COM-0527,A new chapter for responsible AI,Wellbeing,Customer Success,Elias Braun,All employees,Scheduled,2026-05-02,Email,Felix Schmidt
+COM-0528,Meet the team behind employee wellbeing,Company news,IT & Security,Zara Wagner,People managers,Published,2026-05-05,Email,Ines Schulz
+COM-0529,Nexora update — summer gathering,People & culture,Sustainability,Luca Neumann,Engineering,In review,2026-05-08,Newsletter,David Bauer
+COM-0530,Inside our work on learning week,Engineering,People & Culture,Freya Fischer,All employees,Draft,2026-05-11,Intranet,Clara Meyer
+COM-0531,Building better together: our Berlin hub,Customer stories,Engineering,Theo Wolf,People managers,Scheduled,2026-05-14,Email,Amira Keller
+COM-0532,Building better together: learning week,Sustainability,Product,Nina Hoffmann,All employees,Published,2026-05-17,Newsletter,Jonas Becker
+COM-0533,Building better together: summer gathering,Leadership,Finance,Ava Koch,All employees,In review,2026-05-20,Intranet,Lea Braun
+COM-0534,A new chapter for employee wellbeing,Learning,Operations,Emil Weber,Engineering,Draft,2026-05-23,Intranet,Mateo Wagner
+COM-0535,Meet the team behind employee wellbeing,Wellbeing,Sales,Maya Richter,Engineering,Scheduled,2026-05-26,Town hall,Sofia Neumann
+COM-0536,Building better together: summer gathering,Company news,Marketing,Felix Schmidt,Berlin office,Published,2026-05-29,Email,Noah Fischer
+COM-0537,A new chapter for customer experience,People & culture,Customer Success,Ines Schulz,People managers,In review,2026-06-01,Intranet,Mila Wolf
+COM-0538,Meet the team behind our teams,Engineering,IT & Security,David Bauer,New starters,Draft,2026-06-04,Town hall,Elias Hoffmann
+COM-0539,Nexora update — learning week,Customer stories,Sustainability,Clara Meyer,Berlin office,Scheduled,2026-06-07,Town hall,Zara Koch
+COM-0540,Nexora update — our teams,Sustainability,People & Culture,Amira Keller,New starters,Published,2026-06-10,Email,Luca Weber
+COM-0541,Inside our work on community partnerships,Leadership,Engineering,Jonas Becker,Berlin office,In review,2026-06-13,Email,Freya Richter
+COM-0542,Nexora update — the next product release,Learning,Product,Lea Braun,All employees,Draft,2026-06-16,Intranet,Theo Schmidt
+COM-0543,Building better together: customer experience,Wellbeing,Finance,Mateo Wagner,New starters,Scheduled,2026-06-19,Newsletter,Nina Schulz
+COM-0544,A new chapter for employee wellbeing,Company news,Operations,Sofia Neumann,New starters,Published,2026-06-22,Newsletter,Ava Bauer
+COM-0545,A new chapter for responsible AI,People & culture,Sales,Noah Fischer,New starters,In review,2026-06-25,Email,Emil Meyer
+COM-0546,Inside our work on learning week,Engineering,Marketing,Mila Wolf,All employees,Draft,2026-06-28,Email,Maya Keller
+COM-0547,Inside our work on the next product release,Customer stories,Customer Success,Elias Hoffmann,Berlin office,Scheduled,2026-07-01,Intranet,Felix Becker
+COM-0548,Save the date: community partnerships,Sustainability,IT & Security,Zara Koch,Engineering,Published,2026-07-04,Intranet,Ines Braun
+COM-0549,Save the date: sustainability goals,Leadership,Sustainability,Luca Weber,Engineering,In review,2026-07-07,Town hall,David Wagner
+COM-0550,Nexora update — our Berlin hub,Learning,People & Culture,Freya Richter,People managers,Draft,2026-07-10,Newsletter,Clara Neumann
+COM-0551,Nexora update — our teams,Wellbeing,Engineering,Theo Schmidt,Berlin office,Scheduled,2026-07-13,Town hall,Amira Fischer
+COM-0552,Nexora update — the next product release,Company news,Product,Nina Schulz,Berlin office,Published,2026-07-16,Email,Jonas Wolf
+COM-0553,Nexora update — learning week,People & culture,Finance,Ava Bauer,All employees,In review,2026-07-19,Newsletter,Lea Hoffmann
+COM-0554,Save the date: responsible AI,Engineering,Operations,Emil Meyer,People managers,Draft,2026-07-22,Email,Mateo Koch
+COM-0555,Nexora update — the next product release,Customer stories,Sales,Maya Keller,Berlin office,Scheduled,2026-07-25,Email,Sofia Weber
+COM-0556,A new chapter for our teams,Sustainability,Marketing,Felix Becker,New starters,Published,2026-07-28,Intranet,Noah Richter
+COM-0557,Meet the team behind sustainability goals,Leadership,Customer Success,Ines Braun,All employees,In review,2026-07-31,Email,Mila Schmidt
+COM-0558,Save the date: summer gathering,Learning,IT & Security,David Wagner,Berlin office,Draft,2026-08-03,Email,Elias Schulz
+COM-0559,Save the date: summer gathering,Wellbeing,Sustainability,Clara Neumann,New starters,Scheduled,2026-08-06,Intranet,Zara Bauer
+COM-0560,A new chapter for learning week,Company news,People & Culture,Amira Fischer,All employees,Published,2026-08-09,Intranet,Luca Meyer
+COM-0561,Building better together: summer gathering,People & culture,Engineering,Jonas Wolf,Berlin office,In review,2026-08-12,Intranet,Freya Keller
+COM-0562,Building better together: employee wellbeing,Engineering,Product,Lea Hoffmann,Berlin office,Draft,2026-08-15,Email,Theo Becker
+COM-0563,Save the date: our teams,Customer stories,Finance,Mateo Koch,Berlin office,Scheduled,2026-08-18,Newsletter,Nina Braun
+COM-0564,A new chapter for our teams,Sustainability,Operations,Sofia Weber,New starters,Published,2026-08-21,Intranet,Ava Wagner
+COM-0565,Nexora update — employee wellbeing,Leadership,Sales,Noah Richter,Engineering,In review,2026-08-24,Intranet,Emil Neumann
+COM-0566,Building better together: our teams,Learning,Marketing,Mila Schmidt,All employees,Draft,2026-08-27,Newsletter,Maya Fischer
+COM-0567,Save the date: our teams,Wellbeing,Customer Success,Elias Schulz,Engineering,Scheduled,2026-08-30,Intranet,Felix Wolf
+COM-0568,Inside our work on summer gathering,Company news,IT & Security,Zara Bauer,Engineering,Published,2026-09-02,Intranet,Ines Hoffmann
+COM-0569,Save the date: the next product release,People & culture,Sustainability,Luca Meyer,People managers,In review,2026-09-05,Email,David Koch
+COM-0570,A new chapter for responsible AI,Engineering,People & Culture,Freya Keller,Berlin office,Draft,2026-09-08,Town hall,Clara Weber
+COM-0571,Inside our work on the next product release,Customer stories,Engineering,Theo Becker,Engineering,Scheduled,2026-09-11,Intranet,Amira Richter
+COM-0572,A new chapter for responsible AI,Sustainability,Product,Nina Braun,Berlin office,Published,2026-09-14,Town hall,Jonas Schmidt
+COM-0573,Nexora update — responsible AI,Leadership,Finance,Ava Wagner,All employees,In review,2026-09-17,Town hall,Lea Schulz
+COM-0574,Building better together: employee wellbeing,Learning,Operations,Emil Neumann,New starters,Draft,2026-09-20,Email,Mateo Bauer
+COM-0575,A new chapter for the next product release,Wellbeing,Sales,Maya Fischer,People managers,Scheduled,2026-09-23,Newsletter,Sofia Meyer
+COM-0576,Meet the team behind community partnerships,Company news,Marketing,Felix Wolf,New starters,Published,2026-09-26,Email,Noah Keller
+COM-0577,Nexora update — our teams,People & culture,Customer Success,Ines Hoffmann,All employees,In review,2026-09-29,Email,Mila Becker
+COM-0578,Meet the team behind the next product release,Engineering,IT & Security,David Koch,Berlin office,Draft,2026-10-02,Intranet,Elias Braun
+COM-0579,Nexora update — learning week,Customer stories,Sustainability,Clara Weber,Engineering,Scheduled,2026-10-05,Intranet,Zara Wagner
+COM-0580,Nexora update — our Berlin hub,Sustainability,People & Culture,Amira Richter,Engineering,Published,2026-10-08,Newsletter,Luca Neumann
+COM-0581,Meet the team behind learning week,Leadership,Engineering,Jonas Schmidt,Engineering,In review,2026-10-11,Newsletter,Freya Fischer
+COM-0582,A new chapter for community partnerships,Learning,Product,Lea Schulz,All employees,Draft,2026-10-14,Town hall,Theo Wolf
+COM-0583,Building better together: the next product release,Wellbeing,Finance,Mateo Bauer,All employees,Scheduled,2026-10-17,Intranet,Nina Hoffmann
+COM-0584,Nexora update — learning week,Company news,Operations,Sofia Meyer,People managers,Published,2026-10-20,Newsletter,Ava Koch
+COM-0585,A new chapter for our teams,People & culture,Sales,Noah Keller,People managers,In review,2026-10-23,Intranet,Emil Weber
+COM-0586,Inside our work on customer experience,Engineering,Marketing,Mila Becker,All employees,Draft,2026-10-26,Newsletter,Maya Richter
+COM-0587,A new chapter for summer gathering,Customer stories,Customer Success,Elias Braun,All employees,Scheduled,2026-10-29,Town hall,Felix Schmidt
+COM-0588,Inside our work on community partnerships,Sustainability,IT & Security,Zara Wagner,New starters,Published,2026-11-01,Intranet,Ines Schulz
+COM-0589,A new chapter for our teams,Leadership,Sustainability,Luca Neumann,Berlin office,In review,2026-11-04,Town hall,David Bauer
+COM-0590,Inside our work on responsible AI,Learning,People & Culture,Freya Fischer,Engineering,Draft,2026-11-07,Newsletter,Clara Meyer
+COM-0591,Meet the team behind community partnerships,Wellbeing,Engineering,Theo Wolf,People managers,Scheduled,2026-11-10,Town hall,Amira Keller
+COM-0592,A new chapter for our teams,Company news,Product,Nina Hoffmann,All employees,Published,2026-11-13,Newsletter,Jonas Becker
+COM-0593,Meet the team behind our Berlin hub,People & culture,Finance,Ava Koch,People managers,In review,2026-11-16,Email,Lea Braun
+COM-0594,Nexora update — community partnerships,Engineering,Operations,Emil Weber,New starters,Draft,2026-11-19,Intranet,Mateo Wagner
+COM-0595,Inside our work on summer gathering,Customer stories,Sales,Maya Richter,People managers,Scheduled,2026-11-22,Town hall,Sofia Neumann
+COM-0596,Nexora update — customer experience,Sustainability,Marketing,Felix Schmidt,Berlin office,Published,2026-11-25,Email,Noah Fischer
+COM-0597,Inside our work on employee wellbeing,Leadership,Customer Success,Ines Schulz,People managers,In review,2026-11-28,Newsletter,Mila Wolf
+COM-0598,Inside our work on community partnerships,Learning,IT & Security,David Bauer,People managers,Draft,2026-12-01,Newsletter,Elias Hoffmann
+COM-0599,Building better together: customer experience,Wellbeing,Sustainability,Clara Meyer,Engineering,Scheduled,2026-12-04,Intranet,Zara Koch
+COM-0600,Nexora update — responsible AI,Company news,People & Culture,Amira Keller,All employees,Published,2026-12-07,Email,Luca Weber
+COM-0601,Nexora update — summer gathering,People & culture,Engineering,Jonas Becker,All employees,In review,2026-12-10,Newsletter,Freya Richter
+COM-0602,Inside our work on learning week,Engineering,Product,Lea Braun,All employees,Draft,2026-12-13,Town hall,Theo Schmidt
+COM-0603,Nexora update — the next product release,Customer stories,Finance,Mateo Wagner,All employees,Scheduled,2026-12-16,Newsletter,Nina Schulz
+COM-0604,Inside our work on customer experience,Sustainability,Operations,Sofia Neumann,Berlin office,Published,2026-12-19,Newsletter,Ava Bauer
+COM-0605,Save the date: sustainability goals,Leadership,Sales,Noah Fischer,New starters,In review,2026-12-22,Town hall,Emil Meyer
+COM-0606,Meet the team behind learning week,Learning,Marketing,Mila Wolf,People managers,Draft,2026-12-25,Newsletter,Maya Keller
+COM-0607,Inside our work on sustainability goals,Wellbeing,Customer Success,Elias Hoffmann,New starters,Scheduled,2026-12-28,Intranet,Felix Becker
+COM-0608,Building better together: learning week,Company news,IT & Security,Zara Koch,All employees,Published,2026-12-31,Newsletter,Ines Braun
+COM-0609,Inside our work on summer gathering,People & culture,Sustainability,Luca Weber,All employees,In review,2026-01-03,Intranet,David Wagner
+COM-0610,Nexora update — the next product release,Engineering,People & Culture,Freya Richter,New starters,Draft,2026-01-06,Email,Clara Neumann
+COM-0611,Nexora update — the next product release,Customer stories,Engineering,Theo Schmidt,Engineering,Scheduled,2026-01-09,Town hall,Amira Fischer
+COM-0612,A new chapter for responsible AI,Sustainability,Product,Nina Schulz,Berlin office,Published,2026-01-12,Email,Jonas Wolf
+COM-0613,Building better together: responsible AI,Leadership,Finance,Ava Bauer,Berlin office,In review,2026-01-15,Email,Lea Hoffmann
+COM-0614,Save the date: learning week,Learning,Operations,Emil Meyer,Berlin office,Draft,2026-01-18,Intranet,Mateo Koch
+COM-0615,Inside our work on our Berlin hub,Wellbeing,Sales,Maya Keller,New starters,Scheduled,2026-01-21,Email,Sofia Weber
+COM-0616,Nexora update — summer gathering,Company news,Marketing,Felix Becker,People managers,Published,2026-01-24,Town hall,Noah Richter
+COM-0617,Nexora update — sustainability goals,People & culture,Customer Success,Ines Braun,People managers,In review,2026-01-27,Email,Mila Schmidt
+COM-0618,Building better together: community partnerships,Engineering,IT & Security,David Wagner,Engineering,Draft,2026-01-30,Town hall,Elias Schulz
+COM-0619,Nexora update — our teams,Customer stories,Sustainability,Clara Neumann,New starters,Scheduled,2026-02-02,Intranet,Zara Bauer
+COM-0620,Save the date: sustainability goals,Sustainability,People & Culture,Amira Fischer,Berlin office,Published,2026-02-05,Newsletter,Luca Meyer
+COM-0621,A new chapter for our teams,Leadership,Engineering,Jonas Wolf,People managers,In review,2026-02-08,Newsletter,Freya Keller
+COM-0622,Nexora update — learning week,Learning,Product,Lea Hoffmann,Berlin office,Draft,2026-02-11,Email,Theo Becker
+COM-0623,A new chapter for summer gathering,Wellbeing,Finance,Mateo Koch,Berlin office,Scheduled,2026-02-14,Town hall,Nina Braun
+COM-0624,A new chapter for sustainability goals,Company news,Operations,Sofia Weber,Engineering,Published,2026-02-17,Newsletter,Ava Wagner
+COM-0625,A new chapter for employee wellbeing,People & culture,Sales,Noah Richter,Berlin office,In review,2026-02-20,Newsletter,Emil Neumann
+COM-0626,A new chapter for our teams,Engineering,Marketing,Mila Schmidt,Engineering,Draft,2026-02-23,Intranet,Maya Fischer
+COM-0627,Inside our work on the next product release,Customer stories,Customer Success,Elias Schulz,People managers,Scheduled,2026-02-26,Intranet,Felix Wolf
+COM-0628,A new chapter for community partnerships,Sustainability,IT & Security,Zara Bauer,New starters,Published,2026-03-01,Intranet,Ines Hoffmann
+COM-0629,A new chapter for responsible AI,Leadership,Sustainability,Luca Meyer,New starters,In review,2026-03-04,Email,David Koch
+COM-0630,A new chapter for learning week,Learning,People & Culture,Freya Keller,Berlin office,Draft,2026-03-07,Town hall,Clara Weber
+COM-0631,Save the date: our Berlin hub,Wellbeing,Engineering,Theo Becker,Berlin office,Scheduled,2026-03-10,Email,Amira Richter
+COM-0632,Building better together: the next product release,Company news,Product,Nina Braun,Engineering,Published,2026-03-13,Newsletter,Jonas Schmidt
+COM-0633,A new chapter for learning week,People & culture,Finance,Ava Wagner,New starters,In review,2026-03-16,Newsletter,Lea Schulz
+COM-0634,Save the date: sustainability goals,Engineering,Operations,Emil Neumann,People managers,Draft,2026-03-19,Town hall,Mateo Bauer
+COM-0635,Inside our work on responsible AI,Customer stories,Sales,Maya Fischer,New starters,Scheduled,2026-03-22,Email,Sofia Meyer
+COM-0636,Save the date: customer experience,Sustainability,Marketing,Felix Wolf,People managers,Published,2026-03-25,Email,Noah Keller
+COM-0637,Meet the team behind customer experience,Leadership,Customer Success,Ines Hoffmann,Engineering,In review,2026-03-28,Town hall,Mila Becker
+COM-0638,Meet the team behind summer gathering,Learning,IT & Security,David Koch,All employees,Draft,2026-03-31,Town hall,Elias Braun
+COM-0639,Meet the team behind customer experience,Wellbeing,Sustainability,Clara Weber,Engineering,Scheduled,2026-04-03,Intranet,Zara Wagner
+COM-0640,A new chapter for learning week,Company news,People & Culture,Amira Richter,People managers,Published,2026-04-06,Town hall,Luca Neumann
+COM-0641,Inside our work on learning week,People & culture,Engineering,Jonas Schmidt,Engineering,In review,2026-04-09,Newsletter,Freya Fischer
+COM-0642,Meet the team behind customer experience,Engineering,Product,Lea Schulz,Berlin office,Draft,2026-04-12,Email,Theo Wolf
+COM-0643,Meet the team behind summer gathering,Customer stories,Finance,Mateo Bauer,People managers,Scheduled,2026-04-15,Town hall,Nina Hoffmann
+COM-0644,A new chapter for summer gathering,Sustainability,Operations,Sofia Meyer,New starters,Published,2026-04-18,Email,Ava Koch
+COM-0645,Nexora update — our Berlin hub,Leadership,Sales,Noah Keller,All employees,In review,2026-04-21,Newsletter,Emil Weber
+COM-0646,Inside our work on our Berlin hub,Learning,Marketing,Mila Becker,Berlin office,Draft,2026-04-24,Town hall,Maya Richter
+COM-0647,A new chapter for our Berlin hub,Wellbeing,Customer Success,Elias Braun,Berlin office,Scheduled,2026-04-27,Town hall,Felix Schmidt
+COM-0648,Save the date: sustainability goals,Company news,IT & Security,Zara Wagner,Berlin office,Published,2026-04-30,Newsletter,Ines Schulz
+COM-0649,Inside our work on employee wellbeing,People & culture,Sustainability,Luca Neumann,Berlin office,In review,2026-05-03,Newsletter,David Bauer
+COM-0650,A new chapter for learning week,Engineering,People & Culture,Freya Fischer,People managers,Draft,2026-05-06,Intranet,Clara Meyer

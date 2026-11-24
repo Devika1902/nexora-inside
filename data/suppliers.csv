@@ -1,0 +1,601 @@
+﻿id,supplier,service,contact,email,city,status,last_used,rating
+SUP-0001,Studio Norden North,Catering,Mateo Wagner,events1@supplier.example,Munich,Not booked,2025-01-10,4.7
+SUP-0002,Green Table Catering Collective,AV & staging,Sofia Neumann,events2@supplier.example,Hamburg,Confirmed,2025-01-19,4.3
+SUP-0003,Sound & Signal GmbH Studio,Print & signage,Noah Fischer,events3@supplier.example,Cologne,Confirmed,2025-01-28,3.6
+SUP-0004,Paper Plane Print Partners,Photography,Mila Wolf,events4@supplier.example,Stockholm,Not booked,2025-02-06,4.0
+SUP-0005,Urban Venue Co. Berlin,Travel,Elias Hoffmann,events5@supplier.example,Amsterdam,Awaiting reply,2025-02-15,4.6
+SUP-0006,GoodDays Hospitality North,Event production,Zara Koch,events6@supplier.example,Remote — Germany,Confirmed,2025-02-24,4.9
+SUP-0007,Pixelhaus Creative Collective,Gifts & merchandise,Luca Weber,events7@supplier.example,Frankfurt,Awaiting reply,2025-03-05,4.4
+SUP-0008,Rail & Ride Studio,Venue,Freya Richter,events8@supplier.example,Berlin,Confirmed,2025-03-14,4.5
+SUP-0009,Clearview AV Partners,Catering,Theo Schmidt,events9@supplier.example,Munich,Confirmed,2025-03-23,3.9
+SUP-0010,Kindred Flowers Berlin,AV & staging,Nina Schulz,events10@supplier.example,Hamburg,Confirmed,2025-04-01,3.9
+SUP-0011,Loop Rental North,Print & signage,Ava Bauer,events11@supplier.example,Cologne,Awaiting reply,2025-04-10,4.1
+SUP-0012,Brightside Events Collective,Photography,Emil Meyer,events12@supplier.example,Stockholm,Not booked,2025-04-19,3.7
+SUP-0013,Studio Norden Studio,Travel,Maya Keller,events13@supplier.example,Amsterdam,Awaiting reply,2025-04-28,4.1
+SUP-0014,Green Table Catering Partners,Event production,Felix Becker,events14@supplier.example,Remote — Germany,Not booked,2025-05-07,3.8
+SUP-0015,Sound & Signal GmbH Berlin,Gifts & merchandise,Ines Braun,events15@supplier.example,Frankfurt,Confirmed,2025-05-16,4.3
+SUP-0016,Paper Plane Print North,Venue,David Wagner,events16@supplier.example,Berlin,Not booked,2025-05-25,4.0
+SUP-0017,Urban Venue Co. Collective,Catering,Clara Neumann,events17@supplier.example,Munich,Confirmed,2025-06-03,4.7
+SUP-0018,GoodDays Hospitality Studio,AV & staging,Amira Fischer,events18@supplier.example,Hamburg,Not booked,2025-06-12,4.6
+SUP-0019,Pixelhaus Creative Partners,Print & signage,Jonas Wolf,events19@supplier.example,Cologne,Awaiting reply,2025-06-21,4.1
+SUP-0020,Rail & Ride Berlin,Photography,Lea Hoffmann,events20@supplier.example,Stockholm,Awaiting reply,2025-06-30,4.6
+SUP-0021,Clearview AV North,Travel,Mateo Koch,events21@supplier.example,Amsterdam,Awaiting reply,2025-07-09,5.0
+SUP-0022,Kindred Flowers Collective,Event production,Sofia Weber,events22@supplier.example,Remote — Germany,Confirmed,2025-07-18,3.6
+SUP-0023,Loop Rental Studio,Gifts & merchandise,Noah Richter,events23@supplier.example,Frankfurt,Not booked,2025-07-27,4.3
+SUP-0024,Brightside Events Partners,Venue,Mila Schmidt,events24@supplier.example,Berlin,Not booked,2025-08-05,4.5
+SUP-0025,Studio Norden Berlin,Catering,Elias Schulz,events25@supplier.example,Munich,Confirmed,2025-08-14,5.0
+SUP-0026,Green Table Catering North,AV & staging,Zara Bauer,events26@supplier.example,Hamburg,Not booked,2025-08-23,3.9
+SUP-0027,Sound & Signal GmbH Collective,Print & signage,Luca Meyer,events27@supplier.example,Cologne,Confirmed,2025-09-01,3.9
+SUP-0028,Paper Plane Print Studio,Photography,Freya Keller,events28@supplier.example,Stockholm,Confirmed,2025-09-10,4.9
+SUP-0029,Urban Venue Co. Partners,Travel,Theo Becker,events29@supplier.example,Amsterdam,Awaiting reply,2025-09-19,4.6
+SUP-0030,GoodDays Hospitality Berlin,Event production,Nina Braun,events30@supplier.example,Remote — Germany,Awaiting reply,2025-09-28,4.0
+SUP-0031,Pixelhaus Creative North,Gifts & merchandise,Ava Wagner,events31@supplier.example,Frankfurt,Awaiting reply,2025-10-07,3.7
+SUP-0032,Rail & Ride Collective,Venue,Emil Neumann,events32@supplier.example,Berlin,Confirmed,2025-10-16,4.0
+SUP-0033,Clearview AV Studio,Catering,Maya Fischer,events33@supplier.example,Munich,Awaiting reply,2025-10-25,3.7
+SUP-0034,Kindred Flowers Partners,AV & staging,Felix Wolf,events34@supplier.example,Hamburg,Confirmed,2025-11-03,4.3
+SUP-0035,Loop Rental Berlin,Print & signage,Ines Hoffmann,events35@supplier.example,Cologne,Confirmed,2025-11-12,3.7
+SUP-0036,Brightside Events North,Photography,David Koch,events36@supplier.example,Stockholm,Confirmed,2025-11-21,3.9
+SUP-0037,Studio Norden Collective,Travel,Clara Weber,events37@supplier.example,Amsterdam,Not booked,2025-11-30,4.6
+SUP-0038,Green Table Catering Studio,Event production,Amira Richter,events38@supplier.example,Remote — Germany,Confirmed,2025-12-09,4.1
+SUP-0039,Sound & Signal GmbH Partners,Gifts & merchandise,Jonas Schmidt,events39@supplier.example,Frankfurt,Confirmed,2025-12-18,4.9
+SUP-0040,Paper Plane Print Berlin,Venue,Lea Schulz,events40@supplier.example,Berlin,Confirmed,2025-12-27,4.2
+SUP-0041,Urban Venue Co. North,Catering,Mateo Bauer,events41@supplier.example,Munich,Confirmed,2025-01-05,4.5
+SUP-0042,GoodDays Hospitality Collective,AV & staging,Sofia Meyer,events42@supplier.example,Hamburg,Confirmed,2025-01-14,4.5
+SUP-0043,Pixelhaus Creative Studio,Print & signage,Noah Keller,events43@supplier.example,Cologne,Confirmed,2025-01-23,4.7
+SUP-0044,Rail & Ride Partners,Photography,Mila Becker,events44@supplier.example,Stockholm,Not booked,2025-02-01,4.3
+SUP-0045,Clearview AV Berlin,Travel,Elias Braun,events45@supplier.example,Amsterdam,Not booked,2025-02-10,3.9
+SUP-0046,Kindred Flowers North,Event production,Zara Wagner,events46@supplier.example,Remote — Germany,Confirmed,2025-02-19,4.6
+SUP-0047,Loop Rental Collective,Gifts & merchandise,Luca Neumann,events47@supplier.example,Frankfurt,Awaiting reply,2025-02-28,4.1
+SUP-0048,Brightside Events Studio,Venue,Freya Fischer,events48@supplier.example,Berlin,Confirmed,2025-03-09,4.0
+SUP-0049,Studio Norden Partners,Catering,Theo Wolf,events49@supplier.example,Munich,Awaiting reply,2025-03-18,3.9
+SUP-0050,Green Table Catering Berlin,AV & staging,Nina Hoffmann,events50@supplier.example,Hamburg,Confirmed,2025-03-27,4.5
+SUP-0051,Sound & Signal GmbH North,Print & signage,Ava Koch,events51@supplier.example,Cologne,Confirmed,2025-04-05,3.7
+SUP-0052,Paper Plane Print Collective,Photography,Emil Weber,events52@supplier.example,Stockholm,Awaiting reply,2025-04-14,4.5
+SUP-0053,Urban Venue Co. Studio,Travel,Maya Richter,events53@supplier.example,Amsterdam,Awaiting reply,2025-04-23,3.7
+SUP-0054,GoodDays Hospitality Partners,Event production,Felix Schmidt,events54@supplier.example,Remote — Germany,Confirmed,2025-05-02,4.9
+SUP-0055,Pixelhaus Creative Berlin,Gifts & merchandise,Ines Schulz,events55@supplier.example,Frankfurt,Confirmed,2025-05-11,4.1
+SUP-0056,Rail & Ride North,Venue,David Bauer,events56@supplier.example,Berlin,Awaiting reply,2025-05-20,3.9
+SUP-0057,Clearview AV Collective,Catering,Clara Meyer,events57@supplier.example,Munich,Awaiting reply,2025-05-29,4.5
+SUP-0058,Kindred Flowers Studio,AV & staging,Amira Keller,events58@supplier.example,Hamburg,Not booked,2025-06-07,3.8
+SUP-0059,Loop Rental Partners,Print & signage,Jonas Becker,events59@supplier.example,Cologne,Confirmed,2025-06-16,4.0
+SUP-0060,Brightside Events Berlin,Photography,Lea Braun,events60@supplier.example,Stockholm,Confirmed,2025-06-25,4.6
+SUP-0061,Studio Norden North,Travel,Mateo Wagner,events61@supplier.example,Amsterdam,Confirmed,2025-07-04,4.5
+SUP-0062,Green Table Catering Collective,Event production,Sofia Neumann,events62@supplier.example,Remote — Germany,Awaiting reply,2025-07-13,4.9
+SUP-0063,Sound & Signal GmbH Studio,Gifts & merchandise,Noah Fischer,events63@supplier.example,Frankfurt,Not booked,2025-07-22,4.3
+SUP-0064,Paper Plane Print Partners,Venue,Mila Wolf,events64@supplier.example,Berlin,Confirmed,2025-07-31,4.3
+SUP-0065,Urban Venue Co. Berlin,Catering,Elias Hoffmann,events65@supplier.example,Munich,Confirmed,2025-08-09,4.5
+SUP-0066,GoodDays Hospitality North,AV & staging,Zara Koch,events66@supplier.example,Hamburg,Confirmed,2025-08-18,4.1
+SUP-0067,Pixelhaus Creative Collective,Print & signage,Luca Weber,events67@supplier.example,Cologne,Confirmed,2025-08-27,4.9
+SUP-0068,Rail & Ride Studio,Photography,Freya Richter,events68@supplier.example,Stockholm,Not booked,2025-09-05,4.0
+SUP-0069,Clearview AV Partners,Travel,Theo Schmidt,events69@supplier.example,Amsterdam,Confirmed,2025-09-14,4.5
+SUP-0070,Kindred Flowers Berlin,Event production,Nina Schulz,events70@supplier.example,Remote — Germany,Awaiting reply,2025-09-23,4.0
+SUP-0071,Loop Rental North,Gifts & merchandise,Ava Bauer,events71@supplier.example,Frankfurt,Confirmed,2025-10-02,4.8
+SUP-0072,Brightside Events Collective,Venue,Emil Meyer,events72@supplier.example,Berlin,Confirmed,2025-10-11,4.4
+SUP-0073,Studio Norden Studio,Catering,Maya Keller,events73@supplier.example,Munich,Confirmed,2025-10-20,4.9
+SUP-0074,Green Table Catering Partners,AV & staging,Felix Becker,events74@supplier.example,Hamburg,Not booked,2025-10-29,4.0
+SUP-0075,Sound & Signal GmbH Berlin,Print & signage,Ines Braun,events75@supplier.example,Cologne,Awaiting reply,2025-11-07,3.7
+SUP-0076,Paper Plane Print North,Photography,David Wagner,events76@supplier.example,Stockholm,Confirmed,2025-11-16,4.3
+SUP-0077,Urban Venue Co. Collective,Travel,Clara Neumann,events77@supplier.example,Amsterdam,Confirmed,2025-11-25,4.6
+SUP-0078,GoodDays Hospitality Studio,Event production,Amira Fischer,events78@supplier.example,Remote — Germany,Confirmed,2025-12-04,3.7
+SUP-0079,Pixelhaus Creative Partners,Gifts & merchandise,Jonas Wolf,events79@supplier.example,Frankfurt,Not booked,2025-12-13,4.4
+SUP-0080,Rail & Ride Berlin,Venue,Lea Hoffmann,events80@supplier.example,Berlin,Confirmed,2025-12-22,3.8
+SUP-0081,Clearview AV North,Catering,Mateo Koch,events81@supplier.example,Munich,Not booked,2025-12-31,4.0
+SUP-0082,Kindred Flowers Collective,AV & staging,Sofia Weber,events82@supplier.example,Hamburg,Not booked,2025-01-09,4.0
+SUP-0083,Loop Rental Studio,Print & signage,Noah Richter,events83@supplier.example,Cologne,Awaiting reply,2025-01-18,4.8
+SUP-0084,Brightside Events Partners,Photography,Mila Schmidt,events84@supplier.example,Stockholm,Confirmed,2025-01-27,3.7
+SUP-0085,Studio Norden Berlin,Travel,Elias Schulz,events85@supplier.example,Amsterdam,Confirmed,2025-02-05,4.7
+SUP-0086,Green Table Catering North,Event production,Zara Bauer,events86@supplier.example,Remote — Germany,Confirmed,2025-02-14,4.5
+SUP-0087,Sound & Signal GmbH Collective,Gifts & merchandise,Luca Meyer,events87@supplier.example,Frankfurt,Confirmed,2025-02-23,4.9
+SUP-0088,Paper Plane Print Studio,Venue,Freya Keller,events88@supplier.example,Berlin,Confirmed,2025-03-04,4.7
+SUP-0089,Urban Venue Co. Partners,Catering,Theo Becker,events89@supplier.example,Munich,Not booked,2025-03-13,5.0
+SUP-0090,GoodDays Hospitality Berlin,AV & staging,Nina Braun,events90@supplier.example,Hamburg,Confirmed,2025-03-22,4.8
+SUP-0091,Pixelhaus Creative North,Print & signage,Ava Wagner,events91@supplier.example,Cologne,Awaiting reply,2025-03-31,4.5
+SUP-0092,Rail & Ride Collective,Photography,Emil Neumann,events92@supplier.example,Stockholm,Awaiting reply,2025-04-09,4.7
+SUP-0093,Clearview AV Studio,Travel,Maya Fischer,events93@supplier.example,Amsterdam,Not booked,2025-04-18,4.6
+SUP-0094,Kindred Flowers Partners,Event production,Felix Wolf,events94@supplier.example,Remote — Germany,Confirmed,2025-04-27,4.1
+SUP-0095,Loop Rental Berlin,Gifts & merchandise,Ines Hoffmann,events95@supplier.example,Frankfurt,Not booked,2025-05-06,3.8
+SUP-0096,Brightside Events North,Venue,David Koch,events96@supplier.example,Berlin,Not booked,2025-05-15,4.2
+SUP-0097,Studio Norden Collective,Catering,Clara Weber,events97@supplier.example,Munich,Awaiting reply,2025-05-24,4.2
+SUP-0098,Green Table Catering Studio,AV & staging,Amira Richter,events98@supplier.example,Hamburg,Confirmed,2025-06-02,3.7
+SUP-0099,Sound & Signal GmbH Partners,Print & signage,Jonas Schmidt,events99@supplier.example,Cologne,Awaiting reply,2025-06-11,4.3
+SUP-0100,Paper Plane Print Berlin,Photography,Lea Schulz,events100@supplier.example,Stockholm,Not booked,2025-06-20,4.1
+SUP-0101,Urban Venue Co. North,Travel,Mateo Bauer,events101@supplier.example,Amsterdam,Confirmed,2025-06-29,4.9
+SUP-0102,GoodDays Hospitality Collective,Event production,Sofia Meyer,events102@supplier.example,Remote — Germany,Awaiting reply,2025-07-08,3.8
+SUP-0103,Pixelhaus Creative Studio,Gifts & merchandise,Noah Keller,events103@supplier.example,Frankfurt,Awaiting reply,2025-07-17,4.4
+SUP-0104,Rail & Ride Partners,Venue,Mila Becker,events104@supplier.example,Berlin,Confirmed,2025-07-26,4.7
+SUP-0105,Clearview AV Berlin,Catering,Elias Braun,events105@supplier.example,Munich,Confirmed,2025-08-04,4.8
+SUP-0106,Kindred Flowers North,AV & staging,Zara Wagner,events106@supplier.example,Hamburg,Not booked,2025-08-13,4.2
+SUP-0107,Loop Rental Collective,Print & signage,Luca Neumann,events107@supplier.example,Cologne,Confirmed,2025-08-22,4.5
+SUP-0108,Brightside Events Studio,Photography,Freya Fischer,events108@supplier.example,Stockholm,Confirmed,2025-08-31,4.3
+SUP-0109,Studio Norden Partners,Travel,Theo Wolf,events109@supplier.example,Amsterdam,Confirmed,2025-09-09,3.6
+SUP-0110,Green Table Catering Berlin,Event production,Nina Hoffmann,events110@supplier.example,Remote — Germany,Confirmed,2025-09-18,5.0
+SUP-0111,Sound & Signal GmbH North,Gifts & merchandise,Ava Koch,events111@supplier.example,Frankfurt,Not booked,2025-09-27,4.1
+SUP-0112,Paper Plane Print Collective,Venue,Emil Weber,events112@supplier.example,Berlin,Not booked,2025-10-06,4.9
+SUP-0113,Urban Venue Co. Studio,Catering,Maya Richter,events113@supplier.example,Munich,Confirmed,2025-10-15,4.0
+SUP-0114,GoodDays Hospitality Partners,AV & staging,Felix Schmidt,events114@supplier.example,Hamburg,Confirmed,2025-10-24,4.4
+SUP-0115,Pixelhaus Creative Berlin,Print & signage,Ines Schulz,events115@supplier.example,Cologne,Confirmed,2025-11-02,4.2
+SUP-0116,Rail & Ride North,Photography,David Bauer,events116@supplier.example,Stockholm,Confirmed,2025-11-11,4.5
+SUP-0117,Clearview AV Collective,Travel,Clara Meyer,events117@supplier.example,Amsterdam,Awaiting reply,2025-11-20,3.7
+SUP-0118,Kindred Flowers Studio,Event production,Amira Keller,events118@supplier.example,Remote — Germany,Awaiting reply,2025-11-29,4.0
+SUP-0119,Loop Rental Partners,Gifts & merchandise,Jonas Becker,events119@supplier.example,Frankfurt,Confirmed,2025-12-08,4.0
+SUP-0120,Brightside Events Berlin,Venue,Lea Braun,events120@supplier.example,Berlin,Awaiting reply,2025-12-17,3.7
+SUP-0121,Studio Norden North,Catering,Mateo Wagner,events121@supplier.example,Munich,Not booked,2025-12-26,3.8
+SUP-0122,Green Table Catering Collective,AV & staging,Sofia Neumann,events122@supplier.example,Hamburg,Confirmed,2025-01-04,3.9
+SUP-0123,Sound & Signal GmbH Studio,Print & signage,Noah Fischer,events123@supplier.example,Cologne,Confirmed,2025-01-13,4.6
+SUP-0124,Paper Plane Print Partners,Photography,Mila Wolf,events124@supplier.example,Stockholm,Confirmed,2025-01-22,4.1
+SUP-0125,Urban Venue Co. Berlin,Travel,Elias Hoffmann,events125@supplier.example,Amsterdam,Awaiting reply,2025-01-31,4.2
+SUP-0126,GoodDays Hospitality North,Event production,Zara Koch,events126@supplier.example,Remote — Germany,Confirmed,2025-02-09,3.9
+SUP-0127,Pixelhaus Creative Collective,Gifts & merchandise,Luca Weber,events127@supplier.example,Frankfurt,Confirmed,2025-02-18,4.5
+SUP-0128,Rail & Ride Studio,Venue,Freya Richter,events128@supplier.example,Berlin,Confirmed,2025-02-27,4.1
+SUP-0129,Clearview AV Partners,Catering,Theo Schmidt,events129@supplier.example,Munich,Awaiting reply,2025-03-08,4.2
+SUP-0130,Kindred Flowers Berlin,AV & staging,Nina Schulz,events130@supplier.example,Hamburg,Confirmed,2025-03-17,4.9
+SUP-0131,Loop Rental North,Print & signage,Ava Bauer,events131@supplier.example,Cologne,Confirmed,2025-03-26,4.8
+SUP-0132,Brightside Events Collective,Photography,Emil Meyer,events132@supplier.example,Stockholm,Not booked,2025-04-04,4.4
+SUP-0133,Studio Norden Studio,Travel,Maya Keller,events133@supplier.example,Amsterdam,Awaiting reply,2025-04-13,4.3
+SUP-0134,Green Table Catering Partners,Event production,Felix Becker,events134@supplier.example,Remote — Germany,Confirmed,2025-04-22,4.0
+SUP-0135,Sound & Signal GmbH Berlin,Gifts & merchandise,Ines Braun,events135@supplier.example,Frankfurt,Confirmed,2025-05-01,4.1
+SUP-0136,Paper Plane Print North,Venue,David Wagner,events136@supplier.example,Berlin,Not booked,2025-05-10,3.9
+SUP-0137,Urban Venue Co. Collective,Catering,Clara Neumann,events137@supplier.example,Munich,Confirmed,2025-05-19,3.7
+SUP-0138,GoodDays Hospitality Studio,AV & staging,Amira Fischer,events138@supplier.example,Hamburg,Not booked,2025-05-28,4.8
+SUP-0139,Pixelhaus Creative Partners,Print & signage,Jonas Wolf,events139@supplier.example,Cologne,Awaiting reply,2025-06-06,4.0
+SUP-0140,Rail & Ride Berlin,Photography,Lea Hoffmann,events140@supplier.example,Stockholm,Confirmed,2025-06-15,4.4
+SUP-0141,Clearview AV North,Travel,Mateo Koch,events141@supplier.example,Amsterdam,Awaiting reply,2025-06-24,4.7
+SUP-0142,Kindred Flowers Collective,Event production,Sofia Weber,events142@supplier.example,Remote — Germany,Not booked,2025-07-03,3.9
+SUP-0143,Loop Rental Studio,Gifts & merchandise,Noah Richter,events143@supplier.example,Frankfurt,Confirmed,2025-07-12,4.0
+SUP-0144,Brightside Events Partners,Venue,Mila Schmidt,events144@supplier.example,Berlin,Not booked,2025-07-21,4.2
+SUP-0145,Studio Norden Berlin,Catering,Elias Schulz,events145@supplier.example,Munich,Awaiting reply,2025-07-30,4.8
+SUP-0146,Green Table Catering North,AV & staging,Zara Bauer,events146@supplier.example,Hamburg,Not booked,2025-08-08,4.6
+SUP-0147,Sound & Signal GmbH Collective,Print & signage,Luca Meyer,events147@supplier.example,Cologne,Confirmed,2025-08-17,4.5
+SUP-0148,Paper Plane Print Studio,Photography,Freya Keller,events148@supplier.example,Stockholm,Confirmed,2025-08-26,4.5
+SUP-0149,Urban Venue Co. Partners,Travel,Theo Becker,events149@supplier.example,Amsterdam,Awaiting reply,2025-09-04,3.6
+SUP-0150,GoodDays Hospitality Berlin,Event production,Nina Braun,events150@supplier.example,Remote — Germany,Awaiting reply,2025-09-13,3.8
+SUP-0151,Pixelhaus Creative North,Gifts & merchandise,Ava Wagner,events151@supplier.example,Frankfurt,Not booked,2025-09-22,4.7
+SUP-0152,Rail & Ride Collective,Venue,Emil Neumann,events152@supplier.example,Berlin,Confirmed,2025-10-01,5.0
+SUP-0153,Clearview AV Studio,Catering,Maya Fischer,events153@supplier.example,Munich,Confirmed,2025-10-10,3.8
+SUP-0154,Kindred Flowers Partners,AV & staging,Felix Wolf,events154@supplier.example,Hamburg,Confirmed,2025-10-19,4.1
+SUP-0155,Loop Rental Berlin,Print & signage,Ines Hoffmann,events155@supplier.example,Cologne,Confirmed,2025-10-28,4.9
+SUP-0156,Brightside Events North,Photography,David Koch,events156@supplier.example,Stockholm,Not booked,2025-11-06,4.5
+SUP-0157,Studio Norden Collective,Travel,Clara Weber,events157@supplier.example,Amsterdam,Not booked,2025-11-15,3.7
+SUP-0158,Green Table Catering Studio,Event production,Amira Richter,events158@supplier.example,Remote — Germany,Confirmed,2025-11-24,4.4
+SUP-0159,Sound & Signal GmbH Partners,Gifts & merchandise,Jonas Schmidt,events159@supplier.example,Frankfurt,Confirmed,2025-12-03,4.7
+SUP-0160,Paper Plane Print Berlin,Venue,Lea Schulz,events160@supplier.example,Berlin,Not booked,2025-12-12,4.0
+SUP-0161,Urban Venue Co. North,Catering,Mateo Bauer,events161@supplier.example,Munich,Confirmed,2025-12-21,3.8
+SUP-0162,GoodDays Hospitality Collective,AV & staging,Sofia Meyer,events162@supplier.example,Hamburg,Awaiting reply,2025-12-30,4.5
+SUP-0163,Pixelhaus Creative Studio,Print & signage,Noah Keller,events163@supplier.example,Cologne,Confirmed,2025-01-08,4.9
+SUP-0164,Rail & Ride Partners,Photography,Mila Becker,events164@supplier.example,Stockholm,Confirmed,2025-01-17,4.5
+SUP-0165,Clearview AV Berlin,Travel,Elias Braun,events165@supplier.example,Amsterdam,Awaiting reply,2025-01-26,3.6
+SUP-0166,Kindred Flowers North,Event production,Zara Wagner,events166@supplier.example,Remote — Germany,Confirmed,2025-02-04,4.3
+SUP-0167,Loop Rental Collective,Gifts & merchandise,Luca Neumann,events167@supplier.example,Frankfurt,Awaiting reply,2025-02-13,4.4
+SUP-0168,Brightside Events Studio,Venue,Freya Fischer,events168@supplier.example,Berlin,Confirmed,2025-02-22,4.9
+SUP-0169,Studio Norden Partners,Catering,Theo Wolf,events169@supplier.example,Munich,Awaiting reply,2025-03-03,4.4
+SUP-0170,Green Table Catering Berlin,AV & staging,Nina Hoffmann,events170@supplier.example,Hamburg,Not booked,2025-03-12,3.6
+SUP-0171,Sound & Signal GmbH North,Print & signage,Ava Koch,events171@supplier.example,Cologne,Awaiting reply,2025-03-21,4.5
+SUP-0172,Paper Plane Print Collective,Photography,Emil Weber,events172@supplier.example,Stockholm,Not booked,2025-03-30,4.7
+SUP-0173,Urban Venue Co. Studio,Travel,Maya Richter,events173@supplier.example,Amsterdam,Not booked,2025-04-08,3.9
+SUP-0174,GoodDays Hospitality Partners,Event production,Felix Schmidt,events174@supplier.example,Remote — Germany,Confirmed,2025-04-17,4.1
+SUP-0175,Pixelhaus Creative Berlin,Gifts & merchandise,Ines Schulz,events175@supplier.example,Frankfurt,Not booked,2025-04-26,4.8
+SUP-0176,Rail & Ride North,Venue,David Bauer,events176@supplier.example,Berlin,Confirmed,2025-05-05,3.6
+SUP-0177,Clearview AV Collective,Catering,Clara Meyer,events177@supplier.example,Munich,Confirmed,2025-05-14,4.4
+SUP-0178,Kindred Flowers Studio,AV & staging,Amira Keller,events178@supplier.example,Hamburg,Not booked,2025-05-23,4.5
+SUP-0179,Loop Rental Partners,Print & signage,Jonas Becker,events179@supplier.example,Cologne,Not booked,2025-06-01,5.0
+SUP-0180,Brightside Events Berlin,Photography,Lea Braun,events180@supplier.example,Stockholm,Awaiting reply,2025-06-10,4.9
+SUP-0181,Studio Norden North,Travel,Mateo Wagner,events181@supplier.example,Amsterdam,Confirmed,2025-06-19,3.7
+SUP-0182,Green Table Catering Collective,Event production,Sofia Neumann,events182@supplier.example,Remote — Germany,Awaiting reply,2025-06-28,4.6
+SUP-0183,Sound & Signal GmbH Studio,Gifts & merchandise,Noah Fischer,events183@supplier.example,Frankfurt,Confirmed,2025-07-07,4.7
+SUP-0184,Paper Plane Print Partners,Venue,Mila Wolf,events184@supplier.example,Berlin,Confirmed,2025-07-16,5.0
+SUP-0185,Urban Venue Co. Berlin,Catering,Elias Hoffmann,events185@supplier.example,Munich,Confirmed,2025-07-25,5.0
+SUP-0186,GoodDays Hospitality North,AV & staging,Zara Koch,events186@supplier.example,Hamburg,Awaiting reply,2025-08-03,4.4
+SUP-0187,Pixelhaus Creative Collective,Print & signage,Luca Weber,events187@supplier.example,Cologne,Confirmed,2025-08-12,4.6
+SUP-0188,Rail & Ride Studio,Photography,Freya Richter,events188@supplier.example,Stockholm,Confirmed,2025-08-21,4.3
+SUP-0189,Clearview AV Partners,Travel,Theo Schmidt,events189@supplier.example,Amsterdam,Confirmed,2025-08-30,4.4
+SUP-0190,Kindred Flowers Berlin,Event production,Nina Schulz,events190@supplier.example,Remote — Germany,Awaiting reply,2025-09-08,3.7
+SUP-0191,Loop Rental North,Gifts & merchandise,Ava Bauer,events191@supplier.example,Frankfurt,Awaiting reply,2025-09-17,4.3
+SUP-0192,Brightside Events Collective,Venue,Emil Meyer,events192@supplier.example,Berlin,Confirmed,2025-09-26,4.3
+SUP-0193,Studio Norden Studio,Catering,Maya Keller,events193@supplier.example,Munich,Confirmed,2025-10-05,4.6
+SUP-0194,Green Table Catering Partners,AV & staging,Felix Becker,events194@supplier.example,Hamburg,Awaiting reply,2025-10-14,4.1
+SUP-0195,Sound & Signal GmbH Berlin,Print & signage,Ines Braun,events195@supplier.example,Cologne,Confirmed,2025-10-23,3.9
+SUP-0196,Paper Plane Print North,Photography,David Wagner,events196@supplier.example,Stockholm,Not booked,2025-11-01,3.9
+SUP-0197,Urban Venue Co. Collective,Travel,Clara Neumann,events197@supplier.example,Amsterdam,Not booked,2025-11-10,4.4
+SUP-0198,GoodDays Hospitality Studio,Event production,Amira Fischer,events198@supplier.example,Remote — Germany,Not booked,2025-11-19,4.3
+SUP-0199,Pixelhaus Creative Partners,Gifts & merchandise,Jonas Wolf,events199@supplier.example,Frankfurt,Confirmed,2025-11-28,4.4
+SUP-0200,Rail & Ride Berlin,Venue,Lea Hoffmann,events200@supplier.example,Berlin,Confirmed,2025-12-07,5.0
+SUP-0201,Clearview AV North,Catering,Mateo Koch,events201@supplier.example,Munich,Confirmed,2025-12-16,4.2
+SUP-0202,Kindred Flowers Collective,AV & staging,Sofia Weber,events202@supplier.example,Hamburg,Not booked,2025-12-25,4.3
+SUP-0203,Loop Rental Studio,Print & signage,Noah Richter,events203@supplier.example,Cologne,Not booked,2025-01-03,3.7
+SUP-0204,Brightside Events Partners,Photography,Mila Schmidt,events204@supplier.example,Stockholm,Confirmed,2025-01-12,3.7
+SUP-0205,Studio Norden Berlin,Travel,Elias Schulz,events205@supplier.example,Amsterdam,Not booked,2025-01-21,4.5
+SUP-0206,Green Table Catering North,Event production,Zara Bauer,events206@supplier.example,Remote — Germany,Awaiting reply,2025-01-30,4.2
+SUP-0207,Sound & Signal GmbH Collective,Gifts & merchandise,Luca Meyer,events207@supplier.example,Frankfurt,Confirmed,2025-02-08,3.8
+SUP-0208,Paper Plane Print Studio,Venue,Freya Keller,events208@supplier.example,Berlin,Awaiting reply,2025-02-17,4.2
+SUP-0209,Urban Venue Co. Partners,Catering,Theo Becker,events209@supplier.example,Munich,Not booked,2025-02-26,4.7
+SUP-0210,GoodDays Hospitality Berlin,AV & staging,Nina Braun,events210@supplier.example,Hamburg,Awaiting reply,2025-03-07,5.0
+SUP-0211,Pixelhaus Creative North,Print & signage,Ava Wagner,events211@supplier.example,Cologne,Not booked,2025-03-16,4.8
+SUP-0212,Rail & Ride Collective,Photography,Emil Neumann,events212@supplier.example,Stockholm,Awaiting reply,2025-03-25,3.6
+SUP-0213,Clearview AV Studio,Travel,Maya Fischer,events213@supplier.example,Amsterdam,Confirmed,2025-04-03,4.4
+SUP-0214,Kindred Flowers Partners,Event production,Felix Wolf,events214@supplier.example,Remote — Germany,Not booked,2025-04-12,4.4
+SUP-0215,Loop Rental Berlin,Gifts & merchandise,Ines Hoffmann,events215@supplier.example,Frankfurt,Confirmed,2025-04-21,4.7
+SUP-0216,Brightside Events North,Venue,David Koch,events216@supplier.example,Berlin,Confirmed,2025-04-30,3.9
+SUP-0217,Studio Norden Collective,Catering,Clara Weber,events217@supplier.example,Munich,Awaiting reply,2025-05-09,3.9
+SUP-0218,Green Table Catering Studio,AV & staging,Amira Richter,events218@supplier.example,Hamburg,Confirmed,2025-05-18,5.0
+SUP-0219,Sound & Signal GmbH Partners,Print & signage,Jonas Schmidt,events219@supplier.example,Cologne,Awaiting reply,2025-05-27,4.9
+SUP-0220,Paper Plane Print Berlin,Photography,Lea Schulz,events220@supplier.example,Stockholm,Not booked,2025-06-05,3.7
+SUP-0221,Urban Venue Co. North,Travel,Mateo Bauer,events221@supplier.example,Amsterdam,Not booked,2025-06-14,3.7
+SUP-0222,GoodDays Hospitality Collective,Event production,Sofia Meyer,events222@supplier.example,Remote — Germany,Awaiting reply,2025-06-23,4.1
+SUP-0223,Pixelhaus Creative Studio,Gifts & merchandise,Noah Keller,events223@supplier.example,Frankfurt,Not booked,2025-07-02,4.5
+SUP-0224,Rail & Ride Partners,Venue,Mila Becker,events224@supplier.example,Berlin,Confirmed,2025-07-11,4.2
+SUP-0225,Clearview AV Berlin,Catering,Elias Braun,events225@supplier.example,Munich,Not booked,2025-07-20,3.6
+SUP-0226,Kindred Flowers North,AV & staging,Zara Wagner,events226@supplier.example,Hamburg,Not booked,2025-07-29,3.7
+SUP-0227,Loop Rental Collective,Print & signage,Luca Neumann,events227@supplier.example,Cologne,Confirmed,2025-08-07,4.7
+SUP-0228,Brightside Events Studio,Photography,Freya Fischer,events228@supplier.example,Stockholm,Confirmed,2025-08-16,4.1
+SUP-0229,Studio Norden Partners,Travel,Theo Wolf,events229@supplier.example,Amsterdam,Confirmed,2025-08-25,4.8
+SUP-0230,Green Table Catering Berlin,Event production,Nina Hoffmann,events230@supplier.example,Remote — Germany,Awaiting reply,2025-09-03,4.0
+SUP-0231,Sound & Signal GmbH North,Gifts & merchandise,Ava Koch,events231@supplier.example,Frankfurt,Confirmed,2025-09-12,4.5
+SUP-0232,Paper Plane Print Collective,Venue,Emil Weber,events232@supplier.example,Berlin,Confirmed,2025-09-21,4.3
+SUP-0233,Urban Venue Co. Studio,Catering,Maya Richter,events233@supplier.example,Munich,Confirmed,2025-09-30,3.6
+SUP-0234,GoodDays Hospitality Partners,AV & staging,Felix Schmidt,events234@supplier.example,Hamburg,Awaiting reply,2025-10-09,4.6
+SUP-0235,Pixelhaus Creative Berlin,Print & signage,Ines Schulz,events235@supplier.example,Cologne,Confirmed,2025-10-18,4.2
+SUP-0236,Rail & Ride North,Photography,David Bauer,events236@supplier.example,Stockholm,Not booked,2025-10-27,4.0
+SUP-0237,Clearview AV Collective,Travel,Clara Meyer,events237@supplier.example,Amsterdam,Awaiting reply,2025-11-05,3.7
+SUP-0238,Kindred Flowers Studio,Event production,Amira Keller,events238@supplier.example,Remote — Germany,Confirmed,2025-11-14,4.7
+SUP-0239,Loop Rental Partners,Gifts & merchandise,Jonas Becker,events239@supplier.example,Frankfurt,Not booked,2025-11-23,4.7
+SUP-0240,Brightside Events Berlin,Venue,Lea Braun,events240@supplier.example,Berlin,Not booked,2025-12-02,4.0
+SUP-0241,Studio Norden North,Catering,Mateo Wagner,events241@supplier.example,Munich,Not booked,2025-12-11,4.4
+SUP-0242,Green Table Catering Collective,AV & staging,Sofia Neumann,events242@supplier.example,Hamburg,Confirmed,2025-12-20,3.7
+SUP-0243,Sound & Signal GmbH Studio,Print & signage,Noah Fischer,events243@supplier.example,Cologne,Confirmed,2025-12-29,3.7
+SUP-0244,Paper Plane Print Partners,Photography,Mila Wolf,events244@supplier.example,Stockholm,Confirmed,2025-01-07,4.7
+SUP-0245,Urban Venue Co. Berlin,Travel,Elias Hoffmann,events245@supplier.example,Amsterdam,Confirmed,2025-01-16,4.3
+SUP-0246,GoodDays Hospitality North,Event production,Zara Koch,events246@supplier.example,Remote — Germany,Not booked,2025-01-25,4.2
+SUP-0247,Pixelhaus Creative Collective,Gifts & merchandise,Luca Weber,events247@supplier.example,Frankfurt,Not booked,2025-02-03,4.6
+SUP-0248,Rail & Ride Studio,Venue,Freya Richter,events248@supplier.example,Berlin,Awaiting reply,2025-02-12,4.7
+SUP-0249,Clearview AV Partners,Catering,Theo Schmidt,events249@supplier.example,Munich,Not booked,2025-02-21,5.0
+SUP-0250,Kindred Flowers Berlin,AV & staging,Nina Schulz,events250@supplier.example,Hamburg,Confirmed,2025-03-02,4.6
+SUP-0251,Loop Rental North,Print & signage,Ava Bauer,events251@supplier.example,Cologne,Not booked,2025-03-11,4.3
+SUP-0252,Brightside Events Collective,Photography,Emil Meyer,events252@supplier.example,Stockholm,Confirmed,2025-03-20,3.6
+SUP-0253,Studio Norden Studio,Travel,Maya Keller,events253@supplier.example,Amsterdam,Confirmed,2025-03-29,4.8
+SUP-0254,Green Table Catering Partners,Event production,Felix Becker,events254@supplier.example,Remote — Germany,Confirmed,2025-04-07,4.4
+SUP-0255,Sound & Signal GmbH Berlin,Gifts & merchandise,Ines Braun,events255@supplier.example,Frankfurt,Not booked,2025-04-16,4.0
+SUP-0256,Paper Plane Print North,Venue,David Wagner,events256@supplier.example,Berlin,Awaiting reply,2025-04-25,3.8
+SUP-0257,Urban Venue Co. Collective,Catering,Clara Neumann,events257@supplier.example,Munich,Not booked,2025-05-04,3.9
+SUP-0258,GoodDays Hospitality Studio,AV & staging,Amira Fischer,events258@supplier.example,Hamburg,Not booked,2025-05-13,4.4
+SUP-0259,Pixelhaus Creative Partners,Print & signage,Jonas Wolf,events259@supplier.example,Cologne,Not booked,2025-05-22,4.4
+SUP-0260,Rail & Ride Berlin,Photography,Lea Hoffmann,events260@supplier.example,Stockholm,Not booked,2025-05-31,4.7
+SUP-0261,Clearview AV North,Travel,Mateo Koch,events261@supplier.example,Amsterdam,Awaiting reply,2025-06-09,3.7
+SUP-0262,Kindred Flowers Collective,Event production,Sofia Weber,events262@supplier.example,Remote — Germany,Confirmed,2025-06-18,3.9
+SUP-0263,Loop Rental Studio,Gifts & merchandise,Noah Richter,events263@supplier.example,Frankfurt,Confirmed,2025-06-27,4.4
+SUP-0264,Brightside Events Partners,Venue,Mila Schmidt,events264@supplier.example,Berlin,Awaiting reply,2025-07-06,4.0
+SUP-0265,Studio Norden Berlin,Catering,Elias Schulz,events265@supplier.example,Munich,Confirmed,2025-07-15,4.3
+SUP-0266,Green Table Catering North,AV & staging,Zara Bauer,events266@supplier.example,Hamburg,Confirmed,2025-07-24,4.0
+SUP-0267,Sound & Signal GmbH Collective,Print & signage,Luca Meyer,events267@supplier.example,Cologne,Confirmed,2025-08-02,3.7
+SUP-0268,Paper Plane Print Studio,Photography,Freya Keller,events268@supplier.example,Stockholm,Not booked,2025-08-11,4.8
+SUP-0269,Urban Venue Co. Partners,Travel,Theo Becker,events269@supplier.example,Amsterdam,Awaiting reply,2025-08-20,3.9
+SUP-0270,GoodDays Hospitality Berlin,Event production,Nina Braun,events270@supplier.example,Remote — Germany,Awaiting reply,2025-08-29,4.2
+SUP-0271,Pixelhaus Creative North,Gifts & merchandise,Ava Wagner,events271@supplier.example,Frankfurt,Not booked,2025-09-07,4.3
+SUP-0272,Rail & Ride Collective,Venue,Emil Neumann,events272@supplier.example,Berlin,Confirmed,2025-09-16,3.9
+SUP-0273,Clearview AV Studio,Catering,Maya Fischer,events273@supplier.example,Munich,Not booked,2025-09-25,4.3
+SUP-0274,Kindred Flowers Partners,AV & staging,Felix Wolf,events274@supplier.example,Hamburg,Not booked,2025-10-04,4.1
+SUP-0275,Loop Rental Berlin,Print & signage,Ines Hoffmann,events275@supplier.example,Cologne,Confirmed,2025-10-13,4.8
+SUP-0276,Brightside Events North,Photography,David Koch,events276@supplier.example,Stockholm,Not booked,2025-10-22,3.9
+SUP-0277,Studio Norden Collective,Travel,Clara Weber,events277@supplier.example,Amsterdam,Awaiting reply,2025-10-31,4.0
+SUP-0278,Green Table Catering Studio,Event production,Amira Richter,events278@supplier.example,Remote — Germany,Awaiting reply,2025-11-09,3.8
+SUP-0279,Sound & Signal GmbH Partners,Gifts & merchandise,Jonas Schmidt,events279@supplier.example,Frankfurt,Confirmed,2025-11-18,4.6
+SUP-0280,Paper Plane Print Berlin,Venue,Lea Schulz,events280@supplier.example,Berlin,Confirmed,2025-11-27,3.9
+SUP-0281,Urban Venue Co. North,Catering,Mateo Bauer,events281@supplier.example,Munich,Confirmed,2025-12-06,4.1
+SUP-0282,GoodDays Hospitality Collective,AV & staging,Sofia Meyer,events282@supplier.example,Hamburg,Awaiting reply,2025-12-15,4.8
+SUP-0283,Pixelhaus Creative Studio,Print & signage,Noah Keller,events283@supplier.example,Cologne,Not booked,2025-12-24,4.7
+SUP-0284,Rail & Ride Partners,Photography,Mila Becker,events284@supplier.example,Stockholm,Not booked,2025-01-02,4.4
+SUP-0285,Clearview AV Berlin,Travel,Elias Braun,events285@supplier.example,Amsterdam,Confirmed,2025-01-11,3.8
+SUP-0286,Kindred Flowers North,Event production,Zara Wagner,events286@supplier.example,Remote — Germany,Confirmed,2025-01-20,3.8
+SUP-0287,Loop Rental Collective,Gifts & merchandise,Luca Neumann,events287@supplier.example,Frankfurt,Confirmed,2025-01-29,3.6
+SUP-0288,Brightside Events Studio,Venue,Freya Fischer,events288@supplier.example,Berlin,Not booked,2025-02-07,4.9
+SUP-0289,Studio Norden Partners,Catering,Theo Wolf,events289@supplier.example,Munich,Confirmed,2025-02-16,3.8
+SUP-0290,Green Table Catering Berlin,AV & staging,Nina Hoffmann,events290@supplier.example,Hamburg,Awaiting reply,2025-02-25,4.7
+SUP-0291,Sound & Signal GmbH North,Print & signage,Ava Koch,events291@supplier.example,Cologne,Confirmed,2025-03-06,4.4
+SUP-0292,Paper Plane Print Collective,Photography,Emil Weber,events292@supplier.example,Stockholm,Confirmed,2025-03-15,3.8
+SUP-0293,Urban Venue Co. Studio,Travel,Maya Richter,events293@supplier.example,Amsterdam,Confirmed,2025-03-24,4.2
+SUP-0294,GoodDays Hospitality Partners,Event production,Felix Schmidt,events294@supplier.example,Remote — Germany,Awaiting reply,2025-04-02,4.3
+SUP-0295,Pixelhaus Creative Berlin,Gifts & merchandise,Ines Schulz,events295@supplier.example,Frankfurt,Confirmed,2025-04-11,4.3
+SUP-0296,Rail & Ride North,Venue,David Bauer,events296@supplier.example,Berlin,Confirmed,2025-04-20,4.1
+SUP-0297,Clearview AV Collective,Catering,Clara Meyer,events297@supplier.example,Munich,Confirmed,2025-04-29,4.3
+SUP-0298,Kindred Flowers Studio,AV & staging,Amira Keller,events298@supplier.example,Hamburg,Confirmed,2025-05-08,4.6
+SUP-0299,Loop Rental Partners,Print & signage,Jonas Becker,events299@supplier.example,Cologne,Awaiting reply,2025-05-17,3.7
+SUP-0300,Brightside Events Berlin,Photography,Lea Braun,events300@supplier.example,Stockholm,Confirmed,2025-05-26,4.8
+SUP-0301,Studio Norden North,Travel,Mateo Wagner,events301@supplier.example,Amsterdam,Confirmed,2025-06-04,4.5
+SUP-0302,Green Table Catering Collective,Event production,Sofia Neumann,events302@supplier.example,Remote — Germany,Not booked,2025-06-13,4.2
+SUP-0303,Sound & Signal GmbH Studio,Gifts & merchandise,Noah Fischer,events303@supplier.example,Frankfurt,Confirmed,2025-06-22,3.9
+SUP-0304,Paper Plane Print Partners,Venue,Mila Wolf,events304@supplier.example,Berlin,Confirmed,2025-07-01,4.7
+SUP-0305,Urban Venue Co. Berlin,Catering,Elias Hoffmann,events305@supplier.example,Munich,Awaiting reply,2025-07-10,3.9
+SUP-0306,GoodDays Hospitality North,AV & staging,Zara Koch,events306@supplier.example,Hamburg,Not booked,2025-07-19,4.5
+SUP-0307,Pixelhaus Creative Collective,Print & signage,Luca Weber,events307@supplier.example,Cologne,Confirmed,2025-07-28,3.9
+SUP-0308,Rail & Ride Studio,Photography,Freya Richter,events308@supplier.example,Stockholm,Awaiting reply,2025-08-06,4.1
+SUP-0309,Clearview AV Partners,Travel,Theo Schmidt,events309@supplier.example,Amsterdam,Not booked,2025-08-15,4.6
+SUP-0310,Kindred Flowers Berlin,Event production,Nina Schulz,events310@supplier.example,Remote — Germany,Not booked,2025-08-24,3.8
+SUP-0311,Loop Rental North,Gifts & merchandise,Ava Bauer,events311@supplier.example,Frankfurt,Confirmed,2025-09-02,3.7
+SUP-0312,Brightside Events Collective,Venue,Emil Meyer,events312@supplier.example,Berlin,Awaiting reply,2025-09-11,3.6
+SUP-0313,Studio Norden Studio,Catering,Maya Keller,events313@supplier.example,Munich,Confirmed,2025-09-20,4.4
+SUP-0314,Green Table Catering Partners,AV & staging,Felix Becker,events314@supplier.example,Hamburg,Awaiting reply,2025-09-29,4.1
+SUP-0315,Sound & Signal GmbH Berlin,Print & signage,Ines Braun,events315@supplier.example,Cologne,Not booked,2025-10-08,4.3
+SUP-0316,Paper Plane Print North,Photography,David Wagner,events316@supplier.example,Stockholm,Confirmed,2025-10-17,3.6
+SUP-0317,Urban Venue Co. Collective,Travel,Clara Neumann,events317@supplier.example,Amsterdam,Awaiting reply,2025-10-26,3.9
+SUP-0318,GoodDays Hospitality Studio,Event production,Amira Fischer,events318@supplier.example,Remote — Germany,Confirmed,2025-11-04,4.2
+SUP-0319,Pixelhaus Creative Partners,Gifts & merchandise,Jonas Wolf,events319@supplier.example,Frankfurt,Confirmed,2025-11-13,4.5
+SUP-0320,Rail & Ride Berlin,Venue,Lea Hoffmann,events320@supplier.example,Berlin,Not booked,2025-11-22,4.1
+SUP-0321,Clearview AV North,Catering,Mateo Koch,events321@supplier.example,Munich,Not booked,2025-12-01,4.1
+SUP-0322,Kindred Flowers Collective,AV & staging,Sofia Weber,events322@supplier.example,Hamburg,Awaiting reply,2025-12-10,3.6
+SUP-0323,Loop Rental Studio,Print & signage,Noah Richter,events323@supplier.example,Cologne,Awaiting reply,2025-12-19,3.8
+SUP-0324,Brightside Events Partners,Photography,Mila Schmidt,events324@supplier.example,Stockholm,Awaiting reply,2025-12-28,5.0
+SUP-0325,Studio Norden Berlin,Travel,Elias Schulz,events325@supplier.example,Amsterdam,Awaiting reply,2025-01-06,4.8
+SUP-0326,Green Table Catering North,Event production,Zara Bauer,events326@supplier.example,Remote — Germany,Confirmed,2025-01-15,3.8
+SUP-0327,Sound & Signal GmbH Collective,Gifts & merchandise,Luca Meyer,events327@supplier.example,Frankfurt,Confirmed,2025-01-24,4.9
+SUP-0328,Paper Plane Print Studio,Venue,Freya Keller,events328@supplier.example,Berlin,Confirmed,2025-02-02,4.2
+SUP-0329,Urban Venue Co. Partners,Catering,Theo Becker,events329@supplier.example,Munich,Confirmed,2025-02-11,4.9
+SUP-0330,GoodDays Hospitality Berlin,AV & staging,Nina Braun,events330@supplier.example,Hamburg,Confirmed,2025-02-20,3.7
+SUP-0331,Pixelhaus Creative North,Print & signage,Ava Wagner,events331@supplier.example,Cologne,Not booked,2025-03-01,5.0
+SUP-0332,Rail & Ride Collective,Photography,Emil Neumann,events332@supplier.example,Stockholm,Not booked,2025-03-10,4.4
+SUP-0333,Clearview AV Studio,Travel,Maya Fischer,events333@supplier.example,Amsterdam,Not booked,2025-03-19,3.7
+SUP-0334,Kindred Flowers Partners,Event production,Felix Wolf,events334@supplier.example,Remote — Germany,Awaiting reply,2025-03-28,3.7
+SUP-0335,Loop Rental Berlin,Gifts & merchandise,Ines Hoffmann,events335@supplier.example,Frankfurt,Awaiting reply,2025-04-06,3.8
+SUP-0336,Brightside Events North,Venue,David Koch,events336@supplier.example,Berlin,Not booked,2025-04-15,5.0
+SUP-0337,Studio Norden Collective,Catering,Clara Weber,events337@supplier.example,Munich,Confirmed,2025-04-24,4.0
+SUP-0338,Green Table Catering Studio,AV & staging,Amira Richter,events338@supplier.example,Hamburg,Awaiting reply,2025-05-03,3.8
+SUP-0339,Sound & Signal GmbH Partners,Print & signage,Jonas Schmidt,events339@supplier.example,Cologne,Confirmed,2025-05-12,4.6
+SUP-0340,Paper Plane Print Berlin,Photography,Lea Schulz,events340@supplier.example,Stockholm,Confirmed,2025-05-21,4.2
+SUP-0341,Urban Venue Co. North,Travel,Mateo Bauer,events341@supplier.example,Amsterdam,Confirmed,2025-05-30,4.1
+SUP-0342,GoodDays Hospitality Collective,Event production,Sofia Meyer,events342@supplier.example,Remote — Germany,Confirmed,2025-06-08,3.8
+SUP-0343,Pixelhaus Creative Studio,Gifts & merchandise,Noah Keller,events343@supplier.example,Frankfurt,Not booked,2025-06-17,4.7
+SUP-0344,Rail & Ride Partners,Venue,Mila Becker,events344@supplier.example,Berlin,Confirmed,2025-06-26,3.9
+SUP-0345,Clearview AV Berlin,Catering,Elias Braun,events345@supplier.example,Munich,Confirmed,2025-07-05,4.5
+SUP-0346,Kindred Flowers North,AV & staging,Zara Wagner,events346@supplier.example,Hamburg,Confirmed,2025-07-14,5.0
+SUP-0347,Loop Rental Collective,Print & signage,Luca Neumann,events347@supplier.example,Cologne,Confirmed,2025-07-23,3.8
+SUP-0348,Brightside Events Studio,Photography,Freya Fischer,events348@supplier.example,Stockholm,Confirmed,2025-08-01,4.9
+SUP-0349,Studio Norden Partners,Travel,Theo Wolf,events349@supplier.example,Amsterdam,Confirmed,2025-08-10,5.0
+SUP-0350,Green Table Catering Berlin,Event production,Nina Hoffmann,events350@supplier.example,Remote — Germany,Not booked,2025-08-19,4.5
+SUP-0351,Sound & Signal GmbH North,Gifts & merchandise,Ava Koch,events351@supplier.example,Frankfurt,Awaiting reply,2025-08-28,4.8
+SUP-0352,Paper Plane Print Collective,Venue,Emil Weber,events352@supplier.example,Berlin,Confirmed,2025-09-06,4.8
+SUP-0353,Urban Venue Co. Studio,Catering,Maya Richter,events353@supplier.example,Munich,Not booked,2025-09-15,4.3
+SUP-0354,GoodDays Hospitality Partners,AV & staging,Felix Schmidt,events354@supplier.example,Hamburg,Not booked,2025-09-24,4.0
+SUP-0355,Pixelhaus Creative Berlin,Print & signage,Ines Schulz,events355@supplier.example,Cologne,Not booked,2025-10-03,4.1
+SUP-0356,Rail & Ride North,Photography,David Bauer,events356@supplier.example,Stockholm,Confirmed,2025-10-12,4.6
+SUP-0357,Clearview AV Collective,Travel,Clara Meyer,events357@supplier.example,Amsterdam,Awaiting reply,2025-10-21,4.0
+SUP-0358,Kindred Flowers Studio,Event production,Amira Keller,events358@supplier.example,Remote — Germany,Not booked,2025-10-30,4.7
+SUP-0359,Loop Rental Partners,Gifts & merchandise,Jonas Becker,events359@supplier.example,Frankfurt,Not booked,2025-11-08,4.2
+SUP-0360,Brightside Events Berlin,Venue,Lea Braun,events360@supplier.example,Berlin,Confirmed,2025-11-17,4.4
+SUP-0361,Studio Norden North,Catering,Mateo Wagner,events361@supplier.example,Munich,Confirmed,2025-11-26,3.6
+SUP-0362,Green Table Catering Collective,AV & staging,Sofia Neumann,events362@supplier.example,Hamburg,Confirmed,2025-12-05,3.7
+SUP-0363,Sound & Signal GmbH Studio,Print & signage,Noah Fischer,events363@supplier.example,Cologne,Confirmed,2025-12-14,3.8
+SUP-0364,Paper Plane Print Partners,Photography,Mila Wolf,events364@supplier.example,Stockholm,Confirmed,2025-12-23,3.9
+SUP-0365,Urban Venue Co. Berlin,Travel,Elias Hoffmann,events365@supplier.example,Amsterdam,Awaiting reply,2025-01-01,4.3
+SUP-0366,GoodDays Hospitality North,Event production,Zara Koch,events366@supplier.example,Remote — Germany,Confirmed,2025-01-10,4.5
+SUP-0367,Pixelhaus Creative Collective,Gifts & merchandise,Luca Weber,events367@supplier.example,Frankfurt,Not booked,2025-01-19,3.7
+SUP-0368,Rail & Ride Studio,Venue,Freya Richter,events368@supplier.example,Berlin,Not booked,2025-01-28,5.0
+SUP-0369,Clearview AV Partners,Catering,Theo Schmidt,events369@supplier.example,Munich,Not booked,2025-02-06,3.8
+SUP-0370,Kindred Flowers Berlin,AV & staging,Nina Schulz,events370@supplier.example,Hamburg,Confirmed,2025-02-15,4.5
+SUP-0371,Loop Rental North,Print & signage,Ava Bauer,events371@supplier.example,Cologne,Not booked,2025-02-24,4.7
+SUP-0372,Brightside Events Collective,Photography,Emil Meyer,events372@supplier.example,Stockholm,Not booked,2025-03-05,4.6
+SUP-0373,Studio Norden Studio,Travel,Maya Keller,events373@supplier.example,Amsterdam,Awaiting reply,2025-03-14,3.6
+SUP-0374,Green Table Catering Partners,Event production,Felix Becker,events374@supplier.example,Remote — Germany,Confirmed,2025-03-23,4.0
+SUP-0375,Sound & Signal GmbH Berlin,Gifts & merchandise,Ines Braun,events375@supplier.example,Frankfurt,Awaiting reply,2025-04-01,4.2
+SUP-0376,Paper Plane Print North,Venue,David Wagner,events376@supplier.example,Berlin,Not booked,2025-04-10,3.8
+SUP-0377,Urban Venue Co. Collective,Catering,Clara Neumann,events377@supplier.example,Munich,Confirmed,2025-04-19,3.6
+SUP-0378,GoodDays Hospitality Studio,AV & staging,Amira Fischer,events378@supplier.example,Hamburg,Awaiting reply,2025-04-28,5.0
+SUP-0379,Pixelhaus Creative Partners,Print & signage,Jonas Wolf,events379@supplier.example,Cologne,Confirmed,2025-05-07,4.5
+SUP-0380,Rail & Ride Berlin,Photography,Lea Hoffmann,events380@supplier.example,Stockholm,Confirmed,2025-05-16,4.8
+SUP-0381,Clearview AV North,Travel,Mateo Koch,events381@supplier.example,Amsterdam,Not booked,2025-05-25,4.2
+SUP-0382,Kindred Flowers Collective,Event production,Sofia Weber,events382@supplier.example,Remote — Germany,Awaiting reply,2025-06-03,4.4
+SUP-0383,Loop Rental Studio,Gifts & merchandise,Noah Richter,events383@supplier.example,Frankfurt,Confirmed,2025-06-12,3.8
+SUP-0384,Brightside Events Partners,Venue,Mila Schmidt,events384@supplier.example,Berlin,Confirmed,2025-06-21,4.2
+SUP-0385,Studio Norden Berlin,Catering,Elias Schulz,events385@supplier.example,Munich,Not booked,2025-06-30,3.8
+SUP-0386,Green Table Catering North,AV & staging,Zara Bauer,events386@supplier.example,Hamburg,Not booked,2025-07-09,4.2
+SUP-0387,Sound & Signal GmbH Collective,Print & signage,Luca Meyer,events387@supplier.example,Cologne,Confirmed,2025-07-18,4.8
+SUP-0388,Paper Plane Print Studio,Photography,Freya Keller,events388@supplier.example,Stockholm,Confirmed,2025-07-27,4.7
+SUP-0389,Urban Venue Co. Partners,Travel,Theo Becker,events389@supplier.example,Amsterdam,Confirmed,2025-08-05,4.2
+SUP-0390,GoodDays Hospitality Berlin,Event production,Nina Braun,events390@supplier.example,Remote — Germany,Confirmed,2025-08-14,4.4
+SUP-0391,Pixelhaus Creative North,Gifts & merchandise,Ava Wagner,events391@supplier.example,Frankfurt,Awaiting reply,2025-08-23,4.2
+SUP-0392,Rail & Ride Collective,Venue,Emil Neumann,events392@supplier.example,Berlin,Awaiting reply,2025-09-01,4.9
+SUP-0393,Clearview AV Studio,Catering,Maya Fischer,events393@supplier.example,Munich,Not booked,2025-09-10,3.7
+SUP-0394,Kindred Flowers Partners,AV & staging,Felix Wolf,events394@supplier.example,Hamburg,Not booked,2025-09-19,4.3
+SUP-0395,Loop Rental Berlin,Print & signage,Ines Hoffmann,events395@supplier.example,Cologne,Confirmed,2025-09-28,4.2
+SUP-0396,Brightside Events North,Photography,David Koch,events396@supplier.example,Stockholm,Confirmed,2025-10-07,4.1
+SUP-0397,Studio Norden Collective,Travel,Clara Weber,events397@supplier.example,Amsterdam,Confirmed,2025-10-16,4.3
+SUP-0398,Green Table Catering Studio,Event production,Amira Richter,events398@supplier.example,Remote — Germany,Confirmed,2025-10-25,4.2
+SUP-0399,Sound & Signal GmbH Partners,Gifts & merchandise,Jonas Schmidt,events399@supplier.example,Frankfurt,Confirmed,2025-11-03,4.7
+SUP-0400,Paper Plane Print Berlin,Venue,Lea Schulz,events400@supplier.example,Berlin,Confirmed,2025-11-12,4.1
+SUP-0401,Urban Venue Co. North,Catering,Mateo Bauer,events401@supplier.example,Munich,Confirmed,2025-11-21,4.9
+SUP-0402,GoodDays Hospitality Collective,AV & staging,Sofia Meyer,events402@supplier.example,Hamburg,Awaiting reply,2025-11-30,3.9
+SUP-0403,Pixelhaus Creative Studio,Print & signage,Noah Keller,events403@supplier.example,Cologne,Awaiting reply,2025-12-09,4.1
+SUP-0404,Rail & Ride Partners,Photography,Mila Becker,events404@supplier.example,Stockholm,Confirmed,2025-12-18,4.1
+SUP-0405,Clearview AV Berlin,Travel,Elias Braun,events405@supplier.example,Amsterdam,Not booked,2025-12-27,4.9
+SUP-0406,Kindred Flowers North,Event production,Zara Wagner,events406@supplier.example,Remote — Germany,Confirmed,2025-01-05,4.2
+SUP-0407,Loop Rental Collective,Gifts & merchandise,Luca Neumann,events407@supplier.example,Frankfurt,Confirmed,2025-01-14,3.9
+SUP-0408,Brightside Events Studio,Venue,Freya Fischer,events408@supplier.example,Berlin,Confirmed,2025-01-23,4.5
+SUP-0409,Studio Norden Partners,Catering,Theo Wolf,events409@supplier.example,Munich,Awaiting reply,2025-02-01,3.9
+SUP-0410,Green Table Catering Berlin,AV & staging,Nina Hoffmann,events410@supplier.example,Hamburg,Confirmed,2025-02-10,4.6
+SUP-0411,Sound & Signal GmbH North,Print & signage,Ava Koch,events411@supplier.example,Cologne,Not booked,2025-02-19,3.8
+SUP-0412,Paper Plane Print Collective,Photography,Emil Weber,events412@supplier.example,Stockholm,Awaiting reply,2025-02-28,4.8
+SUP-0413,Urban Venue Co. Studio,Travel,Maya Richter,events413@supplier.example,Amsterdam,Awaiting reply,2025-03-09,3.7
+SUP-0414,GoodDays Hospitality Partners,Event production,Felix Schmidt,events414@supplier.example,Remote — Germany,Awaiting reply,2025-03-18,4.3
+SUP-0415,Pixelhaus Creative Berlin,Gifts & merchandise,Ines Schulz,events415@supplier.example,Frankfurt,Confirmed,2025-03-27,4.9
+SUP-0416,Rail & Ride North,Venue,David Bauer,events416@supplier.example,Berlin,Confirmed,2025-04-05,4.4
+SUP-0417,Clearview AV Collective,Catering,Clara Meyer,events417@supplier.example,Munich,Confirmed,2025-04-14,4.8
+SUP-0418,Kindred Flowers Studio,AV & staging,Amira Keller,events418@supplier.example,Hamburg,Confirmed,2025-04-23,4.8
+SUP-0419,Loop Rental Partners,Print & signage,Jonas Becker,events419@supplier.example,Cologne,Not booked,2025-05-02,4.5
+SUP-0420,Brightside Events Berlin,Photography,Lea Braun,events420@supplier.example,Stockholm,Confirmed,2025-05-11,3.6
+SUP-0421,Studio Norden North,Travel,Mateo Wagner,events421@supplier.example,Amsterdam,Confirmed,2025-05-20,4.4
+SUP-0422,Green Table Catering Collective,Event production,Sofia Neumann,events422@supplier.example,Remote — Germany,Confirmed,2025-05-29,4.3
+SUP-0423,Sound & Signal GmbH Studio,Gifts & merchandise,Noah Fischer,events423@supplier.example,Frankfurt,Not booked,2025-06-07,4.4
+SUP-0424,Paper Plane Print Partners,Venue,Mila Wolf,events424@supplier.example,Berlin,Awaiting reply,2025-06-16,4.1
+SUP-0425,Urban Venue Co. Berlin,Catering,Elias Hoffmann,events425@supplier.example,Munich,Awaiting reply,2025-06-25,4.7
+SUP-0426,GoodDays Hospitality North,AV & staging,Zara Koch,events426@supplier.example,Hamburg,Confirmed,2025-07-04,3.6
+SUP-0427,Pixelhaus Creative Collective,Print & signage,Luca Weber,events427@supplier.example,Cologne,Not booked,2025-07-13,4.9
+SUP-0428,Rail & Ride Studio,Photography,Freya Richter,events428@supplier.example,Stockholm,Awaiting reply,2025-07-22,4.8
+SUP-0429,Clearview AV Partners,Travel,Theo Schmidt,events429@supplier.example,Amsterdam,Awaiting reply,2025-07-31,4.8
+SUP-0430,Kindred Flowers Berlin,Event production,Nina Schulz,events430@supplier.example,Remote — Germany,Not booked,2025-08-09,3.7
+SUP-0431,Loop Rental North,Gifts & merchandise,Ava Bauer,events431@supplier.example,Frankfurt,Awaiting reply,2025-08-18,4.5
+SUP-0432,Brightside Events Collective,Venue,Emil Meyer,events432@supplier.example,Berlin,Confirmed,2025-08-27,4.6
+SUP-0433,Studio Norden Studio,Catering,Maya Keller,events433@supplier.example,Munich,Not booked,2025-09-05,3.7
+SUP-0434,Green Table Catering Partners,AV & staging,Felix Becker,events434@supplier.example,Hamburg,Not booked,2025-09-14,4.9
+SUP-0435,Sound & Signal GmbH Berlin,Print & signage,Ines Braun,events435@supplier.example,Cologne,Confirmed,2025-09-23,4.3
+SUP-0436,Paper Plane Print North,Photography,David Wagner,events436@supplier.example,Stockholm,Awaiting reply,2025-10-02,3.9
+SUP-0437,Urban Venue Co. Collective,Travel,Clara Neumann,events437@supplier.example,Amsterdam,Confirmed,2025-10-11,4.2
+SUP-0438,GoodDays Hospitality Studio,Event production,Amira Fischer,events438@supplier.example,Remote — Germany,Confirmed,2025-10-20,4.3
+SUP-0439,Pixelhaus Creative Partners,Gifts & merchandise,Jonas Wolf,events439@supplier.example,Frankfurt,Confirmed,2025-10-29,3.8
+SUP-0440,Rail & Ride Berlin,Venue,Lea Hoffmann,events440@supplier.example,Berlin,Not booked,2025-11-07,4.6
+SUP-0441,Clearview AV North,Catering,Mateo Koch,events441@supplier.example,Munich,Confirmed,2025-11-16,4.3
+SUP-0442,Kindred Flowers Collective,AV & staging,Sofia Weber,events442@supplier.example,Hamburg,Confirmed,2025-11-25,3.7
+SUP-0443,Loop Rental Studio,Print & signage,Noah Richter,events443@supplier.example,Cologne,Confirmed,2025-12-04,4.6
+SUP-0444,Brightside Events Partners,Photography,Mila Schmidt,events444@supplier.example,Stockholm,Awaiting reply,2025-12-13,4.4
+SUP-0445,Studio Norden Berlin,Travel,Elias Schulz,events445@supplier.example,Amsterdam,Confirmed,2025-12-22,4.1
+SUP-0446,Green Table Catering North,Event production,Zara Bauer,events446@supplier.example,Remote — Germany,Not booked,2025-12-31,4.4
+SUP-0447,Sound & Signal GmbH Collective,Gifts & merchandise,Luca Meyer,events447@supplier.example,Frankfurt,Confirmed,2025-01-09,5.0
+SUP-0448,Paper Plane Print Studio,Venue,Freya Keller,events448@supplier.example,Berlin,Confirmed,2025-01-18,4.0
+SUP-0449,Urban Venue Co. Partners,Catering,Theo Becker,events449@supplier.example,Munich,Confirmed,2025-01-27,4.7
+SUP-0450,GoodDays Hospitality Berlin,AV & staging,Nina Braun,events450@supplier.example,Hamburg,Confirmed,2025-02-05,5.0
+SUP-0451,Pixelhaus Creative North,Print & signage,Ava Wagner,events451@supplier.example,Cologne,Confirmed,2025-02-14,3.7
+SUP-0452,Rail & Ride Collective,Photography,Emil Neumann,events452@supplier.example,Stockholm,Awaiting reply,2025-02-23,3.9
+SUP-0453,Clearview AV Studio,Travel,Maya Fischer,events453@supplier.example,Amsterdam,Confirmed,2025-03-04,4.1
+SUP-0454,Kindred Flowers Partners,Event production,Felix Wolf,events454@supplier.example,Remote — Germany,Confirmed,2025-03-13,4.7
+SUP-0455,Loop Rental Berlin,Gifts & merchandise,Ines Hoffmann,events455@supplier.example,Frankfurt,Awaiting reply,2025-03-22,4.4
+SUP-0456,Brightside Events North,Venue,David Koch,events456@supplier.example,Berlin,Confirmed,2025-03-31,4.7
+SUP-0457,Studio Norden Collective,Catering,Clara Weber,events457@supplier.example,Munich,Confirmed,2025-04-09,4.8
+SUP-0458,Green Table Catering Studio,AV & staging,Amira Richter,events458@supplier.example,Hamburg,Confirmed,2025-04-18,3.6
+SUP-0459,Sound & Signal GmbH Partners,Print & signage,Jonas Schmidt,events459@supplier.example,Cologne,Not booked,2025-04-27,4.1
+SUP-0460,Paper Plane Print Berlin,Photography,Lea Schulz,events460@supplier.example,Stockholm,Not booked,2025-05-06,4.2
+SUP-0461,Urban Venue Co. North,Travel,Mateo Bauer,events461@supplier.example,Amsterdam,Confirmed,2025-05-15,3.9
+SUP-0462,GoodDays Hospitality Collective,Event production,Sofia Meyer,events462@supplier.example,Remote — Germany,Confirmed,2025-05-24,3.6
+SUP-0463,Pixelhaus Creative Studio,Gifts & merchandise,Noah Keller,events463@supplier.example,Frankfurt,Not booked,2025-06-02,4.7
+SUP-0464,Rail & Ride Partners,Venue,Mila Becker,events464@supplier.example,Berlin,Awaiting reply,2025-06-11,4.1
+SUP-0465,Clearview AV Berlin,Catering,Elias Braun,events465@supplier.example,Munich,Confirmed,2025-06-20,4.7
+SUP-0466,Kindred Flowers North,AV & staging,Zara Wagner,events466@supplier.example,Hamburg,Confirmed,2025-06-29,4.1
+SUP-0467,Loop Rental Collective,Print & signage,Luca Neumann,events467@supplier.example,Cologne,Awaiting reply,2025-07-08,3.7
+SUP-0468,Brightside Events Studio,Photography,Freya Fischer,events468@supplier.example,Stockholm,Confirmed,2025-07-17,3.9
+SUP-0469,Studio Norden Partners,Travel,Theo Wolf,events469@supplier.example,Amsterdam,Confirmed,2025-07-26,3.7
+SUP-0470,Green Table Catering Berlin,Event production,Nina Hoffmann,events470@supplier.example,Remote — Germany,Not booked,2025-08-04,4.8
+SUP-0471,Sound & Signal GmbH North,Gifts & merchandise,Ava Koch,events471@supplier.example,Frankfurt,Confirmed,2025-08-13,3.6
+SUP-0472,Paper Plane Print Collective,Venue,Emil Weber,events472@supplier.example,Berlin,Not booked,2025-08-22,4.0
+SUP-0473,Urban Venue Co. Studio,Catering,Maya Richter,events473@supplier.example,Munich,Awaiting reply,2025-08-31,4.3
+SUP-0474,GoodDays Hospitality Partners,AV & staging,Felix Schmidt,events474@supplier.example,Hamburg,Confirmed,2025-09-09,3.8
+SUP-0475,Pixelhaus Creative Berlin,Print & signage,Ines Schulz,events475@supplier.example,Cologne,Confirmed,2025-09-18,4.8
+SUP-0476,Rail & Ride North,Photography,David Bauer,events476@supplier.example,Stockholm,Not booked,2025-09-27,5.0
+SUP-0477,Clearview AV Collective,Travel,Clara Meyer,events477@supplier.example,Amsterdam,Confirmed,2025-10-06,4.4
+SUP-0478,Kindred Flowers Studio,Event production,Amira Keller,events478@supplier.example,Remote — Germany,Awaiting reply,2025-10-15,4.4
+SUP-0479,Loop Rental Partners,Gifts & merchandise,Jonas Becker,events479@supplier.example,Frankfurt,Confirmed,2025-10-24,3.7
+SUP-0480,Brightside Events Berlin,Venue,Lea Braun,events480@supplier.example,Berlin,Awaiting reply,2025-11-02,3.7
+SUP-0481,Studio Norden North,Catering,Mateo Wagner,events481@supplier.example,Munich,Awaiting reply,2025-11-11,4.0
+SUP-0482,Green Table Catering Collective,AV & staging,Sofia Neumann,events482@supplier.example,Hamburg,Not booked,2025-11-20,5.0
+SUP-0483,Sound & Signal GmbH Studio,Print & signage,Noah Fischer,events483@supplier.example,Cologne,Not booked,2025-11-29,4.0
+SUP-0484,Paper Plane Print Partners,Photography,Mila Wolf,events484@supplier.example,Stockholm,Awaiting reply,2025-12-08,3.9
+SUP-0485,Urban Venue Co. Berlin,Travel,Elias Hoffmann,events485@supplier.example,Amsterdam,Not booked,2025-12-17,4.1
+SUP-0486,GoodDays Hospitality North,Event production,Zara Koch,events486@supplier.example,Remote — Germany,Awaiting reply,2025-12-26,4.0
+SUP-0487,Pixelhaus Creative Collective,Gifts & merchandise,Luca Weber,events487@supplier.example,Frankfurt,Awaiting reply,2025-01-04,4.4
+SUP-0488,Rail & Ride Studio,Venue,Freya Richter,events488@supplier.example,Berlin,Confirmed,2025-01-13,4.4
+SUP-0489,Clearview AV Partners,Catering,Theo Schmidt,events489@supplier.example,Munich,Confirmed,2025-01-22,4.5
+SUP-0490,Kindred Flowers Berlin,AV & staging,Nina Schulz,events490@supplier.example,Hamburg,Awaiting reply,2025-01-31,3.9
+SUP-0491,Loop Rental North,Print & signage,Ava Bauer,events491@supplier.example,Cologne,Awaiting reply,2025-02-09,3.8
+SUP-0492,Brightside Events Collective,Photography,Emil Meyer,events492@supplier.example,Stockholm,Awaiting reply,2025-02-18,4.7
+SUP-0493,Studio Norden Studio,Travel,Maya Keller,events493@supplier.example,Amsterdam,Confirmed,2025-02-27,4.0
+SUP-0494,Green Table Catering Partners,Event production,Felix Becker,events494@supplier.example,Remote — Germany,Not booked,2025-03-08,4.6
+SUP-0495,Sound & Signal GmbH Berlin,Gifts & merchandise,Ines Braun,events495@supplier.example,Frankfurt,Not booked,2025-03-17,4.2
+SUP-0496,Paper Plane Print North,Venue,David Wagner,events496@supplier.example,Berlin,Not booked,2025-03-26,3.7
+SUP-0497,Urban Venue Co. Collective,Catering,Clara Neumann,events497@supplier.example,Munich,Awaiting reply,2025-04-04,4.2
+SUP-0498,GoodDays Hospitality Studio,AV & staging,Amira Fischer,events498@supplier.example,Hamburg,Awaiting reply,2025-04-13,4.9
+SUP-0499,Pixelhaus Creative Partners,Print & signage,Jonas Wolf,events499@supplier.example,Cologne,Confirmed,2025-04-22,4.9
+SUP-0500,Rail & Ride Berlin,Photography,Lea Hoffmann,events500@supplier.example,Stockholm,Confirmed,2025-05-01,4.6
+SUP-0501,Clearview AV North,Travel,Mateo Koch,events501@supplier.example,Amsterdam,Confirmed,2025-05-10,3.8
+SUP-0502,Kindred Flowers Collective,Event production,Sofia Weber,events502@supplier.example,Remote — Germany,Not booked,2025-05-19,4.3
+SUP-0503,Loop Rental Studio,Gifts & merchandise,Noah Richter,events503@supplier.example,Frankfurt,Awaiting reply,2025-05-28,4.4
+SUP-0504,Brightside Events Partners,Venue,Mila Schmidt,events504@supplier.example,Berlin,Awaiting reply,2025-06-06,3.7
+SUP-0505,Studio Norden Berlin,Catering,Elias Schulz,events505@supplier.example,Munich,Confirmed,2025-06-15,3.9
+SUP-0506,Green Table Catering North,AV & staging,Zara Bauer,events506@supplier.example,Hamburg,Confirmed,2025-06-24,4.4
+SUP-0507,Sound & Signal GmbH Collective,Print & signage,Luca Meyer,events507@supplier.example,Cologne,Not booked,2025-07-03,3.8
+SUP-0508,Paper Plane Print Studio,Photography,Freya Keller,events508@supplier.example,Stockholm,Confirmed,2025-07-12,3.6
+SUP-0509,Urban Venue Co. Partners,Travel,Theo Becker,events509@supplier.example,Amsterdam,Confirmed,2025-07-21,4.1
+SUP-0510,GoodDays Hospitality Berlin,Event production,Nina Braun,events510@supplier.example,Remote — Germany,Confirmed,2025-07-30,3.6
+SUP-0511,Pixelhaus Creative North,Gifts & merchandise,Ava Wagner,events511@supplier.example,Frankfurt,Confirmed,2025-08-08,4.2
+SUP-0512,Rail & Ride Collective,Venue,Emil Neumann,events512@supplier.example,Berlin,Not booked,2025-08-17,3.8
+SUP-0513,Clearview AV Studio,Catering,Maya Fischer,events513@supplier.example,Munich,Awaiting reply,2025-08-26,4.6
+SUP-0514,Kindred Flowers Partners,AV & staging,Felix Wolf,events514@supplier.example,Hamburg,Confirmed,2025-09-04,3.8
+SUP-0515,Loop Rental Berlin,Print & signage,Ines Hoffmann,events515@supplier.example,Cologne,Not booked,2025-09-13,3.6
+SUP-0516,Brightside Events North,Photography,David Koch,events516@supplier.example,Stockholm,Not booked,2025-09-22,3.9
+SUP-0517,Studio Norden Collective,Travel,Clara Weber,events517@supplier.example,Amsterdam,Not booked,2025-10-01,3.6
+SUP-0518,Green Table Catering Studio,Event production,Amira Richter,events518@supplier.example,Remote — Germany,Not booked,2025-10-10,4.1
+SUP-0519,Sound & Signal GmbH Partners,Gifts & merchandise,Jonas Schmidt,events519@supplier.example,Frankfurt,Confirmed,2025-10-19,3.8
+SUP-0520,Paper Plane Print Berlin,Venue,Lea Schulz,events520@supplier.example,Berlin,Confirmed,2025-10-28,4.0
+SUP-0521,Urban Venue Co. North,Catering,Mateo Bauer,events521@supplier.example,Munich,Confirmed,2025-11-06,4.8
+SUP-0522,GoodDays Hospitality Collective,AV & staging,Sofia Meyer,events522@supplier.example,Hamburg,Awaiting reply,2025-11-15,4.6
+SUP-0523,Pixelhaus Creative Studio,Print & signage,Noah Keller,events523@supplier.example,Cologne,Awaiting reply,2025-11-24,4.5
+SUP-0524,Rail & Ride Partners,Photography,Mila Becker,events524@supplier.example,Stockholm,Not booked,2025-12-03,4.1
+SUP-0525,Clearview AV Berlin,Travel,Elias Braun,events525@supplier.example,Amsterdam,Not booked,2025-12-12,4.2
+SUP-0526,Kindred Flowers North,Event production,Zara Wagner,events526@supplier.example,Remote — Germany,Not booked,2025-12-21,4.8
+SUP-0527,Loop Rental Collective,Gifts & merchandise,Luca Neumann,events527@supplier.example,Frankfurt,Confirmed,2025-12-30,4.6
+SUP-0528,Brightside Events Studio,Venue,Freya Fischer,events528@supplier.example,Berlin,Not booked,2025-01-08,4.4
+SUP-0529,Studio Norden Partners,Catering,Theo Wolf,events529@supplier.example,Munich,Confirmed,2025-01-17,4.0
+SUP-0530,Green Table Catering Berlin,AV & staging,Nina Hoffmann,events530@supplier.example,Hamburg,Confirmed,2025-01-26,4.9
+SUP-0531,Sound & Signal GmbH North,Print & signage,Ava Koch,events531@supplier.example,Cologne,Confirmed,2025-02-04,4.4
+SUP-0532,Paper Plane Print Collective,Photography,Emil Weber,events532@supplier.example,Stockholm,Confirmed,2025-02-13,4.3
+SUP-0533,Urban Venue Co. Studio,Travel,Maya Richter,events533@supplier.example,Amsterdam,Confirmed,2025-02-22,4.2
+SUP-0534,GoodDays Hospitality Partners,Event production,Felix Schmidt,events534@supplier.example,Remote — Germany,Not booked,2025-03-03,3.7
+SUP-0535,Pixelhaus Creative Berlin,Gifts & merchandise,Ines Schulz,events535@supplier.example,Frankfurt,Awaiting reply,2025-03-12,4.9
+SUP-0536,Rail & Ride North,Venue,David Bauer,events536@supplier.example,Berlin,Not booked,2025-03-21,5.0
+SUP-0537,Clearview AV Collective,Catering,Clara Meyer,events537@supplier.example,Munich,Awaiting reply,2025-03-30,4.6
+SUP-0538,Kindred Flowers Studio,AV & staging,Amira Keller,events538@supplier.example,Hamburg,Confirmed,2025-04-08,3.7
+SUP-0539,Loop Rental Partners,Print & signage,Jonas Becker,events539@supplier.example,Cologne,Confirmed,2025-04-17,3.9
+SUP-0540,Brightside Events Berlin,Photography,Lea Braun,events540@supplier.example,Stockholm,Confirmed,2025-04-26,4.9
+SUP-0541,Studio Norden North,Travel,Mateo Wagner,events541@supplier.example,Amsterdam,Not booked,2025-05-05,4.6
+SUP-0542,Green Table Catering Collective,Event production,Sofia Neumann,events542@supplier.example,Remote — Germany,Not booked,2025-05-14,4.7
+SUP-0543,Sound & Signal GmbH Studio,Gifts & merchandise,Noah Fischer,events543@supplier.example,Frankfurt,Confirmed,2025-05-23,5.0
+SUP-0544,Paper Plane Print Partners,Venue,Mila Wolf,events544@supplier.example,Berlin,Confirmed,2025-06-01,4.7
+SUP-0545,Urban Venue Co. Berlin,Catering,Elias Hoffmann,events545@supplier.example,Munich,Confirmed,2025-06-10,4.4
+SUP-0546,GoodDays Hospitality North,AV & staging,Zara Koch,events546@supplier.example,Hamburg,Awaiting reply,2025-06-19,4.7
+SUP-0547,Pixelhaus Creative Collective,Print & signage,Luca Weber,events547@supplier.example,Cologne,Not booked,2025-06-28,3.6
+SUP-0548,Rail & Ride Studio,Photography,Freya Richter,events548@supplier.example,Stockholm,Awaiting reply,2025-07-07,4.0
+SUP-0549,Clearview AV Partners,Travel,Theo Schmidt,events549@supplier.example,Amsterdam,Awaiting reply,2025-07-16,3.9
+SUP-0550,Kindred Flowers Berlin,Event production,Nina Schulz,events550@supplier.example,Remote — Germany,Not booked,2025-07-25,5.0
+SUP-0551,Loop Rental North,Gifts & merchandise,Ava Bauer,events551@supplier.example,Frankfurt,Confirmed,2025-08-03,4.2
+SUP-0552,Brightside Events Collective,Venue,Emil Meyer,events552@supplier.example,Berlin,Not booked,2025-08-12,5.0
+SUP-0553,Studio Norden Studio,Catering,Maya Keller,events553@supplier.example,Munich,Confirmed,2025-08-21,3.8
+SUP-0554,Green Table Catering Partners,AV & staging,Felix Becker,events554@supplier.example,Hamburg,Confirmed,2025-08-30,4.7
+SUP-0555,Sound & Signal GmbH Berlin,Print & signage,Ines Braun,events555@supplier.example,Cologne,Not booked,2025-09-08,4.8
+SUP-0556,Paper Plane Print North,Photography,David Wagner,events556@supplier.example,Stockholm,Confirmed,2025-09-17,4.4
+SUP-0557,Urban Venue Co. Collective,Travel,Clara Neumann,events557@supplier.example,Amsterdam,Not booked,2025-09-26,5.0
+SUP-0558,GoodDays Hospitality Studio,Event production,Amira Fischer,events558@supplier.example,Remote — Germany,Awaiting reply,2025-10-05,4.3
+SUP-0559,Pixelhaus Creative Partners,Gifts & merchandise,Jonas Wolf,events559@supplier.example,Frankfurt,Confirmed,2025-10-14,4.4
+SUP-0560,Rail & Ride Berlin,Venue,Lea Hoffmann,events560@supplier.example,Berlin,Not booked,2025-10-23,4.0
+SUP-0561,Clearview AV North,Catering,Mateo Koch,events561@supplier.example,Munich,Confirmed,2025-11-01,4.5
+SUP-0562,Kindred Flowers Collective,AV & staging,Sofia Weber,events562@supplier.example,Hamburg,Confirmed,2025-11-10,4.6
+SUP-0563,Loop Rental Studio,Print & signage,Noah Richter,events563@supplier.example,Cologne,Awaiting reply,2025-11-19,3.8
+SUP-0564,Brightside Events Partners,Photography,Mila Schmidt,events564@supplier.example,Stockholm,Confirmed,2025-11-28,4.5
+SUP-0565,Studio Norden Berlin,Travel,Elias Schulz,events565@supplier.example,Amsterdam,Confirmed,2025-12-07,4.5
+SUP-0566,Green Table Catering North,Event production,Zara Bauer,events566@supplier.example,Remote — Germany,Confirmed,2025-12-16,4.1
+SUP-0567,Sound & Signal GmbH Collective,Gifts & merchandise,Luca Meyer,events567@supplier.example,Frankfurt,Not booked,2025-12-25,3.8
+SUP-0568,Paper Plane Print Studio,Venue,Freya Keller,events568@supplier.example,Berlin,Awaiting reply,2025-01-03,4.5
+SUP-0569,Urban Venue Co. Partners,Catering,Theo Becker,events569@supplier.example,Munich,Confirmed,2025-01-12,4.0
+SUP-0570,GoodDays Hospitality Berlin,AV & staging,Nina Braun,events570@supplier.example,Hamburg,Awaiting reply,2025-01-21,4.4
+SUP-0571,Pixelhaus Creative North,Print & signage,Ava Wagner,events571@supplier.example,Cologne,Confirmed,2025-01-30,4.3
+SUP-0572,Rail & Ride Collective,Photography,Emil Neumann,events572@supplier.example,Stockholm,Not booked,2025-02-08,4.8
+SUP-0573,Clearview AV Studio,Travel,Maya Fischer,events573@supplier.example,Amsterdam,Not booked,2025-02-17,4.3
+SUP-0574,Kindred Flowers Partners,Event production,Felix Wolf,events574@supplier.example,Remote — Germany,Confirmed,2025-02-26,4.0
+SUP-0575,Loop Rental Berlin,Gifts & merchandise,Ines Hoffmann,events575@supplier.example,Frankfurt,Awaiting reply,2025-03-07,4.3
+SUP-0576,Brightside Events North,Venue,David Koch,events576@supplier.example,Berlin,Not booked,2025-03-16,4.1
+SUP-0577,Studio Norden Collective,Catering,Clara Weber,events577@supplier.example,Munich,Confirmed,2025-03-25,4.4
+SUP-0578,Green Table Catering Studio,AV & staging,Amira Richter,events578@supplier.example,Hamburg,Confirmed,2025-04-03,3.6
+SUP-0579,Sound & Signal GmbH Partners,Print & signage,Jonas Schmidt,events579@supplier.example,Cologne,Not booked,2025-04-12,4.1
+SUP-0580,Paper Plane Print Berlin,Photography,Lea Schulz,events580@supplier.example,Stockholm,Confirmed,2025-04-21,4.4
+SUP-0581,Urban Venue Co. North,Travel,Mateo Bauer,events581@supplier.example,Amsterdam,Not booked,2025-04-30,3.7
+SUP-0582,GoodDays Hospitality Collective,Event production,Sofia Meyer,events582@supplier.example,Remote — Germany,Confirmed,2025-05-09,4.4
+SUP-0583,Pixelhaus Creative Studio,Gifts & merchandise,Noah Keller,events583@supplier.example,Frankfurt,Confirmed,2025-05-18,3.7
+SUP-0584,Rail & Ride Partners,Venue,Mila Becker,events584@supplier.example,Berlin,Confirmed,2025-05-27,3.8
+SUP-0585,Clearview AV Berlin,Catering,Elias Braun,events585@supplier.example,Munich,Awaiting reply,2025-06-05,4.9
+SUP-0586,Kindred Flowers North,AV & staging,Zara Wagner,events586@supplier.example,Hamburg,Not booked,2025-06-14,4.7
+SUP-0587,Loop Rental Collective,Print & signage,Luca Neumann,events587@supplier.example,Cologne,Confirmed,2025-06-23,4.5
+SUP-0588,Brightside Events Studio,Photography,Freya Fischer,events588@supplier.example,Stockholm,Not booked,2025-07-02,4.9
+SUP-0589,Studio Norden Partners,Travel,Theo Wolf,events589@supplier.example,Amsterdam,Not booked,2025-07-11,4.1
+SUP-0590,Green Table Catering Berlin,Event production,Nina Hoffmann,events590@supplier.example,Remote — Germany,Confirmed,2025-07-20,4.1
+SUP-0591,Sound & Signal GmbH North,Gifts & merchandise,Ava Koch,events591@supplier.example,Frankfurt,Awaiting reply,2025-07-29,5.0
+SUP-0592,Paper Plane Print Collective,Venue,Emil Weber,events592@supplier.example,Berlin,Confirmed,2025-08-07,4.1
+SUP-0593,Urban Venue Co. Studio,Catering,Maya Richter,events593@supplier.example,Munich,Confirmed,2025-08-16,3.9
+SUP-0594,GoodDays Hospitality Partners,AV & staging,Felix Schmidt,events594@supplier.example,Hamburg,Confirmed,2025-08-25,4.3
+SUP-0595,Pixelhaus Creative Berlin,Print & signage,Ines Schulz,events595@supplier.example,Cologne,Not booked,2025-09-03,4.0
+SUP-0596,Rail & Ride North,Photography,David Bauer,events596@supplier.example,Stockholm,Not booked,2025-09-12,4.4
+SUP-0597,Clearview AV Collective,Travel,Clara Meyer,events597@supplier.example,Amsterdam,Not booked,2025-09-21,4.7
+SUP-0598,Kindred Flowers Studio,Event production,Amira Keller,events598@supplier.example,Remote — Germany,Confirmed,2025-09-30,3.8
+SUP-0599,Loop Rental Partners,Gifts & merchandise,Jonas Becker,events599@supplier.example,Frankfurt,Not booked,2025-10-09,3.9
+SUP-0600,Brightside Events Berlin,Venue,Lea Braun,events600@supplier.example,Berlin,Confirmed,2025-10-18,3.6

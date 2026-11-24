@@ -1,0 +1,6502 @@
+[
+  {
+    "id": "TASK-0001",
+    "task": "Review newsletter draft",
+    "workstream": "HR marketing",
+    "owner": "Mila Wolf",
+    "due_date": "2026-01-06",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0002"
+  },
+  {
+    "id": "TASK-0002",
+    "task": "Collect department highlights",
+    "workstream": "Newsletter",
+    "owner": "Elias Hoffmann",
+    "due_date": "2026-01-11",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0003"
+  },
+  {
+    "id": "TASK-0003",
+    "task": "Approve event invitation",
+    "workstream": "Intranet",
+    "owner": "Zara Koch",
+    "due_date": "2026-01-16",
+    "priority": "High",
+    "status": "To do",
+    "related_id": "EVT-0004"
+  },
+  {
+    "id": "TASK-0004",
+    "task": "Reconcile supplier invoice",
+    "workstream": "Governance",
+    "owner": "Luca Weber",
+    "due_date": "2026-01-21",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0005"
+  },
+  {
+    "id": "TASK-0005",
+    "task": "Publish intranet announcement",
+    "workstream": "HR marketing",
+    "owner": "Freya Richter",
+    "due_date": "2026-01-26",
+    "priority": "High",
+    "status": "Done",
+    "related_id": "EVT-0006"
+  },
+  {
+    "id": "TASK-0006",
+    "task": "Prepare registration form",
+    "workstream": "HR marketing",
+    "owner": "Theo Schmidt",
+    "due_date": "2026-01-31",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0007"
+  },
+  {
+    "id": "TASK-0007",
+    "task": "Confirm catering numbers",
+    "workstream": "Intranet",
+    "owner": "Nina Schulz",
+    "due_date": "2026-02-05",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0008"
+  },
+  {
+    "id": "TASK-0008",
+    "task": "Share post-event survey",
+    "workstream": "Newsletter",
+    "owner": "Ava Bauer",
+    "due_date": "2026-02-10",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0009"
+  },
+  {
+    "id": "TASK-0009",
+    "task": "Update HR information page",
+    "workstream": "HR marketing",
+    "owner": "Emil Meyer",
+    "due_date": "2026-02-15",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0010"
+  },
+  {
+    "id": "TASK-0010",
+    "task": "Check AV equipment",
+    "workstream": "HR marketing",
+    "owner": "Maya Keller",
+    "due_date": "2026-02-20",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0011"
+  },
+  {
+    "id": "TASK-0011",
+    "task": "Prepare leadership talking points",
+    "workstream": "Newsletter",
+    "owner": "Felix Becker",
+    "due_date": "2026-02-25",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0012"
+  },
+  {
+    "id": "TASK-0012",
+    "task": "Send calendar hold",
+    "workstream": "Newsletter",
+    "owner": "Ines Braun",
+    "due_date": "2026-03-02",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0013"
+  },
+  {
+    "id": "TASK-0013",
+    "task": "Review careers brochure",
+    "workstream": "Intranet",
+    "owner": "David Wagner",
+    "due_date": "2026-03-07",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0014"
+  },
+  {
+    "id": "TASK-0014",
+    "task": "Request accessibility requirements",
+    "workstream": "HR marketing",
+    "owner": "Clara Neumann",
+    "due_date": "2026-03-12",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0015"
+  },
+  {
+    "id": "TASK-0015",
+    "task": "Archive approved assets",
+    "workstream": "Intranet",
+    "owner": "Amira Fischer",
+    "due_date": "2026-03-17",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0016"
+  },
+  {
+    "id": "TASK-0016",
+    "task": "Confirm venue availability",
+    "workstream": "Newsletter",
+    "owner": "Jonas Wolf",
+    "due_date": "2026-03-22",
+    "priority": "Low",
+    "status": "Done",
+    "related_id": "EVT-0017"
+  },
+  {
+    "id": "TASK-0017",
+    "task": "Review newsletter draft",
+    "workstream": "Newsletter",
+    "owner": "Lea Hoffmann",
+    "due_date": "2026-03-27",
+    "priority": "High",
+    "status": "Waiting",
+    "related_id": "EVT-0018"
+  },
+  {
+    "id": "TASK-0018",
+    "task": "Collect department highlights",
+    "workstream": "Newsletter",
+    "owner": "Mateo Koch",
+    "due_date": "2026-04-01",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0019"
+  },
+  {
+    "id": "TASK-0019",
+    "task": "Approve event invitation",
+    "workstream": "HR marketing",
+    "owner": "Sofia Weber",
+    "due_date": "2026-04-06",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0020"
+  },
+  {
+    "id": "TASK-0020",
+    "task": "Reconcile supplier invoice",
+    "workstream": "Governance",
+    "owner": "Noah Richter",
+    "due_date": "2026-04-11",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0021"
+  },
+  {
+    "id": "TASK-0021",
+    "task": "Publish intranet announcement",
+    "workstream": "HR marketing",
+    "owner": "Mila Schmidt",
+    "due_date": "2026-04-16",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0022"
+  },
+  {
+    "id": "TASK-0022",
+    "task": "Prepare registration form",
+    "workstream": "Newsletter",
+    "owner": "Elias Schulz",
+    "due_date": "2026-04-21",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0023"
+  },
+  {
+    "id": "TASK-0023",
+    "task": "Confirm catering numbers",
+    "workstream": "Newsletter",
+    "owner": "Zara Bauer",
+    "due_date": "2026-04-26",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0024"
+  },
+  {
+    "id": "TASK-0024",
+    "task": "Share post-event survey",
+    "workstream": "Intranet",
+    "owner": "Luca Meyer",
+    "due_date": "2026-05-01",
+    "priority": "High",
+    "status": "Done",
+    "related_id": "EVT-0025"
+  },
+  {
+    "id": "TASK-0025",
+    "task": "Update HR information page",
+    "workstream": "HR marketing",
+    "owner": "Freya Keller",
+    "due_date": "2026-05-06",
+    "priority": "High",
+    "status": "Waiting",
+    "related_id": "EVT-0026"
+  },
+  {
+    "id": "TASK-0026",
+    "task": "Check AV equipment",
+    "workstream": "HR marketing",
+    "owner": "Theo Becker",
+    "due_date": "2026-05-11",
+    "priority": "High",
+    "status": "Done",
+    "related_id": "EVT-0027"
+  },
+  {
+    "id": "TASK-0027",
+    "task": "Prepare leadership talking points",
+    "workstream": "Governance",
+    "owner": "Nina Braun",
+    "due_date": "2026-05-16",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0028"
+  },
+  {
+    "id": "TASK-0028",
+    "task": "Send calendar hold",
+    "workstream": "Internal event",
+    "owner": "Ava Wagner",
+    "due_date": "2026-05-21",
+    "priority": "Low",
+    "status": "Done",
+    "related_id": "EVT-0029"
+  },
+  {
+    "id": "TASK-0029",
+    "task": "Review careers brochure",
+    "workstream": "Internal event",
+    "owner": "Emil Neumann",
+    "due_date": "2026-05-26",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0030"
+  },
+  {
+    "id": "TASK-0030",
+    "task": "Request accessibility requirements",
+    "workstream": "Internal event",
+    "owner": "Maya Fischer",
+    "due_date": "2026-05-31",
+    "priority": "High",
+    "status": "To do",
+    "related_id": "EVT-0031"
+  },
+  {
+    "id": "TASK-0031",
+    "task": "Archive approved assets",
+    "workstream": "HR marketing",
+    "owner": "Felix Wolf",
+    "due_date": "2026-06-05",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0032"
+  },
+  {
+    "id": "TASK-0032",
+    "task": "Confirm venue availability",
+    "workstream": "HR marketing",
+    "owner": "Ines Hoffmann",
+    "due_date": "2026-06-10",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0033"
+  },
+  {
+    "id": "TASK-0033",
+    "task": "Review newsletter draft",
+    "workstream": "Intranet",
+    "owner": "David Koch",
+    "due_date": "2026-06-15",
+    "priority": "High",
+    "status": "Waiting",
+    "related_id": "EVT-0034"
+  },
+  {
+    "id": "TASK-0034",
+    "task": "Collect department highlights",
+    "workstream": "Governance",
+    "owner": "Clara Weber",
+    "due_date": "2026-06-20",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0035"
+  },
+  {
+    "id": "TASK-0035",
+    "task": "Approve event invitation",
+    "workstream": "Intranet",
+    "owner": "Amira Richter",
+    "due_date": "2026-06-25",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0036"
+  },
+  {
+    "id": "TASK-0036",
+    "task": "Reconcile supplier invoice",
+    "workstream": "Internal event",
+    "owner": "Jonas Schmidt",
+    "due_date": "2026-06-30",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0037"
+  },
+  {
+    "id": "TASK-0037",
+    "task": "Publish intranet announcement",
+    "workstream": "Governance",
+    "owner": "Lea Schulz",
+    "due_date": "2026-07-05",
+    "priority": "Low",
+    "status": "Done",
+    "related_id": "EVT-0038"
+  },
+  {
+    "id": "TASK-0038",
+    "task": "Prepare registration form",
+    "workstream": "Intranet",
+    "owner": "Mateo Bauer",
+    "due_date": "2026-07-10",
+    "priority": "High",
+    "status": "Waiting",
+    "related_id": "EVT-0039"
+  },
+  {
+    "id": "TASK-0039",
+    "task": "Confirm catering numbers",
+    "workstream": "Governance",
+    "owner": "Sofia Meyer",
+    "due_date": "2026-07-15",
+    "priority": "High",
+    "status": "Done",
+    "related_id": "EVT-0040"
+  },
+  {
+    "id": "TASK-0040",
+    "task": "Share post-event survey",
+    "workstream": "Newsletter",
+    "owner": "Noah Keller",
+    "due_date": "2026-07-20",
+    "priority": "High",
+    "status": "Done",
+    "related_id": "EVT-0041"
+  },
+  {
+    "id": "TASK-0041",
+    "task": "Update HR information page",
+    "workstream": "Internal event",
+    "owner": "Mila Becker",
+    "due_date": "2026-07-25",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0042"
+  },
+  {
+    "id": "TASK-0042",
+    "task": "Check AV equipment",
+    "workstream": "Newsletter",
+    "owner": "Elias Braun",
+    "due_date": "2026-07-30",
+    "priority": "High",
+    "status": "Done",
+    "related_id": "EVT-0043"
+  },
+  {
+    "id": "TASK-0043",
+    "task": "Prepare leadership talking points",
+    "workstream": "Governance",
+    "owner": "Zara Wagner",
+    "due_date": "2026-08-04",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0044"
+  },
+  {
+    "id": "TASK-0044",
+    "task": "Send calendar hold",
+    "workstream": "Newsletter",
+    "owner": "Luca Neumann",
+    "due_date": "2026-08-09",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0045"
+  },
+  {
+    "id": "TASK-0045",
+    "task": "Review careers brochure",
+    "workstream": "Internal event",
+    "owner": "Freya Fischer",
+    "due_date": "2026-08-14",
+    "priority": "Low",
+    "status": "Done",
+    "related_id": "EVT-0046"
+  },
+  {
+    "id": "TASK-0046",
+    "task": "Request accessibility requirements",
+    "workstream": "Intranet",
+    "owner": "Theo Wolf",
+    "due_date": "2026-08-19",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0047"
+  },
+  {
+    "id": "TASK-0047",
+    "task": "Archive approved assets",
+    "workstream": "Governance",
+    "owner": "Nina Hoffmann",
+    "due_date": "2026-08-24",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0048"
+  },
+  {
+    "id": "TASK-0048",
+    "task": "Confirm venue availability",
+    "workstream": "Governance",
+    "owner": "Ava Koch",
+    "due_date": "2026-08-29",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0049"
+  },
+  {
+    "id": "TASK-0049",
+    "task": "Review newsletter draft",
+    "workstream": "Internal event",
+    "owner": "Emil Weber",
+    "due_date": "2026-09-03",
+    "priority": "Low",
+    "status": "To do",
+    "related_id": "EVT-0050"
+  },
+  {
+    "id": "TASK-0050",
+    "task": "Collect department highlights",
+    "workstream": "Governance",
+    "owner": "Maya Richter",
+    "due_date": "2026-09-08",
+    "priority": "Low",
+    "status": "To do",
+    "related_id": "EVT-0051"
+  },
+  {
+    "id": "TASK-0051",
+    "task": "Approve event invitation",
+    "workstream": "HR marketing",
+    "owner": "Felix Schmidt",
+    "due_date": "2026-09-13",
+    "priority": "Low",
+    "status": "To do",
+    "related_id": "EVT-0052"
+  },
+  {
+    "id": "TASK-0052",
+    "task": "Reconcile supplier invoice",
+    "workstream": "Internal event",
+    "owner": "Ines Schulz",
+    "due_date": "2026-09-18",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0053"
+  },
+  {
+    "id": "TASK-0053",
+    "task": "Publish intranet announcement",
+    "workstream": "Internal event",
+    "owner": "David Bauer",
+    "due_date": "2026-09-23",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0054"
+  },
+  {
+    "id": "TASK-0054",
+    "task": "Prepare registration form",
+    "workstream": "Internal event",
+    "owner": "Clara Meyer",
+    "due_date": "2026-09-28",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0055"
+  },
+  {
+    "id": "TASK-0055",
+    "task": "Confirm catering numbers",
+    "workstream": "Governance",
+    "owner": "Amira Keller",
+    "due_date": "2026-10-03",
+    "priority": "Low",
+    "status": "Done",
+    "related_id": "EVT-0056"
+  },
+  {
+    "id": "TASK-0056",
+    "task": "Share post-event survey",
+    "workstream": "HR marketing",
+    "owner": "Jonas Becker",
+    "due_date": "2026-10-08",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0057"
+  },
+  {
+    "id": "TASK-0057",
+    "task": "Update HR information page",
+    "workstream": "Intranet",
+    "owner": "Lea Braun",
+    "due_date": "2026-10-13",
+    "priority": "High",
+    "status": "Waiting",
+    "related_id": "EVT-0058"
+  },
+  {
+    "id": "TASK-0058",
+    "task": "Check AV equipment",
+    "workstream": "Internal event",
+    "owner": "Mateo Wagner",
+    "due_date": "2026-10-18",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0059"
+  },
+  {
+    "id": "TASK-0059",
+    "task": "Prepare leadership talking points",
+    "workstream": "Internal event",
+    "owner": "Sofia Neumann",
+    "due_date": "2026-10-23",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0060"
+  },
+  {
+    "id": "TASK-0060",
+    "task": "Send calendar hold",
+    "workstream": "Internal event",
+    "owner": "Noah Fischer",
+    "due_date": "2026-10-28",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0061"
+  },
+  {
+    "id": "TASK-0061",
+    "task": "Review careers brochure",
+    "workstream": "HR marketing",
+    "owner": "Mila Wolf",
+    "due_date": "2026-11-02",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0062"
+  },
+  {
+    "id": "TASK-0062",
+    "task": "Request accessibility requirements",
+    "workstream": "Internal event",
+    "owner": "Elias Hoffmann",
+    "due_date": "2026-11-07",
+    "priority": "Low",
+    "status": "Done",
+    "related_id": "EVT-0063"
+  },
+  {
+    "id": "TASK-0063",
+    "task": "Archive approved assets",
+    "workstream": "Intranet",
+    "owner": "Zara Koch",
+    "due_date": "2026-11-12",
+    "priority": "Low",
+    "status": "Done",
+    "related_id": "EVT-0064"
+  },
+  {
+    "id": "TASK-0064",
+    "task": "Confirm venue availability",
+    "workstream": "HR marketing",
+    "owner": "Luca Weber",
+    "due_date": "2026-11-17",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0065"
+  },
+  {
+    "id": "TASK-0065",
+    "task": "Review newsletter draft",
+    "workstream": "Governance",
+    "owner": "Freya Richter",
+    "due_date": "2026-11-22",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0066"
+  },
+  {
+    "id": "TASK-0066",
+    "task": "Collect department highlights",
+    "workstream": "Internal event",
+    "owner": "Theo Schmidt",
+    "due_date": "2026-11-27",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0067"
+  },
+  {
+    "id": "TASK-0067",
+    "task": "Approve event invitation",
+    "workstream": "Governance",
+    "owner": "Nina Schulz",
+    "due_date": "2026-12-02",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0068"
+  },
+  {
+    "id": "TASK-0068",
+    "task": "Reconcile supplier invoice",
+    "workstream": "HR marketing",
+    "owner": "Ava Bauer",
+    "due_date": "2026-12-07",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0069"
+  },
+  {
+    "id": "TASK-0069",
+    "task": "Publish intranet announcement",
+    "workstream": "Governance",
+    "owner": "Emil Meyer",
+    "due_date": "2026-12-12",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0070"
+  },
+  {
+    "id": "TASK-0070",
+    "task": "Prepare registration form",
+    "workstream": "Internal event",
+    "owner": "Maya Keller",
+    "due_date": "2026-12-17",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0071"
+  },
+  {
+    "id": "TASK-0071",
+    "task": "Confirm catering numbers",
+    "workstream": "Internal event",
+    "owner": "Felix Becker",
+    "due_date": "2026-12-22",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0072"
+  },
+  {
+    "id": "TASK-0072",
+    "task": "Share post-event survey",
+    "workstream": "Intranet",
+    "owner": "Ines Braun",
+    "due_date": "2026-12-27",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0073"
+  },
+  {
+    "id": "TASK-0073",
+    "task": "Update HR information page",
+    "workstream": "Newsletter",
+    "owner": "David Wagner",
+    "due_date": "2026-01-01",
+    "priority": "High",
+    "status": "To do",
+    "related_id": "EVT-0074"
+  },
+  {
+    "id": "TASK-0074",
+    "task": "Check AV equipment",
+    "workstream": "Newsletter",
+    "owner": "Clara Neumann",
+    "due_date": "2026-01-06",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0075"
+  },
+  {
+    "id": "TASK-0075",
+    "task": "Prepare leadership talking points",
+    "workstream": "Governance",
+    "owner": "Amira Fischer",
+    "due_date": "2026-01-11",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0076"
+  },
+  {
+    "id": "TASK-0076",
+    "task": "Send calendar hold",
+    "workstream": "Newsletter",
+    "owner": "Jonas Wolf",
+    "due_date": "2026-01-16",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0077"
+  },
+  {
+    "id": "TASK-0077",
+    "task": "Review careers brochure",
+    "workstream": "Newsletter",
+    "owner": "Lea Hoffmann",
+    "due_date": "2026-01-21",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0078"
+  },
+  {
+    "id": "TASK-0078",
+    "task": "Request accessibility requirements",
+    "workstream": "Newsletter",
+    "owner": "Mateo Koch",
+    "due_date": "2026-01-26",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0079"
+  },
+  {
+    "id": "TASK-0079",
+    "task": "Archive approved assets",
+    "workstream": "Intranet",
+    "owner": "Sofia Weber",
+    "due_date": "2026-01-31",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0080"
+  },
+  {
+    "id": "TASK-0080",
+    "task": "Confirm venue availability",
+    "workstream": "Intranet",
+    "owner": "Noah Richter",
+    "due_date": "2026-02-05",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0081"
+  },
+  {
+    "id": "TASK-0081",
+    "task": "Review newsletter draft",
+    "workstream": "Governance",
+    "owner": "Mila Schmidt",
+    "due_date": "2026-02-10",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0082"
+  },
+  {
+    "id": "TASK-0082",
+    "task": "Collect department highlights",
+    "workstream": "HR marketing",
+    "owner": "Elias Schulz",
+    "due_date": "2026-02-15",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0083"
+  },
+  {
+    "id": "TASK-0083",
+    "task": "Approve event invitation",
+    "workstream": "HR marketing",
+    "owner": "Zara Bauer",
+    "due_date": "2026-02-20",
+    "priority": "Low",
+    "status": "To do",
+    "related_id": "EVT-0084"
+  },
+  {
+    "id": "TASK-0084",
+    "task": "Reconcile supplier invoice",
+    "workstream": "HR marketing",
+    "owner": "Luca Meyer",
+    "due_date": "2026-02-25",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0085"
+  },
+  {
+    "id": "TASK-0085",
+    "task": "Publish intranet announcement",
+    "workstream": "Newsletter",
+    "owner": "Freya Keller",
+    "due_date": "2026-03-02",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0086"
+  },
+  {
+    "id": "TASK-0086",
+    "task": "Prepare registration form",
+    "workstream": "HR marketing",
+    "owner": "Theo Becker",
+    "due_date": "2026-03-07",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0087"
+  },
+  {
+    "id": "TASK-0087",
+    "task": "Confirm catering numbers",
+    "workstream": "Newsletter",
+    "owner": "Nina Braun",
+    "due_date": "2026-03-12",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0088"
+  },
+  {
+    "id": "TASK-0088",
+    "task": "Share post-event survey",
+    "workstream": "Newsletter",
+    "owner": "Ava Wagner",
+    "due_date": "2026-03-17",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0089"
+  },
+  {
+    "id": "TASK-0089",
+    "task": "Update HR information page",
+    "workstream": "Governance",
+    "owner": "Emil Neumann",
+    "due_date": "2026-03-22",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0090"
+  },
+  {
+    "id": "TASK-0090",
+    "task": "Check AV equipment",
+    "workstream": "HR marketing",
+    "owner": "Maya Fischer",
+    "due_date": "2026-03-27",
+    "priority": "Low",
+    "status": "Done",
+    "related_id": "EVT-0091"
+  },
+  {
+    "id": "TASK-0091",
+    "task": "Prepare leadership talking points",
+    "workstream": "Intranet",
+    "owner": "Felix Wolf",
+    "due_date": "2026-04-01",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0092"
+  },
+  {
+    "id": "TASK-0092",
+    "task": "Send calendar hold",
+    "workstream": "Newsletter",
+    "owner": "Ines Hoffmann",
+    "due_date": "2026-04-06",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0093"
+  },
+  {
+    "id": "TASK-0093",
+    "task": "Review careers brochure",
+    "workstream": "Governance",
+    "owner": "David Koch",
+    "due_date": "2026-04-11",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0094"
+  },
+  {
+    "id": "TASK-0094",
+    "task": "Request accessibility requirements",
+    "workstream": "Governance",
+    "owner": "Clara Weber",
+    "due_date": "2026-04-16",
+    "priority": "High",
+    "status": "To do",
+    "related_id": "EVT-0095"
+  },
+  {
+    "id": "TASK-0095",
+    "task": "Archive approved assets",
+    "workstream": "Intranet",
+    "owner": "Amira Richter",
+    "due_date": "2026-04-21",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0096"
+  },
+  {
+    "id": "TASK-0096",
+    "task": "Confirm venue availability",
+    "workstream": "Newsletter",
+    "owner": "Jonas Schmidt",
+    "due_date": "2026-04-26",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0097"
+  },
+  {
+    "id": "TASK-0097",
+    "task": "Review newsletter draft",
+    "workstream": "HR marketing",
+    "owner": "Lea Schulz",
+    "due_date": "2026-05-01",
+    "priority": "Low",
+    "status": "Done",
+    "related_id": "EVT-0098"
+  },
+  {
+    "id": "TASK-0098",
+    "task": "Collect department highlights",
+    "workstream": "Governance",
+    "owner": "Mateo Bauer",
+    "due_date": "2026-05-06",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0099"
+  },
+  {
+    "id": "TASK-0099",
+    "task": "Approve event invitation",
+    "workstream": "Newsletter",
+    "owner": "Sofia Meyer",
+    "due_date": "2026-05-11",
+    "priority": "High",
+    "status": "Done",
+    "related_id": "EVT-0100"
+  },
+  {
+    "id": "TASK-0100",
+    "task": "Reconcile supplier invoice",
+    "workstream": "Internal event",
+    "owner": "Noah Keller",
+    "due_date": "2026-05-16",
+    "priority": "High",
+    "status": "Done",
+    "related_id": "EVT-0101"
+  },
+  {
+    "id": "TASK-0101",
+    "task": "Publish intranet announcement",
+    "workstream": "HR marketing",
+    "owner": "Mila Becker",
+    "due_date": "2026-05-21",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0102"
+  },
+  {
+    "id": "TASK-0102",
+    "task": "Prepare registration form",
+    "workstream": "Intranet",
+    "owner": "Elias Braun",
+    "due_date": "2026-05-26",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0103"
+  },
+  {
+    "id": "TASK-0103",
+    "task": "Confirm catering numbers",
+    "workstream": "Intranet",
+    "owner": "Zara Wagner",
+    "due_date": "2026-05-31",
+    "priority": "Low",
+    "status": "To do",
+    "related_id": "EVT-0104"
+  },
+  {
+    "id": "TASK-0104",
+    "task": "Share post-event survey",
+    "workstream": "Intranet",
+    "owner": "Luca Neumann",
+    "due_date": "2026-06-05",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0105"
+  },
+  {
+    "id": "TASK-0105",
+    "task": "Update HR information page",
+    "workstream": "Governance",
+    "owner": "Freya Fischer",
+    "due_date": "2026-06-10",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0106"
+  },
+  {
+    "id": "TASK-0106",
+    "task": "Check AV equipment",
+    "workstream": "Newsletter",
+    "owner": "Theo Wolf",
+    "due_date": "2026-06-15",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0107"
+  },
+  {
+    "id": "TASK-0107",
+    "task": "Prepare leadership talking points",
+    "workstream": "Intranet",
+    "owner": "Nina Hoffmann",
+    "due_date": "2026-06-20",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0108"
+  },
+  {
+    "id": "TASK-0108",
+    "task": "Send calendar hold",
+    "workstream": "Newsletter",
+    "owner": "Ava Koch",
+    "due_date": "2026-06-25",
+    "priority": "High",
+    "status": "Waiting",
+    "related_id": "EVT-0109"
+  },
+  {
+    "id": "TASK-0109",
+    "task": "Review careers brochure",
+    "workstream": "Newsletter",
+    "owner": "Emil Weber",
+    "due_date": "2026-06-30",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0110"
+  },
+  {
+    "id": "TASK-0110",
+    "task": "Request accessibility requirements",
+    "workstream": "HR marketing",
+    "owner": "Maya Richter",
+    "due_date": "2026-07-05",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0111"
+  },
+  {
+    "id": "TASK-0111",
+    "task": "Archive approved assets",
+    "workstream": "HR marketing",
+    "owner": "Felix Schmidt",
+    "due_date": "2026-07-10",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0112"
+  },
+  {
+    "id": "TASK-0112",
+    "task": "Confirm venue availability",
+    "workstream": "Governance",
+    "owner": "Ines Schulz",
+    "due_date": "2026-07-15",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0113"
+  },
+  {
+    "id": "TASK-0113",
+    "task": "Review newsletter draft",
+    "workstream": "Newsletter",
+    "owner": "David Bauer",
+    "due_date": "2026-07-20",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0114"
+  },
+  {
+    "id": "TASK-0114",
+    "task": "Collect department highlights",
+    "workstream": "Newsletter",
+    "owner": "Clara Meyer",
+    "due_date": "2026-07-25",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0115"
+  },
+  {
+    "id": "TASK-0115",
+    "task": "Approve event invitation",
+    "workstream": "HR marketing",
+    "owner": "Amira Keller",
+    "due_date": "2026-07-30",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0116"
+  },
+  {
+    "id": "TASK-0116",
+    "task": "Reconcile supplier invoice",
+    "workstream": "HR marketing",
+    "owner": "Jonas Becker",
+    "due_date": "2026-08-04",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0117"
+  },
+  {
+    "id": "TASK-0117",
+    "task": "Publish intranet announcement",
+    "workstream": "Newsletter",
+    "owner": "Lea Braun",
+    "due_date": "2026-08-09",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0118"
+  },
+  {
+    "id": "TASK-0118",
+    "task": "Prepare registration form",
+    "workstream": "Governance",
+    "owner": "Mateo Wagner",
+    "due_date": "2026-08-14",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0119"
+  },
+  {
+    "id": "TASK-0119",
+    "task": "Confirm catering numbers",
+    "workstream": "Governance",
+    "owner": "Sofia Neumann",
+    "due_date": "2026-08-19",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0120"
+  },
+  {
+    "id": "TASK-0120",
+    "task": "Share post-event survey",
+    "workstream": "Intranet",
+    "owner": "Noah Fischer",
+    "due_date": "2026-08-24",
+    "priority": "High",
+    "status": "Done",
+    "related_id": "EVT-0121"
+  },
+  {
+    "id": "TASK-0121",
+    "task": "Update HR information page",
+    "workstream": "Newsletter",
+    "owner": "Mila Wolf",
+    "due_date": "2026-08-29",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0122"
+  },
+  {
+    "id": "TASK-0122",
+    "task": "Check AV equipment",
+    "workstream": "Intranet",
+    "owner": "Elias Hoffmann",
+    "due_date": "2026-09-03",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0123"
+  },
+  {
+    "id": "TASK-0123",
+    "task": "Prepare leadership talking points",
+    "workstream": "HR marketing",
+    "owner": "Zara Koch",
+    "due_date": "2026-09-08",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0124"
+  },
+  {
+    "id": "TASK-0124",
+    "task": "Send calendar hold",
+    "workstream": "HR marketing",
+    "owner": "Luca Weber",
+    "due_date": "2026-09-13",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0125"
+  },
+  {
+    "id": "TASK-0125",
+    "task": "Review careers brochure",
+    "workstream": "Governance",
+    "owner": "Freya Richter",
+    "due_date": "2026-09-18",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0126"
+  },
+  {
+    "id": "TASK-0126",
+    "task": "Request accessibility requirements",
+    "workstream": "Governance",
+    "owner": "Theo Schmidt",
+    "due_date": "2026-09-23",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0127"
+  },
+  {
+    "id": "TASK-0127",
+    "task": "Archive approved assets",
+    "workstream": "HR marketing",
+    "owner": "Nina Schulz",
+    "due_date": "2026-09-28",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0128"
+  },
+  {
+    "id": "TASK-0128",
+    "task": "Confirm venue availability",
+    "workstream": "Internal event",
+    "owner": "Ava Bauer",
+    "due_date": "2026-10-03",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0129"
+  },
+  {
+    "id": "TASK-0129",
+    "task": "Review newsletter draft",
+    "workstream": "Intranet",
+    "owner": "Emil Meyer",
+    "due_date": "2026-10-08",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0130"
+  },
+  {
+    "id": "TASK-0130",
+    "task": "Collect department highlights",
+    "workstream": "Internal event",
+    "owner": "Maya Keller",
+    "due_date": "2026-10-13",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0131"
+  },
+  {
+    "id": "TASK-0131",
+    "task": "Approve event invitation",
+    "workstream": "HR marketing",
+    "owner": "Felix Becker",
+    "due_date": "2026-10-18",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0132"
+  },
+  {
+    "id": "TASK-0132",
+    "task": "Reconcile supplier invoice",
+    "workstream": "Internal event",
+    "owner": "Ines Braun",
+    "due_date": "2026-10-23",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0133"
+  },
+  {
+    "id": "TASK-0133",
+    "task": "Publish intranet announcement",
+    "workstream": "Internal event",
+    "owner": "David Wagner",
+    "due_date": "2026-10-28",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0134"
+  },
+  {
+    "id": "TASK-0134",
+    "task": "Prepare registration form",
+    "workstream": "Intranet",
+    "owner": "Clara Neumann",
+    "due_date": "2026-11-02",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0135"
+  },
+  {
+    "id": "TASK-0135",
+    "task": "Confirm catering numbers",
+    "workstream": "HR marketing",
+    "owner": "Amira Fischer",
+    "due_date": "2026-11-07",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0136"
+  },
+  {
+    "id": "TASK-0136",
+    "task": "Share post-event survey",
+    "workstream": "Internal event",
+    "owner": "Jonas Wolf",
+    "due_date": "2026-11-12",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0137"
+  },
+  {
+    "id": "TASK-0137",
+    "task": "Update HR information page",
+    "workstream": "HR marketing",
+    "owner": "Lea Hoffmann",
+    "due_date": "2026-11-17",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0138"
+  },
+  {
+    "id": "TASK-0138",
+    "task": "Check AV equipment",
+    "workstream": "Intranet",
+    "owner": "Mateo Koch",
+    "due_date": "2026-11-22",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0139"
+  },
+  {
+    "id": "TASK-0139",
+    "task": "Prepare leadership talking points",
+    "workstream": "Intranet",
+    "owner": "Sofia Weber",
+    "due_date": "2026-11-27",
+    "priority": "Low",
+    "status": "Done",
+    "related_id": "EVT-0140"
+  },
+  {
+    "id": "TASK-0140",
+    "task": "Send calendar hold",
+    "workstream": "Governance",
+    "owner": "Noah Richter",
+    "due_date": "2026-12-02",
+    "priority": "Low",
+    "status": "Done",
+    "related_id": "EVT-0141"
+  },
+  {
+    "id": "TASK-0141",
+    "task": "Review careers brochure",
+    "workstream": "HR marketing",
+    "owner": "Mila Schmidt",
+    "due_date": "2026-12-07",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0142"
+  },
+  {
+    "id": "TASK-0142",
+    "task": "Request accessibility requirements",
+    "workstream": "Newsletter",
+    "owner": "Elias Schulz",
+    "due_date": "2026-12-12",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0143"
+  },
+  {
+    "id": "TASK-0143",
+    "task": "Archive approved assets",
+    "workstream": "Governance",
+    "owner": "Zara Bauer",
+    "due_date": "2026-12-17",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0144"
+  },
+  {
+    "id": "TASK-0144",
+    "task": "Confirm venue availability",
+    "workstream": "Intranet",
+    "owner": "Luca Meyer",
+    "due_date": "2026-12-22",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0145"
+  },
+  {
+    "id": "TASK-0145",
+    "task": "Review newsletter draft",
+    "workstream": "Intranet",
+    "owner": "Freya Keller",
+    "due_date": "2026-12-27",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0146"
+  },
+  {
+    "id": "TASK-0146",
+    "task": "Collect department highlights",
+    "workstream": "Governance",
+    "owner": "Theo Becker",
+    "due_date": "2026-01-01",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0147"
+  },
+  {
+    "id": "TASK-0147",
+    "task": "Approve event invitation",
+    "workstream": "Governance",
+    "owner": "Nina Braun",
+    "due_date": "2026-01-06",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0148"
+  },
+  {
+    "id": "TASK-0148",
+    "task": "Reconcile supplier invoice",
+    "workstream": "Newsletter",
+    "owner": "Ava Wagner",
+    "due_date": "2026-01-11",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0149"
+  },
+  {
+    "id": "TASK-0149",
+    "task": "Publish intranet announcement",
+    "workstream": "Internal event",
+    "owner": "Emil Neumann",
+    "due_date": "2026-01-16",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0150"
+  },
+  {
+    "id": "TASK-0150",
+    "task": "Prepare registration form",
+    "workstream": "Newsletter",
+    "owner": "Maya Fischer",
+    "due_date": "2026-01-21",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0151"
+  },
+  {
+    "id": "TASK-0151",
+    "task": "Confirm catering numbers",
+    "workstream": "Internal event",
+    "owner": "Felix Wolf",
+    "due_date": "2026-01-26",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0152"
+  },
+  {
+    "id": "TASK-0152",
+    "task": "Share post-event survey",
+    "workstream": "Intranet",
+    "owner": "Ines Hoffmann",
+    "due_date": "2026-01-31",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0153"
+  },
+  {
+    "id": "TASK-0153",
+    "task": "Update HR information page",
+    "workstream": "Internal event",
+    "owner": "David Koch",
+    "due_date": "2026-02-05",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0154"
+  },
+  {
+    "id": "TASK-0154",
+    "task": "Check AV equipment",
+    "workstream": "Internal event",
+    "owner": "Clara Weber",
+    "due_date": "2026-02-10",
+    "priority": "High",
+    "status": "Waiting",
+    "related_id": "EVT-0155"
+  },
+  {
+    "id": "TASK-0155",
+    "task": "Prepare leadership talking points",
+    "workstream": "HR marketing",
+    "owner": "Amira Richter",
+    "due_date": "2026-02-15",
+    "priority": "High",
+    "status": "Waiting",
+    "related_id": "EVT-0156"
+  },
+  {
+    "id": "TASK-0156",
+    "task": "Send calendar hold",
+    "workstream": "Internal event",
+    "owner": "Jonas Schmidt",
+    "due_date": "2026-02-20",
+    "priority": "High",
+    "status": "Waiting",
+    "related_id": "EVT-0157"
+  },
+  {
+    "id": "TASK-0157",
+    "task": "Review careers brochure",
+    "workstream": "Intranet",
+    "owner": "Lea Schulz",
+    "due_date": "2026-02-25",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0158"
+  },
+  {
+    "id": "TASK-0158",
+    "task": "Request accessibility requirements",
+    "workstream": "Newsletter",
+    "owner": "Mateo Bauer",
+    "due_date": "2026-03-02",
+    "priority": "High",
+    "status": "Done",
+    "related_id": "EVT-0159"
+  },
+  {
+    "id": "TASK-0159",
+    "task": "Archive approved assets",
+    "workstream": "Internal event",
+    "owner": "Sofia Meyer",
+    "due_date": "2026-03-07",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0160"
+  },
+  {
+    "id": "TASK-0160",
+    "task": "Confirm venue availability",
+    "workstream": "HR marketing",
+    "owner": "Noah Keller",
+    "due_date": "2026-03-12",
+    "priority": "High",
+    "status": "To do",
+    "related_id": "EVT-0161"
+  },
+  {
+    "id": "TASK-0161",
+    "task": "Review newsletter draft",
+    "workstream": "Newsletter",
+    "owner": "Mila Becker",
+    "due_date": "2026-03-17",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0162"
+  },
+  {
+    "id": "TASK-0162",
+    "task": "Collect department highlights",
+    "workstream": "Internal event",
+    "owner": "Elias Braun",
+    "due_date": "2026-03-22",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0163"
+  },
+  {
+    "id": "TASK-0163",
+    "task": "Approve event invitation",
+    "workstream": "Newsletter",
+    "owner": "Zara Wagner",
+    "due_date": "2026-03-27",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0164"
+  },
+  {
+    "id": "TASK-0164",
+    "task": "Reconcile supplier invoice",
+    "workstream": "Newsletter",
+    "owner": "Luca Neumann",
+    "due_date": "2026-04-01",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0165"
+  },
+  {
+    "id": "TASK-0165",
+    "task": "Publish intranet announcement",
+    "workstream": "Intranet",
+    "owner": "Freya Fischer",
+    "due_date": "2026-04-06",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0166"
+  },
+  {
+    "id": "TASK-0166",
+    "task": "Prepare registration form",
+    "workstream": "Governance",
+    "owner": "Theo Wolf",
+    "due_date": "2026-04-11",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0167"
+  },
+  {
+    "id": "TASK-0167",
+    "task": "Confirm catering numbers",
+    "workstream": "Intranet",
+    "owner": "Nina Hoffmann",
+    "due_date": "2026-04-16",
+    "priority": "Low",
+    "status": "Done",
+    "related_id": "EVT-0168"
+  },
+  {
+    "id": "TASK-0168",
+    "task": "Share post-event survey",
+    "workstream": "Newsletter",
+    "owner": "Ava Koch",
+    "due_date": "2026-04-21",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0169"
+  },
+  {
+    "id": "TASK-0169",
+    "task": "Update HR information page",
+    "workstream": "Internal event",
+    "owner": "Emil Weber",
+    "due_date": "2026-04-26",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0170"
+  },
+  {
+    "id": "TASK-0170",
+    "task": "Check AV equipment",
+    "workstream": "Internal event",
+    "owner": "Maya Richter",
+    "due_date": "2026-05-01",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0171"
+  },
+  {
+    "id": "TASK-0171",
+    "task": "Prepare leadership talking points",
+    "workstream": "HR marketing",
+    "owner": "Felix Schmidt",
+    "due_date": "2026-05-06",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0172"
+  },
+  {
+    "id": "TASK-0172",
+    "task": "Send calendar hold",
+    "workstream": "HR marketing",
+    "owner": "Ines Schulz",
+    "due_date": "2026-05-11",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0173"
+  },
+  {
+    "id": "TASK-0173",
+    "task": "Review careers brochure",
+    "workstream": "Internal event",
+    "owner": "David Bauer",
+    "due_date": "2026-05-16",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0174"
+  },
+  {
+    "id": "TASK-0174",
+    "task": "Request accessibility requirements",
+    "workstream": "Intranet",
+    "owner": "Clara Meyer",
+    "due_date": "2026-05-21",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0175"
+  },
+  {
+    "id": "TASK-0175",
+    "task": "Archive approved assets",
+    "workstream": "Governance",
+    "owner": "Amira Keller",
+    "due_date": "2026-05-26",
+    "priority": "High",
+    "status": "To do",
+    "related_id": "EVT-0176"
+  },
+  {
+    "id": "TASK-0176",
+    "task": "Confirm venue availability",
+    "workstream": "HR marketing",
+    "owner": "Jonas Becker",
+    "due_date": "2026-05-31",
+    "priority": "High",
+    "status": "To do",
+    "related_id": "EVT-0177"
+  },
+  {
+    "id": "TASK-0177",
+    "task": "Review newsletter draft",
+    "workstream": "HR marketing",
+    "owner": "Lea Braun",
+    "due_date": "2026-06-05",
+    "priority": "High",
+    "status": "Done",
+    "related_id": "EVT-0178"
+  },
+  {
+    "id": "TASK-0178",
+    "task": "Collect department highlights",
+    "workstream": "Governance",
+    "owner": "Mateo Wagner",
+    "due_date": "2026-06-10",
+    "priority": "Low",
+    "status": "Done",
+    "related_id": "EVT-0179"
+  },
+  {
+    "id": "TASK-0179",
+    "task": "Approve event invitation",
+    "workstream": "HR marketing",
+    "owner": "Sofia Neumann",
+    "due_date": "2026-06-15",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0180"
+  },
+  {
+    "id": "TASK-0180",
+    "task": "Reconcile supplier invoice",
+    "workstream": "Newsletter",
+    "owner": "Noah Fischer",
+    "due_date": "2026-06-20",
+    "priority": "High",
+    "status": "Waiting",
+    "related_id": "EVT-0181"
+  },
+  {
+    "id": "TASK-0181",
+    "task": "Publish intranet announcement",
+    "workstream": "Newsletter",
+    "owner": "Mila Wolf",
+    "due_date": "2026-06-25",
+    "priority": "Low",
+    "status": "Done",
+    "related_id": "EVT-0182"
+  },
+  {
+    "id": "TASK-0182",
+    "task": "Prepare registration form",
+    "workstream": "Governance",
+    "owner": "Elias Hoffmann",
+    "due_date": "2026-06-30",
+    "priority": "High",
+    "status": "Waiting",
+    "related_id": "EVT-0183"
+  },
+  {
+    "id": "TASK-0183",
+    "task": "Confirm catering numbers",
+    "workstream": "HR marketing",
+    "owner": "Zara Koch",
+    "due_date": "2026-07-05",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0184"
+  },
+  {
+    "id": "TASK-0184",
+    "task": "Share post-event survey",
+    "workstream": "Newsletter",
+    "owner": "Luca Weber",
+    "due_date": "2026-07-10",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0185"
+  },
+  {
+    "id": "TASK-0185",
+    "task": "Update HR information page",
+    "workstream": "Governance",
+    "owner": "Freya Richter",
+    "due_date": "2026-07-15",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0186"
+  },
+  {
+    "id": "TASK-0186",
+    "task": "Check AV equipment",
+    "workstream": "HR marketing",
+    "owner": "Theo Schmidt",
+    "due_date": "2026-07-20",
+    "priority": "Low",
+    "status": "Waiting",
+    "related_id": "EVT-0187"
+  },
+  {
+    "id": "TASK-0187",
+    "task": "Prepare leadership talking points",
+    "workstream": "Internal event",
+    "owner": "Nina Schulz",
+    "due_date": "2026-07-25",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0188"
+  },
+  {
+    "id": "TASK-0188",
+    "task": "Send calendar hold",
+    "workstream": "Newsletter",
+    "owner": "Ava Bauer",
+    "due_date": "2026-07-30",
+    "priority": "Low",
+    "status": "Done",
+    "related_id": "EVT-0189"
+  },
+  {
+    "id": "TASK-0189",
+    "task": "Review careers brochure",
+    "workstream": "Newsletter",
+    "owner": "Emil Meyer",
+    "due_date": "2026-08-04",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0190"
+  },
+  {
+    "id": "TASK-0190",
+    "task": "Request accessibility requirements",
+    "workstream": "Internal event",
+    "owner": "Maya Keller",
+    "due_date": "2026-08-09",
+    "priority": "High",
+    "status": "To do",
+    "related_id": "EVT-0191"
+  },
+  {
+    "id": "TASK-0191",
+    "task": "Archive approved assets",
+    "workstream": "Newsletter",
+    "owner": "Felix Becker",
+    "due_date": "2026-08-14",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0192"
+  },
+  {
+    "id": "TASK-0192",
+    "task": "Confirm venue availability",
+    "workstream": "Newsletter",
+    "owner": "Ines Braun",
+    "due_date": "2026-08-19",
+    "priority": "Low",
+    "status": "To do",
+    "related_id": "EVT-0193"
+  },
+  {
+    "id": "TASK-0193",
+    "task": "Review newsletter draft",
+    "workstream": "Governance",
+    "owner": "David Wagner",
+    "due_date": "2026-08-24",
+    "priority": "High",
+    "status": "Done",
+    "related_id": "EVT-0194"
+  },
+  {
+    "id": "TASK-0194",
+    "task": "Collect department highlights",
+    "workstream": "Newsletter",
+    "owner": "Clara Neumann",
+    "due_date": "2026-08-29",
+    "priority": "High",
+    "status": "Done",
+    "related_id": "EVT-0195"
+  },
+  {
+    "id": "TASK-0195",
+    "task": "Approve event invitation",
+    "workstream": "HR marketing",
+    "owner": "Amira Fischer",
+    "due_date": "2026-09-03",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0196"
+  },
+  {
+    "id": "TASK-0196",
+    "task": "Reconcile supplier invoice",
+    "workstream": "Internal event",
+    "owner": "Jonas Wolf",
+    "due_date": "2026-09-08",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0197"
+  },
+  {
+    "id": "TASK-0197",
+    "task": "Publish intranet announcement",
+    "workstream": "Governance",
+    "owner": "Lea Hoffmann",
+    "due_date": "2026-09-13",
+    "priority": "Low",
+    "status": "Done",
+    "related_id": "EVT-0198"
+  },
+  {
+    "id": "TASK-0198",
+    "task": "Prepare registration form",
+    "workstream": "Governance",
+    "owner": "Mateo Koch",
+    "due_date": "2026-09-18",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0199"
+  },
+  {
+    "id": "TASK-0199",
+    "task": "Confirm catering numbers",
+    "workstream": "HR marketing",
+    "owner": "Sofia Weber",
+    "due_date": "2026-09-23",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0200"
+  },
+  {
+    "id": "TASK-0200",
+    "task": "Share post-event survey",
+    "workstream": "Intranet",
+    "owner": "Noah Richter",
+    "due_date": "2026-09-28",
+    "priority": "Low",
+    "status": "Done",
+    "related_id": "EVT-0201"
+  },
+  {
+    "id": "TASK-0201",
+    "task": "Update HR information page",
+    "workstream": "Intranet",
+    "owner": "Mila Schmidt",
+    "due_date": "2026-10-03",
+    "priority": "High",
+    "status": "Done",
+    "related_id": "EVT-0202"
+  },
+  {
+    "id": "TASK-0202",
+    "task": "Check AV equipment",
+    "workstream": "Internal event",
+    "owner": "Elias Schulz",
+    "due_date": "2026-10-08",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0203"
+  },
+  {
+    "id": "TASK-0203",
+    "task": "Prepare leadership talking points",
+    "workstream": "HR marketing",
+    "owner": "Zara Bauer",
+    "due_date": "2026-10-13",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0204"
+  },
+  {
+    "id": "TASK-0204",
+    "task": "Send calendar hold",
+    "workstream": "Governance",
+    "owner": "Luca Meyer",
+    "due_date": "2026-10-18",
+    "priority": "Low",
+    "status": "To do",
+    "related_id": "EVT-0205"
+  },
+  {
+    "id": "TASK-0205",
+    "task": "Review careers brochure",
+    "workstream": "Newsletter",
+    "owner": "Freya Keller",
+    "due_date": "2026-10-23",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0206"
+  },
+  {
+    "id": "TASK-0206",
+    "task": "Request accessibility requirements",
+    "workstream": "Governance",
+    "owner": "Theo Becker",
+    "due_date": "2026-10-28",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0207"
+  },
+  {
+    "id": "TASK-0207",
+    "task": "Archive approved assets",
+    "workstream": "Newsletter",
+    "owner": "Nina Braun",
+    "due_date": "2026-11-02",
+    "priority": "Low",
+    "status": "To do",
+    "related_id": "EVT-0208"
+  },
+  {
+    "id": "TASK-0208",
+    "task": "Confirm venue availability",
+    "workstream": "Governance",
+    "owner": "Ava Wagner",
+    "due_date": "2026-11-07",
+    "priority": "Low",
+    "status": "Done",
+    "related_id": "EVT-0209"
+  },
+  {
+    "id": "TASK-0209",
+    "task": "Review newsletter draft",
+    "workstream": "Intranet",
+    "owner": "Emil Neumann",
+    "due_date": "2026-11-12",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0210"
+  },
+  {
+    "id": "TASK-0210",
+    "task": "Collect department highlights",
+    "workstream": "HR marketing",
+    "owner": "Maya Fischer",
+    "due_date": "2026-11-17",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0211"
+  },
+  {
+    "id": "TASK-0211",
+    "task": "Approve event invitation",
+    "workstream": "Intranet",
+    "owner": "Felix Wolf",
+    "due_date": "2026-11-22",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0212"
+  },
+  {
+    "id": "TASK-0212",
+    "task": "Reconcile supplier invoice",
+    "workstream": "Internal event",
+    "owner": "Ines Hoffmann",
+    "due_date": "2026-11-27",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0213"
+  },
+  {
+    "id": "TASK-0213",
+    "task": "Publish intranet announcement",
+    "workstream": "Newsletter",
+    "owner": "David Koch",
+    "due_date": "2026-12-02",
+    "priority": "High",
+    "status": "To do",
+    "related_id": "EVT-0214"
+  },
+  {
+    "id": "TASK-0214",
+    "task": "Prepare registration form",
+    "workstream": "Intranet",
+    "owner": "Clara Weber",
+    "due_date": "2026-12-07",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0215"
+  },
+  {
+    "id": "TASK-0215",
+    "task": "Confirm catering numbers",
+    "workstream": "Internal event",
+    "owner": "Amira Richter",
+    "due_date": "2026-12-12",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0216"
+  },
+  {
+    "id": "TASK-0216",
+    "task": "Share post-event survey",
+    "workstream": "Intranet",
+    "owner": "Jonas Schmidt",
+    "due_date": "2026-12-17",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0217"
+  },
+  {
+    "id": "TASK-0217",
+    "task": "Update HR information page",
+    "workstream": "HR marketing",
+    "owner": "Lea Schulz",
+    "due_date": "2026-12-22",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0218"
+  },
+  {
+    "id": "TASK-0218",
+    "task": "Check AV equipment",
+    "workstream": "Newsletter",
+    "owner": "Mateo Bauer",
+    "due_date": "2026-12-27",
+    "priority": "Low",
+    "status": "To do",
+    "related_id": "EVT-0219"
+  },
+  {
+    "id": "TASK-0219",
+    "task": "Prepare leadership talking points",
+    "workstream": "Governance",
+    "owner": "Sofia Meyer",
+    "due_date": "2026-01-01",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0220"
+  },
+  {
+    "id": "TASK-0220",
+    "task": "Send calendar hold",
+    "workstream": "Governance",
+    "owner": "Noah Keller",
+    "due_date": "2026-01-06",
+    "priority": "Low",
+    "status": "Done",
+    "related_id": "EVT-0221"
+  },
+  {
+    "id": "TASK-0221",
+    "task": "Review careers brochure",
+    "workstream": "Governance",
+    "owner": "Mila Becker",
+    "due_date": "2026-01-11",
+    "priority": "Low",
+    "status": "Done",
+    "related_id": "EVT-0222"
+  },
+  {
+    "id": "TASK-0222",
+    "task": "Request accessibility requirements",
+    "workstream": "Newsletter",
+    "owner": "Elias Braun",
+    "due_date": "2026-01-16",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0223"
+  },
+  {
+    "id": "TASK-0223",
+    "task": "Archive approved assets",
+    "workstream": "Internal event",
+    "owner": "Zara Wagner",
+    "due_date": "2026-01-21",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0224"
+  },
+  {
+    "id": "TASK-0224",
+    "task": "Confirm venue availability",
+    "workstream": "Internal event",
+    "owner": "Luca Neumann",
+    "due_date": "2026-01-26",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0225"
+  },
+  {
+    "id": "TASK-0225",
+    "task": "Review newsletter draft",
+    "workstream": "HR marketing",
+    "owner": "Freya Fischer",
+    "due_date": "2026-01-31",
+    "priority": "High",
+    "status": "To do",
+    "related_id": "EVT-0226"
+  },
+  {
+    "id": "TASK-0226",
+    "task": "Collect department highlights",
+    "workstream": "Newsletter",
+    "owner": "Theo Wolf",
+    "due_date": "2026-02-05",
+    "priority": "Low",
+    "status": "Waiting",
+    "related_id": "EVT-0227"
+  },
+  {
+    "id": "TASK-0227",
+    "task": "Approve event invitation",
+    "workstream": "HR marketing",
+    "owner": "Nina Hoffmann",
+    "due_date": "2026-02-10",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0228"
+  },
+  {
+    "id": "TASK-0228",
+    "task": "Reconcile supplier invoice",
+    "workstream": "Intranet",
+    "owner": "Ava Koch",
+    "due_date": "2026-02-15",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0229"
+  },
+  {
+    "id": "TASK-0229",
+    "task": "Publish intranet announcement",
+    "workstream": "Intranet",
+    "owner": "Emil Weber",
+    "due_date": "2026-02-20",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0230"
+  },
+  {
+    "id": "TASK-0230",
+    "task": "Prepare registration form",
+    "workstream": "Governance",
+    "owner": "Maya Richter",
+    "due_date": "2026-02-25",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0231"
+  },
+  {
+    "id": "TASK-0231",
+    "task": "Confirm catering numbers",
+    "workstream": "HR marketing",
+    "owner": "Felix Schmidt",
+    "due_date": "2026-03-02",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0232"
+  },
+  {
+    "id": "TASK-0232",
+    "task": "Share post-event survey",
+    "workstream": "Governance",
+    "owner": "Ines Schulz",
+    "due_date": "2026-03-07",
+    "priority": "High",
+    "status": "To do",
+    "related_id": "EVT-0233"
+  },
+  {
+    "id": "TASK-0233",
+    "task": "Update HR information page",
+    "workstream": "Newsletter",
+    "owner": "David Bauer",
+    "due_date": "2026-03-12",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0234"
+  },
+  {
+    "id": "TASK-0234",
+    "task": "Check AV equipment",
+    "workstream": "Internal event",
+    "owner": "Clara Meyer",
+    "due_date": "2026-03-17",
+    "priority": "Low",
+    "status": "Waiting",
+    "related_id": "EVT-0235"
+  },
+  {
+    "id": "TASK-0235",
+    "task": "Prepare leadership talking points",
+    "workstream": "Newsletter",
+    "owner": "Amira Keller",
+    "due_date": "2026-03-22",
+    "priority": "High",
+    "status": "Waiting",
+    "related_id": "EVT-0236"
+  },
+  {
+    "id": "TASK-0236",
+    "task": "Send calendar hold",
+    "workstream": "Governance",
+    "owner": "Jonas Becker",
+    "due_date": "2026-03-27",
+    "priority": "High",
+    "status": "To do",
+    "related_id": "EVT-0237"
+  },
+  {
+    "id": "TASK-0237",
+    "task": "Review careers brochure",
+    "workstream": "Internal event",
+    "owner": "Lea Braun",
+    "due_date": "2026-04-01",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0238"
+  },
+  {
+    "id": "TASK-0238",
+    "task": "Request accessibility requirements",
+    "workstream": "Governance",
+    "owner": "Mateo Wagner",
+    "due_date": "2026-04-06",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0239"
+  },
+  {
+    "id": "TASK-0239",
+    "task": "Archive approved assets",
+    "workstream": "Newsletter",
+    "owner": "Sofia Neumann",
+    "due_date": "2026-04-11",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0240"
+  },
+  {
+    "id": "TASK-0240",
+    "task": "Confirm venue availability",
+    "workstream": "Governance",
+    "owner": "Noah Fischer",
+    "due_date": "2026-04-16",
+    "priority": "Low",
+    "status": "Done",
+    "related_id": "EVT-0241"
+  },
+  {
+    "id": "TASK-0241",
+    "task": "Review newsletter draft",
+    "workstream": "HR marketing",
+    "owner": "Mila Wolf",
+    "due_date": "2026-04-21",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0242"
+  },
+  {
+    "id": "TASK-0242",
+    "task": "Collect department highlights",
+    "workstream": "Newsletter",
+    "owner": "Elias Hoffmann",
+    "due_date": "2026-04-26",
+    "priority": "Low",
+    "status": "Done",
+    "related_id": "EVT-0243"
+  },
+  {
+    "id": "TASK-0243",
+    "task": "Approve event invitation",
+    "workstream": "Internal event",
+    "owner": "Zara Koch",
+    "due_date": "2026-05-01",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0244"
+  },
+  {
+    "id": "TASK-0244",
+    "task": "Reconcile supplier invoice",
+    "workstream": "Intranet",
+    "owner": "Luca Weber",
+    "due_date": "2026-05-06",
+    "priority": "Low",
+    "status": "Done",
+    "related_id": "EVT-0245"
+  },
+  {
+    "id": "TASK-0245",
+    "task": "Publish intranet announcement",
+    "workstream": "Intranet",
+    "owner": "Freya Richter",
+    "due_date": "2026-05-11",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0246"
+  },
+  {
+    "id": "TASK-0246",
+    "task": "Prepare registration form",
+    "workstream": "Newsletter",
+    "owner": "Theo Schmidt",
+    "due_date": "2026-05-16",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0247"
+  },
+  {
+    "id": "TASK-0247",
+    "task": "Confirm catering numbers",
+    "workstream": "Newsletter",
+    "owner": "Nina Schulz",
+    "due_date": "2026-05-21",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0248"
+  },
+  {
+    "id": "TASK-0248",
+    "task": "Share post-event survey",
+    "workstream": "Internal event",
+    "owner": "Ava Bauer",
+    "due_date": "2026-05-26",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0249"
+  },
+  {
+    "id": "TASK-0249",
+    "task": "Update HR information page",
+    "workstream": "Intranet",
+    "owner": "Emil Meyer",
+    "due_date": "2026-05-31",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0250"
+  },
+  {
+    "id": "TASK-0250",
+    "task": "Check AV equipment",
+    "workstream": "HR marketing",
+    "owner": "Maya Keller",
+    "due_date": "2026-06-05",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0251"
+  },
+  {
+    "id": "TASK-0251",
+    "task": "Prepare leadership talking points",
+    "workstream": "HR marketing",
+    "owner": "Felix Becker",
+    "due_date": "2026-06-10",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0252"
+  },
+  {
+    "id": "TASK-0252",
+    "task": "Send calendar hold",
+    "workstream": "Newsletter",
+    "owner": "Ines Braun",
+    "due_date": "2026-06-15",
+    "priority": "Low",
+    "status": "Done",
+    "related_id": "EVT-0253"
+  },
+  {
+    "id": "TASK-0253",
+    "task": "Review careers brochure",
+    "workstream": "Internal event",
+    "owner": "David Wagner",
+    "due_date": "2026-06-20",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0254"
+  },
+  {
+    "id": "TASK-0254",
+    "task": "Request accessibility requirements",
+    "workstream": "Governance",
+    "owner": "Clara Neumann",
+    "due_date": "2026-06-25",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0255"
+  },
+  {
+    "id": "TASK-0255",
+    "task": "Archive approved assets",
+    "workstream": "HR marketing",
+    "owner": "Amira Fischer",
+    "due_date": "2026-06-30",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0256"
+  },
+  {
+    "id": "TASK-0256",
+    "task": "Confirm venue availability",
+    "workstream": "Internal event",
+    "owner": "Jonas Wolf",
+    "due_date": "2026-07-05",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0257"
+  },
+  {
+    "id": "TASK-0257",
+    "task": "Review newsletter draft",
+    "workstream": "Governance",
+    "owner": "Lea Hoffmann",
+    "due_date": "2026-07-10",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0258"
+  },
+  {
+    "id": "TASK-0258",
+    "task": "Collect department highlights",
+    "workstream": "Governance",
+    "owner": "Mateo Koch",
+    "due_date": "2026-07-15",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0259"
+  },
+  {
+    "id": "TASK-0259",
+    "task": "Approve event invitation",
+    "workstream": "HR marketing",
+    "owner": "Sofia Weber",
+    "due_date": "2026-07-20",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0260"
+  },
+  {
+    "id": "TASK-0260",
+    "task": "Reconcile supplier invoice",
+    "workstream": "HR marketing",
+    "owner": "Noah Richter",
+    "due_date": "2026-07-25",
+    "priority": "Low",
+    "status": "Waiting",
+    "related_id": "EVT-0261"
+  },
+  {
+    "id": "TASK-0261",
+    "task": "Publish intranet announcement",
+    "workstream": "Newsletter",
+    "owner": "Mila Schmidt",
+    "due_date": "2026-07-30",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0262"
+  },
+  {
+    "id": "TASK-0262",
+    "task": "Prepare registration form",
+    "workstream": "Newsletter",
+    "owner": "Elias Schulz",
+    "due_date": "2026-08-04",
+    "priority": "Low",
+    "status": "Waiting",
+    "related_id": "EVT-0263"
+  },
+  {
+    "id": "TASK-0263",
+    "task": "Confirm catering numbers",
+    "workstream": "HR marketing",
+    "owner": "Zara Bauer",
+    "due_date": "2026-08-09",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0264"
+  },
+  {
+    "id": "TASK-0264",
+    "task": "Share post-event survey",
+    "workstream": "Newsletter",
+    "owner": "Luca Meyer",
+    "due_date": "2026-08-14",
+    "priority": "High",
+    "status": "To do",
+    "related_id": "EVT-0265"
+  },
+  {
+    "id": "TASK-0265",
+    "task": "Update HR information page",
+    "workstream": "Newsletter",
+    "owner": "Freya Keller",
+    "due_date": "2026-08-19",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0266"
+  },
+  {
+    "id": "TASK-0266",
+    "task": "Check AV equipment",
+    "workstream": "HR marketing",
+    "owner": "Theo Becker",
+    "due_date": "2026-08-24",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0267"
+  },
+  {
+    "id": "TASK-0267",
+    "task": "Prepare leadership talking points",
+    "workstream": "HR marketing",
+    "owner": "Nina Braun",
+    "due_date": "2026-08-29",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0268"
+  },
+  {
+    "id": "TASK-0268",
+    "task": "Send calendar hold",
+    "workstream": "Internal event",
+    "owner": "Ava Wagner",
+    "due_date": "2026-09-03",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0269"
+  },
+  {
+    "id": "TASK-0269",
+    "task": "Review careers brochure",
+    "workstream": "Governance",
+    "owner": "Emil Neumann",
+    "due_date": "2026-09-08",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0270"
+  },
+  {
+    "id": "TASK-0270",
+    "task": "Request accessibility requirements",
+    "workstream": "Intranet",
+    "owner": "Maya Fischer",
+    "due_date": "2026-09-13",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0271"
+  },
+  {
+    "id": "TASK-0271",
+    "task": "Archive approved assets",
+    "workstream": "Intranet",
+    "owner": "Felix Wolf",
+    "due_date": "2026-09-18",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0272"
+  },
+  {
+    "id": "TASK-0272",
+    "task": "Confirm venue availability",
+    "workstream": "Governance",
+    "owner": "Ines Hoffmann",
+    "due_date": "2026-09-23",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0273"
+  },
+  {
+    "id": "TASK-0273",
+    "task": "Review newsletter draft",
+    "workstream": "HR marketing",
+    "owner": "David Koch",
+    "due_date": "2026-09-28",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0274"
+  },
+  {
+    "id": "TASK-0274",
+    "task": "Collect department highlights",
+    "workstream": "Internal event",
+    "owner": "Clara Weber",
+    "due_date": "2026-10-03",
+    "priority": "High",
+    "status": "Waiting",
+    "related_id": "EVT-0275"
+  },
+  {
+    "id": "TASK-0275",
+    "task": "Approve event invitation",
+    "workstream": "Intranet",
+    "owner": "Amira Richter",
+    "due_date": "2026-10-08",
+    "priority": "Low",
+    "status": "Done",
+    "related_id": "EVT-0276"
+  },
+  {
+    "id": "TASK-0276",
+    "task": "Reconcile supplier invoice",
+    "workstream": "Intranet",
+    "owner": "Jonas Schmidt",
+    "due_date": "2026-10-13",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0277"
+  },
+  {
+    "id": "TASK-0277",
+    "task": "Publish intranet announcement",
+    "workstream": "Governance",
+    "owner": "Lea Schulz",
+    "due_date": "2026-10-18",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0278"
+  },
+  {
+    "id": "TASK-0278",
+    "task": "Prepare registration form",
+    "workstream": "HR marketing",
+    "owner": "Mateo Bauer",
+    "due_date": "2026-10-23",
+    "priority": "High",
+    "status": "Done",
+    "related_id": "EVT-0279"
+  },
+  {
+    "id": "TASK-0279",
+    "task": "Confirm catering numbers",
+    "workstream": "Internal event",
+    "owner": "Sofia Meyer",
+    "due_date": "2026-10-28",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0280"
+  },
+  {
+    "id": "TASK-0280",
+    "task": "Share post-event survey",
+    "workstream": "Internal event",
+    "owner": "Noah Keller",
+    "due_date": "2026-11-02",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0281"
+  },
+  {
+    "id": "TASK-0281",
+    "task": "Update HR information page",
+    "workstream": "Newsletter",
+    "owner": "Mila Becker",
+    "due_date": "2026-11-07",
+    "priority": "High",
+    "status": "To do",
+    "related_id": "EVT-0282"
+  },
+  {
+    "id": "TASK-0282",
+    "task": "Check AV equipment",
+    "workstream": "Governance",
+    "owner": "Elias Braun",
+    "due_date": "2026-11-12",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0283"
+  },
+  {
+    "id": "TASK-0283",
+    "task": "Prepare leadership talking points",
+    "workstream": "Governance",
+    "owner": "Zara Wagner",
+    "due_date": "2026-11-17",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0284"
+  },
+  {
+    "id": "TASK-0284",
+    "task": "Send calendar hold",
+    "workstream": "Internal event",
+    "owner": "Luca Neumann",
+    "due_date": "2026-11-22",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0285"
+  },
+  {
+    "id": "TASK-0285",
+    "task": "Review careers brochure",
+    "workstream": "HR marketing",
+    "owner": "Freya Fischer",
+    "due_date": "2026-11-27",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0286"
+  },
+  {
+    "id": "TASK-0286",
+    "task": "Request accessibility requirements",
+    "workstream": "Governance",
+    "owner": "Theo Wolf",
+    "due_date": "2026-12-02",
+    "priority": "High",
+    "status": "Done",
+    "related_id": "EVT-0287"
+  },
+  {
+    "id": "TASK-0287",
+    "task": "Archive approved assets",
+    "workstream": "Intranet",
+    "owner": "Nina Hoffmann",
+    "due_date": "2026-12-07",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0288"
+  },
+  {
+    "id": "TASK-0288",
+    "task": "Confirm venue availability",
+    "workstream": "Internal event",
+    "owner": "Ava Koch",
+    "due_date": "2026-12-12",
+    "priority": "High",
+    "status": "To do",
+    "related_id": "EVT-0289"
+  },
+  {
+    "id": "TASK-0289",
+    "task": "Review newsletter draft",
+    "workstream": "HR marketing",
+    "owner": "Emil Weber",
+    "due_date": "2026-12-17",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0290"
+  },
+  {
+    "id": "TASK-0290",
+    "task": "Collect department highlights",
+    "workstream": "Internal event",
+    "owner": "Maya Richter",
+    "due_date": "2026-12-22",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0291"
+  },
+  {
+    "id": "TASK-0291",
+    "task": "Approve event invitation",
+    "workstream": "Newsletter",
+    "owner": "Felix Schmidt",
+    "due_date": "2026-12-27",
+    "priority": "High",
+    "status": "Waiting",
+    "related_id": "EVT-0292"
+  },
+  {
+    "id": "TASK-0292",
+    "task": "Reconcile supplier invoice",
+    "workstream": "Governance",
+    "owner": "Ines Schulz",
+    "due_date": "2026-01-01",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0293"
+  },
+  {
+    "id": "TASK-0293",
+    "task": "Publish intranet announcement",
+    "workstream": "HR marketing",
+    "owner": "David Bauer",
+    "due_date": "2026-01-06",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0294"
+  },
+  {
+    "id": "TASK-0294",
+    "task": "Prepare registration form",
+    "workstream": "Newsletter",
+    "owner": "Clara Meyer",
+    "due_date": "2026-01-11",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0295"
+  },
+  {
+    "id": "TASK-0295",
+    "task": "Confirm catering numbers",
+    "workstream": "Newsletter",
+    "owner": "Amira Keller",
+    "due_date": "2026-01-16",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0296"
+  },
+  {
+    "id": "TASK-0296",
+    "task": "Share post-event survey",
+    "workstream": "HR marketing",
+    "owner": "Jonas Becker",
+    "due_date": "2026-01-21",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0297"
+  },
+  {
+    "id": "TASK-0297",
+    "task": "Update HR information page",
+    "workstream": "Governance",
+    "owner": "Lea Braun",
+    "due_date": "2026-01-26",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0298"
+  },
+  {
+    "id": "TASK-0298",
+    "task": "Check AV equipment",
+    "workstream": "Governance",
+    "owner": "Mateo Wagner",
+    "due_date": "2026-01-31",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0299"
+  },
+  {
+    "id": "TASK-0299",
+    "task": "Prepare leadership talking points",
+    "workstream": "Governance",
+    "owner": "Sofia Neumann",
+    "due_date": "2026-02-05",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0300"
+  },
+  {
+    "id": "TASK-0300",
+    "task": "Send calendar hold",
+    "workstream": "Internal event",
+    "owner": "Noah Fischer",
+    "due_date": "2026-02-10",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0301"
+  },
+  {
+    "id": "TASK-0301",
+    "task": "Review careers brochure",
+    "workstream": "Intranet",
+    "owner": "Mila Wolf",
+    "due_date": "2026-02-15",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0302"
+  },
+  {
+    "id": "TASK-0302",
+    "task": "Request accessibility requirements",
+    "workstream": "Newsletter",
+    "owner": "Elias Hoffmann",
+    "due_date": "2026-02-20",
+    "priority": "Low",
+    "status": "Done",
+    "related_id": "EVT-0303"
+  },
+  {
+    "id": "TASK-0303",
+    "task": "Archive approved assets",
+    "workstream": "HR marketing",
+    "owner": "Zara Koch",
+    "due_date": "2026-02-25",
+    "priority": "Low",
+    "status": "Done",
+    "related_id": "EVT-0304"
+  },
+  {
+    "id": "TASK-0304",
+    "task": "Confirm venue availability",
+    "workstream": "Internal event",
+    "owner": "Luca Weber",
+    "due_date": "2026-03-02",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0305"
+  },
+  {
+    "id": "TASK-0305",
+    "task": "Review newsletter draft",
+    "workstream": "Governance",
+    "owner": "Freya Richter",
+    "due_date": "2026-03-07",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0306"
+  },
+  {
+    "id": "TASK-0306",
+    "task": "Collect department highlights",
+    "workstream": "Internal event",
+    "owner": "Theo Schmidt",
+    "due_date": "2026-03-12",
+    "priority": "Low",
+    "status": "To do",
+    "related_id": "EVT-0307"
+  },
+  {
+    "id": "TASK-0307",
+    "task": "Approve event invitation",
+    "workstream": "HR marketing",
+    "owner": "Nina Schulz",
+    "due_date": "2026-03-17",
+    "priority": "Low",
+    "status": "Done",
+    "related_id": "EVT-0308"
+  },
+  {
+    "id": "TASK-0308",
+    "task": "Reconcile supplier invoice",
+    "workstream": "Newsletter",
+    "owner": "Ava Bauer",
+    "due_date": "2026-03-22",
+    "priority": "High",
+    "status": "Done",
+    "related_id": "EVT-0309"
+  },
+  {
+    "id": "TASK-0309",
+    "task": "Publish intranet announcement",
+    "workstream": "Newsletter",
+    "owner": "Emil Meyer",
+    "due_date": "2026-03-27",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0310"
+  },
+  {
+    "id": "TASK-0310",
+    "task": "Prepare registration form",
+    "workstream": "Intranet",
+    "owner": "Maya Keller",
+    "due_date": "2026-04-01",
+    "priority": "High",
+    "status": "Done",
+    "related_id": "EVT-0311"
+  },
+  {
+    "id": "TASK-0311",
+    "task": "Confirm catering numbers",
+    "workstream": "HR marketing",
+    "owner": "Felix Becker",
+    "due_date": "2026-04-06",
+    "priority": "Low",
+    "status": "Done",
+    "related_id": "EVT-0312"
+  },
+  {
+    "id": "TASK-0312",
+    "task": "Share post-event survey",
+    "workstream": "Internal event",
+    "owner": "Ines Braun",
+    "due_date": "2026-04-11",
+    "priority": "Low",
+    "status": "Done",
+    "related_id": "EVT-0313"
+  },
+  {
+    "id": "TASK-0313",
+    "task": "Update HR information page",
+    "workstream": "Internal event",
+    "owner": "David Wagner",
+    "due_date": "2026-04-16",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0314"
+  },
+  {
+    "id": "TASK-0314",
+    "task": "Check AV equipment",
+    "workstream": "HR marketing",
+    "owner": "Clara Neumann",
+    "due_date": "2026-04-21",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0315"
+  },
+  {
+    "id": "TASK-0315",
+    "task": "Prepare leadership talking points",
+    "workstream": "HR marketing",
+    "owner": "Amira Fischer",
+    "due_date": "2026-04-26",
+    "priority": "High",
+    "status": "Done",
+    "related_id": "EVT-0316"
+  },
+  {
+    "id": "TASK-0316",
+    "task": "Send calendar hold",
+    "workstream": "HR marketing",
+    "owner": "Jonas Wolf",
+    "due_date": "2026-05-01",
+    "priority": "High",
+    "status": "Done",
+    "related_id": "EVT-0317"
+  },
+  {
+    "id": "TASK-0317",
+    "task": "Review careers brochure",
+    "workstream": "HR marketing",
+    "owner": "Lea Hoffmann",
+    "due_date": "2026-05-06",
+    "priority": "High",
+    "status": "Waiting",
+    "related_id": "EVT-0318"
+  },
+  {
+    "id": "TASK-0318",
+    "task": "Request accessibility requirements",
+    "workstream": "Governance",
+    "owner": "Mateo Koch",
+    "due_date": "2026-05-11",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0319"
+  },
+  {
+    "id": "TASK-0319",
+    "task": "Archive approved assets",
+    "workstream": "HR marketing",
+    "owner": "Sofia Weber",
+    "due_date": "2026-05-16",
+    "priority": "High",
+    "status": "Waiting",
+    "related_id": "EVT-0320"
+  },
+  {
+    "id": "TASK-0320",
+    "task": "Confirm venue availability",
+    "workstream": "HR marketing",
+    "owner": "Noah Richter",
+    "due_date": "2026-05-21",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0321"
+  },
+  {
+    "id": "TASK-0321",
+    "task": "Review newsletter draft",
+    "workstream": "Newsletter",
+    "owner": "Mila Schmidt",
+    "due_date": "2026-05-26",
+    "priority": "Low",
+    "status": "To do",
+    "related_id": "EVT-0322"
+  },
+  {
+    "id": "TASK-0322",
+    "task": "Collect department highlights",
+    "workstream": "Internal event",
+    "owner": "Elias Schulz",
+    "due_date": "2026-05-31",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0323"
+  },
+  {
+    "id": "TASK-0323",
+    "task": "Approve event invitation",
+    "workstream": "Intranet",
+    "owner": "Zara Bauer",
+    "due_date": "2026-06-05",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0324"
+  },
+  {
+    "id": "TASK-0324",
+    "task": "Reconcile supplier invoice",
+    "workstream": "HR marketing",
+    "owner": "Luca Meyer",
+    "due_date": "2026-06-10",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0325"
+  },
+  {
+    "id": "TASK-0325",
+    "task": "Publish intranet announcement",
+    "workstream": "Internal event",
+    "owner": "Freya Keller",
+    "due_date": "2026-06-15",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0326"
+  },
+  {
+    "id": "TASK-0326",
+    "task": "Prepare registration form",
+    "workstream": "Newsletter",
+    "owner": "Theo Becker",
+    "due_date": "2026-06-20",
+    "priority": "Low",
+    "status": "Waiting",
+    "related_id": "EVT-0327"
+  },
+  {
+    "id": "TASK-0327",
+    "task": "Confirm catering numbers",
+    "workstream": "Internal event",
+    "owner": "Nina Braun",
+    "due_date": "2026-06-25",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0328"
+  },
+  {
+    "id": "TASK-0328",
+    "task": "Share post-event survey",
+    "workstream": "Newsletter",
+    "owner": "Ava Wagner",
+    "due_date": "2026-06-30",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0329"
+  },
+  {
+    "id": "TASK-0329",
+    "task": "Update HR information page",
+    "workstream": "HR marketing",
+    "owner": "Emil Neumann",
+    "due_date": "2026-07-05",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0330"
+  },
+  {
+    "id": "TASK-0330",
+    "task": "Check AV equipment",
+    "workstream": "Governance",
+    "owner": "Maya Fischer",
+    "due_date": "2026-07-10",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0331"
+  },
+  {
+    "id": "TASK-0331",
+    "task": "Prepare leadership talking points",
+    "workstream": "Intranet",
+    "owner": "Felix Wolf",
+    "due_date": "2026-07-15",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0332"
+  },
+  {
+    "id": "TASK-0332",
+    "task": "Send calendar hold",
+    "workstream": "Intranet",
+    "owner": "Ines Hoffmann",
+    "due_date": "2026-07-20",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0333"
+  },
+  {
+    "id": "TASK-0333",
+    "task": "Review careers brochure",
+    "workstream": "Newsletter",
+    "owner": "David Koch",
+    "due_date": "2026-07-25",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0334"
+  },
+  {
+    "id": "TASK-0334",
+    "task": "Request accessibility requirements",
+    "workstream": "Intranet",
+    "owner": "Clara Weber",
+    "due_date": "2026-07-30",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0335"
+  },
+  {
+    "id": "TASK-0335",
+    "task": "Archive approved assets",
+    "workstream": "Governance",
+    "owner": "Amira Richter",
+    "due_date": "2026-08-04",
+    "priority": "Low",
+    "status": "To do",
+    "related_id": "EVT-0336"
+  },
+  {
+    "id": "TASK-0336",
+    "task": "Confirm venue availability",
+    "workstream": "Newsletter",
+    "owner": "Jonas Schmidt",
+    "due_date": "2026-08-09",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0337"
+  },
+  {
+    "id": "TASK-0337",
+    "task": "Review newsletter draft",
+    "workstream": "HR marketing",
+    "owner": "Lea Schulz",
+    "due_date": "2026-08-14",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0338"
+  },
+  {
+    "id": "TASK-0338",
+    "task": "Collect department highlights",
+    "workstream": "Governance",
+    "owner": "Mateo Bauer",
+    "due_date": "2026-08-19",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0339"
+  },
+  {
+    "id": "TASK-0339",
+    "task": "Approve event invitation",
+    "workstream": "Intranet",
+    "owner": "Sofia Meyer",
+    "due_date": "2026-08-24",
+    "priority": "Low",
+    "status": "Waiting",
+    "related_id": "EVT-0340"
+  },
+  {
+    "id": "TASK-0340",
+    "task": "Reconcile supplier invoice",
+    "workstream": "Intranet",
+    "owner": "Noah Keller",
+    "due_date": "2026-08-29",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0341"
+  },
+  {
+    "id": "TASK-0341",
+    "task": "Publish intranet announcement",
+    "workstream": "Governance",
+    "owner": "Mila Becker",
+    "due_date": "2026-09-03",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0342"
+  },
+  {
+    "id": "TASK-0342",
+    "task": "Prepare registration form",
+    "workstream": "Internal event",
+    "owner": "Elias Braun",
+    "due_date": "2026-09-08",
+    "priority": "Low",
+    "status": "To do",
+    "related_id": "EVT-0343"
+  },
+  {
+    "id": "TASK-0343",
+    "task": "Confirm catering numbers",
+    "workstream": "HR marketing",
+    "owner": "Zara Wagner",
+    "due_date": "2026-09-13",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0344"
+  },
+  {
+    "id": "TASK-0344",
+    "task": "Share post-event survey",
+    "workstream": "Newsletter",
+    "owner": "Luca Neumann",
+    "due_date": "2026-09-18",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0345"
+  },
+  {
+    "id": "TASK-0345",
+    "task": "Update HR information page",
+    "workstream": "Newsletter",
+    "owner": "Freya Fischer",
+    "due_date": "2026-09-23",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0346"
+  },
+  {
+    "id": "TASK-0346",
+    "task": "Check AV equipment",
+    "workstream": "HR marketing",
+    "owner": "Theo Wolf",
+    "due_date": "2026-09-28",
+    "priority": "Low",
+    "status": "Waiting",
+    "related_id": "EVT-0347"
+  },
+  {
+    "id": "TASK-0347",
+    "task": "Prepare leadership talking points",
+    "workstream": "Intranet",
+    "owner": "Nina Hoffmann",
+    "due_date": "2026-10-03",
+    "priority": "Low",
+    "status": "Done",
+    "related_id": "EVT-0348"
+  },
+  {
+    "id": "TASK-0348",
+    "task": "Send calendar hold",
+    "workstream": "HR marketing",
+    "owner": "Ava Koch",
+    "due_date": "2026-10-08",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0349"
+  },
+  {
+    "id": "TASK-0349",
+    "task": "Review careers brochure",
+    "workstream": "Newsletter",
+    "owner": "Emil Weber",
+    "due_date": "2026-10-13",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0350"
+  },
+  {
+    "id": "TASK-0350",
+    "task": "Request accessibility requirements",
+    "workstream": "Internal event",
+    "owner": "Maya Richter",
+    "due_date": "2026-10-18",
+    "priority": "High",
+    "status": "To do",
+    "related_id": "EVT-0351"
+  },
+  {
+    "id": "TASK-0351",
+    "task": "Archive approved assets",
+    "workstream": "Internal event",
+    "owner": "Felix Schmidt",
+    "due_date": "2026-10-23",
+    "priority": "High",
+    "status": "Waiting",
+    "related_id": "EVT-0352"
+  },
+  {
+    "id": "TASK-0352",
+    "task": "Confirm venue availability",
+    "workstream": "Newsletter",
+    "owner": "Ines Schulz",
+    "due_date": "2026-10-28",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0353"
+  },
+  {
+    "id": "TASK-0353",
+    "task": "Review newsletter draft",
+    "workstream": "Newsletter",
+    "owner": "David Bauer",
+    "due_date": "2026-11-02",
+    "priority": "Low",
+    "status": "Waiting",
+    "related_id": "EVT-0354"
+  },
+  {
+    "id": "TASK-0354",
+    "task": "Collect department highlights",
+    "workstream": "Internal event",
+    "owner": "Clara Meyer",
+    "due_date": "2026-11-07",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0355"
+  },
+  {
+    "id": "TASK-0355",
+    "task": "Approve event invitation",
+    "workstream": "Internal event",
+    "owner": "Amira Keller",
+    "due_date": "2026-11-12",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0356"
+  },
+  {
+    "id": "TASK-0356",
+    "task": "Reconcile supplier invoice",
+    "workstream": "Internal event",
+    "owner": "Jonas Becker",
+    "due_date": "2026-11-17",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0357"
+  },
+  {
+    "id": "TASK-0357",
+    "task": "Publish intranet announcement",
+    "workstream": "Governance",
+    "owner": "Lea Braun",
+    "due_date": "2026-11-22",
+    "priority": "Low",
+    "status": "Done",
+    "related_id": "EVT-0358"
+  },
+  {
+    "id": "TASK-0358",
+    "task": "Prepare registration form",
+    "workstream": "HR marketing",
+    "owner": "Mateo Wagner",
+    "due_date": "2026-11-27",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0359"
+  },
+  {
+    "id": "TASK-0359",
+    "task": "Confirm catering numbers",
+    "workstream": "Newsletter",
+    "owner": "Sofia Neumann",
+    "due_date": "2026-12-02",
+    "priority": "Low",
+    "status": "Waiting",
+    "related_id": "EVT-0360"
+  },
+  {
+    "id": "TASK-0360",
+    "task": "Share post-event survey",
+    "workstream": "Governance",
+    "owner": "Noah Fischer",
+    "due_date": "2026-12-07",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0361"
+  },
+  {
+    "id": "TASK-0361",
+    "task": "Update HR information page",
+    "workstream": "Governance",
+    "owner": "Mila Wolf",
+    "due_date": "2026-12-12",
+    "priority": "High",
+    "status": "Done",
+    "related_id": "EVT-0362"
+  },
+  {
+    "id": "TASK-0362",
+    "task": "Check AV equipment",
+    "workstream": "Governance",
+    "owner": "Elias Hoffmann",
+    "due_date": "2026-12-17",
+    "priority": "Low",
+    "status": "To do",
+    "related_id": "EVT-0363"
+  },
+  {
+    "id": "TASK-0363",
+    "task": "Prepare leadership talking points",
+    "workstream": "Internal event",
+    "owner": "Zara Koch",
+    "due_date": "2026-12-22",
+    "priority": "Low",
+    "status": "Waiting",
+    "related_id": "EVT-0364"
+  },
+  {
+    "id": "TASK-0364",
+    "task": "Send calendar hold",
+    "workstream": "Governance",
+    "owner": "Luca Weber",
+    "due_date": "2026-12-27",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0365"
+  },
+  {
+    "id": "TASK-0365",
+    "task": "Review careers brochure",
+    "workstream": "Internal event",
+    "owner": "Freya Richter",
+    "due_date": "2026-01-01",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0366"
+  },
+  {
+    "id": "TASK-0366",
+    "task": "Request accessibility requirements",
+    "workstream": "Intranet",
+    "owner": "Theo Schmidt",
+    "due_date": "2026-01-06",
+    "priority": "Low",
+    "status": "Waiting",
+    "related_id": "EVT-0367"
+  },
+  {
+    "id": "TASK-0367",
+    "task": "Archive approved assets",
+    "workstream": "Newsletter",
+    "owner": "Nina Schulz",
+    "due_date": "2026-01-11",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0368"
+  },
+  {
+    "id": "TASK-0368",
+    "task": "Confirm venue availability",
+    "workstream": "Internal event",
+    "owner": "Ava Bauer",
+    "due_date": "2026-01-16",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0369"
+  },
+  {
+    "id": "TASK-0369",
+    "task": "Review newsletter draft",
+    "workstream": "Intranet",
+    "owner": "Emil Meyer",
+    "due_date": "2026-01-21",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0370"
+  },
+  {
+    "id": "TASK-0370",
+    "task": "Collect department highlights",
+    "workstream": "Newsletter",
+    "owner": "Maya Keller",
+    "due_date": "2026-01-26",
+    "priority": "Low",
+    "status": "Waiting",
+    "related_id": "EVT-0371"
+  },
+  {
+    "id": "TASK-0371",
+    "task": "Approve event invitation",
+    "workstream": "Intranet",
+    "owner": "Felix Becker",
+    "due_date": "2026-01-31",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0372"
+  },
+  {
+    "id": "TASK-0372",
+    "task": "Reconcile supplier invoice",
+    "workstream": "Internal event",
+    "owner": "Ines Braun",
+    "due_date": "2026-02-05",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0373"
+  },
+  {
+    "id": "TASK-0373",
+    "task": "Publish intranet announcement",
+    "workstream": "HR marketing",
+    "owner": "David Wagner",
+    "due_date": "2026-02-10",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0374"
+  },
+  {
+    "id": "TASK-0374",
+    "task": "Prepare registration form",
+    "workstream": "Newsletter",
+    "owner": "Clara Neumann",
+    "due_date": "2026-02-15",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0375"
+  },
+  {
+    "id": "TASK-0375",
+    "task": "Confirm catering numbers",
+    "workstream": "Internal event",
+    "owner": "Amira Fischer",
+    "due_date": "2026-02-20",
+    "priority": "High",
+    "status": "Done",
+    "related_id": "EVT-0376"
+  },
+  {
+    "id": "TASK-0376",
+    "task": "Share post-event survey",
+    "workstream": "Governance",
+    "owner": "Jonas Wolf",
+    "due_date": "2026-02-25",
+    "priority": "Low",
+    "status": "Done",
+    "related_id": "EVT-0377"
+  },
+  {
+    "id": "TASK-0377",
+    "task": "Update HR information page",
+    "workstream": "Internal event",
+    "owner": "Lea Hoffmann",
+    "due_date": "2026-03-02",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0378"
+  },
+  {
+    "id": "TASK-0378",
+    "task": "Check AV equipment",
+    "workstream": "Internal event",
+    "owner": "Mateo Koch",
+    "due_date": "2026-03-07",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0379"
+  },
+  {
+    "id": "TASK-0379",
+    "task": "Prepare leadership talking points",
+    "workstream": "Internal event",
+    "owner": "Sofia Weber",
+    "due_date": "2026-03-12",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0380"
+  },
+  {
+    "id": "TASK-0380",
+    "task": "Send calendar hold",
+    "workstream": "Intranet",
+    "owner": "Noah Richter",
+    "due_date": "2026-03-17",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0381"
+  },
+  {
+    "id": "TASK-0381",
+    "task": "Review careers brochure",
+    "workstream": "Internal event",
+    "owner": "Mila Schmidt",
+    "due_date": "2026-03-22",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0382"
+  },
+  {
+    "id": "TASK-0382",
+    "task": "Request accessibility requirements",
+    "workstream": "Newsletter",
+    "owner": "Elias Schulz",
+    "due_date": "2026-03-27",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0383"
+  },
+  {
+    "id": "TASK-0383",
+    "task": "Archive approved assets",
+    "workstream": "Intranet",
+    "owner": "Zara Bauer",
+    "due_date": "2026-04-01",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0384"
+  },
+  {
+    "id": "TASK-0384",
+    "task": "Confirm venue availability",
+    "workstream": "Newsletter",
+    "owner": "Luca Meyer",
+    "due_date": "2026-04-06",
+    "priority": "High",
+    "status": "To do",
+    "related_id": "EVT-0385"
+  },
+  {
+    "id": "TASK-0385",
+    "task": "Review newsletter draft",
+    "workstream": "HR marketing",
+    "owner": "Freya Keller",
+    "due_date": "2026-04-11",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0386"
+  },
+  {
+    "id": "TASK-0386",
+    "task": "Collect department highlights",
+    "workstream": "HR marketing",
+    "owner": "Theo Becker",
+    "due_date": "2026-04-16",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0387"
+  },
+  {
+    "id": "TASK-0387",
+    "task": "Approve event invitation",
+    "workstream": "Intranet",
+    "owner": "Nina Braun",
+    "due_date": "2026-04-21",
+    "priority": "High",
+    "status": "To do",
+    "related_id": "EVT-0388"
+  },
+  {
+    "id": "TASK-0388",
+    "task": "Reconcile supplier invoice",
+    "workstream": "Internal event",
+    "owner": "Ava Wagner",
+    "due_date": "2026-04-26",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0389"
+  },
+  {
+    "id": "TASK-0389",
+    "task": "Publish intranet announcement",
+    "workstream": "HR marketing",
+    "owner": "Emil Neumann",
+    "due_date": "2026-05-01",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0390"
+  },
+  {
+    "id": "TASK-0390",
+    "task": "Prepare registration form",
+    "workstream": "Governance",
+    "owner": "Maya Fischer",
+    "due_date": "2026-05-06",
+    "priority": "Low",
+    "status": "To do",
+    "related_id": "EVT-0391"
+  },
+  {
+    "id": "TASK-0391",
+    "task": "Confirm catering numbers",
+    "workstream": "Newsletter",
+    "owner": "Felix Wolf",
+    "due_date": "2026-05-11",
+    "priority": "Low",
+    "status": "Done",
+    "related_id": "EVT-0392"
+  },
+  {
+    "id": "TASK-0392",
+    "task": "Share post-event survey",
+    "workstream": "Internal event",
+    "owner": "Ines Hoffmann",
+    "due_date": "2026-05-16",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0393"
+  },
+  {
+    "id": "TASK-0393",
+    "task": "Update HR information page",
+    "workstream": "Newsletter",
+    "owner": "David Koch",
+    "due_date": "2026-05-21",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0394"
+  },
+  {
+    "id": "TASK-0394",
+    "task": "Check AV equipment",
+    "workstream": "Newsletter",
+    "owner": "Clara Weber",
+    "due_date": "2026-05-26",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0395"
+  },
+  {
+    "id": "TASK-0395",
+    "task": "Prepare leadership talking points",
+    "workstream": "Internal event",
+    "owner": "Amira Richter",
+    "due_date": "2026-05-31",
+    "priority": "High",
+    "status": "Done",
+    "related_id": "EVT-0396"
+  },
+  {
+    "id": "TASK-0396",
+    "task": "Send calendar hold",
+    "workstream": "Newsletter",
+    "owner": "Jonas Schmidt",
+    "due_date": "2026-06-05",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0397"
+  },
+  {
+    "id": "TASK-0397",
+    "task": "Review careers brochure",
+    "workstream": "Newsletter",
+    "owner": "Lea Schulz",
+    "due_date": "2026-06-10",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0398"
+  },
+  {
+    "id": "TASK-0398",
+    "task": "Request accessibility requirements",
+    "workstream": "Governance",
+    "owner": "Mateo Bauer",
+    "due_date": "2026-06-15",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0399"
+  },
+  {
+    "id": "TASK-0399",
+    "task": "Archive approved assets",
+    "workstream": "Intranet",
+    "owner": "Sofia Meyer",
+    "due_date": "2026-06-20",
+    "priority": "Low",
+    "status": "Waiting",
+    "related_id": "EVT-0400"
+  },
+  {
+    "id": "TASK-0400",
+    "task": "Confirm venue availability",
+    "workstream": "HR marketing",
+    "owner": "Noah Keller",
+    "due_date": "2026-06-25",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0401"
+  },
+  {
+    "id": "TASK-0401",
+    "task": "Review newsletter draft",
+    "workstream": "Intranet",
+    "owner": "Mila Becker",
+    "due_date": "2026-06-30",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0402"
+  },
+  {
+    "id": "TASK-0402",
+    "task": "Collect department highlights",
+    "workstream": "Internal event",
+    "owner": "Elias Braun",
+    "due_date": "2026-07-05",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0403"
+  },
+  {
+    "id": "TASK-0403",
+    "task": "Approve event invitation",
+    "workstream": "Internal event",
+    "owner": "Zara Wagner",
+    "due_date": "2026-07-10",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0404"
+  },
+  {
+    "id": "TASK-0404",
+    "task": "Reconcile supplier invoice",
+    "workstream": "HR marketing",
+    "owner": "Luca Neumann",
+    "due_date": "2026-07-15",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0405"
+  },
+  {
+    "id": "TASK-0405",
+    "task": "Publish intranet announcement",
+    "workstream": "Internal event",
+    "owner": "Freya Fischer",
+    "due_date": "2026-07-20",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0406"
+  },
+  {
+    "id": "TASK-0406",
+    "task": "Prepare registration form",
+    "workstream": "Newsletter",
+    "owner": "Theo Wolf",
+    "due_date": "2026-07-25",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0407"
+  },
+  {
+    "id": "TASK-0407",
+    "task": "Confirm catering numbers",
+    "workstream": "Newsletter",
+    "owner": "Nina Hoffmann",
+    "due_date": "2026-07-30",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0408"
+  },
+  {
+    "id": "TASK-0408",
+    "task": "Share post-event survey",
+    "workstream": "Newsletter",
+    "owner": "Ava Koch",
+    "due_date": "2026-08-04",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0409"
+  },
+  {
+    "id": "TASK-0409",
+    "task": "Update HR information page",
+    "workstream": "HR marketing",
+    "owner": "Emil Weber",
+    "due_date": "2026-08-09",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0410"
+  },
+  {
+    "id": "TASK-0410",
+    "task": "Check AV equipment",
+    "workstream": "Internal event",
+    "owner": "Maya Richter",
+    "due_date": "2026-08-14",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0411"
+  },
+  {
+    "id": "TASK-0411",
+    "task": "Prepare leadership talking points",
+    "workstream": "Governance",
+    "owner": "Felix Schmidt",
+    "due_date": "2026-08-19",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0412"
+  },
+  {
+    "id": "TASK-0412",
+    "task": "Send calendar hold",
+    "workstream": "Internal event",
+    "owner": "Ines Schulz",
+    "due_date": "2026-08-24",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0413"
+  },
+  {
+    "id": "TASK-0413",
+    "task": "Review careers brochure",
+    "workstream": "Newsletter",
+    "owner": "David Bauer",
+    "due_date": "2026-08-29",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0414"
+  },
+  {
+    "id": "TASK-0414",
+    "task": "Request accessibility requirements",
+    "workstream": "Intranet",
+    "owner": "Clara Meyer",
+    "due_date": "2026-09-03",
+    "priority": "High",
+    "status": "To do",
+    "related_id": "EVT-0415"
+  },
+  {
+    "id": "TASK-0415",
+    "task": "Archive approved assets",
+    "workstream": "HR marketing",
+    "owner": "Amira Keller",
+    "due_date": "2026-09-08",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0416"
+  },
+  {
+    "id": "TASK-0416",
+    "task": "Confirm venue availability",
+    "workstream": "Internal event",
+    "owner": "Jonas Becker",
+    "due_date": "2026-09-13",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0417"
+  },
+  {
+    "id": "TASK-0417",
+    "task": "Review newsletter draft",
+    "workstream": "Newsletter",
+    "owner": "Lea Braun",
+    "due_date": "2026-09-18",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0418"
+  },
+  {
+    "id": "TASK-0418",
+    "task": "Collect department highlights",
+    "workstream": "Intranet",
+    "owner": "Mateo Wagner",
+    "due_date": "2026-09-23",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0419"
+  },
+  {
+    "id": "TASK-0419",
+    "task": "Approve event invitation",
+    "workstream": "Internal event",
+    "owner": "Sofia Neumann",
+    "due_date": "2026-09-28",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0420"
+  },
+  {
+    "id": "TASK-0420",
+    "task": "Reconcile supplier invoice",
+    "workstream": "Internal event",
+    "owner": "Noah Fischer",
+    "due_date": "2026-10-03",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0421"
+  },
+  {
+    "id": "TASK-0421",
+    "task": "Publish intranet announcement",
+    "workstream": "Internal event",
+    "owner": "Mila Wolf",
+    "due_date": "2026-10-08",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0422"
+  },
+  {
+    "id": "TASK-0422",
+    "task": "Prepare registration form",
+    "workstream": "Internal event",
+    "owner": "Elias Hoffmann",
+    "due_date": "2026-10-13",
+    "priority": "Low",
+    "status": "To do",
+    "related_id": "EVT-0423"
+  },
+  {
+    "id": "TASK-0423",
+    "task": "Confirm catering numbers",
+    "workstream": "Governance",
+    "owner": "Zara Koch",
+    "due_date": "2026-10-18",
+    "priority": "High",
+    "status": "Waiting",
+    "related_id": "EVT-0424"
+  },
+  {
+    "id": "TASK-0424",
+    "task": "Share post-event survey",
+    "workstream": "Governance",
+    "owner": "Luca Weber",
+    "due_date": "2026-10-23",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0425"
+  },
+  {
+    "id": "TASK-0425",
+    "task": "Update HR information page",
+    "workstream": "HR marketing",
+    "owner": "Freya Richter",
+    "due_date": "2026-10-28",
+    "priority": "High",
+    "status": "To do",
+    "related_id": "EVT-0426"
+  },
+  {
+    "id": "TASK-0426",
+    "task": "Check AV equipment",
+    "workstream": "Governance",
+    "owner": "Theo Schmidt",
+    "due_date": "2026-11-02",
+    "priority": "High",
+    "status": "Waiting",
+    "related_id": "EVT-0427"
+  },
+  {
+    "id": "TASK-0427",
+    "task": "Prepare leadership talking points",
+    "workstream": "Governance",
+    "owner": "Nina Schulz",
+    "due_date": "2026-11-07",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0428"
+  },
+  {
+    "id": "TASK-0428",
+    "task": "Send calendar hold",
+    "workstream": "HR marketing",
+    "owner": "Ava Bauer",
+    "due_date": "2026-11-12",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0429"
+  },
+  {
+    "id": "TASK-0429",
+    "task": "Review careers brochure",
+    "workstream": "Internal event",
+    "owner": "Emil Meyer",
+    "due_date": "2026-11-17",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0430"
+  },
+  {
+    "id": "TASK-0430",
+    "task": "Request accessibility requirements",
+    "workstream": "Governance",
+    "owner": "Maya Keller",
+    "due_date": "2026-11-22",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0431"
+  },
+  {
+    "id": "TASK-0431",
+    "task": "Archive approved assets",
+    "workstream": "Intranet",
+    "owner": "Felix Becker",
+    "due_date": "2026-11-27",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0432"
+  },
+  {
+    "id": "TASK-0432",
+    "task": "Confirm venue availability",
+    "workstream": "Newsletter",
+    "owner": "Ines Braun",
+    "due_date": "2026-12-02",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0433"
+  },
+  {
+    "id": "TASK-0433",
+    "task": "Review newsletter draft",
+    "workstream": "Internal event",
+    "owner": "David Wagner",
+    "due_date": "2026-12-07",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0434"
+  },
+  {
+    "id": "TASK-0434",
+    "task": "Collect department highlights",
+    "workstream": "Internal event",
+    "owner": "Clara Neumann",
+    "due_date": "2026-12-12",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0435"
+  },
+  {
+    "id": "TASK-0435",
+    "task": "Approve event invitation",
+    "workstream": "Governance",
+    "owner": "Amira Fischer",
+    "due_date": "2026-12-17",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0436"
+  },
+  {
+    "id": "TASK-0436",
+    "task": "Reconcile supplier invoice",
+    "workstream": "HR marketing",
+    "owner": "Jonas Wolf",
+    "due_date": "2026-12-22",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0437"
+  },
+  {
+    "id": "TASK-0437",
+    "task": "Publish intranet announcement",
+    "workstream": "Internal event",
+    "owner": "Lea Hoffmann",
+    "due_date": "2026-12-27",
+    "priority": "Low",
+    "status": "Done",
+    "related_id": "EVT-0438"
+  },
+  {
+    "id": "TASK-0438",
+    "task": "Prepare registration form",
+    "workstream": "Governance",
+    "owner": "Mateo Koch",
+    "due_date": "2026-01-01",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0439"
+  },
+  {
+    "id": "TASK-0439",
+    "task": "Confirm catering numbers",
+    "workstream": "HR marketing",
+    "owner": "Sofia Weber",
+    "due_date": "2026-01-06",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0440"
+  },
+  {
+    "id": "TASK-0440",
+    "task": "Share post-event survey",
+    "workstream": "Intranet",
+    "owner": "Noah Richter",
+    "due_date": "2026-01-11",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0441"
+  },
+  {
+    "id": "TASK-0441",
+    "task": "Update HR information page",
+    "workstream": "HR marketing",
+    "owner": "Mila Schmidt",
+    "due_date": "2026-01-16",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0442"
+  },
+  {
+    "id": "TASK-0442",
+    "task": "Check AV equipment",
+    "workstream": "HR marketing",
+    "owner": "Elias Schulz",
+    "due_date": "2026-01-21",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0443"
+  },
+  {
+    "id": "TASK-0443",
+    "task": "Prepare leadership talking points",
+    "workstream": "Newsletter",
+    "owner": "Zara Bauer",
+    "due_date": "2026-01-26",
+    "priority": "Low",
+    "status": "Waiting",
+    "related_id": "EVT-0444"
+  },
+  {
+    "id": "TASK-0444",
+    "task": "Send calendar hold",
+    "workstream": "Newsletter",
+    "owner": "Luca Meyer",
+    "due_date": "2026-01-31",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0445"
+  },
+  {
+    "id": "TASK-0445",
+    "task": "Review careers brochure",
+    "workstream": "Newsletter",
+    "owner": "Freya Keller",
+    "due_date": "2026-02-05",
+    "priority": "Low",
+    "status": "Done",
+    "related_id": "EVT-0446"
+  },
+  {
+    "id": "TASK-0446",
+    "task": "Request accessibility requirements",
+    "workstream": "HR marketing",
+    "owner": "Theo Becker",
+    "due_date": "2026-02-10",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0447"
+  },
+  {
+    "id": "TASK-0447",
+    "task": "Archive approved assets",
+    "workstream": "Governance",
+    "owner": "Nina Braun",
+    "due_date": "2026-02-15",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0448"
+  },
+  {
+    "id": "TASK-0448",
+    "task": "Confirm venue availability",
+    "workstream": "Intranet",
+    "owner": "Ava Wagner",
+    "due_date": "2026-02-20",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0449"
+  },
+  {
+    "id": "TASK-0449",
+    "task": "Review newsletter draft",
+    "workstream": "HR marketing",
+    "owner": "Emil Neumann",
+    "due_date": "2026-02-25",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0450"
+  },
+  {
+    "id": "TASK-0450",
+    "task": "Collect department highlights",
+    "workstream": "HR marketing",
+    "owner": "Maya Fischer",
+    "due_date": "2026-03-02",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0451"
+  },
+  {
+    "id": "TASK-0451",
+    "task": "Approve event invitation",
+    "workstream": "Newsletter",
+    "owner": "Felix Wolf",
+    "due_date": "2026-03-07",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0452"
+  },
+  {
+    "id": "TASK-0452",
+    "task": "Reconcile supplier invoice",
+    "workstream": "Governance",
+    "owner": "Ines Hoffmann",
+    "due_date": "2026-03-12",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0453"
+  },
+  {
+    "id": "TASK-0453",
+    "task": "Publish intranet announcement",
+    "workstream": "Intranet",
+    "owner": "David Koch",
+    "due_date": "2026-03-17",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0454"
+  },
+  {
+    "id": "TASK-0454",
+    "task": "Prepare registration form",
+    "workstream": "Intranet",
+    "owner": "Clara Weber",
+    "due_date": "2026-03-22",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0455"
+  },
+  {
+    "id": "TASK-0455",
+    "task": "Confirm catering numbers",
+    "workstream": "HR marketing",
+    "owner": "Amira Richter",
+    "due_date": "2026-03-27",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0456"
+  },
+  {
+    "id": "TASK-0456",
+    "task": "Share post-event survey",
+    "workstream": "HR marketing",
+    "owner": "Jonas Schmidt",
+    "due_date": "2026-04-01",
+    "priority": "Low",
+    "status": "To do",
+    "related_id": "EVT-0457"
+  },
+  {
+    "id": "TASK-0457",
+    "task": "Update HR information page",
+    "workstream": "Intranet",
+    "owner": "Lea Schulz",
+    "due_date": "2026-04-06",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0458"
+  },
+  {
+    "id": "TASK-0458",
+    "task": "Check AV equipment",
+    "workstream": "Newsletter",
+    "owner": "Mateo Bauer",
+    "due_date": "2026-04-11",
+    "priority": "Low",
+    "status": "To do",
+    "related_id": "EVT-0459"
+  },
+  {
+    "id": "TASK-0459",
+    "task": "Prepare leadership talking points",
+    "workstream": "HR marketing",
+    "owner": "Sofia Meyer",
+    "due_date": "2026-04-16",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0460"
+  },
+  {
+    "id": "TASK-0460",
+    "task": "Send calendar hold",
+    "workstream": "Intranet",
+    "owner": "Noah Keller",
+    "due_date": "2026-04-21",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0461"
+  },
+  {
+    "id": "TASK-0461",
+    "task": "Review careers brochure",
+    "workstream": "Newsletter",
+    "owner": "Mila Becker",
+    "due_date": "2026-04-26",
+    "priority": "Low",
+    "status": "To do",
+    "related_id": "EVT-0462"
+  },
+  {
+    "id": "TASK-0462",
+    "task": "Request accessibility requirements",
+    "workstream": "HR marketing",
+    "owner": "Elias Braun",
+    "due_date": "2026-05-01",
+    "priority": "High",
+    "status": "Waiting",
+    "related_id": "EVT-0463"
+  },
+  {
+    "id": "TASK-0463",
+    "task": "Archive approved assets",
+    "workstream": "Newsletter",
+    "owner": "Zara Wagner",
+    "due_date": "2026-05-06",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0464"
+  },
+  {
+    "id": "TASK-0464",
+    "task": "Confirm venue availability",
+    "workstream": "Intranet",
+    "owner": "Luca Neumann",
+    "due_date": "2026-05-11",
+    "priority": "High",
+    "status": "To do",
+    "related_id": "EVT-0465"
+  },
+  {
+    "id": "TASK-0465",
+    "task": "Review newsletter draft",
+    "workstream": "Internal event",
+    "owner": "Freya Fischer",
+    "due_date": "2026-05-16",
+    "priority": "High",
+    "status": "To do",
+    "related_id": "EVT-0466"
+  },
+  {
+    "id": "TASK-0466",
+    "task": "Collect department highlights",
+    "workstream": "Newsletter",
+    "owner": "Theo Wolf",
+    "due_date": "2026-05-21",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0467"
+  },
+  {
+    "id": "TASK-0467",
+    "task": "Approve event invitation",
+    "workstream": "Newsletter",
+    "owner": "Nina Hoffmann",
+    "due_date": "2026-05-26",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0468"
+  },
+  {
+    "id": "TASK-0468",
+    "task": "Reconcile supplier invoice",
+    "workstream": "Newsletter",
+    "owner": "Ava Koch",
+    "due_date": "2026-05-31",
+    "priority": "Low",
+    "status": "To do",
+    "related_id": "EVT-0469"
+  },
+  {
+    "id": "TASK-0469",
+    "task": "Publish intranet announcement",
+    "workstream": "Intranet",
+    "owner": "Emil Weber",
+    "due_date": "2026-06-05",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0470"
+  },
+  {
+    "id": "TASK-0470",
+    "task": "Prepare registration form",
+    "workstream": "Newsletter",
+    "owner": "Maya Richter",
+    "due_date": "2026-06-10",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0471"
+  },
+  {
+    "id": "TASK-0471",
+    "task": "Confirm catering numbers",
+    "workstream": "Internal event",
+    "owner": "Felix Schmidt",
+    "due_date": "2026-06-15",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0472"
+  },
+  {
+    "id": "TASK-0472",
+    "task": "Share post-event survey",
+    "workstream": "HR marketing",
+    "owner": "Ines Schulz",
+    "due_date": "2026-06-20",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0473"
+  },
+  {
+    "id": "TASK-0473",
+    "task": "Update HR information page",
+    "workstream": "Internal event",
+    "owner": "David Bauer",
+    "due_date": "2026-06-25",
+    "priority": "High",
+    "status": "Done",
+    "related_id": "EVT-0474"
+  },
+  {
+    "id": "TASK-0474",
+    "task": "Check AV equipment",
+    "workstream": "Intranet",
+    "owner": "Clara Meyer",
+    "due_date": "2026-06-30",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0475"
+  },
+  {
+    "id": "TASK-0475",
+    "task": "Prepare leadership talking points",
+    "workstream": "Newsletter",
+    "owner": "Amira Keller",
+    "due_date": "2026-07-05",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0476"
+  },
+  {
+    "id": "TASK-0476",
+    "task": "Send calendar hold",
+    "workstream": "Governance",
+    "owner": "Jonas Becker",
+    "due_date": "2026-07-10",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0477"
+  },
+  {
+    "id": "TASK-0477",
+    "task": "Review careers brochure",
+    "workstream": "Newsletter",
+    "owner": "Lea Braun",
+    "due_date": "2026-07-15",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0478"
+  },
+  {
+    "id": "TASK-0478",
+    "task": "Request accessibility requirements",
+    "workstream": "Newsletter",
+    "owner": "Mateo Wagner",
+    "due_date": "2026-07-20",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0479"
+  },
+  {
+    "id": "TASK-0479",
+    "task": "Archive approved assets",
+    "workstream": "Internal event",
+    "owner": "Sofia Neumann",
+    "due_date": "2026-07-25",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0480"
+  },
+  {
+    "id": "TASK-0480",
+    "task": "Confirm venue availability",
+    "workstream": "HR marketing",
+    "owner": "Noah Fischer",
+    "due_date": "2026-07-30",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0481"
+  },
+  {
+    "id": "TASK-0481",
+    "task": "Review newsletter draft",
+    "workstream": "Governance",
+    "owner": "Mila Wolf",
+    "due_date": "2026-08-04",
+    "priority": "Low",
+    "status": "Waiting",
+    "related_id": "EVT-0482"
+  },
+  {
+    "id": "TASK-0482",
+    "task": "Collect department highlights",
+    "workstream": "Governance",
+    "owner": "Elias Hoffmann",
+    "due_date": "2026-08-09",
+    "priority": "Low",
+    "status": "Done",
+    "related_id": "EVT-0483"
+  },
+  {
+    "id": "TASK-0483",
+    "task": "Approve event invitation",
+    "workstream": "HR marketing",
+    "owner": "Zara Koch",
+    "due_date": "2026-08-14",
+    "priority": "Low",
+    "status": "Waiting",
+    "related_id": "EVT-0484"
+  },
+  {
+    "id": "TASK-0484",
+    "task": "Reconcile supplier invoice",
+    "workstream": "Internal event",
+    "owner": "Luca Weber",
+    "due_date": "2026-08-19",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0485"
+  },
+  {
+    "id": "TASK-0485",
+    "task": "Publish intranet announcement",
+    "workstream": "Intranet",
+    "owner": "Freya Richter",
+    "due_date": "2026-08-24",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0486"
+  },
+  {
+    "id": "TASK-0486",
+    "task": "Prepare registration form",
+    "workstream": "HR marketing",
+    "owner": "Theo Schmidt",
+    "due_date": "2026-08-29",
+    "priority": "Low",
+    "status": "To do",
+    "related_id": "EVT-0487"
+  },
+  {
+    "id": "TASK-0487",
+    "task": "Confirm catering numbers",
+    "workstream": "Internal event",
+    "owner": "Nina Schulz",
+    "due_date": "2026-09-03",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0488"
+  },
+  {
+    "id": "TASK-0488",
+    "task": "Share post-event survey",
+    "workstream": "HR marketing",
+    "owner": "Ava Bauer",
+    "due_date": "2026-09-08",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0489"
+  },
+  {
+    "id": "TASK-0489",
+    "task": "Update HR information page",
+    "workstream": "Intranet",
+    "owner": "Emil Meyer",
+    "due_date": "2026-09-13",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0490"
+  },
+  {
+    "id": "TASK-0490",
+    "task": "Check AV equipment",
+    "workstream": "HR marketing",
+    "owner": "Maya Keller",
+    "due_date": "2026-09-18",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0491"
+  },
+  {
+    "id": "TASK-0491",
+    "task": "Prepare leadership talking points",
+    "workstream": "Internal event",
+    "owner": "Felix Becker",
+    "due_date": "2026-09-23",
+    "priority": "Low",
+    "status": "To do",
+    "related_id": "EVT-0492"
+  },
+  {
+    "id": "TASK-0492",
+    "task": "Send calendar hold",
+    "workstream": "Intranet",
+    "owner": "Ines Braun",
+    "due_date": "2026-09-28",
+    "priority": "High",
+    "status": "Done",
+    "related_id": "EVT-0493"
+  },
+  {
+    "id": "TASK-0493",
+    "task": "Review careers brochure",
+    "workstream": "Newsletter",
+    "owner": "David Wagner",
+    "due_date": "2026-10-03",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0494"
+  },
+  {
+    "id": "TASK-0494",
+    "task": "Request accessibility requirements",
+    "workstream": "Governance",
+    "owner": "Clara Neumann",
+    "due_date": "2026-10-08",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0495"
+  },
+  {
+    "id": "TASK-0495",
+    "task": "Archive approved assets",
+    "workstream": "Internal event",
+    "owner": "Amira Fischer",
+    "due_date": "2026-10-13",
+    "priority": "High",
+    "status": "To do",
+    "related_id": "EVT-0496"
+  },
+  {
+    "id": "TASK-0496",
+    "task": "Confirm venue availability",
+    "workstream": "Intranet",
+    "owner": "Jonas Wolf",
+    "due_date": "2026-10-18",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0497"
+  },
+  {
+    "id": "TASK-0497",
+    "task": "Review newsletter draft",
+    "workstream": "Newsletter",
+    "owner": "Lea Hoffmann",
+    "due_date": "2026-10-23",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0498"
+  },
+  {
+    "id": "TASK-0498",
+    "task": "Collect department highlights",
+    "workstream": "Internal event",
+    "owner": "Mateo Koch",
+    "due_date": "2026-10-28",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0499"
+  },
+  {
+    "id": "TASK-0499",
+    "task": "Approve event invitation",
+    "workstream": "Newsletter",
+    "owner": "Sofia Weber",
+    "due_date": "2026-11-02",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0500"
+  },
+  {
+    "id": "TASK-0500",
+    "task": "Reconcile supplier invoice",
+    "workstream": "HR marketing",
+    "owner": "Noah Richter",
+    "due_date": "2026-11-07",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0501"
+  },
+  {
+    "id": "TASK-0501",
+    "task": "Publish intranet announcement",
+    "workstream": "Newsletter",
+    "owner": "Mila Schmidt",
+    "due_date": "2026-11-12",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0502"
+  },
+  {
+    "id": "TASK-0502",
+    "task": "Prepare registration form",
+    "workstream": "Newsletter",
+    "owner": "Elias Schulz",
+    "due_date": "2026-11-17",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0503"
+  },
+  {
+    "id": "TASK-0503",
+    "task": "Confirm catering numbers",
+    "workstream": "Internal event",
+    "owner": "Zara Bauer",
+    "due_date": "2026-11-22",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0504"
+  },
+  {
+    "id": "TASK-0504",
+    "task": "Share post-event survey",
+    "workstream": "Newsletter",
+    "owner": "Luca Meyer",
+    "due_date": "2026-11-27",
+    "priority": "High",
+    "status": "Done",
+    "related_id": "EVT-0505"
+  },
+  {
+    "id": "TASK-0505",
+    "task": "Update HR information page",
+    "workstream": "Governance",
+    "owner": "Freya Keller",
+    "due_date": "2026-12-02",
+    "priority": "Low",
+    "status": "To do",
+    "related_id": "EVT-0506"
+  },
+  {
+    "id": "TASK-0506",
+    "task": "Check AV equipment",
+    "workstream": "Newsletter",
+    "owner": "Theo Becker",
+    "due_date": "2026-12-07",
+    "priority": "High",
+    "status": "Waiting",
+    "related_id": "EVT-0507"
+  },
+  {
+    "id": "TASK-0507",
+    "task": "Prepare leadership talking points",
+    "workstream": "Internal event",
+    "owner": "Nina Braun",
+    "due_date": "2026-12-12",
+    "priority": "Low",
+    "status": "Waiting",
+    "related_id": "EVT-0508"
+  },
+  {
+    "id": "TASK-0508",
+    "task": "Send calendar hold",
+    "workstream": "Internal event",
+    "owner": "Ava Wagner",
+    "due_date": "2026-12-17",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0509"
+  },
+  {
+    "id": "TASK-0509",
+    "task": "Review careers brochure",
+    "workstream": "Newsletter",
+    "owner": "Emil Neumann",
+    "due_date": "2026-12-22",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0510"
+  },
+  {
+    "id": "TASK-0510",
+    "task": "Request accessibility requirements",
+    "workstream": "HR marketing",
+    "owner": "Maya Fischer",
+    "due_date": "2026-12-27",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0511"
+  },
+  {
+    "id": "TASK-0511",
+    "task": "Archive approved assets",
+    "workstream": "Intranet",
+    "owner": "Felix Wolf",
+    "due_date": "2026-01-01",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0512"
+  },
+  {
+    "id": "TASK-0512",
+    "task": "Confirm venue availability",
+    "workstream": "Intranet",
+    "owner": "Ines Hoffmann",
+    "due_date": "2026-01-06",
+    "priority": "Low",
+    "status": "Waiting",
+    "related_id": "EVT-0513"
+  },
+  {
+    "id": "TASK-0513",
+    "task": "Review newsletter draft",
+    "workstream": "HR marketing",
+    "owner": "David Koch",
+    "due_date": "2026-01-11",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0514"
+  },
+  {
+    "id": "TASK-0514",
+    "task": "Collect department highlights",
+    "workstream": "Newsletter",
+    "owner": "Clara Weber",
+    "due_date": "2026-01-16",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0515"
+  },
+  {
+    "id": "TASK-0515",
+    "task": "Approve event invitation",
+    "workstream": "HR marketing",
+    "owner": "Amira Richter",
+    "due_date": "2026-01-21",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0516"
+  },
+  {
+    "id": "TASK-0516",
+    "task": "Reconcile supplier invoice",
+    "workstream": "Newsletter",
+    "owner": "Jonas Schmidt",
+    "due_date": "2026-01-26",
+    "priority": "Low",
+    "status": "Done",
+    "related_id": "EVT-0517"
+  },
+  {
+    "id": "TASK-0517",
+    "task": "Publish intranet announcement",
+    "workstream": "Intranet",
+    "owner": "Lea Schulz",
+    "due_date": "2026-01-31",
+    "priority": "Low",
+    "status": "Done",
+    "related_id": "EVT-0518"
+  },
+  {
+    "id": "TASK-0518",
+    "task": "Prepare registration form",
+    "workstream": "Intranet",
+    "owner": "Mateo Bauer",
+    "due_date": "2026-02-05",
+    "priority": "High",
+    "status": "To do",
+    "related_id": "EVT-0519"
+  },
+  {
+    "id": "TASK-0519",
+    "task": "Confirm catering numbers",
+    "workstream": "HR marketing",
+    "owner": "Sofia Meyer",
+    "due_date": "2026-02-10",
+    "priority": "Low",
+    "status": "Done",
+    "related_id": "EVT-0520"
+  },
+  {
+    "id": "TASK-0520",
+    "task": "Share post-event survey",
+    "workstream": "Newsletter",
+    "owner": "Noah Keller",
+    "due_date": "2026-02-15",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0521"
+  },
+  {
+    "id": "TASK-0521",
+    "task": "Update HR information page",
+    "workstream": "Intranet",
+    "owner": "Mila Becker",
+    "due_date": "2026-02-20",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0522"
+  },
+  {
+    "id": "TASK-0522",
+    "task": "Check AV equipment",
+    "workstream": "HR marketing",
+    "owner": "Elias Braun",
+    "due_date": "2026-02-25",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0523"
+  },
+  {
+    "id": "TASK-0523",
+    "task": "Prepare leadership talking points",
+    "workstream": "Internal event",
+    "owner": "Zara Wagner",
+    "due_date": "2026-03-02",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0524"
+  },
+  {
+    "id": "TASK-0524",
+    "task": "Send calendar hold",
+    "workstream": "Newsletter",
+    "owner": "Luca Neumann",
+    "due_date": "2026-03-07",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0525"
+  },
+  {
+    "id": "TASK-0525",
+    "task": "Review careers brochure",
+    "workstream": "Intranet",
+    "owner": "Freya Fischer",
+    "due_date": "2026-03-12",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0526"
+  },
+  {
+    "id": "TASK-0526",
+    "task": "Request accessibility requirements",
+    "workstream": "Governance",
+    "owner": "Theo Wolf",
+    "due_date": "2026-03-17",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0527"
+  },
+  {
+    "id": "TASK-0527",
+    "task": "Archive approved assets",
+    "workstream": "Internal event",
+    "owner": "Nina Hoffmann",
+    "due_date": "2026-03-22",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0528"
+  },
+  {
+    "id": "TASK-0528",
+    "task": "Confirm venue availability",
+    "workstream": "Newsletter",
+    "owner": "Ava Koch",
+    "due_date": "2026-03-27",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0529"
+  },
+  {
+    "id": "TASK-0529",
+    "task": "Review newsletter draft",
+    "workstream": "Newsletter",
+    "owner": "Emil Weber",
+    "due_date": "2026-04-01",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0530"
+  },
+  {
+    "id": "TASK-0530",
+    "task": "Collect department highlights",
+    "workstream": "Intranet",
+    "owner": "Maya Richter",
+    "due_date": "2026-04-06",
+    "priority": "High",
+    "status": "To do",
+    "related_id": "EVT-0531"
+  },
+  {
+    "id": "TASK-0531",
+    "task": "Approve event invitation",
+    "workstream": "Internal event",
+    "owner": "Felix Schmidt",
+    "due_date": "2026-04-11",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0532"
+  },
+  {
+    "id": "TASK-0532",
+    "task": "Reconcile supplier invoice",
+    "workstream": "Intranet",
+    "owner": "Ines Schulz",
+    "due_date": "2026-04-16",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0533"
+  },
+  {
+    "id": "TASK-0533",
+    "task": "Publish intranet announcement",
+    "workstream": "Internal event",
+    "owner": "David Bauer",
+    "due_date": "2026-04-21",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0534"
+  },
+  {
+    "id": "TASK-0534",
+    "task": "Prepare registration form",
+    "workstream": "Newsletter",
+    "owner": "Clara Meyer",
+    "due_date": "2026-04-26",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0535"
+  },
+  {
+    "id": "TASK-0535",
+    "task": "Confirm catering numbers",
+    "workstream": "Newsletter",
+    "owner": "Amira Keller",
+    "due_date": "2026-05-01",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0536"
+  },
+  {
+    "id": "TASK-0536",
+    "task": "Share post-event survey",
+    "workstream": "Internal event",
+    "owner": "Jonas Becker",
+    "due_date": "2026-05-06",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0537"
+  },
+  {
+    "id": "TASK-0537",
+    "task": "Update HR information page",
+    "workstream": "Newsletter",
+    "owner": "Lea Braun",
+    "due_date": "2026-05-11",
+    "priority": "High",
+    "status": "Done",
+    "related_id": "EVT-0538"
+  },
+  {
+    "id": "TASK-0538",
+    "task": "Check AV equipment",
+    "workstream": "Internal event",
+    "owner": "Mateo Wagner",
+    "due_date": "2026-05-16",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0539"
+  },
+  {
+    "id": "TASK-0539",
+    "task": "Prepare leadership talking points",
+    "workstream": "HR marketing",
+    "owner": "Sofia Neumann",
+    "due_date": "2026-05-21",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0540"
+  },
+  {
+    "id": "TASK-0540",
+    "task": "Send calendar hold",
+    "workstream": "Internal event",
+    "owner": "Noah Fischer",
+    "due_date": "2026-05-26",
+    "priority": "Low",
+    "status": "Done",
+    "related_id": "EVT-0541"
+  },
+  {
+    "id": "TASK-0541",
+    "task": "Review careers brochure",
+    "workstream": "Intranet",
+    "owner": "Mila Wolf",
+    "due_date": "2026-05-31",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0542"
+  },
+  {
+    "id": "TASK-0542",
+    "task": "Request accessibility requirements",
+    "workstream": "HR marketing",
+    "owner": "Elias Hoffmann",
+    "due_date": "2026-06-05",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0543"
+  },
+  {
+    "id": "TASK-0543",
+    "task": "Archive approved assets",
+    "workstream": "Internal event",
+    "owner": "Zara Koch",
+    "due_date": "2026-06-10",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0544"
+  },
+  {
+    "id": "TASK-0544",
+    "task": "Confirm venue availability",
+    "workstream": "Internal event",
+    "owner": "Luca Weber",
+    "due_date": "2026-06-15",
+    "priority": "Low",
+    "status": "To do",
+    "related_id": "EVT-0545"
+  },
+  {
+    "id": "TASK-0545",
+    "task": "Review newsletter draft",
+    "workstream": "Newsletter",
+    "owner": "Freya Richter",
+    "due_date": "2026-06-20",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0546"
+  },
+  {
+    "id": "TASK-0546",
+    "task": "Collect department highlights",
+    "workstream": "Governance",
+    "owner": "Theo Schmidt",
+    "due_date": "2026-06-25",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0547"
+  },
+  {
+    "id": "TASK-0547",
+    "task": "Approve event invitation",
+    "workstream": "Intranet",
+    "owner": "Nina Schulz",
+    "due_date": "2026-06-30",
+    "priority": "Low",
+    "status": "Waiting",
+    "related_id": "EVT-0548"
+  },
+  {
+    "id": "TASK-0548",
+    "task": "Reconcile supplier invoice",
+    "workstream": "Intranet",
+    "owner": "Ava Bauer",
+    "due_date": "2026-07-05",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0549"
+  },
+  {
+    "id": "TASK-0549",
+    "task": "Publish intranet announcement",
+    "workstream": "Governance",
+    "owner": "Emil Meyer",
+    "due_date": "2026-07-10",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0550"
+  },
+  {
+    "id": "TASK-0550",
+    "task": "Prepare registration form",
+    "workstream": "Internal event",
+    "owner": "Maya Keller",
+    "due_date": "2026-07-15",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0551"
+  },
+  {
+    "id": "TASK-0551",
+    "task": "Confirm catering numbers",
+    "workstream": "Intranet",
+    "owner": "Felix Becker",
+    "due_date": "2026-07-20",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0552"
+  },
+  {
+    "id": "TASK-0552",
+    "task": "Share post-event survey",
+    "workstream": "Intranet",
+    "owner": "Ines Braun",
+    "due_date": "2026-07-25",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0553"
+  },
+  {
+    "id": "TASK-0553",
+    "task": "Update HR information page",
+    "workstream": "Newsletter",
+    "owner": "David Wagner",
+    "due_date": "2026-07-30",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0554"
+  },
+  {
+    "id": "TASK-0554",
+    "task": "Check AV equipment",
+    "workstream": "HR marketing",
+    "owner": "Clara Neumann",
+    "due_date": "2026-08-04",
+    "priority": "High",
+    "status": "Waiting",
+    "related_id": "EVT-0555"
+  },
+  {
+    "id": "TASK-0555",
+    "task": "Prepare leadership talking points",
+    "workstream": "Intranet",
+    "owner": "Amira Fischer",
+    "due_date": "2026-08-09",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0556"
+  },
+  {
+    "id": "TASK-0556",
+    "task": "Send calendar hold",
+    "workstream": "Intranet",
+    "owner": "Jonas Wolf",
+    "due_date": "2026-08-14",
+    "priority": "Low",
+    "status": "Waiting",
+    "related_id": "EVT-0557"
+  },
+  {
+    "id": "TASK-0557",
+    "task": "Review careers brochure",
+    "workstream": "Governance",
+    "owner": "Lea Hoffmann",
+    "due_date": "2026-08-19",
+    "priority": "Low",
+    "status": "To do",
+    "related_id": "EVT-0558"
+  },
+  {
+    "id": "TASK-0558",
+    "task": "Request accessibility requirements",
+    "workstream": "Internal event",
+    "owner": "Mateo Koch",
+    "due_date": "2026-08-24",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0559"
+  },
+  {
+    "id": "TASK-0559",
+    "task": "Archive approved assets",
+    "workstream": "Intranet",
+    "owner": "Sofia Weber",
+    "due_date": "2026-08-29",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0560"
+  },
+  {
+    "id": "TASK-0560",
+    "task": "Confirm venue availability",
+    "workstream": "Internal event",
+    "owner": "Noah Richter",
+    "due_date": "2026-09-03",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0561"
+  },
+  {
+    "id": "TASK-0561",
+    "task": "Review newsletter draft",
+    "workstream": "Governance",
+    "owner": "Mila Schmidt",
+    "due_date": "2026-09-08",
+    "priority": "Low",
+    "status": "Waiting",
+    "related_id": "EVT-0562"
+  },
+  {
+    "id": "TASK-0562",
+    "task": "Collect department highlights",
+    "workstream": "Intranet",
+    "owner": "Elias Schulz",
+    "due_date": "2026-09-13",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0563"
+  },
+  {
+    "id": "TASK-0563",
+    "task": "Approve event invitation",
+    "workstream": "Intranet",
+    "owner": "Zara Bauer",
+    "due_date": "2026-09-18",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0564"
+  },
+  {
+    "id": "TASK-0564",
+    "task": "Reconcile supplier invoice",
+    "workstream": "HR marketing",
+    "owner": "Luca Meyer",
+    "due_date": "2026-09-23",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0565"
+  },
+  {
+    "id": "TASK-0565",
+    "task": "Publish intranet announcement",
+    "workstream": "Governance",
+    "owner": "Freya Keller",
+    "due_date": "2026-09-28",
+    "priority": "High",
+    "status": "Done",
+    "related_id": "EVT-0566"
+  },
+  {
+    "id": "TASK-0566",
+    "task": "Prepare registration form",
+    "workstream": "Newsletter",
+    "owner": "Theo Becker",
+    "due_date": "2026-10-03",
+    "priority": "Low",
+    "status": "Done",
+    "related_id": "EVT-0567"
+  },
+  {
+    "id": "TASK-0567",
+    "task": "Confirm catering numbers",
+    "workstream": "Newsletter",
+    "owner": "Nina Braun",
+    "due_date": "2026-10-08",
+    "priority": "High",
+    "status": "Waiting",
+    "related_id": "EVT-0568"
+  },
+  {
+    "id": "TASK-0568",
+    "task": "Share post-event survey",
+    "workstream": "HR marketing",
+    "owner": "Ava Wagner",
+    "due_date": "2026-10-13",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0569"
+  },
+  {
+    "id": "TASK-0569",
+    "task": "Update HR information page",
+    "workstream": "Governance",
+    "owner": "Emil Neumann",
+    "due_date": "2026-10-18",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0570"
+  },
+  {
+    "id": "TASK-0570",
+    "task": "Check AV equipment",
+    "workstream": "Newsletter",
+    "owner": "Maya Fischer",
+    "due_date": "2026-10-23",
+    "priority": "High",
+    "status": "Waiting",
+    "related_id": "EVT-0571"
+  },
+  {
+    "id": "TASK-0571",
+    "task": "Prepare leadership talking points",
+    "workstream": "Internal event",
+    "owner": "Felix Wolf",
+    "due_date": "2026-10-28",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0572"
+  },
+  {
+    "id": "TASK-0572",
+    "task": "Send calendar hold",
+    "workstream": "Internal event",
+    "owner": "Ines Hoffmann",
+    "due_date": "2026-11-02",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0573"
+  },
+  {
+    "id": "TASK-0573",
+    "task": "Review careers brochure",
+    "workstream": "HR marketing",
+    "owner": "David Koch",
+    "due_date": "2026-11-07",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0574"
+  },
+  {
+    "id": "TASK-0574",
+    "task": "Request accessibility requirements",
+    "workstream": "Intranet",
+    "owner": "Clara Weber",
+    "due_date": "2026-11-12",
+    "priority": "Low",
+    "status": "Done",
+    "related_id": "EVT-0575"
+  },
+  {
+    "id": "TASK-0575",
+    "task": "Archive approved assets",
+    "workstream": "Internal event",
+    "owner": "Amira Richter",
+    "due_date": "2026-11-17",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0576"
+  },
+  {
+    "id": "TASK-0576",
+    "task": "Confirm venue availability",
+    "workstream": "HR marketing",
+    "owner": "Jonas Schmidt",
+    "due_date": "2026-11-22",
+    "priority": "High",
+    "status": "Waiting",
+    "related_id": "EVT-0577"
+  },
+  {
+    "id": "TASK-0577",
+    "task": "Review newsletter draft",
+    "workstream": "Intranet",
+    "owner": "Lea Schulz",
+    "due_date": "2026-11-27",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0578"
+  },
+  {
+    "id": "TASK-0578",
+    "task": "Collect department highlights",
+    "workstream": "Internal event",
+    "owner": "Mateo Bauer",
+    "due_date": "2026-12-02",
+    "priority": "Low",
+    "status": "Done",
+    "related_id": "EVT-0579"
+  },
+  {
+    "id": "TASK-0579",
+    "task": "Approve event invitation",
+    "workstream": "Newsletter",
+    "owner": "Sofia Meyer",
+    "due_date": "2026-12-07",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0580"
+  },
+  {
+    "id": "TASK-0580",
+    "task": "Reconcile supplier invoice",
+    "workstream": "Internal event",
+    "owner": "Noah Keller",
+    "due_date": "2026-12-12",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0581"
+  },
+  {
+    "id": "TASK-0581",
+    "task": "Publish intranet announcement",
+    "workstream": "Internal event",
+    "owner": "Mila Becker",
+    "due_date": "2026-12-17",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0582"
+  },
+  {
+    "id": "TASK-0582",
+    "task": "Prepare registration form",
+    "workstream": "Internal event",
+    "owner": "Elias Braun",
+    "due_date": "2026-12-22",
+    "priority": "Low",
+    "status": "Waiting",
+    "related_id": "EVT-0583"
+  },
+  {
+    "id": "TASK-0583",
+    "task": "Confirm catering numbers",
+    "workstream": "Internal event",
+    "owner": "Zara Wagner",
+    "due_date": "2026-12-27",
+    "priority": "High",
+    "status": "Waiting",
+    "related_id": "EVT-0584"
+  },
+  {
+    "id": "TASK-0584",
+    "task": "Share post-event survey",
+    "workstream": "Intranet",
+    "owner": "Luca Neumann",
+    "due_date": "2026-01-01",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0585"
+  },
+  {
+    "id": "TASK-0585",
+    "task": "Update HR information page",
+    "workstream": "Intranet",
+    "owner": "Freya Fischer",
+    "due_date": "2026-01-06",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0586"
+  },
+  {
+    "id": "TASK-0586",
+    "task": "Check AV equipment",
+    "workstream": "HR marketing",
+    "owner": "Theo Wolf",
+    "due_date": "2026-01-11",
+    "priority": "High",
+    "status": "To do",
+    "related_id": "EVT-0587"
+  },
+  {
+    "id": "TASK-0587",
+    "task": "Prepare leadership talking points",
+    "workstream": "Governance",
+    "owner": "Nina Hoffmann",
+    "due_date": "2026-01-16",
+    "priority": "High",
+    "status": "Waiting",
+    "related_id": "EVT-0588"
+  },
+  {
+    "id": "TASK-0588",
+    "task": "Send calendar hold",
+    "workstream": "HR marketing",
+    "owner": "Ava Koch",
+    "due_date": "2026-01-21",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0589"
+  },
+  {
+    "id": "TASK-0589",
+    "task": "Review careers brochure",
+    "workstream": "Intranet",
+    "owner": "Emil Weber",
+    "due_date": "2026-01-26",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0590"
+  },
+  {
+    "id": "TASK-0590",
+    "task": "Request accessibility requirements",
+    "workstream": "Intranet",
+    "owner": "Maya Richter",
+    "due_date": "2026-01-31",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0591"
+  },
+  {
+    "id": "TASK-0591",
+    "task": "Archive approved assets",
+    "workstream": "Newsletter",
+    "owner": "Felix Schmidt",
+    "due_date": "2026-02-05",
+    "priority": "Low",
+    "status": "Done",
+    "related_id": "EVT-0592"
+  },
+  {
+    "id": "TASK-0592",
+    "task": "Confirm venue availability",
+    "workstream": "Newsletter",
+    "owner": "Ines Schulz",
+    "due_date": "2026-02-10",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0593"
+  },
+  {
+    "id": "TASK-0593",
+    "task": "Review newsletter draft",
+    "workstream": "HR marketing",
+    "owner": "David Bauer",
+    "due_date": "2026-02-15",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0594"
+  },
+  {
+    "id": "TASK-0594",
+    "task": "Collect department highlights",
+    "workstream": "Newsletter",
+    "owner": "Clara Meyer",
+    "due_date": "2026-02-20",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0595"
+  },
+  {
+    "id": "TASK-0595",
+    "task": "Approve event invitation",
+    "workstream": "Internal event",
+    "owner": "Amira Keller",
+    "due_date": "2026-02-25",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0596"
+  },
+  {
+    "id": "TASK-0596",
+    "task": "Reconcile supplier invoice",
+    "workstream": "HR marketing",
+    "owner": "Jonas Becker",
+    "due_date": "2026-03-02",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0597"
+  },
+  {
+    "id": "TASK-0597",
+    "task": "Publish intranet announcement",
+    "workstream": "Governance",
+    "owner": "Lea Braun",
+    "due_date": "2026-03-07",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0598"
+  },
+  {
+    "id": "TASK-0598",
+    "task": "Prepare registration form",
+    "workstream": "Internal event",
+    "owner": "Mateo Wagner",
+    "due_date": "2026-03-12",
+    "priority": "High",
+    "status": "To do",
+    "related_id": "EVT-0599"
+  },
+  {
+    "id": "TASK-0599",
+    "task": "Confirm catering numbers",
+    "workstream": "HR marketing",
+    "owner": "Sofia Neumann",
+    "due_date": "2026-03-17",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0600"
+  },
+  {
+    "id": "TASK-0600",
+    "task": "Share post-event survey",
+    "workstream": "Governance",
+    "owner": "Noah Fischer",
+    "due_date": "2026-03-22",
+    "priority": "High",
+    "status": "Done",
+    "related_id": "EVT-0601"
+  },
+  {
+    "id": "TASK-0601",
+    "task": "Update HR information page",
+    "workstream": "Governance",
+    "owner": "Mila Wolf",
+    "due_date": "2026-03-27",
+    "priority": "Low",
+    "status": "Waiting",
+    "related_id": "EVT-0602"
+  },
+  {
+    "id": "TASK-0602",
+    "task": "Check AV equipment",
+    "workstream": "Internal event",
+    "owner": "Elias Hoffmann",
+    "due_date": "2026-04-01",
+    "priority": "High",
+    "status": "To do",
+    "related_id": "EVT-0603"
+  },
+  {
+    "id": "TASK-0603",
+    "task": "Prepare leadership talking points",
+    "workstream": "Intranet",
+    "owner": "Zara Koch",
+    "due_date": "2026-04-06",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0604"
+  },
+  {
+    "id": "TASK-0604",
+    "task": "Send calendar hold",
+    "workstream": "Intranet",
+    "owner": "Luca Weber",
+    "due_date": "2026-04-11",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0605"
+  },
+  {
+    "id": "TASK-0605",
+    "task": "Review careers brochure",
+    "workstream": "Internal event",
+    "owner": "Freya Richter",
+    "due_date": "2026-04-16",
+    "priority": "High",
+    "status": "To do",
+    "related_id": "EVT-0606"
+  },
+  {
+    "id": "TASK-0606",
+    "task": "Request accessibility requirements",
+    "workstream": "Intranet",
+    "owner": "Theo Schmidt",
+    "due_date": "2026-04-21",
+    "priority": "Low",
+    "status": "To do",
+    "related_id": "EVT-0607"
+  },
+  {
+    "id": "TASK-0607",
+    "task": "Archive approved assets",
+    "workstream": "HR marketing",
+    "owner": "Nina Schulz",
+    "due_date": "2026-04-26",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0608"
+  },
+  {
+    "id": "TASK-0608",
+    "task": "Confirm venue availability",
+    "workstream": "Intranet",
+    "owner": "Ava Bauer",
+    "due_date": "2026-05-01",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0609"
+  },
+  {
+    "id": "TASK-0609",
+    "task": "Review newsletter draft",
+    "workstream": "Internal event",
+    "owner": "Emil Meyer",
+    "due_date": "2026-05-06",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0610"
+  },
+  {
+    "id": "TASK-0610",
+    "task": "Collect department highlights",
+    "workstream": "HR marketing",
+    "owner": "Maya Keller",
+    "due_date": "2026-05-11",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0611"
+  },
+  {
+    "id": "TASK-0611",
+    "task": "Approve event invitation",
+    "workstream": "Intranet",
+    "owner": "Felix Becker",
+    "due_date": "2026-05-16",
+    "priority": "Low",
+    "status": "Waiting",
+    "related_id": "EVT-0612"
+  },
+  {
+    "id": "TASK-0612",
+    "task": "Reconcile supplier invoice",
+    "workstream": "HR marketing",
+    "owner": "Ines Braun",
+    "due_date": "2026-05-21",
+    "priority": "Low",
+    "status": "Waiting",
+    "related_id": "EVT-0613"
+  },
+  {
+    "id": "TASK-0613",
+    "task": "Publish intranet announcement",
+    "workstream": "Governance",
+    "owner": "David Wagner",
+    "due_date": "2026-05-26",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0614"
+  },
+  {
+    "id": "TASK-0614",
+    "task": "Prepare registration form",
+    "workstream": "Governance",
+    "owner": "Clara Neumann",
+    "due_date": "2026-05-31",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0615"
+  },
+  {
+    "id": "TASK-0615",
+    "task": "Confirm catering numbers",
+    "workstream": "Newsletter",
+    "owner": "Amira Fischer",
+    "due_date": "2026-06-05",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0616"
+  },
+  {
+    "id": "TASK-0616",
+    "task": "Share post-event survey",
+    "workstream": "Newsletter",
+    "owner": "Jonas Wolf",
+    "due_date": "2026-06-10",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0617"
+  },
+  {
+    "id": "TASK-0617",
+    "task": "Update HR information page",
+    "workstream": "Governance",
+    "owner": "Lea Hoffmann",
+    "due_date": "2026-06-15",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0618"
+  },
+  {
+    "id": "TASK-0618",
+    "task": "Check AV equipment",
+    "workstream": "HR marketing",
+    "owner": "Mateo Koch",
+    "due_date": "2026-06-20",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0619"
+  },
+  {
+    "id": "TASK-0619",
+    "task": "Prepare leadership talking points",
+    "workstream": "Internal event",
+    "owner": "Sofia Weber",
+    "due_date": "2026-06-25",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0620"
+  },
+  {
+    "id": "TASK-0620",
+    "task": "Send calendar hold",
+    "workstream": "Newsletter",
+    "owner": "Noah Richter",
+    "due_date": "2026-06-30",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0621"
+  },
+  {
+    "id": "TASK-0621",
+    "task": "Review careers brochure",
+    "workstream": "HR marketing",
+    "owner": "Mila Schmidt",
+    "due_date": "2026-07-05",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0622"
+  },
+  {
+    "id": "TASK-0622",
+    "task": "Request accessibility requirements",
+    "workstream": "Internal event",
+    "owner": "Elias Schulz",
+    "due_date": "2026-07-10",
+    "priority": "High",
+    "status": "Done",
+    "related_id": "EVT-0623"
+  },
+  {
+    "id": "TASK-0623",
+    "task": "Archive approved assets",
+    "workstream": "Governance",
+    "owner": "Zara Bauer",
+    "due_date": "2026-07-15",
+    "priority": "Low",
+    "status": "To do",
+    "related_id": "EVT-0624"
+  },
+  {
+    "id": "TASK-0624",
+    "task": "Confirm venue availability",
+    "workstream": "Intranet",
+    "owner": "Luca Meyer",
+    "due_date": "2026-07-20",
+    "priority": "High",
+    "status": "Done",
+    "related_id": "EVT-0625"
+  },
+  {
+    "id": "TASK-0625",
+    "task": "Review newsletter draft",
+    "workstream": "Governance",
+    "owner": "Freya Keller",
+    "due_date": "2026-07-25",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0626"
+  },
+  {
+    "id": "TASK-0626",
+    "task": "Collect department highlights",
+    "workstream": "Intranet",
+    "owner": "Theo Becker",
+    "due_date": "2026-07-30",
+    "priority": "Low",
+    "status": "Done",
+    "related_id": "EVT-0627"
+  },
+  {
+    "id": "TASK-0627",
+    "task": "Approve event invitation",
+    "workstream": "Newsletter",
+    "owner": "Nina Braun",
+    "due_date": "2026-08-04",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0628"
+  },
+  {
+    "id": "TASK-0628",
+    "task": "Reconcile supplier invoice",
+    "workstream": "Intranet",
+    "owner": "Ava Wagner",
+    "due_date": "2026-08-09",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0629"
+  },
+  {
+    "id": "TASK-0629",
+    "task": "Publish intranet announcement",
+    "workstream": "Internal event",
+    "owner": "Emil Neumann",
+    "due_date": "2026-08-14",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0630"
+  },
+  {
+    "id": "TASK-0630",
+    "task": "Prepare registration form",
+    "workstream": "HR marketing",
+    "owner": "Maya Fischer",
+    "due_date": "2026-08-19",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0631"
+  },
+  {
+    "id": "TASK-0631",
+    "task": "Confirm catering numbers",
+    "workstream": "HR marketing",
+    "owner": "Felix Wolf",
+    "due_date": "2026-08-24",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0632"
+  },
+  {
+    "id": "TASK-0632",
+    "task": "Share post-event survey",
+    "workstream": "HR marketing",
+    "owner": "Ines Hoffmann",
+    "due_date": "2026-08-29",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0633"
+  },
+  {
+    "id": "TASK-0633",
+    "task": "Update HR information page",
+    "workstream": "Governance",
+    "owner": "David Koch",
+    "due_date": "2026-09-03",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0634"
+  },
+  {
+    "id": "TASK-0634",
+    "task": "Check AV equipment",
+    "workstream": "Intranet",
+    "owner": "Clara Weber",
+    "due_date": "2026-09-08",
+    "priority": "Normal",
+    "status": "Waiting",
+    "related_id": "EVT-0635"
+  },
+  {
+    "id": "TASK-0635",
+    "task": "Prepare leadership talking points",
+    "workstream": "HR marketing",
+    "owner": "Amira Richter",
+    "due_date": "2026-09-13",
+    "priority": "Low",
+    "status": "To do",
+    "related_id": "EVT-0636"
+  },
+  {
+    "id": "TASK-0636",
+    "task": "Send calendar hold",
+    "workstream": "Newsletter",
+    "owner": "Jonas Schmidt",
+    "due_date": "2026-09-18",
+    "priority": "High",
+    "status": "Done",
+    "related_id": "EVT-0637"
+  },
+  {
+    "id": "TASK-0637",
+    "task": "Review careers brochure",
+    "workstream": "HR marketing",
+    "owner": "Lea Schulz",
+    "due_date": "2026-09-23",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0638"
+  },
+  {
+    "id": "TASK-0638",
+    "task": "Request accessibility requirements",
+    "workstream": "Governance",
+    "owner": "Mateo Bauer",
+    "due_date": "2026-09-28",
+    "priority": "High",
+    "status": "To do",
+    "related_id": "EVT-0639"
+  },
+  {
+    "id": "TASK-0639",
+    "task": "Archive approved assets",
+    "workstream": "Intranet",
+    "owner": "Sofia Meyer",
+    "due_date": "2026-10-03",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0640"
+  },
+  {
+    "id": "TASK-0640",
+    "task": "Confirm venue availability",
+    "workstream": "Internal event",
+    "owner": "Noah Keller",
+    "due_date": "2026-10-08",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0641"
+  },
+  {
+    "id": "TASK-0641",
+    "task": "Review newsletter draft",
+    "workstream": "Intranet",
+    "owner": "Mila Becker",
+    "due_date": "2026-10-13",
+    "priority": "Normal",
+    "status": "Done",
+    "related_id": "EVT-0642"
+  },
+  {
+    "id": "TASK-0642",
+    "task": "Collect department highlights",
+    "workstream": "Newsletter",
+    "owner": "Elias Braun",
+    "due_date": "2026-10-18",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0643"
+  },
+  {
+    "id": "TASK-0643",
+    "task": "Approve event invitation",
+    "workstream": "Internal event",
+    "owner": "Zara Wagner",
+    "due_date": "2026-10-23",
+    "priority": "High",
+    "status": "Done",
+    "related_id": "EVT-0644"
+  },
+  {
+    "id": "TASK-0644",
+    "task": "Reconcile supplier invoice",
+    "workstream": "Internal event",
+    "owner": "Luca Neumann",
+    "due_date": "2026-10-28",
+    "priority": "High",
+    "status": "In progress",
+    "related_id": "EVT-0645"
+  },
+  {
+    "id": "TASK-0645",
+    "task": "Publish intranet announcement",
+    "workstream": "HR marketing",
+    "owner": "Freya Fischer",
+    "due_date": "2026-11-02",
+    "priority": "Low",
+    "status": "Done",
+    "related_id": "EVT-0646"
+  },
+  {
+    "id": "TASK-0646",
+    "task": "Prepare registration form",
+    "workstream": "HR marketing",
+    "owner": "Theo Wolf",
+    "due_date": "2026-11-07",
+    "priority": "Normal",
+    "status": "In progress",
+    "related_id": "EVT-0647"
+  },
+  {
+    "id": "TASK-0647",
+    "task": "Confirm catering numbers",
+    "workstream": "Newsletter",
+    "owner": "Nina Hoffmann",
+    "due_date": "2026-11-12",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0648"
+  },
+  {
+    "id": "TASK-0648",
+    "task": "Share post-event survey",
+    "workstream": "Newsletter",
+    "owner": "Ava Koch",
+    "due_date": "2026-11-17",
+    "priority": "Low",
+    "status": "Done",
+    "related_id": "EVT-0649"
+  },
+  {
+    "id": "TASK-0649",
+    "task": "Update HR information page",
+    "workstream": "Newsletter",
+    "owner": "Emil Weber",
+    "due_date": "2026-11-22",
+    "priority": "Low",
+    "status": "In progress",
+    "related_id": "EVT-0650"
+  },
+  {
+    "id": "TASK-0650",
+    "task": "Check AV equipment",
+    "workstream": "Intranet",
+    "owner": "Maya Richter",
+    "due_date": "2026-11-27",
+    "priority": "Normal",
+    "status": "To do",
+    "related_id": "EVT-0001"
+  }
+]
